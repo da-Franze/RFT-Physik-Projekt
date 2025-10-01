@@ -1,0 +1,23 @@
+# Jekyll Build-Dateien
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Editor-Dateien
+.vscode/
+.idea/
+*.swp
+
+# Persönliche Notizen (nicht veröffentlichen)
+notizen/
+entwuerfe/
+privat/
