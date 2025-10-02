@@ -1,6 +1,8 @@
 # Author Profile / Autorenprofil
 [🇬🇧 English](#english) | [🇩🇪 Deutsch](#deutsch)
 
+---
+
 🇬🇧 English {#english}
 About the Author
 Franz Zollner, born 1969, is a graduate engineer in physics (Diplom-Physikingenieur) with an initial training as an automotive mechanic. He completed his studies at the University of Paderborn and worked in:
