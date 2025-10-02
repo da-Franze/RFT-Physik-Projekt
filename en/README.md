@@ -1,3 +1,5 @@
+![RFT Logo](../assets/images/logo.png)
+
 # Resonance Field Theory (RFT)
 
 [🏠 Home](../) | [🇩🇪 Deutsche Version](../de/)
