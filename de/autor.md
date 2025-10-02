@@ -6,7 +6,9 @@
 Franz Zollner, Jahrgang 1969, ist Diplom-Physikingenieur mit einer ursprünglichen Ausbildung als Kfz-Mechaniker. Er absolvierte sein Studium an der Gesamthochschule Paderborn und arbeitete unter anderem in der:
 
 🦿 Beinprothetik
+
 💳 Chipkartenentwicklung
+
 🔬 Halbleiter-Backend (Infineon Technologies)
 
 Die Resonanzfeldtheorie (RFT) ist das Ergebnis jahrelanger Eigenforschung, getrieben durch ein tiefes Interesse an:
@@ -22,8 +24,14 @@ Dieses Projekt wurde in transparenter Zusammenarbeit mit mehreren KI-Systemen en
 Wesentliche Beiträge stammen von:
 
 ChatGPT (Version 4o, OpenAI) - Mathematische Formalisierung & Simulationen
+
 Gemini 2.5 (Google DeepMind) - Theoretische Validierung & Diskussionen
+
 Claude (Anthropic) - Dokumentation & Strukturierung
+
+DeepSeek (Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd.) - Mathematische Formalisierung & Theoretische Validierung
+
+Mistral (Mistral AI SAS) - Diskussionen
 
 Die theoretischen Grundlagen, Hypothesen und Kernideen stammen jedoch vollständig vom Autor. Die KI-Systeme dienten als Werkzeuge zur Formalisierung, Validierung und Präsentation der Theorie.
 
