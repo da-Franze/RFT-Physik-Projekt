@@ -15,7 +15,7 @@ Die Resonanzfeldtheorie (RFT) ist ein fundamentalphysikalischer Ansatz zur Besch
 
 ---
 
-## 📚 Dokumentation
+## 📚 Dokumentation -> befindet sich im Aufbau, die Nummerierung und die Themen werden noch angepasst!
 
 ### Grundlagen
 - [RFT_01: Spin-Quantisierung](docs/RFT_01.md)
