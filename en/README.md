@@ -1,6 +1,6 @@
 # Resonance Field Theory (RFT)
 
-[🇩🇪 Deutsche Version](../de/) | [🏠 Home](../)
+[🏠 Home](../) | [🇩🇪 Deutsche Version](../de/)
 
 ---
 
