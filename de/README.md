@@ -41,3 +41,11 @@ Die Resonanzfeldtheorie (RFT) ist ein fundamentalphysikalischer Ansatz zur Besch
 ---
 
 ## 📖 Zitation
+
+---
+
+## 📜 Lizenz
+
+© 2025 RFT-Physik-Projekt. Alle Rechte vorbehalten.
+
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
