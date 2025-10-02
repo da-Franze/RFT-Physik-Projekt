@@ -41,3 +41,11 @@ Resonance Field Theory (RFT) is a fundamental physics approach describing:
 ---
 
 ## 📖 Citation
+
+---
+
+## 📜 License
+
+© 2025 RFT-Physik-Projekt. All rights reserved.
+
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
