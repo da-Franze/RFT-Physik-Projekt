@@ -1,6 +1,8 @@
 # Autorenprofil / Author Profile
 [🇩🇪 Deutsch](#deutsch) | [🇬🇧 English](#english)
 
+---
+
 🇩🇪 Deutsch {#deutsch}
 Über den Autor
 Franz Zollner, Jahrgang 1969, ist Diplom-Physikingenieur mit einer ursprünglichen Ausbildung als Kfz-Mechaniker. Er absolvierte sein Studium an der Gesamthochschule Paderborn und arbeitete unter anderem in der:
