@@ -1,5 +1,5 @@
 # Autorenprofil / Author Profile
-🇩🇪 Deutsch | 🇬🇧 English
+[🇩🇪 Deutsch](#deutsch) | [🇬🇧 English](#english)
 
 🇩🇪 Deutsch {#deutsch}
 Über den Autor
