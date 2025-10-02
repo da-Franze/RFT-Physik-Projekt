@@ -1,4 +1,4 @@
-Autorenprofil / Author Profile
+# Autorenprofil / Author Profile
 🇩🇪 Deutsch | 🇬🇧 English
 
 🇩🇪 Deutsch {#deutsch}
@@ -30,16 +30,24 @@ Die theoretischen Grundlagen, Hypothesen und Kernideen stammen jedoch vollständ
 📧 Kontakt
 Email: rft.projekt@posteo.de
 
+---
+
+Wenn dir diese Theorie gefällt und du mich bei der Finanzierung der weiteren Entwicklung unterstützen möchtest, freue ich mich über eine freiwillige Spende:
+
 🙏 Unterstütze das RFT-Projekt
+##### 1. Ko-fi (einfach & schnell)
+[![Unterstütze auf Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rftprojekt)
+
+##### 2. PayPal (direkt)
+[![PayPal Spende](https://img.shields.io/badge/PayPal-Spenden-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/rftprojekt)
+
+**Link:** [paypal.me/rftprojekt](https://www.paypal.me/rftprojekt)
+
 Die Entwicklung der Resonanzfeldtheorie erfordert erhebliche Ressourcen:
 
 💰 KI-API-Kosten für fortgeschrittene Simulationen und Analysen
 📚 Literatur und Fachdatenbanken für wissenschaftliche Recherche
 🖥️ Rechenzeit für numerische Berechnungen
 🌐 Hosting und Infrastruktur für die öffentliche Dokumentation
-
-Wenn dir diese Theorie gefällt und du mich bei der Finanzierung der weiteren Entwicklung unterstützen möchtest, freue ich mich über eine freiwillige Spende:
-
-Oder via PayPal: paypal.me/rftprojekt
 
 © 2025 Franz Zollner - RFT-Physik-Projekt
