@@ -39,6 +39,7 @@ Die Entwicklung der Resonanzfeldtheorie erfordert erhebliche Ressourcen:
 🌐 Hosting und Infrastruktur für die öffentliche Dokumentation
 
 Wenn dir diese Theorie gefällt und du mich bei der Finanzierung der weiteren Entwicklung unterstützen möchtest, freue ich mich über eine freiwillige Spende:
-💶 Banküberweisung (SEPA)
+
+Oder via PayPal: paypal.me/rftprojekt
 
 © 2025 Franz Zollner - RFT-Physik-Projekt
