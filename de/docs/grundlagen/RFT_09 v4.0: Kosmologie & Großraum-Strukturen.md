@@ -1,10 +1,5 @@
 # RFT_09 v4.0: Kosmologie & Großraum-Strukturen - ERWEITERT
 
-**Ein vollständiges Lehrbuch der Resonanzfeldtheorie**  
-*Eigenständig lesbar - Integration von RFT_31*
-
-**VERSION 4.0** - Erweitert um Kapitel 10: Die Grenzen des Universums
-
 ---
 
 ## Inhaltsverzeichnis
