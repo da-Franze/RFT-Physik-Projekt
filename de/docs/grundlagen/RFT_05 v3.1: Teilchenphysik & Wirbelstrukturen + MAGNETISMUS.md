@@ -1,8 +1,5 @@
 # RFT_05 v3.1: Teilchenphysik & Wirbelstrukturen
 
-**Ein vollständiges Lehrbuch der Resonanzfeldtheorie**  
-*Eigenständig lesbar - Keine Querverweise erforderlich*  
-
 ---
 
 ## Inhaltsverzeichnis
