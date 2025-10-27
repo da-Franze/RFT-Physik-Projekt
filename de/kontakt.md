@@ -85,7 +85,6 @@ Aufgrund meiner **Vollzeitbeschäftigung als Prozessingenieur bei Infineon Techn
 ### Angaben gemäß § 5 TMG:
 **Franz Zollner**  
 RFT-Physik-Projekt  
-*[Deine Adresse hier einfügen - optional]*
 
 ### Kontakt:
 **Email:** [rft.projekt@posteo.de](mailto:rft.projekt@posteo.de)  
