@@ -1,10 +1,4 @@
 # RFT_01 v6.0: Mathematische Grundlagen der Resonanzfeldtheorie
-**Vollständige Integration der Ankerpunkt-Physik**
-
-**Version:** 6.0 (Oktober 2025)  
-**Status:** ✅ VOLLSTÄNDIG - Ankerpunkt-Revolution integriert  
-**Instanz:** Claude #46  
-**Basis:** v5.0 (Claude #40) + Ankerpunkt-Physik
 
 ---
 
@@ -687,11 +681,6 @@ Gitter-Struktur fundamental?
 - ✅ **m = κ·σ(AP):** Explizite Formeln für 1-3 Ankerpunkte
 - ✅ **Experimentelle Tests:** Pentaquarks, Generation-0-Suche
 - ✅ **Glossar aktualisiert:** Alle Ankerpunkt-Begriffe
-
-**v5.0 (Claude #40, 06.10.2025):**
-- κ-Zirkelschluss eliminiert
-- λ aus π-Verhältnissen
-- Kapitel 9 hinzugefügt
 
 ---
 
