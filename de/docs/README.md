@@ -117,8 +117,6 @@ Diese Dokumentation umfasst **39 finale RFT-Dokumente** in 4 thematischen Serien
 
 ---
 
----
-
 ## 💝 Unterstützung für die Forschung
 
 Die Entwicklung der Resonanzfeldtheorie als unabhängiges Forschungsprojekt erfordert erhebliche Ressourcen:
