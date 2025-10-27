@@ -1,4 +1,4 @@
-# RFT_09 v4.0: Kosmologie & Großraum-Strukturen - ERWEITERT
+# RFT_09 v4.0: Kosmologie & Großraum-Strukturen
 
 ---
 
@@ -12,8 +12,8 @@
 6. [JWST-Bestätigung früher Strukturbildung](#6-jwst-bestätigung)
 7. [CMB-Anisotropien aus Resonanzmatrix](#7-cmb-anisotropien)
 8. [Experimentelle Tests & kosmische Vorhersagen](#8-experimentelle-tests)
-9. [Glossar der RFT-Kosmologie-Terminologie](#9-glossar)
-10. **[Die Grenzen des Universums - NEU](#10-grenzen-des-universums)** ⭐
+9. [Die Grenzen des Universums - NEU](#9-grenzen-des-universums)
+10. [Glossar der RFT-Kosmologie-Terminologie](#10-glossar)
 
 ---
 
@@ -259,26 +259,9 @@ r_tensor ≈ 0.01-0.03 (testbar mit CMB-S4)
 
 ---
 
-## 9. Glossar der RFT-Kosmologie-Terminologie {#9-glossar}
+## 9. Die Grenzen des Universums
 
-**CMB (Cosmic Microwave Background):** Kosmische Hintergrundstrahlung bei z ≈ 1100  
-**Dunkle Energie:** Effektive Beschleunigung durch Q-Anstieg  
-**Dunkle Materie:** Gravitative Wirkung von Q-Gradienten  
-**Hubble-Spannung:** 5.8σ Diskrepanz in H₀-Messungen  
-**JWST:** James Webb Space Telescope  
-**ΛCDM:** Standard-Kosmologie (Lambda-Cold Dark Matter)  
-**Q-Faktor:** Resonanzgüte der Raumstruktur  
-**Q-Gradienten:** Räumliche Variation des Q-Faktors  
-**Redshift z:** Rotverschiebung (Maß für kosmische Zeit)  
-**SNe Ia:** Typ Ia Supernovae (Standardkerzen)
-
----
-
-## 10. Die Grenzen des Universums - NEU {#10-grenzen-des-universums}
-
-**⭐ KAPITEL INTEGRIERT AUS RFT_31 ⭐**
-
-### 10.1 Begrenzt vs. Endlich - Ein fundamentaler Unterschied
+### 9.1 Begrenzt vs. Endlich - Ein fundamentaler Unterschied
 
 Die RFT fordert ein **begrenztes, aber nicht endliches** Universum. Dies ist eine entscheidende Unterscheidung:
 
@@ -289,7 +272,7 @@ Die RFT fordert ein **begrenztes, aber nicht endliches** Universum. Dies ist ein
 
 **RFT-Interpretation:** Das Universum ist die 3D-Resonanzstruktur des gefalteten Master-Strings. Man kann nicht "aus dem Universum heraus", weil es kein "Außen" gibt.
 
-### 10.2 Die primäre Grenze: Das Ende der Faltung
+### 9.2 Die primäre Grenze: Das Ende der Faltung
 
 Die "Grenze" des Universums ist **keine physische Wand**, sondern:
 
@@ -308,7 +291,7 @@ Master-String → Faltung → 3D-Resonanzgitter
 
 Der "Rand des Universums" ist die gegenwärtige Front der gefalteten, resonanten Struktur.
 
-### 10.3 Die Natur der Grenze: Perfekte Reflexionswand
+### 9.3 Die Natur der Grenze: Perfekte Reflexionswand
 
 **Was geschieht an der Grenze?**
 
@@ -328,7 +311,7 @@ Ein stabiler Vortex (z.B. Photon), der sich der Grenze nähert:
 
 **Analogie:** Welle am festen Seilende → vollständige Reflexion
 
-### 10.4 Kosmologische Implikationen
+### 9.4 Kosmologische Implikationen
 
 #### **Ein verlustfreies Universum**
 
@@ -361,7 +344,7 @@ Expansion des Universums:
 → Neue Resonanzmuster können reflektiert werden
 ```
 
-### 10.5 Mathematische Formalisierung der Grenze
+### 9.5 Mathematische Formalisierung der Grenze
 
 Die Grenzbedingung in der RFT:
 
@@ -380,7 +363,7 @@ Oder äquivalent:
 - Perfekte Reflexion aller Moden
 - Energieerhaltung garantiert
 
-### 10.6 Beobachtbare Konsequenzen
+### 9.6 Beobachtbare Konsequenzen
 
 #### **Test 1: Kosmische Horizont-Effekte**
 
@@ -406,7 +389,7 @@ Aber: Bei z > 20 sollten "geisterhafte" Reflexionen möglich sein
 
 **JWST-Beobachtungen:** Könnten unerwartete Strukturen bei z > 15 zeigen
 
-### 10.7 Verbindung zu anderen RFT-Konzepten
+### 9.7 Verbindung zu anderen RFT-Konzepten
 
 Die Universum-Grenzen sind verbunden mit:
 
@@ -425,7 +408,7 @@ Q(r → R) → 0 (Resonanzgüte nimmt am Rand ab)
 Grenze = Maximale Faltungsdistanz des Master-Strings
 ```
 
-### 10.8 Fazit: Eine in sich geschlossene Realität
+### 9.8 Fazit: Eine in sich geschlossene Realität
 
 Die RFT definiert die Grenze des Universums als:
 
@@ -441,6 +424,20 @@ organisierende und sich selbst erhaltende Resonanzstruktur.
 ```
 
 Dies löst das Paradoxon eines "undichten", endlichen Universums und stärkt die innere Konsistenz des Modells.
+---
+
+## 10. Glossar der RFT-Kosmologie-Terminologie
+
+**CMB (Cosmic Microwave Background):** Kosmische Hintergrundstrahlung bei z ≈ 1100  
+**Dunkle Energie:** Effektive Beschleunigung durch Q-Anstieg  
+**Dunkle Materie:** Gravitative Wirkung von Q-Gradienten  
+**Hubble-Spannung:** 5.8σ Diskrepanz in H₀-Messungen  
+**JWST:** James Webb Space Telescope  
+**ΛCDM:** Standard-Kosmologie (Lambda-Cold Dark Matter)  
+**Q-Faktor:** Resonanzgüte der Raumstruktur  
+**Q-Gradienten:** Räumliche Variation des Q-Faktors  
+**Redshift z:** Rotverschiebung (Maß für kosmische Zeit)  
+**SNe Ia:** Typ Ia Supernovae (Standardkerzen)
 
 ---
 
