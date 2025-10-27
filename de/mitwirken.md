@@ -72,10 +72,6 @@ Die Entwicklung der RFT erfordert erhebliche Ressourcen:
 
 ---
 
-**Für IBAN-Details auch per Email:** rft.projekt@posteo.de
-
----
-
 #### 🎁 Was Ihre Spende bewirkt
 
 | Betrag | Ermöglicht |
