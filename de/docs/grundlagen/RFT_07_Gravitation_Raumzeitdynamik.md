@@ -1,8 +1,5 @@
 # RFT_07: Gravitation & Raumzeit-Dynamik
 
-**Ein vollständiges Lehrbuch der Resonanzfeldtheorie**  
-*Eigenständig lesbar - Keine Querverweise erforderlich*
-
 ---
 
 ## Inhaltsverzeichnis
