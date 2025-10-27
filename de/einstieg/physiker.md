@@ -12,6 +12,23 @@ Hier findest du die formale Struktur, Ableitungen und den mathematischen Apparat
 
 ---
 
+## 🎯 Wichtige konzeptuelle Klarstellung
+
+### Das RFT-Raumfeld vs. historische Äther-Konzepte
+
+Die RFT postuliert ein dynamisches Raumfeld, das sich **fundamental vom klassischen Äther-Begriff** unterscheidet:
+
+| Aspekt | Klassischer Äther (19. Jh.) | RFT-Raumfeld |
+|--------|----------------------------|--------------|
+| **Natur** | Passives Medium *im* Raum | Aktiver Raum *selbst* |
+| **Bezugssystem** | Absolutes Ruhesystem | Relational, kein bevorzugtes System |
+| **Rolle** | Träger für Wellen | Quelle von Raumzeit und Materie |
+| **Dynamik** | Statisch | Selbstorganisierend, dynamisch |
+
+**Kernunterscheidung:** Während Äther-Modelle ein **Medium in einem absoluten Raum** beschrieben, ist das RFT-Raumfeld der **generierende Mechanismus der Raumzeit selbst**.
+
+---
+
 ## 📐 Mathematische Grundstruktur
 
 ### Das Raumgitter-Modell
@@ -62,6 +79,22 @@ Q = \frac{f_r}{\Delta f} = \frac{\text{Resonanzfrequenz}}{\text{Bandbreite}}
 **Physikalische Bedeutung:** Materie-Formation bei maximalem Q-Faktor.
 
 **[→ Zu Energie-Formeln (RFT_37)](../docs/energie-thermodynamik/RFT_37.md)**
+
+---
+
+## 🔬 Korrespondenz zu etablierten Theorien
+
+### Allgemeine Relativitätstheorie
+- **ART:** Beschreibt Raumzeit-Krümmung durch \( g_{\mu\nu} \)
+- **RFT:** Liefert mechanistische Erklärung als **Gitter-Verspannung**
+- **Korrespondenz:** \( g_{\mu\nu} \) emergiert aus Felddynamik im makroskopischen Limes
+
+### Spezielle Relativitätstheorie  
+- **SRT:** Konstante Lichtgeschwindigkeit als Axiom
+- **RFT:** \( c \) als maximale Ausbreitungsgeschwindigkeit im Resonanzfeld
+- **Begründung:** Alle Beobachter sind Teile des Feldes → messen gleiches \( c \)
+
+**[→ Zum Raumfeld-Konzept (RFT_45)](../docs/fortgeschritten/RFT_45.md)**
 
 ---
 
