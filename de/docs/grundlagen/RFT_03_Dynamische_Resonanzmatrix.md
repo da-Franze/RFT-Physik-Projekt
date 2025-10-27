@@ -1,7 +1,5 @@
 # RFT_03: Dynamische Resonanzmatrix & Raumstruktur
 
-**Ein vollständiges Lehrbuch der fundamentalen Raumzeitarchitektur**
-
 ---
 
 ## Kapitelübersicht
