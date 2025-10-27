@@ -6,7 +6,7 @@
 
 ## 🎯 Überblick
 
-Diese Dokumentation umfasst **39 finale RFT-Dokumente** in 4 thematischen Serien. Alle Dokumente sind **vollständig überarbeitet und konsolidiert** (Version v2.0 - v6.0).
+Diese Dokumentation umfasst **42 RFT-Dokumente** in 4 thematischen Serien. Aktuell sind **10 Grundlagen-Dokumente online**, weitere folgen in den kommenden Monaten.
 
 **Stand: Oktober 2025**
 
@@ -14,106 +14,106 @@ Diese Dokumentation umfasst **39 finale RFT-Dokumente** in 4 thematischen Serien
 
 ## 📖 Dokumente nach Thematischen Serien
 
-### 1. 🏗️ GRUNDLAGEN-SERIE (RFT_01-10)
+### 1. 🏗️ GRUNDLAGEN-SERIE (RFT_01-10) - ✅ KOMPLETT ONLINE
 **Fundamentale Konzepte und mathematische Basis**
 
 | Dokument | Titel | Version | Status |
 |----------|-------|---------|--------|
-| [RFT_01](../docs/grundlagen/RFT_01_v6_0__Mathematische_Grundlagen_mit_Ankerpunkt-Physik.md) | Mathematische Grundlagen mit Ankerpunkt-Physik | v6.0 | ✅ Final |
-| [RFT_02](../docs/grundlagen/RFT_02__Spin-Quantisierung___Universums-Entstehung.md) | Spin-Quantisierung & Universums-Entstehung | v4.0 | ✅ Final |
-| [RFT_04](../docs/grundlagen/RFT_04_v4_1__Kalte_Kondensation___MATERIE-ASYMMETRIE.md) | Kalte Kondensation & Materie-Asymmetrie | v4.1 | ✅ Final |
-| [RFT_05](../docs/grundlagen/RFT_05_v3_1__Teilchenphysik___Wirbelstrukturen___MAGNETISMUS.md) | Teilchenphysik, Wirbelstrukturen & Magnetismus | v3.1 | ✅ Final |
-| [RFT_06](../docs/grundlagen/RFT_06__Experimentelle_Grundlagen___Testprotkolle.md) | Experimentelle Grundlagen & Testprotokolle | v3.0 | ✅ Final |
-| [RFT_07](../docs/grundlagen/RFT_07__Gravitation___Raumzeit-Dynamik.md) | Gravitation & Raumzeit-Dynamik | v3.0 | ✅ Final |
-| [RFT_08](../docs/grundlagen/RFT_08__Philosophische_Grundlagen_der_Resonanzfeldtheorie.md) | Philosophische Grundlagen der RFT | v4.0 | ✅ Final |
-| [RFT_09](../docs/grundlagen/__RFT_09_v4_0__Kosmologie___Großraum-Strukturen_-_ERWEITERT.md) | Kosmologie & Großraum-Strukturen - ERWEITERT | v4.0 | ✅ Final |
-| [RFT_10](../docs/grundlagen/__RFT_10__Quantenmechanik_in_der_RFT_-_Vollständige_Integration_v4_0__QK_11_.md) | Quantenmechanik - Vollständige Integration | v4.0 | ✅ Final |
+| [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen_Ankerpunkt_Physik.md) | Mathematische Grundlagen mit Ankerpunkt-Physik | v6.0 | ✅ Online |
+| [RFT_02](grundlagen/RFT_02_Spin_Quantisierung_Universums_Entstehung.md) | Spin-Quantisierung & Universums-Entstehung | v4.0 | ✅ Online |
+| [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md) | Dynamische Resonanzmatrix | v3.0 | ✅ Online |
+| [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_Materie_Asymmetrie.md) | Kalte Kondensation & Materie-Asymmetrie | v4.1 | ✅ Online |
+| [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_Magnetismus.md) | Teilchenphysik, Wirbelstrukturen & Magnetismus | v3.1 | ✅ Online |
+| [RFT_06](grundlagen/RFT_06_Experimentelle_Grundlagen.md) | Experimentelle Grundlagen & Testprotokolle | v3.0 | ✅ Online |
+| [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md) | Gravitation & Raumzeit-Dynamik | v3.0 | ✅ Online |
+| [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen.md) | Philosophische Grundlagen der RFT | v4.0 | ✅ Online |
+| [RFT_09](grundlagen/RFT_09_Kosmologie_Grossraum_Strukturen.md) | Kosmologie & Großraum-Strukturen | v4.0 | ✅ Online |
+| [RFT_10](grundlagen/RFT_10_Quantenmechanik.md) | Quantenmechanik in der RFT | v4.0 | ✅ Online |
 
-### 2. 🔬 ANWENDUNGEN (RFT_11-20)  
+### 2. 🔬 ANWENDUNGEN (RFT_11-20) - 🔜 IN VORBEREITUNG
 **Praktische Anwendungen und spezifische Phänomene**
 
-| Dokument | Titel | Version | Status |
-|----------|-------|---------|--------|
-| [RFT_11](../docs/anwendungen/RFT_11__Thermodynamik___Statistische_Mechanik_aus_RFT.md) | Thermodynamik & Statistische Mechanik | v3.0 | ✅ Final |
-| [RFT_12](../docs/anwendungen/RFT_12_v3_0__Optik___Elektromagnetismus_-_Vollständiges_Lehrbuch.md) | Optik & Elektromagnetismus - Vollständiges Lehrbuch | v3.0 | ✅ Final |
-| [RFT_13](../docs/anwendungen/RFT_13_Supraleitung_und_Super-Eigenschaften_md.md) | Supraleitung und Super-Eigenschaften | v3.0 | ✅ Final |
-| [RFT_14](../docs/anwendungen/RFT_14__Erweiterte_Teilchenphysik___Standardmodell-Korrespondenz.md) | Erweiterte Teilchenphysik & Standardmodell-Korrespondenz | v3.0 | ✅ Final |
-| [RFT_15](../docs/anwendungen/RFT_15__Dunkle_Materie_als_Resonanzfeld-Effekt_-_Vollständiges_Lehrbuch.md) | Dunkle Materie als Resonanzfeld-Effekt | v3.0 | ✅ Final |
-| [RFT_16](../docs/anwendungen/__RFT_16__Quark-Struktur___Hadronen-Physik_-_Vollständiges_Lehrbuch.md) | Quark-Struktur & Hadronen-Physik | v3.0 | ✅ Final |
-| [RFT_17](../docs/anwendungen/__RFT_17__Cooper-Paare___Supraleitung_-_Vollständiges_Lehrbuch.md) | Cooper-Paare & Supraleitung | v4.0 | ✅ Final |
-| [RFT_19](../docs/anwendungen/RFT_19__Master-String___Informationstheoretische_Grundlagen__Vollständige_Überarbeitung_.md) | Master-String & Informationstheoretische Grundlagen | v5.0 | ✅ Final |
-| [RFT_20](../docs/anwendungen/RFT_20__Informationstheorie___RFT-Anwendungen__Brandneu_.md) | Informationstheorie & RFT-Anwendungen | v3.0 | ✅ Final |
+| Dokument | Titel | Status |
+|----------|-------|--------|
+| RFT_11 | Thermodynamik & Statistische Mechanik | 🚧 In Vorbereitung |
+| RFT_12 | Optik & Elektromagnetismus | 🚧 In Bearbeitung |
+| RFT_13 | Supraleitung und Super-Eigenschaften | 🚧 In Planung |
+| RFT_14 | Standardmodell-Korrespondenz | 🚧 In Entwicklung |
+| RFT_15 | Dunkle Materie als Resonanzfeld-Effekt | 🚧 In Arbeit |
+| RFT_16 | Quark-Struktur & Hadronen-Physik | 🚧 In Vorbereitung |
+| RFT_17 | Cooper-Paare & Supraleitung | 🚧 In Bearbeitung |
+| RFT_19 | Master-String & Informationstheoretische Grundlagen | 🚧 In Planung |
+| RFT_20 | Informationstheorie & RFT-Anwendungen | 🚧 In Entwicklung |
 
-### 3. 🎯 SPEZIALISIERUNGS-SERIE (RFT_21-30)
+**[→ Ausführliche Planung & Zeitplan](anwendungen/IN_ARBEIT.md)**
+
+### 3. 🎯 SPEZIALISIERUNGS-SERIE (RFT_21-30) - 🔜 IN VORBEREITUNG
 **Vertiefte Spezialthemen und Konsolidierungen**
 
-| Dokument | Titel | Version | Status |
-|----------|-------|---------|--------|
-| [RFT_21](../docs/spezialisierung/RFT_21_Spindominanz_v4_-_Vollständig_konsolidierte_Spin-Theorie.md) | Spindominanz - Vollständig konsolidierte Spin-Theorie | v4.0 | ✅ Final |
-| [RFT_22](../docs/spezialisierung/RFT_22__Nicht-Lokalität_und_Verschränkung_-_Vollständige_Konsolidierung.md) | Nicht-Lokalität und Verschränkung | v3.0 | ✅ Final |
-| [RFT_23](../docs/spezialisierung/__RFT_23__Das_RFT-Photonenmodell_-_Vollständiges_Lehrbuch.md) | Das RFT-Photonenmodell - Vollständiges Lehrbuch | v4.0 | ✅ Final |
-| [RFT_24](../docs/spezialisierung/RFT_24__Das_Doppelspaltexperiment_-_Vollständiges_Lehrbuch_v3_0.md) | Das Doppelspaltexperiment - Vollständiges Lehrbuch | v3.0 | ✅ Final |
-| [RFT_25](../docs/spezialisierung/RFT_25__Kosmologische_Strukturen_v3_0_-_Vollständiges_Lehrbuch.md) | Kosmologische Strukturen - Vollständiges Lehrbuch | v3.0 | ✅ Final |
-| [RFT_26](../docs/spezialisierung/RFT_26__Mechanismus_der_Trägheit_v3_0_-_Vollständiges_Lehrbuch.md) | Mechanismus der Trägheit - Vollständiges Lehrbuch | v3.0 | ✅ Final |
-| [RFT_27](../docs/spezialisierung/RFT_27__Starke_und_Schwache_Wechselwirkung_v3_0.md) | Starke und Schwache Wechselwirkung | v3.0 | ✅ Final |
-| [RFT_28](../docs/spezialisierung/__RFT_28__Beobachter___Messprozess_-_Konsolidiertes_Lehrbuch_v4_0__QK_11_.md) | Beobachter & Messprozess - Konsolidiertes Lehrbuch | v4.0 | ✅ Final |
-| [RFT_29](../docs/spezialisierung/RFT_29__Reality_Check_-_Experimentelle_Validierung_v3_0.md) | Reality Check - Experimentelle Validierung | v3.0 | ✅ Final |
-| [RFT_30](../docs/spezialisierung/RFT_30__Innensicht-Prinzip_-_Philosophisches_Fundament_v3_0.md) | Innensicht-Prinzip - Philosophisches Fundament | v3.0 | ✅ Final |
+| Dokument | Titel | Status |
+|----------|-------|--------|
+| RFT_21 | Spindominanz - Vollständig konsolidierte Spin-Theorie | 🚧 In Vorbereitung |
+| RFT_22 | Nicht-Lokalität und Verschränkung | 🚧 In Bearbeitung |
+| RFT_23 | Das RFT-Photonenmodell | 🚧 In Planung |
+| RFT_24 | Das Doppelspalt-Experiment | 🚧 In Entwicklung |
+| RFT_25 | Kosmologische Strukturen | 🚧 In Arbeit |
+| RFT_26 | Mechanismus der Trägheit | 🚧 In Vorbereitung |
+| RFT_27 | Starke und Schwache Wechselwirkung | 🚧 In Bearbeitung |
+| RFT_28 | Beobachter & Messprozess | 🚧 In Planung |
+| RFT_29 | Reality Check - Experimentelle Validierung | 🚧 In Entwicklung |
+| RFT_30 | Innensicht-Prinzip - Philosophisches Fundament | 🚧 In Arbeit |
 
-### 4. 🚀 FORTGESCHRITTENE KONZEPTE (RFT_31-46)
+**[→ Ausführliche Planung & Zeitplan](spezialisierung/IN_ARBEIT.md)**
+
+### 4. 🚀 FORTGESCHRITTENE KONZEPTE (RFT_31-46) - 🔜 IN VORBEREITUNG
 **Innovative Konzepte und zukunftsweisende Theorien**
 
-| Dokument | Titel | Version | Status |
-|----------|-------|---------|--------|
-| [RFT_32](../docs/fortgeschritten/RFT_32__v3_0__Naturkonstanten_aus_Raumgeometrie.md) | Naturkonstanten aus Raumgeometrie | v3.0 | ✅ Final |
-| [RFT_34](../docs/fortgeschritten/RFT_34__Energie-Definition_in_der_Resonanzfeldtheorie_-_Vollständiges_Lehrbuch.md) | Energie-Definition in der RFT | v3.0 | ✅ Final |
-| [RFT_35](../docs/fortgeschritten/RFT_35__Kosmologische_Modelle___Zeitdilatation_-_Vollständiges_Lehrbuch.md) | Kosmologische Modelle & Zeitdilatation | v3.0 | ✅ Final |
-| [RFT_36](../docs/fortgeschritten/RFT_36_v3_0__Teilchen___Wirbelstrukturen__AKTUALISIERT_.md) | Teilchen & Wirbelstrukturen - AKTUALISIERT | v3.0 | ✅ Final |
-| [RFT_37](../docs/fortgeschritten/RFT_37__Energie-Formeln___Parameter_-_Vollständiges_Lehrbuch_v3_0.md) | Energie-Formeln & Parameter | v3.0 | ✅ Final |
-| [RFT_38](../docs/fortgeschritten/RFT_38__Entropie_-_Lokal_vs__Global_-_Vollständiges_Lehrbuch_v3_0.md) | Entropie - Lokal vs. Global | v3.0 | ✅ Final |
-| [RFT_39](../docs/fortgeschritten/RFT_39__CMB-Vorhersagen___Kosmische_Hintergrundstrahlung_-_Vollständiges_Lehrbuch_v3_0.md) | CMB-Vorhersagen & Kosmische Hintergrundstrahlung | v3.0 | ✅ Final |
-| [RFT_40](../docs/fortgeschritten/RFT_40_v3_0__Dunkle_Energie-Alternativen.md) | Dunkle Energie-Alternativen | v3.0 | ✅ Final |
-| [RFT_42](../docs/fortgeschritten/RFT_42_v6_0__Ankerpunkt-Baryogenese.md) | Ankerpunkt-Baryogenese | v6.0 | ✅ Final |
-| [RFT_43](../docs/fortgeschritten/RFT_43_Polarisationsmodi_im_Resonanzgitter.md) | Polarisationsmodi im Resonanzgitter | v2.0 | ✅ Final |
+| Dokument | Titel | Status |
+|----------|-------|--------|
+| RFT_31 | Zeit als Emergente Größe | 🚧 In Vorbereitung |
+| RFT_32 | Naturkonstanten aus Raumgeometrie | 🚧 In Bearbeitung |
+| RFT_34 | Energie-Definition in der RFT | 🚧 In Planung |
+| RFT_35 | Kosmologische Modelle & Zeitdilatation | 🚧 In Entwicklung |
+| RFT_36 | Wirbelmodelle & Teilchenphysik | 🚧 In Arbeit |
+| RFT_37 | Energie-Formeln & Parameter | 🚧 In Vorbereitung |
+| RFT_38 | Entropie - Lokal vs. Global | 🚧 In Bearbeitung |
+| RFT_39 | CMB-Vorhersagen & Kosmische Hintergrundstrahlung | 🚧 In Planung |
+| RFT_40 | Dunkle Energie-Alternativen | 🚧 In Entwicklung |
+| RFT_41 | Experimenteller Plan | 🚧 In Arbeit |
+| RFT_42 | Kondensation & Materie-Asymmetrie | 🚧 In Vorbereitung |
+| RFT_43 | Polarisationsmodi im Resonanzgitter | 🚧 In Bearbeitung |
+
+**[→ Ausführliche Planung & Zeitplan](fortgeschritten/IN_ARBEIT.md)**
 
 ---
 
 ## 📊 DOKUMENTATIONS-STATISTIK
 
-### Versionen-Verteilung:
-- **v6.0:** 2 Dokumente (RFT_01, RFT_42)
-- **v5.0:** 2 Dokumente (RFT_19, RFT_01 Alt)
-- **v4.0:** 8 Dokumente 
-- **v3.x:** 26 Dokumente
-- **v2.0:** 1 Dokument (RFT_43)
+### Aktueller Stand:
+- ✅ **Online:** 10 Dokumente (24%)
+- 🚧 **In Vorbereitung:** 32 Dokumente (76%)
+- 📋 **Geplant bis April 2026:** Alle 42 Dokumente
 
 ### Thematische Verteilung:
-- **Grundlagen:** 10 Dokumente
-- **Anwendungen:** 9 Dokumente  
-- **Spezialisierung:** 10 Dokumente
-- **Fortgeschritten:** 10 Dokumente
-- **Gesamt:** **39 finale Dokumente**
+- **Grundlagen:** 10 Dokumente ✅ KOMPLETT
+- **Anwendungen:** 9 Dokumente 🚧 IN ARBEIT
+- **Spezialisierung:** 10 Dokumente 🚧 IN ARBEIT
+- **Fortgeschritten:** 13 Dokumente 🚧 IN ARBEIT
 
 ---
 
 ## 🗺️ NAVIGATIONSHILFEN
 
 ### Nach Komplexität:
-- **🔰 Einsteiger:** RFT_04, RFT_08, RFT_23, RFT_24
-- **🎓 Fortgeschritten:** RFT_01, RFT_05, RFT_07, RFT_15  
-- **🧠 Experten:** RFT_10, RFT_19, RFT_22, RFT_42
+- **🔰 Einsteiger:** [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_Materie_Asymmetrie.md), [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen.md), [Einstieg für Neugierige](../einstieg/neugierige.md)
+- **🎓 Fortgeschritten:** [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen_Ankerpunkt_Physik.md), [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_Magnetismus.md), [Einstieg für Physiker](../einstieg/physiker.md)
+- **🧠 Experten:** [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md), [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md), [Einstieg für Philosophen](../einstieg/philosophen.md)
 
 ### Nach Forschungsinteresse:
-- **🧮 Mathematiker:** RFT_01 (v6.0), RFT_32, RFT_37
-- **🔬 Experimentatoren:** RFT_06, RFT_29, RFT_34
-- **🌌 Kosmologen:** RFT_02, RFT_09, RFT_15, RFT_35
-- **⚛️ Teilchenphysiker:** RFT_05, RFT_14, RFT_16, RFT_27
-
-### Highlights & Innovationen:
-- **🚀 Neueste Entwicklung:** RFT_01 v6.0 (Ankerpunkt-Physik)
-- **🎯 Kerninnovation:** RFT_42 v6.0 (Ankerpunkt-Baryogenese)  
-- **📚 Umfassendste Werke:** RFT_12, RFT_15, RFT_23 (Vollständige Lehrbücher)
-- **🔬 Experimentell:** RFT_06, RFT_29 (Testprotokolle & Validierung)
+- **🧮 Mathematiker:** [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen_Ankerpunkt_Physik.md), [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md)
+- **🔬 Experimentatoren:** [RFT_06](grundlagen/RFT_06_Experimentelle_Grundlagen.md)
+- **🌌 Kosmologen:** [RFT_02](grundlagen/RFT_02_Spin_Quantisierung_Universums_Entstehung.md), [RFT_09](grundlagen/RFT_09_Kosmologie_Grossraum_Strukturen.md)
+- **⚛️ Teilchenphysiker:** [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_Magnetismus.md)
 
 ---
 
@@ -133,10 +133,7 @@ Die Entwicklung der Resonanzfeldtheorie als unabhängiges Forschungsprojekt erfo
 *Jede Spende hilft, diese fundamentale Forschung voranzutreiben!*
 
 [→ Ausführliche Informationen & Transparenz](../mitwirken.md)
-**[→ Zum Mitwirken & Unterstützen](../mitwirken.md)**
 
 ---
-**Letzte Aktualisierung:** Oktober 2025  
-**Dokumentationsstand:** 39 von 39 Dokumenten finalisiert
-
+**Letzte Aktualisierung: Oktober 2025**  
 [← Zurück zur Hauptseite](../README.md) | [👤 Autorenprofil](../autor.md) | [📧 Kontakt](../kontakt.md)
