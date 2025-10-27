@@ -117,15 +117,24 @@ Diese Dokumentation umfasst **39 finale RFT-Dokumente** in 4 thematischen Serien
 
 ---
 
-## 💡 MITWIRKEN & FEEDBACK
+---
 
-Diese Dokumentation repräsentiert den aktuellen Stand der Resonanzfeldtheorie. Feedback ist willkommen zu:
+## 💝 Unterstützung für die Forschung
 
-- **Mathematischen Konsistenzprüfungen**
-- **Experimentellen Validierungsvorschlägen**  
-- **Konzeptuellen Verbesserungen**
-- **Pädagogischen Optimierungen**
+Die Entwicklung der Resonanzfeldtheorie als unabhängiges Forschungsprojekt erfordert erhebliche Ressourcen:
 
+**Was unterstützt wird:**
+- 🤖 **KI-API-Kosten** (ChatGPT, Claude, Gemini, DeepSeek) - ~150-300 €/Monat
+- 🌐 **Hosting & Infrastruktur** - ~50 €/Monat  
+- 📚 **Wissenschaftliche Literatur** - ~50 €/Monat
+
+**Unterstützungsmöglichkeiten:**
+- [![Unterstütze auf Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rftprojekt) **Ko-fi** - Einfach & flexibel
+- [![PayPal Spende](https://img.shields.io/badge/PayPal-Spenden-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/rftprojekt) **PayPal** - Direkte Unterstützung
+
+*Jede Spende hilft, diese fundamentale Forschung voranzutreiben!*
+
+[→ Ausführliche Informationen & Transparenz](../mitwirken.md)
 **[→ Zum Mitwirken & Unterstützen](../mitwirken.md)**
 
 ---
