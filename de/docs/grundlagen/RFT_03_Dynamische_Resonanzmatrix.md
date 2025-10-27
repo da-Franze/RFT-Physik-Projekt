@@ -6,15 +6,15 @@
 
 ## Kapitelübersicht
 
-1. [Einleitung: Der Raum als aktives Medium]
-2. [Mathematische RFT-Grundlagen (Eigenständige Darstellung)]  
-3. [Die Resonanzmatrix: Struktur statt Leere]
-4. [Stehende Wellen: Die Architektur der Raumzeit]
-5. [Wirbel: Lokalisierte Masseresonanzen]
-6. [Ankerpunkte: Die Quantisierungsknoten]
-7. [Dynamik vs. Statik: Warum nicht "Gitter"]
-8. [Experimentelle Vermessung der Raumstruktur]
-9. [Glossar der Raumstruktur-Terminologie]
+1. [Einleitung: Der Raum als aktives Medium](#1-einführung-der-raum-als-aktives-medium)
+2. [Mathematische RFT-Grundlagen (Eigenständige Darstellung)](#2-Mathematische-RFT-Grundlagen-Eigenständige-Darstellung)
+3. [Die Resonanzmatrix: Struktur statt Leere](#3-Die-Resonanzmatrix-Struktur-statt-Leere)
+4. [Stehende Wellen: Die Architektur der Raumzeit](#4-Stehende-Wellen-Die-Architektur-der-Raumzeit)
+5. [Wirbel: Lokalisierte Masseresonanzen](#5-Wirbel-Lokalisierte-Masseresonanzen)
+6. [Ankerpunkte: Die Quantisierungsknoten](#6-Ankerpunkte-Die-Quantisierungsknoten)
+7. [Dynamik vs. Statik: Warum nicht "Gitter"](#7-Dynamik-vs-Statik-Warum-nicht-Gitter)
+8. [Experimentelle Vermessung der Raumstruktur](#8-Experimentelle-Vermessung-der-Raumstruktur)
+9. [Glossar der Raumstruktur-Terminologie](#9-Glossar-der-Raumstruktur-Terminologie)
 
 ---
 
