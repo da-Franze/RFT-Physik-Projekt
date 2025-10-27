@@ -1,7 +1,5 @@
 # RFT_02: Spin-Quantisierung & Universums-Entstehung
 
-**Ein vollständiges Lehrbuch der fundamentalen Quantisierungsmechanismen**
-
 ---
 
 ## Kapitelübersicht
