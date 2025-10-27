@@ -1,8 +1,5 @@
 # RFT_08: Philosophische Grundlagen der Resonanzfeldtheorie
 
-**Ein vollständiges Lehrbuch der Resonanzfeldtheorie**  
-*Eigenständig lesbar - Keine Querverweise erforderlich*
-
 ---
 
 ## Inhaltsverzeichnis
