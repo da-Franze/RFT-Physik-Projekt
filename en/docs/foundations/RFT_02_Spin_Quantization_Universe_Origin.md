@@ -10,9 +10,10 @@ Instead of a hot "Big Bang," the RFT describes a **cold condensation process** w
 
 **Initial condition:** A state of perfect symmetry where all possible Resonance Structure Modes exist simultaneously in superposition - a **cold, undifferentiated potential**.
 
-**Mathematical description:** 
-
+**Mathematical description:**
+```
 Ψ_total = Σ ψ_i (over all possible modes i)
+```
 
 This state contains **infinite potential** but **zero actualization** - no energy, no heat, pure information potential.
 
@@ -40,7 +41,9 @@ In RFT, **spin** is not a particle property but the **primary topological charac
 
 The first Vortex creates local symmetry breaking that triggers cascading spin quantization:
 
+```
 Primary Vortex → Secondary Vortices → Tertiary Structures
+```
 
 ### 3.2 The Emergence of Fundamental Constants
 
@@ -73,13 +76,17 @@ The spin-coupled Vortices form interconnected **filaments** that manifest as:
 
 Time emerges from the **irreversible process** of increasing spin correlation complexity:
 
+```
 Initial random spins → Local correlation → Global coherence
+```
 
 ### 5.2 Temporal Metric from Spin Dynamics
 
 The rate of time flow depends on local spin correlation density:
 
+```
 Δt ∝ 1/(spin correlation strength)
+```
 
 ## 6. Experimental Predictions
 
@@ -152,4 +159,5 @@ Complete license information: https://da-Franze.github.io/RFT-Physik-Projekt/en/
 
 Contact for usage requests: rft.projekt@posteo.de
 
-Document last updated: October 2025 
+Document last updated: October 2025  
+← Back to Documentation Overview
