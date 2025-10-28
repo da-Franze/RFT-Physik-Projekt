@@ -4,17 +4,17 @@
 
 ## 1. The Primordial State: Infinite Potential
 
-Before what we call the "Big Bang," there was no space, no time, no particles - only the **unstructured potential** of the Resonance Field Structure.
+Instead of a hot "Big Bang," the RFT describes a **cold condensation process** where the Resonance Field Structure transitions from potential to actual.
 
 ### 1.1 The State of Maximum Symmetry
 
-**Initial condition:** A state of perfect symmetry where all possible Resonance Structure Modes exist simultaneously in superposition.
+**Initial condition:** A state of perfect symmetry where all possible Resonance Structure Modes exist simultaneously in superposition - a **cold, undifferentiated potential**.
 
 **Mathematical description:** 
 
 Ψ_total = Σ ψ_i (over all possible modes i)
 
-This state contains **infinite potential** but **zero actualization**.
+This state contains **infinite potential** but **zero actualization** - no energy, no heat, pure information potential.
 
 ## 2. The First Quantization: Topological Spin Coupling
 
