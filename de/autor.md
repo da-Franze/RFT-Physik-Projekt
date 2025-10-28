@@ -4,11 +4,11 @@
 
 ---
 
-## 🛠️ Vom KTZ-Mechaniker zum vielseitigen Technologie-Entwickler
+## 🛠️ Vom KFZ-Mechaniker zum vielseitigen Technologie-Entwickler
 
 Mein Werdegang ist ungewöhnlich vielschichtig:
 
-- **Ausbildung:** KTZ-Mechaniker
+- **Ausbildung:** KFZ-Mechaniker
 - **Studium:** Universität Paderborn, Diplom Physikingenieur, Solid State, Semiconductor; EPR/NMR (1993–2002)
 - **Berufliche Stationen:**
   - **Medizintechnik:** Beinprothesen, Orthesen
