@@ -1,53 +1,123 @@
-![RFT Logo](../assets/images/logo.png)
+# Resonance Field Theory (RFT) - Physics Project
 
-# Resonance Field Theory (RFT)
+> **A fundamental theory redefining space, time, matter, and energy through the principles of resonance and emergent structure.**
 
-[🏠 Home](../) | [🇩🇪 Deutsche Version](../de/)
+## 🌟 Project Overview
 
----
+The Resonance Field Theory (RFT) represents a paradigm shift in theoretical physics, proposing that reality emerges from a dynamic, resonant field structure rather than fundamental particles or forces in spacetime.
 
-## 🎯 About This Project
+### Core Principles
 
-Resonance Field Theory (RFT) is a fundamental physics approach describing:
+- **Space as Active Participant**: Space is not an empty container but a dynamic resonance field structure
+- **Emergent Reality**: Particles, forces, and physical laws emerge from resonance patterns
+- **Unified Framework**: Quantum phenomena and cosmology find natural integration
+- **Testable Predictions**: The theory provides specific experimental signatures
 
-- **Space structure** as a dynamic resonance lattice
-- **Particle physics** (quarks, photons) from vortex configurations
-- **Dark matter** as lattice tension
-- **Cosmology** and structure formation
+## 🎯 Current Status
 
----
+**German Version**: 100% complete  
+**English Version**: In progress (Foundation documents available)
 
-## 📚 Documentation
+### Available Documentation
 
-### Foundations
-- [RFT_01: Spin Quantization](docs/RFT_01_en.md)
-- [RFT_02: Universe Formation](docs/RFT_02_en.md)
-- [RFT_04: Cold Condensation](docs/RFT_04_en.md)
+#### Foundations (Complete)
+- RFT 01 - Mathematical Foundations
+- RFT 02 - Spin Quantization and Universe Origin  
+- RFT 03 - Dynamic Resonance Matrix
+- RFT 04 - Cold Condensation and Matter-Asymmetry
+- RFT 05 - Quantum Phase Transitions
+- RFT 06 - Energy-Resonance Equivalence
+- RFT 07 - Gravitation and Spacetime Dynamics
+- RFT 08 - Philosophical Foundations
+- RFT 09 - Cosmology and Large-Scale Structures
+- RFT 10 - Experimental Predictions and Research Directions
 
-### Particle Physics
-- [RFT_05: Quarks](docs/RFT_05_en.md)
-- [RFT_20: Photon Model](docs/RFT_20_en.md)
+#### In Translation
+- Applications
+- Specialization topics  
+- Advanced concepts
 
-### Cosmology
-- [RFT_09: Large-Scale Structures](docs/RFT_09_en.md)
-- [RFT_15: Dark Matter](docs/RFT_15_en.md)
+## 🔬 Key Concepts
 
-**[→ Complete Documentation](docs/)**
+### Resonance Field Structure
+The fundamental entity replacing traditional spacetime - a dynamic, resonant structure from which all physical phenomena emerge.
 
----
+### Tensional Coupling
+Local deformations in the resonance structure that give rise to mass and gravitational effects.
 
-## 📧 Contact
+### Resonance Structure Modes
+Stable vibration patterns within the field structure that manifest as fundamental particles.
 
-**Email:** rft.projekt@posteo.de
+## 🚀 Quick Start
 
----
+### For Physicists
+Start with the mathematical foundations in `docs/foundations/RFT_01_Mathematical_Foundations.md`
 
-## 📖 Citation
+### For Philosophers  
+Explore the conceptual framework in `docs/foundations/RFT_08_Philosophical_Foundations.md`
 
----
+### For the Curious
+Begin with the accessible introduction in `entry/curious.md`
+
+## 🤝 Collaboration
+
+This project embraces **AI-assisted research** and welcomes contributions from:
+- Theoretical physicists
+- Mathematicians
+- Philosophers of science
+- Interested students and researchers
+
+### How to Contribute
+See `contribute.md` for detailed guidelines on:
+- Discussion and feedback
+- Mathematical development
+- Experimental proposals
+- Translation assistance
+
+## 📚 Documentation Structure
+
+```
+en/
+├── docs/
+│   ├── foundations/           (10 core documents - COMPLETE)
+│   ├── applications/          (In translation)
+│   ├── specialization/        (In translation) 
+│   └── advanced/              (In translation)
+├── entry/
+│   ├── curious.md             (In translation)
+│   ├── physicists.md          (In translation)
+│   └── philosophers.md        (In translation)
+├── README.md                  (This file)
+├── author.md                  (In translation)
+├── contact.md                 (In translation)
+└── contribute.md              (In translation)
+```
+
+## 🌐 International Access
+
+The theory is being made accessible in multiple languages to foster global scientific collaboration. Currently available:
+
+- **German**: Complete theoretical framework
+- **English**: Foundation series complete, ongoing translation
+
+## ⚠️ Important Notes
+
+- This is a developing theoretical framework
+- Peer review and experimental validation are ongoing
+- The theory challenges established paradigms
+- Critical discussion and constructive feedback are encouraged
+
+## 🔗 Links
+
+- **German Version**: [Complete documentation](https://da-franze.github.io/RFT-Physik-Projekt/)
+- **Project Repository**: [GitHub](https://github.com/da-Franze/RFT-Physik-Projekt)
+- **Contact**: rft.projekt@posteo.de
 
 ## 📜 License
 
-© 2025 RFT-Physik-Projekt. All rights reserved.
+© 2025 Franz Zollner - RFT Physics Project  
+Licensed under Creative Commons BY-NC-ND 4.0
 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+---
+
+**Join us in exploring the resonant nature of reality!**
