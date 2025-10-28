@@ -1,4 +1,14 @@
+---
+layout: default
+title: Über den Autor
+nav_order: 4
+---
+
 # Über den Autor - Franz Zollner
+
+[🏠 Startseite](../README.md) • [📚 Dokumentation](../docs/README.md) • [🤝 Mitwirken](../mitwirken.md) • [📞 Kontakt](../kontakt.md)
+
+---
 
 ## 🛠️ Vom KTZ-Mechaniker zum vielseitigen Technologie-Entwickler
 
@@ -99,12 +109,13 @@ Diese Theorie ist bewusst provokativ und herausfordernd. Ich lade insbesondere e
 Ich freue mich über **konstruktiv-kritisches Feedback**:
 - [LinkedIn Profil](https://www.linkedin.com/in/franz-zollner-91b8b42/)
 - [GitHub Diskussionen](https://github.com/da-Franze/RFT-Physik-Projekt/discussions)
+- [E-Mail über GitHub](https://github.com/da-Franze/RFT-Physik-Projekt)
 
 **"Kompliziert kann es jeder! Die Herausforderung liegt in der Einfachheit, und das sollte erklärtes Ziel jedes Ingenieurs und Entwicklers sein!"**
 
 ---
 
-*Letzte Aktualisierung: Oktober 2025*
+[🏠 Startseite](../README.md) • [📚 Dokumentation](../docs/README.md) • [🤝 Mitwirken](../mitwirken.md) • [📞 Kontakt](../kontakt.md)
 
 ---
 
@@ -120,3 +131,27 @@ Die Resonanzfeldtheorie als unabhängiges Forschungsprojekt benötigt Unterstüt
 - [PayPal](https://www.paypal.me/rftprojekt) - Direkte Unterstützung
 
 [→ Ausführliche Informationen & Transparenz](mitwirken.md)
+
+---
+
+## 📜 Urheberrecht & Lizenz
+
+**© 2025 Franz Zollner - RFT-Physik-Projekt**  
+Alle Rechte vorbehalten.
+
+**Lizenz:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
+
+**Sie dürfen:**
+- ✅ Dieses Werk lesen und für private Zwecke nutzen
+- ✅ Wissenschaftlich zitieren (mit Quellenangabe)
+- ✅ In Bildungsinstitutionen verwenden
+
+**Sie dürfen NICHT:**
+- ❌ Kommerziell nutzen
+- ❌ Bearbeiten oder verändern  
+- ❌ Ohne Namensnennung verwenden
+
+**Vollständige Lizenzinformationen:** [https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md](https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md)
+
+**Kontakt für Nutzungsanfragen:** [rft.projekt@posteo.de](mailto:rft.projekt@posteo.de)
+
