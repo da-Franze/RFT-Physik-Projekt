@@ -33,7 +33,7 @@ Hier erkunden wir die philosophischen Grundlagen, metaphysischen Implikationen u
 3. **Vom Gesetz zur Selbst-Organisation**  
    Naturgesetze emergieren aus der Dynamik des Resonanz-Systems
 
-**[→ Zu den philosophischen Grundlagen (RFT_08)](../docs/grundlagen/RFT_08.md)**
+**[→ Zu den philosophischen Grundlagen (RFT_08)](../docs/grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md)**
 
 ---
 
@@ -64,8 +64,6 @@ Hier erkunden wir die philosophischen Grundlagen, metaphysischen Implikationen u
 Wenn Bewusstsein aus komplexer Materie emergiert, und Materie aus Resonanz-Mustern besteht...
 **→ Dann ist Bewusstsein vielleicht die komplexeste Form von Resonanz**
 
-**[→ Zur Entropie und Emergenz (RFT_32)](../docs/energie-thermodynamik/RFT_32.md)**
-
 ---
 
 ## 🔄 Vergleich mit anderen Theorien
@@ -89,12 +87,12 @@ Wenn Bewusstsein aus komplexer Materie emergiert, und Materie aus Resonanz-Muste
 ## 📚 Vertiefende Lektüre
 
 ### Fundamentale Konzepte:
-- **[Philosophische Grundlagen (RFT_08)](../docs/grundlagen/RFT_08.md)** - Das Weltbild der RFT
-- **[Raumfeld-Konzept (RFT_45)](../docs/fortgeschritten/RFT_45.md)** - Warum es kein Medium ist
+- **[Philosophische Grundlagen (RFT_08)](../docs/grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md)** - Das Weltbild der RFT
+- **[Raumfeld-Konzept (RFT_45)](../docs/fortgeschritten/RFT_45_Das_RFT-Raumfeld–kein_klassisches_Medium.md)** - Warum es kein Medium ist
 
 ### Emergenz & Komplexität:
 - **[Entropie (RFT_32)](../docs/energie-thermodynamik/RFT_32.md)** - Information und Ordnung
-- **[Selbstorganisation (RFT_04)](../docs/materiebildung/RFT_04.md)** - Wie Komplexität entsteht
+- **[Selbstorganisation (RFT_04)](../docs/grundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md)** - Wie Komplexität entsteht
 
 ### Grenzfragen:
 - **[Free-Will-Implikationen](../docs/fortgeschritten/)** - Determination vs. Emergenz
