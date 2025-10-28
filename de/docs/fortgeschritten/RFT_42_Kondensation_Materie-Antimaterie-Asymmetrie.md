@@ -21,22 +21,21 @@ Dieses Lehrbuch präsentiert die **vollständige RFT-Lösung** des Materie-Antim
 
 ## 📖 Inhaltsverzeichnis
 
-0. [**NEU: RFT-Grundkonzepte für die Baryogenese**](#kapitel-0)
-1. [Einführung: Das Asymmetrie-Problem](#kapitel-1)
-2. [Sakharov-Bedingungen vs. RFT](#kapitel-2)
-3. [Resonanzraum im frühen Universum](#kapitel-3)
-4. [Mechanismus I: Zweiphasen-Modell](#kapitel-4)
-5. [Mechanismus II: Positronenkonsum](#kapitel-5)
-6. [Mechanismus III: Geometrische CP-Verletzung](#kapitel-6)
-7. [Mechanismus IV: Top-Quark-Asymmetrie](#kapitel-7)
-8. [Baryogenese: η-Wert-Herleitung](#kapitel-8)
-9. [Experimentelle Tests](#kapitel-9)
-10. [Zusammenfassung & Integration](#kapitel-10)
-11. [Glossar & Formelsammlung](#glossar)
+0. [RFT-Grundkonzepte für die Baryogenese](#0_RFT-Grundkonzepte_für_die_Baryogenese)
+1. [Einführung: Das Asymmetrie-Problem](#1_Einführung_Das_Asymmetrie-Problem)
+2. [Sakharov-Bedingungen vs. RFT](#2_Sakharov-Bedingungen_vs_RFT)
+3. [Resonanzraum im frühen Universum](#3_Resonanzraum_im_frühen_Universum)
+4. [Mechanismus I: Zweiphasen-Modell](#4_Mechanismus_I_Zweiphasen-Modell)
+5. [Mechanismus II: Positronenkonsum](#5_Mechanismus_II_Positronenkonsum)
+6. [Mechanismus III: Geometrische CP-Verletzung](#6_Mechanismus_III_Geometrische_CP-Verletzung)
+7. [Mechanismus IV: Top-Quark-Asymmetrie](#7_Mechanismus_IV_Top-Quark-Asymmetrie)
+8. [Baryogenese: η-Wert-Herleitung](#8_Baryogenese_η-Wert-Herleitung)
+9. [Experimentelle Tests](#9_Experimentelle_Tests)
+10. [Zusammenfassung & Integration](#10_Zusammenfassung_Integration)
+11. [Glossar & Formelsammlung](#11_Glossar_Formelsammlung)
 
 ---
 
-<a name="kapitel-0"></a>
 ## 0. RFT-Grundkonzepte für die Baryogenese
 
 **Warum dieses Kapitel?** Die RFT basiert auf fundamental anderen Annahmen als das Standardmodell. Bevor wir zur Baryogenese kommen, müssen wir verstehen, was "Raum" in der RFT bedeutet und wie Teilchen entstehen.
@@ -370,11 +369,6 @@ RFT: "Teilchen SIND Muster des Raumes selbst"
 
 ---
 
-**Ende Kapitel 0 - Grundkonzepte etabliert. Jetzt zur Baryogenese! ✓**
-
----
-
-<a name="kapitel-1"></a>
 ## 1. Einführung: Das Asymmetrie-Problem
 
 ### 1.1 Das größte Rätsel der Kosmologie
@@ -479,7 +473,6 @@ Mit den Konzepten aus Kapitel 0 können wir nun verstehen:
 
 ---
 
-<a name="kapitel-2"></a>
 ## 2. Sakharov-Bedingungen vs. RFT
 
 ### 2.1 Sakharov-Bedingungen im Detail
@@ -574,7 +567,6 @@ Kein externer "Trigger" nötig - Q(t) liefert das Ungleichgewicht automatisch!
 
 ---
 
-<a name="kapitel-3"></a>
 ## 3. Resonanzraum im frühen Universum
 
 ### 3.1 Q-Faktor Evolution
@@ -659,7 +651,6 @@ dΦ/dt ∝ -Q·Φ (Energie-Konversion)
 
 ---
 
-<a name="kapitel-4"></a>
 ## 4. Mechanismus I: Zweiphasen-Modell
 
 ### 4.1 Phase 1: Raum-Matrix-Bildung (1:1)
@@ -840,7 +831,6 @@ Die 4:1-Kondensation erfordert:
 
 ---
 
-<a name="kapitel-5"></a>
 ## 5. Mechanismus II: Positronenkonsum
 
 ### 5.1 Asymmetrische Quark-Bildung
@@ -934,7 +924,6 @@ RFT:
 
 ---
 
-<a name="kapitel-6"></a>
 ## 6. Mechanismus III: Geometrische CP-Verletzung
 
 ### 6.1 π-basierte Gitter-Parameter
@@ -1040,7 +1029,6 @@ Neutrinos haben modifizierte Gitter-Kopplung (siehe RFT_14)
 
 ---
 
-<a name="kapitel-7"></a>
 ## 7. Mechanismus IV: Top-Quark-Asymmetrie
 
 ### 7.1 Hochenergie-Baryogenese
@@ -1155,7 +1143,6 @@ Physikalisch: Top-Asymmetrie "seeded" die spätere Baryogenese bei niedrigeren E
 
 ---
 
-<a name="kapitel-8"></a>
 ## 8. Baryogenese: η-Wert-Herleitung
 
 ### 8.1 Vereinheitlichte Formel
@@ -1287,7 +1274,6 @@ Bei z = 20:
 
 ---
 
-<a name="kapitel-9"></a>
 ## 9. Experimentelle Tests
 
 ### Test 1: JWST η(z)-Evolution
@@ -1440,7 +1426,6 @@ JUNO (2024+): Massenordnung
 
 ---
 
-<a name="kapitel-10"></a>
 ## 10. Zusammenfassung & Integration
 
 ### 10.1 Die vier Säulen der RFT-Baryogenese
@@ -1635,7 +1620,6 @@ RFT_32 (Konstanten) → α, Φ₀, κ_⋆ Werte
 
 ---
 
-<a name="glossar"></a>
 ## 11. Glossar & Formelsammlung
 
 ### Kerngrößen
@@ -1722,4 +1706,29 @@ z_⋆ ≈ 30, β ≈ 0.2 (η(z) Parameter)
 
 ---
 
-**Status: ✅ VOLLSTÄNDIG - RFT_42 v5.0 mit Grundlagen-Einführung** 🌌
+**Status: ✅ VOLLSTÄNDIG - RFT_42 v5.0 mit Grundlagen-Einführung** 🌌---
+
+## 📜 Urheberrecht & Lizenz
+
+**© 2025 Franz Zollner - RFT-Physik-Projekt**  
+Alle Rechte vorbehalten.
+
+**Lizenz:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
+
+**Sie dürfen:**
+- ✅ Dieses Werk lesen und für private Zwecke nutzen
+- ✅ Wissenschaftlich zitieren (mit Quellenangabe)
+- ✅ In Bildungsinstitutionen verwenden
+
+**Sie dürfen NICHT:**
+- ❌ Kommerziell nutzen
+- ❌ Bearbeiten oder verändern  
+- ❌ Ohne Namensnennung verwenden
+
+**Vollständige Lizenzinformationen:** [https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md](https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md)
+
+**Kontakt für Nutzungsanfragen:** [rft.projekt@posteo.de](mailto:rft.projekt@posteo.de)
+
+---
+*Dokument zuletzt aktualisiert: Oktober 2025*  
+[← Zurück zur Dokumenten-Übersicht](../README.md)
