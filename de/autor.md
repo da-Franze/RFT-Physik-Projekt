@@ -1,9 +1,3 @@
----
-layout: default
-title: Über den Autor
-nav_order: 4
----
-
 # Über den Autor - Franz Zollner
 
 [🏠 Startseite](../README.md) • [📚 Dokumentation](../docs/README.md) • [🤝 Mitwirken](../mitwirken.md) • [📞 Kontakt](../kontakt.md)
