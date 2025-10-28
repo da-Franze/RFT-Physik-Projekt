@@ -1,3 +1,5 @@
+![RFT Logo](../assets/images/logo.png)
+
 # Resonance Field Theory (RFT) - Physics Project
 
 > **A fundamental theory redefining space, time, matter, and energy through the principles of resonance and emergent structure.**
