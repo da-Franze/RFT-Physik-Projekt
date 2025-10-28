@@ -45,8 +45,6 @@ The synthesis of both concepts leads to the central mathematical object of the R
 Each point in the Resonance Field Structure can be described by a **state vector**:
 
 ψ(x,t) = A(x,t) · e^(iφ(x,t))
-text
-
 
 Where:
 - `A(x,t)` represents the **amplitude** (energy density)
