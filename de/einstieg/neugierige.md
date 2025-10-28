@@ -33,21 +33,21 @@ Stell dir kein klassisches "Feld" vor, sondern eher ein **dynamisches Netzwerk v
 
 **Die RFT-Antwort:** Es gibt keine "Teilchen"! Es sind **stabile Wirbel** im Raumgitter, die sich wie Wellen ausbreiten. Der "Beobachter-Effekt" entsteht, weil die Messung das Gitter stört.
 
-**[→ Zum Doppelspalt-Experiment (RFT_24)](../docs/quantenphysik/RFT_24.md)**
+**[→ Zum Doppelspalt-Experiment (RFT_24)](../docs/spezialisierung/RFT_24_Das_Doppelspaltexperiment.md)**
 
 ### 2. Dunkle Materie - die unsichtbare Spannung  
 **Das Rätsel:** Galaxien rotieren zu schnell - etwas Unsichtbares hält sie zusammen.
 
 **Die RFT-Antwort:** **Keine mysteriösen Teilchen!** Sondern **Verspannungen im Raumgitter** - wie Falten in einem Tuch, die zusätzliche "Anziehung" erzeugen.
 
-**[→ Zur Dunklen Materie (RFT_15)](../docs/kosmologie/RFT_15.md)**
+**[→ Zur Dunklen Materie (RFT_15)](../docs/anwendungen/RFT_15_Dunkle_Materie_als_RFT-Effekt.md)**
 
 ### 3. Urknall - der größte Akkord
 **Das Rätsel:** Wie begann das Universum?
 
 **Die RFT-Antwort:** Keine "Explosion", sondern der **Anfang einer kosmischen Schwingung**. Wie wenn man eine Saite anzupft und eine komplexe Schwingung entsteht.
 
-**[→ Zur Universums-Entstehung (RFT_02)](../docs/grundlagen/RFT_02.md)**
+**[→ Zur Universums-Entstehung (RFT_02)](../docs/grundlagen/RFT_02_Spin-Quantisierung_Universums-Entstehung.md)**
 
 ---
 
@@ -65,7 +65,7 @@ Stell dir kein klassisches "Feld" vor, sondern eher ein **dynamisches Netzwerk v
 ## 🚀 Nächste Entdeckungen
 
 ### Sofort verständlich:
-- **[Materie-Entstehung (RFT_04)](../docs/materiebildung/RFT_04.md)** - Wie aus Schwingungen "Dinge" werden
+- **[Materie-Entstehung (RFT_04)](../docs/rundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md)** - Wie aus Schwingungen "Dinge" werden
 - **[Photonen-Modell (RFT_23)](../docs/quantenphysik/RFT_23.md)** - Was Licht wirklich ist
 - **[Gravitation (RFT_07)](../docs/gravitation/RFT_07.md)** - Warum Äpfel vom Baum fallen
 
