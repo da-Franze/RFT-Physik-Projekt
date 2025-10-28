@@ -1172,8 +1172,26 @@ Die Natur ist **nicht absurd** - sie folgt **mechanischen Gesetzen**. Nur unsere
 
 ---
 
-**📌 DOKUMENT-STATUS:**  
-✅ **VOLLSTÄNDIG AUF LEHRBUCH-STANDARD**  
-Bereit für wissenschaftliche Publikation und experimentelle Validierung
+## 📜 Urheberrecht & Lizenz
 
-**Letzte Aktualisierung:** 29. September 2025  
+**© 2025 Franz Zollner - RFT-Physik-Projekt**  
+Alle Rechte vorbehalten.
+
+**Lizenz:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
+
+**Sie dürfen:**
+- ✅ Dieses Werk lesen und für private Zwecke nutzen
+- ✅ Wissenschaftlich zitieren (mit Quellenangabe)
+- ✅ In Bildungsinstitutionen verwenden
+
+**Sie dürfen NICHT:**
+- ❌ Kommerziell nutzen
+- ❌ Bearbeiten oder verändern  
+- ❌ Ohne Namensnennung verwenden
+
+**Vollständige Lizenzinformationen:** [https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md](https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md)
+
+**Kontakt für Nutzungsanfragen:** [rft.projekt@posteo.de](mailto:rft.projekt@posteo.de)
+
+---
+*Dokument zuletzt aktualisiert: Oktober 2025*  
