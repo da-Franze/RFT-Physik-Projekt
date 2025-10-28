@@ -102,7 +102,7 @@ Diese Theorie ist bewusst provokativ und herausfordernd. Ich lade insbesondere e
 
 Ich freue mich über **konstruktiv-kritisches Feedback**:
 - [LinkedIn Profil](https://www.linkedin.com/in/franz-zollner-91b8b42/)
-- [GitHub Diskussionen](https://github.com/da-Franze/RFT-Physik-Projekt/discussions)
+- [💬 GitHub Diskussionen](https://github.com/da-Franze/RFT-Physik-Projekt/discussions)
 - [E-Mail über GitHub](https://github.com/da-Franze/RFT-Physik-Projekt)
 
 **"Kompliziert kann es jeder! Die Herausforderung liegt in der Einfachheit, und das sollte erklärtes Ziel jedes Ingenieurs und Entwicklers sein!"**
