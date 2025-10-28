@@ -10,7 +10,9 @@ While the Resonance Field Structure describes the **static geometry**, the Dynam
 
 The Dynamic Resonance Matrix **M** operates on the state vector ψ of the Resonance Field Structure:
 
+```
 ∂ψ/∂t = M · ψ
+```
 
 Where:
 - **ψ** = current state of the Resonance Field Structure
@@ -23,13 +25,17 @@ Where:
 
 The Dynamic Resonance Matrix is a **high-dimensional tensor** that encodes all possible interactions:
 
+```
 M_{ijk...} = coupling between modes i, j, k...
+```
 
 ### 2.2 Self-Referential Architecture
 
 The key innovation: The matrix **M** is not constant but depends on the current state ψ:
 
+```
 M = M(ψ)
+```
 
 This creates the **self-referential dynamics** that enable self-organization.
 
@@ -39,19 +45,25 @@ This creates the **self-referential dynamics** that enable self-organization.
 
 Describes how different Resonance Structure Modes influence each other:
 
-M_resonance = α · (ψ_i * ψ_j†) (for i ≠ j)
+```
+M_resonance = α · (ψ_i * ψ_j†)  (for i ≠ j)
+```
 
 ### 3.2 Self-Stabilization Term
 
 Ensures stability of individual modes against decay:
 
+```
 M_stability = β · |ψ_i|²
+```
 
 ### 3.3 Topological Conservation Term
 
 Preserves topological properties like spin and charge:
 
+```
 M_topology = γ · ∇ × ψ
+```
 
 ## 4. Emergent Physical Laws
 
@@ -59,7 +71,9 @@ M_topology = γ · ∇ × ψ
 
 In the weak-coupling limit, the matrix equation reduces to:
 
+```
 iℏ ∂ψ/∂t ≈ H ψ
+```
 
 Where H emerges from specific components of **M**.
 
@@ -67,13 +81,17 @@ Where H emerges from specific components of **M**.
 
 The metric tensor **g_μν** emerges from the **average deformation state**:
 
+```
 g_μν = ⟨ψ| M_metric |ψ⟩
+```
 
 ### 4.3 Maxwell's Equations
 
 Electromagnetic fields emerge from **phase gradients** in the Resonance Field Structure:
 
+```
 F_μν = ∂_μ A_ν - ∂_ν A_μ, where A_μ = arg(ψ)
+```
 
 ## 5. Computational Implementation
 
@@ -81,16 +99,20 @@ F_μν = ∂_μ A_ν - ∂_ν A_μ, where A_μ = arg(ψ)
 
 For practical computation, the infinite-dimensional matrix is approximated:
 
-M_discrete = [m_11 m_12 ... m_1N]
-[m_21 m_22 ... m_2N]
-[... ... ... ... ]
-[m_N1 m_N2 ... m_NN]
+```
+M_discrete = [m_11  m_12  ...  m_1N]
+             [m_21  m_22  ...  m_2N]
+             [...   ...   ...  ...  ]
+             [m_N1  m_N2  ...  m_NN]
+```
 
 ### 5.2 Iterative State Evolution
 
 The system evolves through discrete time steps:
 
+```
 ψ(t+Δt) = ψ(t) + M(ψ(t)) · ψ(t) · Δt
+```
 
 ## 6. Predictive Power
 
@@ -179,4 +201,5 @@ Complete license information: https://da-Franze.github.io/RFT-Physik-Projekt/en/
 
 Contact for usage requests: rft.projekt@posteo.de
 
-Document last updated: October 2025 
+Document last updated: October 2025  
+← Back to Documentation Overview
