@@ -26,7 +26,7 @@ Diese Dokumentation umfasst **42 RFT-Dokumente** in 4 thematischen Serien. Aktue
 | [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_MAGNETISMUS.md) | Teilchenphysik, Wirbelstrukturen & Magnetismus | v3.1 | ✅ Online |
 | [RFT_06](grundlagen/RFT_06_Experimentelle_Grundlag.md) | Experimentelle Grundlagen & Testprotokolle | v3.0 | ✅ Online |
 | [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md) | Gravitation & Raumzeit-Dynamik | v3.0 | ✅ Online |
-| [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen.md) | Philosophische Grundlagen der RFT | v4.0 | ✅ Online |
+| [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md) | Philosophische Grundlagen der RFT | v4.0 | ✅ Online |
 | [RFT_09](grundlagen/RFT_09_Kosmologie_Grossraum_Strukturen.md) | Kosmologie & Großraum-Strukturen | v4.0 | ✅ Online |
 | [RFT_10](grundlagen/RFT_10_Quantenmechanik.md) | Quantenmechanik in der RFT | v4.0 | ✅ Online |
 
