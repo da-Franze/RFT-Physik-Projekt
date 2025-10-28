@@ -1,0 +1,60 @@
+site_name: RFT – Resonanzfeldtheorie
+site_description: Resonanzfeldtheorie (RFT) – Offizielle Projektseiten (DE/EN)
+site_url: https://da-Franze.github.io/RFT-Physik-Projekt/
+repo_name: da-Franze/RFT-Physik-Projekt
+repo_url: https://github.com/da-Franze/RFT-Physik-Projekt
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
+  - i18n:
+      default_language: de
+      languages:
+        de: Deutsch
+        en: English
+      nav_translations:
+        en:
+          Start: Home
+          Einführung: Introduction
+          Mathematische Grundlagen: Mathematical Foundations
+          Spin & Rückkopplung: Spin & Feedback
+          Gravitation aus Resonanz: Gravity from Resonance
+          Thermodynamik & Entropie: Thermodynamics & Entropy
+          Experimente & Korrelationen: Experiments & Correlations
+          FAQ: FAQ
+          Kritikpunkte: Critiques
+          Glossar: Glossary
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/da-Franze
+    - icon: fontawesome/solid/envelope
+      link: mailto:rft.projekt@posteo.de
+markdown_extensions:
+  - admonition
+  - footnotes
+  - def_list
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Start: index.md
+  - Einführung: de/index.md
+  - Mathematische Grundlagen: de/grundlagen.md
+  - Spin & Rückkopplung: de/spin_rueckkopplung.md
+  - Gravitation aus Resonanz: de/gravitation.md
+  - Thermodynamik & Entropie: de/thermo_entropie.md
+  - Experimente & Korrelationen: de/experimente.md
+  - FAQ: de/faq.md
+  - Kritikpunkte: de/kritik.md
+  - Glossar: de/glossar.md

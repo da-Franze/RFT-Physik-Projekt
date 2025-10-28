@@ -1,0 +1,1 @@
+Place images used in the documentation here.
