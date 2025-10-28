@@ -108,7 +108,27 @@ The mathematical foundation of the RFT represents a **paradigm shift**:
 
 ---
 
-**Copyright** © 2025 Franz (da-Franze)  
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+## 📜 Copyright & License
 
-*This document is part of the Resonance Field Theory Project - https://github.com/da-Franze/RFT-Physik-Projekt*
+© 2025 Franz Zollner - RFT Physics Project  
+All rights reserved.
+
+**License:** Creative Commons BY-NC-ND 4.0
+
+You are allowed to:
+
+✅ Read and use this work for private purposes  
+✅ Quote scientifically (with attribution)  
+✅ Use in educational institutions
+
+You are NOT allowed to:
+
+❌ Use commercially  
+❌ Edit or modify  
+❌ Use without attribution
+
+Complete license information: https://da-Franze.github.io/RFT-Physik-Projekt/en/contribute.md
+
+Contact for usage requests: rft.projekt@posteo.de
+
+Document last updated: October 2025 
