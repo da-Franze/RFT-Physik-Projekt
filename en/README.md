@@ -1,3 +1,5 @@
+![RFT Logo](../assets/images/logo.png)
+
 # Resonance Field Theory (RFT) - Physics Project
 
 > **A new fundamental theory of physics developed through AI collaboration - redefining space, time, and matter through resonance principles**
