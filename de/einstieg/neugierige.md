@@ -66,11 +66,11 @@ Stell dir kein klassisches "Feld" vor, sondern eher ein **dynamisches Netzwerk v
 
 ### Sofort verständlich:
 - **[Materie-Entstehung (RFT_04)](../docs/rundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md)** - Wie aus Schwingungen "Dinge" werden
-- **[Photonen-Modell (RFT_23)](../docs/quantenphysik/RFT_23.md)** - Was Licht wirklich ist
-- **[Gravitation (RFT_07)](../docs/gravitation/RFT_07.md)** - Warum Äpfel vom Baum fallen
+- **[Photonen-Modell (RFT_23)](../docs/spezialisierung/RFT_23_Das_RFT-Photonenmodell.md)** - Was Licht wirklich ist
+- **[Gravitation (RFT_07)](../docs/grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md)** - Warum Äpfel vom Baum fallen
 
 ### Für Mutige:
-- **[Philosophische Grundlagen (RFT_08)](../docs/grundlagen/RFT_08.md)** - Das Weltbild der RFT
+- **[Philosophische Grundlagen (RFT_08)](../docs/grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md)** - Das Weltbild der RFT
 - **[Experiment-Vorschläge](../docs/experimente/)** - Kann man die RFT testen?
 
 ---
