@@ -20,7 +20,7 @@ Diese Dokumentation umfasst **42 RFT-Dokumente** in 4 thematischen Serien. Aktue
 | Dokument | Titel | Version | Status |
 |----------|-------|---------|--------|
 | [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen.md) | Mathematische Grundlagen mit Ankerpunkt-Physik | v6.0 | ✅ Online |
-| [RFT_02](grundlagen/RFT_02_Spin-Quantisierung_Universums_Entstehung.md) | Spin-Quantisierung & Universums-Entstehung | v4.0 | ✅ Online |
+| [RFT_02](grundlagen/RFT_02_Spin-Quantisierung_Universums-Entstehung.md) | Spin-Quantisierung & Universums-Entstehung | v4.0 | ✅ Online |
 | [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md) | Dynamische Resonanzmatrix | v3.0 | ✅ Online |
 | [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_Materie_Asymmetrie.md) | Kalte Kondensation & Materie-Asymmetrie | v4.1 | ✅ Online |
 | [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_Magnetismus.md) | Teilchenphysik, Wirbelstrukturen & Magnetismus | v3.1 | ✅ Online |
