@@ -1,8 +1,9 @@
+# .github/workflows/pages.yml
 name: Build & Deploy MkDocs (Pages)
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ "main" ]
   workflow_dispatch:
 
 permissions:
@@ -18,27 +19,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Install mkdocs + material
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install mkdocs mkdocs-material
 
-      - name: Build site (MkDocs)
-        run: |
-          mkdocs --version
-          echo "Repo tree:"
-          ls -la
-          echo "Docs tree:"
-          ls -la docs || true
-          mkdocs build --strict --site-dir site
+      - name: Build site
+        run: mkdocs build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -46,10 +39,11 @@ jobs:
           path: site
 
   deploy:
-    environment:
-      name: github-pages
     needs: build
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
+      - id: deployment
         uses: actions/deploy-pages@v4
