@@ -1,4 +1,3 @@
-# .github/workflows/pages.yml
 name: Build & Deploy MkDocs (Pages)
 
 on:
