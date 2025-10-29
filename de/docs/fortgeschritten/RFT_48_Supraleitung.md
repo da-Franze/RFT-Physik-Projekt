@@ -219,13 +219,31 @@ Die RFT-basierte Theorie der Supraleitung bietet einen vielversprechenden neuen 
 Die vorgeschlagenen Materialkombinationen, insbesondere SRCB-300v3, stellen realistische Kandidaten für die experimentelle Umsetzung dar. Bei erfolgreicher Verifikation würde dies nicht nur einen Durchbruch in der Supraleitung bedeuten, sondern auch die RFT als fundamentale physikalische Theorie bestätigen.
 
 Die experimentelle Überprüfung der Vorhersagen ist der kritische nächste Schritt. Die hier beschriebene Theorie liefert hierfür einen klaren Fahrplan und spezifische, testbare Vorhersagen.
-
 ---
 
-**© 2025 Franz Zollner - RFT-Physik-Projekt**  
-**Lizenz: Creative Commons BY-NC-ND 4.0**  
-**Kontakt: rft.projekt@posteo.de**
+## 📜 Urheberrecht & Lizenz
 
-*Dieses Dokument ist Teil des RFT-Physik-Projekts: 
-https://github.com/da-Franze/RFT-Physik-Projekt*
+**© 2025 Franz Zollner - RFT-Physik-Projekt**  
+Alle Rechte vorbehalten.
+
+**Lizenz:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
+
+**Sie dürfen:**
+- ✅ Dieses Werk lesen und für private Zwecke nutzen
+- ✅ Wissenschaftlich zitieren (mit Quellenangabe)
+- ✅ In Bildungsinstitutionen verwenden
+
+**Sie dürfen NICHT:**
+- ❌ Kommerziell nutzen
+- ❌ Bearbeiten oder verändern  
+- ❌ Ohne Namensnennung verwenden
+
+**Vollständige Lizenzinformationen:** [https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md](https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md)
+
+**Kontakt für Nutzungsanfragen:** [rft.projekt@posteo.de](mailto:rft.projekt@posteo.de)
+
+---
+*Dokument zuletzt aktualisiert: Oktober 2025*  
+[← Zurück zur Dokumenten-Übersicht](../README.md)
 ```
+
