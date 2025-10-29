@@ -3,20 +3,22 @@ site_url: https://da-franze.github.io/RFT-Physik-Projekt/
 repo_url: https://github.com/da-Franze/RFT-Physik-Projekt
 repo_name: RFT-Physik-Projekt
 
+# Wir nutzen dein Repo-Root (keine neue Struktur nötig)
 docs_dir: .
 
 theme:
   name: material
 
+# Nur EXISTIERENDE Dateien referenzieren
 nav:
   - Home: README.md
   - Deutsch:
       - Überblick: de/README.md
-      - Fortgeschritten:
-          - Supraleitung (RFT_48): de/docs/fortgeschritten/RFT_48_Supraleitung.md
+      - Supraleitung (RFT_48): de/docs/fortgeschritten/RFT_48_Supraleitung.md
   - English:
       - Overview: en/README.md
 
+# Bis alles sauber ist, Build NICHT wegen Kleinigkeiten abbrechen
 strict: false
 
 markdown_extensions:
