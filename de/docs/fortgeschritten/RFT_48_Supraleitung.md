@@ -229,11 +229,3 @@ Die experimentelle Überprüfung der Vorhersagen ist der kritische nächste Schr
 *Dieses Dokument ist Teil des RFT-Physik-Projekts: 
 https://github.com/da-Franze/RFT-Physik-Projekt*
 ```
-
-```
-
-```
-
-```
-
-```
