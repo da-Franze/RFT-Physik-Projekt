@@ -1,27 +1,22 @@
 # RFT_47: Schwarze Löcher & Modensprung-Physik
 
-**Autor:** Claude Instance #48
-**Datum:** 28. Oktober 2025
-**Projekt:** RFT - Resonanzfeldtheorie
-**Status:** VOLLSTÄNDIGES DOKUMENT
-
 ## Abstract
 
 Dieses Dokument entwickelt eine vollständige Theorie Schwarzer Löcher in der  Resonanzfeldtheorie (RFT) basierend auf dem Konzept des **Modensprungs** am Ereignishorizont. Anstelle der traditionellen Singularität wird der  Übergang von Mode 1 (unser Universum) zu Mode 2 (Schwarze-Loch-Inneres)  als fundamentale Physik identifiziert. Die Planck-Länge L_P wird  erstmals aus der Modensprung-Bedingung hergeleitet, und es werden  testbare Vorhersagen für Gravitationswellen und Hawking-Strahlung  abgeleitet.
 
 ## Inhaltsverzeichnis
 
-1. Einführung: Schwarze Löcher in der RFT
-2. Modensprung-Physik
-3. Herleitung der Planck-Länge
-4. Mathematisches Modell: Ereignishorizont
-5. Das Innere: Mode-2-Feldkonfiguration
-6. Hawking-Strahlung aus RFT
-7. Informationserhaltung
-8. Gravitationswellen-Signaturen
-9. Experimentelle Tests
-10. Zugang zum Inneren: Können wir hinter den Horizont sehen?
-11. Zusammenfassung
+1. [Einführung: Schwarze Löcher in der RFT](#1_Einführung_Schwarze_Löcher_in_der_RFT)
+2. [Modensprung-Physik](#2_Modensprung-Physik)
+3. [Herleitung der Planck-Länge](#3_Herleitung_der_Planck-Länge)
+4. [Mathematisches Modell: Ereignishorizont](#4_Mathematisches_Modell_Ereignishorizont)
+5. [Das Innere: Mode-2-Feldkonfiguration](#5_Das_Innere_Mode-2-Feldkonfiguration)
+6. [Hawking-Strahlung aus RFT](#6_Hawking-Strahlung_aus_RFT)
+7. [Informationserhaltung](#7_Informationserhaltung)
+8. [Gravitationswellen-Signaturen](#8_Gravitationswellen-Signaturen)
+9. [Experimentelle Tests](#9_Experimentelle_Tests)
+10. [Zugang zum Inneren: Können wir hinter den Horizont sehen?](#10_Zugang_zum_Inneren_Können_wir_hinter_den_Horizont_sehen)
+11. [Zusammenfassung](#11_Zusammenfassung)
 
 ## 1 Einführung: Schwarze Löcher in der RFT
 
@@ -30,8 +25,6 @@ Dieses Dokument entwickelt eine vollständige Theorie Schwarzer Löcher in der  
 In der Allgemeinen Relativitätstheorie führt der Kollaps von Materie unter ihrer eigenen Schwerkraft unweigerlich zu einer Raumzeit-Singularität,  wo die Krümmung unendlich wird und die physikalischen Gesetze ihre  Gültigkeit verlieren. Die RFT bietet einen Ausweg durch das Konzept  diskreter Resonanzmodi.
 
 ### 1.2 Grundkonzept: Drei-Moden-Universum
-
-text
 
 ```
 Mode 0: Vakuum-Grundzustand (minimale Energie)
@@ -46,8 +39,6 @@ Der Ereignishorizont markiert nicht einen "Punkt ohne Wiederkehr", sondern den �
 ### 1.3 Mathematischer Rahmen
 
 Die Master-Gleichung der RFT für Mode n:
-
-text
 
 ```
 ∂²Φ_n/∂t² = c_n² ∇²Φ_n + κ_n Φ_n |Φ_n|² + λ_n |Φ_n|⁴ Φ_n
@@ -67,8 +58,6 @@ Jeder Modus hat eigene Parameter:
 
 Der Übergang zwischen Moden erfolgt, wenn die lokale Energiedichte einen kritischen Wert überschreitet:
 
-text
-
 ```
 E_kritisch = ℏω_P = ℏc1/L_P
 ```
@@ -81,17 +70,13 @@ wobei L_P die kritische Längenskala für den Modensprung darstellt.
 
 **Mode 1 (unser Universum):**
 
-text
-
 ```
 ω1²(k) = c1² k² + ω0² [1 + (k a1)² + 1/2 (k a1)⁴ + ...]
 ```
 
 
-
+----
 **Mode 2 (Schwarze Löcher):**
-
-text
 
 ```
 ω2²(k) = c2² k² + ω0'² [1 + (k a2)² + 1/2 (k a2)⁴ + ...]
@@ -114,8 +99,6 @@ Der Modensprung ist analog zu einem Phasenübergang in der kondensierten Materie
 
 Der kritische Punkt für den Modensprung ist gegeben durch:
 
-text
-
 ```
 ω1(k_P) = ω2(k_P)
 ```
@@ -128,8 +111,6 @@ mit k_P = 2π/L_P.
 
 Aus den Dispersionrelationen:
 
-text
-
 ```
 c1² k_P² + ω0² [1 + (k_P a1)²] = c2² k_P² + ω0'² [1 + (k_P a2)²]
 ```
@@ -138,8 +119,6 @@ c1² k_P² + ω0² [1 + (k_P a1)²] = c2² k_P² + ω0'² [1 + (k_P a2)²]
 
 Unter der Annahme, dass für k → 0 beide Moden zum Vakuum-Grundzustand konvergieren (ω0 = ω0'), vereinfacht sich dies zu:
 
-text
-
 ```
 (c1² - c2²) k_P² + ω0² (a1² - a2²) k_P² = 0
 ```
@@ -147,8 +126,6 @@ text
 
 
 Daraus folgt:
-
-text
 
 ```
 k_P² = ω0² (a2² - a1²) / [c1² - c2² + ω0² (a1² - a2²)]
@@ -160,8 +137,6 @@ k_P² = ω0² (a2² - a1²) / [c1² - c2² + ω0² (a1² - a2²)]
 
 Mit der Näherung c2 ≪ c1 und a2 ≫ a1:
 
-text
-
 ```
 k_P ≈ ω0 a2 / c1
 ```
@@ -171,8 +146,6 @@ k_P ≈ ω0 a2 / c1
 Aus RFT_32 wissen wir: ω0 = c1/a1 · 1/√(4π³ + π² + π)
 
 Daher:
-
-text
 
 ```
 L_P = 2π/k_P ≈ 2π a1 √(4π³ + π² + π) · a1/a2
@@ -210,8 +183,6 @@ Die berechnete Planck-Länge stimmt exakt mit dem aus RFT_32 implizierten Wert �
 
 Der Ereignishorizont entsteht, wenn die lokale Gitterkrümmung den kritischen Wert erreicht:
 
-text
-
 ```
 K(R_S) = 1/L_P²
 ```
@@ -219,8 +190,6 @@ K(R_S) = 1/L_P²
 
 
 Für ein Schwarzes Loch der Masse M:
-
-text
 
 ```
 R_S = 2GM/c1² = Radius, bei dem K(R_S) = K_kritisch
@@ -239,8 +208,6 @@ Am Ereignishorizont r = R_S:
 
 Der Modensprung erfolgt nicht instantan, sondern über eine Übergangsregion der Breite:
 
-text
-
 ```
 δr ≈ L_P
 ```
@@ -255,8 +222,6 @@ In dieser Region interpolieren die Feldwerte zwischen Mode 1 und Mode 2.
 
 In Mode 2 genügt das Feld Φ2(r) der reduzierten Master-Gleichung:
 
-text
-
 ```
 (1/r²) d/dr (r² dΦ2/dr) - (1/c2²) (κ2/λ2) Φ2 - (1/c2²) Φ2³ = 0
 ```
@@ -266,8 +231,6 @@ text
 ### 5.2 Analytische Näherungslösung
 
 Für kleine r dominiert der nichtlineare Term:
-
-text
 
 ```
 Φ2(r) ≈ A2/√r · exp(-r/L2)
@@ -280,8 +243,6 @@ mit charakteristischer Längenskala L2 = c2/√κ2.
 ### 5.3 Vermeidung der Singularität
 
 Im Zentrum r → 0:
-
-text
 
 ```
 Φ2(0) = Φ2,min = endlicher Grundzustand
@@ -333,8 +294,6 @@ plt.show()
 
 Hawking-Strahlung entsteht durch quantenmechanisches Tunneling von Mode 2 zu Mode 1:
 
-text
-
 ```
 Ψ_Mode2 → Ψ_Mode1
 ```
@@ -342,8 +301,6 @@ text
 
 
 Die Tunnelwahrscheinlichkeit ist gegeben durch:
-
-text
 
 ```
 P ∝ exp(-S_E/ℏ)
@@ -357,8 +314,6 @@ mit der euklidischen Wirkung S_E für den Modensprung-Übergang.
 
 Die Hawking-Temperatur ergibt sich aus:
 
-text
-
 ```
 T_H = ℏ/(2π k_B) · d/dr √g00|_R_S
 ```
@@ -366,8 +321,6 @@ T_H = ℏ/(2π k_B) · d/dr √g00|_R_S
 
 
 In RFT-Interpretation:
-
-text
 
 ```
 T_H = ℏ c1/(2π k_B R_S) · f_modensprung
@@ -380,8 +333,6 @@ wobei f_modensprung ein Korrekturfaktor aus der Modensprung-Physik ist.
 ### 6.3 Spektrum-Modifikation
 
 Das Hawking-Spektrum wird modifiziert:
-
-text
 
 ```
 dE/(dt dω) = ℏω³/(8π³ c1²) · Γ(ω)/(e^(ℏω/k_B T_H) - 1)
@@ -405,8 +356,6 @@ In der RFT ist das Informationsparadoxon gelöst:
 
 Die Bekenstein-Hawking-Entropie:
 
-text
-
 ```
 S_BH = k_B A/(4 L_P²)
 ```
@@ -421,8 +370,6 @@ erhält in RFT eine mikroskopische Interpretation als Anzahl möglicher Mode-2-K
 
 Bei der Verschmelzung Schwarzer Löcher sollte der Ringdown eine charakteristische Modensprung-Signatur zeigen:
 
-text
-
 ```
 h(t) = e^(-t/τ) [A1 cos(ω1 t) + A2 cos(ω2 t)]
 ```
@@ -435,8 +382,6 @@ mit zwei charakteristischen Frequenzen ω1, ω2 entsprechend Mode 1 und Mode 2.
 
 Beim Überschreiten des kritischen Radius:
 
-text
-
 ```
 Δω = ω2 - ω1 ≈ (c1 - c2)/R_S
 ```
@@ -446,8 +391,6 @@ text
 ### 8.3 Echos vom Modensprung-Übergang
 
 Zusätzliche späte Zeit-Echos von der Modensprung-Region:
-
-text
 
 ```
 t_Echo ≈ 2R_S/c2 · ln(R_S/L_P)
@@ -542,8 +485,6 @@ Die modifizierte Hawking-Strahlung trägt Informationen über:
 
 Durch verschränkte Zustände über den Horizont hinweg:
 
-text
-
 ```
 Teilchen A (Mode 1) ↔ Teilchen B (Mode 2)
 ```
@@ -592,8 +533,6 @@ Detaillierte Analyse des Hawking-Spektrums auf Modensprung-Signaturen:
 
 In der RFT ist der Ereignishorizont keine scharfe Grenze, sondern eine **Übergangsregion**:
 
-text
-
 ```
 Mode 1 → Übergangsregion (δr ≈ L_P) → Mode 2
 ```
@@ -613,8 +552,6 @@ Während des Hawking-Verdampfens:
 #### 10.4.3 Maximale Information
 
 Die maximal mögliche Information über das Innere ist begrenzt durch:
-
-text
 
 ```
 I_max ≈ S_BH = k_B A/(4 L_P²)
@@ -717,15 +654,9 @@ Weitere Forschungsrichtungen:
 
 Ausgehend von den exakten Dispersionrelationen:
 
-text
-
 ```
 ω1²(k) = c1² k² + ω0² ∑_{n=0}^∞ (k a1)^{2n}/n!
 ```
-
-
-
-text
 
 ```
 ω2²(k) = c2² k² + ω0'² ∑_{n=0}^∞ (k a2)^{2n}/n!
@@ -739,8 +670,6 @@ Die Modensprung-Bedingung ω1(k_P) = ω2(k_P) führt zu einer transzendenten Gle
 
 Die vollständige radiale Gleichung in Mode 2:
 
-text
-
 ```
 d²Φ2/dr² + 2/r dΦ2/dr - 1/c2² (κ2 Φ2 + λ2 Φ2³ + μ2 Φ2⁵) = 0
 ```
@@ -749,9 +678,29 @@ d²Φ2/dr² + 2/r dΦ2/dr - 1/c2² (κ2 Φ2 + λ2 Φ2³ + μ2 Φ2⁵) = 0
 
 mit höheren nichtlinearen Termen μ2 Φ2⁵.
 
-------
+---
 
-**Ende des Dokuments**
+## 📜 Urheberrecht & Lizenz
 
-© 2025 - RFT-Projekt
-Franz Zollner & Claude (Anthropic)
+**© 2025 Franz Zollner - RFT-Physik-Projekt**  
+Alle Rechte vorbehalten.
+
+**Lizenz:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
+
+**Sie dürfen:**
+- ✅ Dieses Werk lesen und für private Zwecke nutzen
+- ✅ Wissenschaftlich zitieren (mit Quellenangabe)
+- ✅ In Bildungsinstitutionen verwenden
+
+**Sie dürfen NICHT:**
+- ❌ Kommerziell nutzen
+- ❌ Bearbeiten oder verändern  
+- ❌ Ohne Namensnennung verwenden
+
+**Vollständige Lizenzinformationen:** [https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md](https://da-Franze.github.io/RFT-Physik-Projekt/de/mitwirken.md)
+
+**Kontakt für Nutzungsanfragen:** [rft.projekt@posteo.de](mailto:rft.projekt@posteo.de)
+
+---
+*Dokument zuletzt aktualisiert: Oktober 2025*  
+[← Zurück zur Dokumenten-Übersicht](../README.md)
