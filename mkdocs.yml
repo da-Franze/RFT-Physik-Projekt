@@ -1,27 +1,33 @@
-# mkdocs.yml — arbeitet mit deiner bestehenden Struktur
 site_name: RFT – Resonanzfeldtheorie
 site_url: https://da-Franze.github.io/RFT-Physik-Projekt/
 repo_url: https://github.com/da-Franze/RFT-Physik-Projekt
 repo_name: RFT-Physik-Projekt
 
-# WICHTIG: Wir nutzen das Repo-Wurzelverzeichnis als Quelle, damit
-# sowohl de/docs als auch en/docs ohne Verschieben funktionieren.
+# Wir arbeiten direkt aus dem Repo-Root, damit de/… und en/… ohne Umbau funktionieren.
 docs_dir: .
 
 theme:
   name: material
 
-# README.md als Startseite, KEIN index.md nötig.
+# README.md als Startseite – kein index.md nötig.
 nav:
   - Home: README.md
   - Deutsch:
       - Überblick: de/README.md
       - Fortgeschritten:
           - Supraleitung (RFT_48): de/docs/fortgeschritten/RFT_48_Supraleitung.md
-      # -> Hier kannst du Schritt für Schritt weitere DE-Seiten ergänzen
   - English:
       - Overview: en/README.md
-      # -> Und hier die EN-Seiten
+      # Weitere EN-Seiten kannst du hier schrittweise ergänzen.
 
-# Bricht den Build nicht ab, wenn mal ein Link/Datei fehlt, bis alles sitzt.
+# Bis alles verlinkt ist, bricht der Build nicht wegen toter Links ab.
 strict: false
+
+# (Optional sinnvoll, aber unkritisch) gängige Markdown-Extras:
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - footnotes
+  - attr_list
