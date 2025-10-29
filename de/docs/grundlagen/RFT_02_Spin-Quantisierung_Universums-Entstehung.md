@@ -1,4 +1,4 @@
--# RFT_02: Spin-Quantisierung und kosmologische Zeitentwicklung
+# RFT_02: Spin-Quantisierung und kosmologische Zeitentwicklung
 
 **Version:** 5.1 (Oktober 2025)  
 **Erstellungsdatum:** 28. Oktober 2025  
