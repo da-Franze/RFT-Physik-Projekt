@@ -3,13 +3,11 @@ site_url: https://da-franze.github.io/RFT-Physik-Projekt/
 repo_url: https://github.com/da-Franze/RFT-Physik-Projekt
 repo_name: RFT-Physik-Projekt
 
-# Aus dem Repo-Root bauen – passt zu deiner Struktur
 docs_dir: .
 
 theme:
   name: material
 
-# Nur Pfade, die im Screenshot eindeutig vorhanden sind (keine abgeschnittenen Namen!)
 nav:
   - Home: README.md
   - Deutsch:
@@ -46,7 +44,6 @@ nav:
       - Contact: en/contact.md
       - Contribute: en/contribute.md
 
-# Nicht wegen Kleinigkeiten abbrechen, solange wir die Nav schrittweise erweitern
 strict: false
 
 markdown_extensions:
