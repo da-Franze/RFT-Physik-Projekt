@@ -1,4 +1,3 @@
-```
 # RFT_48: Raumgitter-Resonanztheorie der Supraleitung - Technischer Bericht
 
 ## Zusammenfassung
@@ -219,8 +218,8 @@ Die RFT-basierte Theorie der Supraleitung bietet einen vielversprechenden neuen 
 Die vorgeschlagenen Materialkombinationen, insbesondere SRCB-300v3, stellen realistische Kandidaten für die experimentelle Umsetzung dar. Bei erfolgreicher Verifikation würde dies nicht nur einen Durchbruch in der Supraleitung bedeuten, sondern auch die RFT als fundamentale physikalische Theorie bestätigen.
 
 Die experimentelle Überprüfung der Vorhersagen ist der kritische nächste Schritt. Die hier beschriebene Theorie liefert hierfür einen klaren Fahrplan und spezifische, testbare Vorhersagen.
----
 
+---
 ## 📜 Urheberrecht & Lizenz
 
 **© 2025 Franz Zollner - RFT-Physik-Projekt**  
@@ -245,5 +244,3 @@ Alle Rechte vorbehalten.
 ---
 *Dokument zuletzt aktualisiert: Oktober 2025*  
 [← Zurück zur Dokumenten-Übersicht](../README.md)
-```
-
