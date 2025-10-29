@@ -1,33 +1,31 @@
 site_name: RFT – Resonanzfeldtheorie
-site_url: https://da-Franze.github.io/RFT-Physik-Projekt/
+site_url: https://da-franze.github.io/RFT-Physik-Projekt/
 repo_url: https://github.com/da-Franze/RFT-Physik-Projekt
 repo_name: RFT-Physik-Projekt
 
-# Wir arbeiten direkt aus dem Repo-Root, damit de/… und en/… ohne Umbau funktionieren.
+# WICHTIG: wir lassen das Repo-Root scannen, verlinken aber NUR das,
+# was in 'nav' steht. .github/ etc. werden nicht eingebunden.
 docs_dir: .
 
 theme:
   name: material
 
-# README.md als Startseite – kein index.md nötig.
 nav:
-  - Home: README.md
+  - Start (DE): de/docs/index.md
   - Deutsch:
-      - Überblick: de/README.md
-      - Fortgeschritten:
-          - Supraleitung (RFT_48): de/docs/fortgeschritten/RFT_48_Supraleitung.md
+      - Übersicht: de/docs/index.md
+      # Beispiel – bitte anpassen/erweitern:
+      - Supraleitung (RFT_48): de/docs/fortgeschritten/RFT_48_Supraleitung.md
+      # ...weitere deutsche Seiten hier...
   - English:
-      - Overview: en/README.md
-      # Weitere EN-Seiten kannst du hier schrittweise ergänzen.
+      - Home (EN): en/docs/index.md
+      # ...weitere englische Seiten hier...
 
-# Bis alles verlinkt ist, bricht der Build nicht wegen toter Links ab.
-strict: false
-
-# (Optional sinnvoll, aber unkritisch) gängige Markdown-Extras:
+# (Optional) Markdown-Extras
 markdown_extensions:
+  - admonition
   - toc:
       permalink: true
-  - tables
-  - admonition
-  - footnotes
-  - attr_list
+
+# Ausgabeordner (Standard wäre 'site')
+site_dir: site
