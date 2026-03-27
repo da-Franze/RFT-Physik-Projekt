@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # 🚧 Under Construction - Work in Progress
 
 > **Transparent overview of what's coming next in the English translation of Resonance Field Theory**

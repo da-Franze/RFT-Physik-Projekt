@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 10 - Quantum Mechanics in Resonance Field Theory
 
 > **Core Thesis:** Quantum phenomena emerge naturally from the resonance field structure - wave functions represent resonance modes, measurement is resonance selection, and entanglement is non-local resonance correlation.

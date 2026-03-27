@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 02 - Spin Quantization and the Origin of the Universe
 
 > **Core Thesis:** The quantization of spin is not a quantum mechanical property of particles, but the **fundamental organizational principle of the Resonance Field Structure** from which the entire universe emerges.

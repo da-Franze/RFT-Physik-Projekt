@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # 📚 RFT_23: Das RFT-Photonenmodell
 **Vollständiges Lehrbuch der Resonanzfeldtheorie | Band 23**
 

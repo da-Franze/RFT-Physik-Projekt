@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 04 - Cold Condensation and Matter-Antimatter Asymmetry
 
 > **Core Thesis:** The universe began not with a hot Big Bang, but through a **cold condensation process** where matter emerged preferentially due to fundamental asymmetries in the Resonance Field Structure.

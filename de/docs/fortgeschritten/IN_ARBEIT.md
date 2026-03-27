@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # 🔧 Dokumente in Arbeit - Fortgeschrittene Konzepte
 
 **Diese innovativen Forschungs-Themen werden in Kürze verfügbar sein:**

@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 03 - Dynamic Resonance Matrix
 
 > **Core Thesis:** The Dynamic Resonance Matrix is the **mathematical operator that describes the self-organizing dynamics** of the Resonance Field Structure - it's the "engine" of reality.

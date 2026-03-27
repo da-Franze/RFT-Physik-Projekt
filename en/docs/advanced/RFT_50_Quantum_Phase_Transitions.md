@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 50 - Quantum Phase Transitions
 
 > **Core Thesis:** Quantum phase transitions in the Resonance Field Theory are not thermal phenomena but **topological reorganizations** of the resonance structure that fundamentally alter the properties of reality.

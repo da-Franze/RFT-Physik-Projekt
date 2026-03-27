@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 06 - Experimental Foundations and Test Protocols
 
 > **Core Thesis:** The Resonance Field Theory makes specific, testable predictions that distinguish it from established physics - here are the protocols to validate or falsify the theory through experiment.

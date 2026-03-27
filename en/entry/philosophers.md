@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # Resonance Field Theory - For Philosophers
 
 > **A metaphysical framework where reality emerges from relational resonance rather than substantial entities.**

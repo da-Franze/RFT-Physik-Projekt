@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT_42 v5.0: Kondensation & Materie-Antimaterie-Asymmetrie
 
 **Version:** 5.0 (Oktober 2025)  

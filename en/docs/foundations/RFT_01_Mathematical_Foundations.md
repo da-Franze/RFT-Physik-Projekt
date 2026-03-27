@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 01 - Mathematical Foundations of Resonance Field Theory
 
 > **Core Thesis:** The mathematical description of the Resonance Field Theory (RFT) is not based on abstract equations, but on the **geometric and topological properties of a dynamic, resonant structure** – the Resonance Field Structure.

@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # Contact - Resonance Field Theory Project
 
 > **Get in touch for scientific discussion, collaboration, or questions about the Resonance Field Theory**

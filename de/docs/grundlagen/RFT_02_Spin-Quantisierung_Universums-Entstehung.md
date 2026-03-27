@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT_02: Spin-Quantisierung und kosmologische Zeitentwicklung
 
 **Version:** 5.1 (Oktober 2025)  

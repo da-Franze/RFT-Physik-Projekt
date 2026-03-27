@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
+
 # RFT 08 - Philosophical Foundations of Resonance Field Theory
 
 > **Core Thesis:** The Resonance Field Theory represents not just a physical theory but a comprehensive philosophical framework that redefines our understanding of reality, consciousness, and the nature of existence.
