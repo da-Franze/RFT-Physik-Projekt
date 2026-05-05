@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Resonance Field Theory (RFT) — Theory Documentation"
+authors:
+  - family-names: Zollner
+    given-names: Franz
+    email: rft.projekt@posteo.de
+version: "3.0"
+date-released: "2026-05-05"
+doi: 10.5281/zenodo.19259914
+url: "https://github.com/da-Franze/RFT-Physik-Projekt"
+license: CC-BY-NC-ND-4.0
+abstract: >
+  Resonance Field Theory (RFT) is a fundamental physics framework describing
+  space structure, particle physics, and cosmology through resonance geometry.
+  The Mastergleichung (Master Equation) ∂²σ/∂t² - c²∇²σ + κT(r) = 0 has
+  remained structurally stable since January 2025. Key result: geometric
+  derivation of the fine-structure constant α⁻¹ = 4π³+π²+π = 137.036304
+  (2.22 ppm from CODATA).
+keywords:
+  - resonance field theory
+  - fundamental physics
+  - fine-structure constant
+  - quantum mechanics
+  - alternative theory

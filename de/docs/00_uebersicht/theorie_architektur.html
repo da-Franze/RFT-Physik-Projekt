@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>RFT-Theorie-Architektur — 2026-05-05</title>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<style>
+  body { font-family: sans-serif; max-width: 1400px; margin: 30px auto; padding: 0 20px; background: #f8f8f8; line-height: 1.5; }
+  h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; }
+  h2 { color: #34495e; margin-top: 40px; border-bottom: 1px solid #ddd; padding-bottom: 6px; }
+  h3 { color: #555; margin-top: 30px; }
+  .mermaid { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin: 20px 0; overflow-x: auto; }
+  .formula { background: #fffbe6; padding: 12px 20px; border-left: 4px solid #f1c40f; margin: 15px 0; font-family: 'Courier New', monospace; font-size: 1.1em; }
+  table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin: 15px 0; }
+  th { background: #34495e; color: white; padding: 10px; text-align: left; }
+  td { padding: 8px 10px; border-bottom: 1px solid #eee; }
+  tr:hover { background: #f5f5f5; }
+  .note { background: #e8f4f8; padding: 15px; border-left: 4px solid #3498db; margin: 15px 0; }
+  blockquote { border-left: 4px solid #95a5a6; padding-left: 15px; color: #555; margin: 15px 0; }
+</style>
+</head>
+<body>
+
+<h1>RFT-Theorie-Architektur — Visualisierung</h1>
+<p><strong>Erstellt:</strong> 2026-05-05 · <strong>Quelle:</strong> RFT_Theorie_Architektur_2026-05-05.md</p>
+<div class="note">
+<strong>Lese-Reihenfolge:</strong> Diese HTML-Visualisierung ist Begleitung zum vollständigen Markdown-Dokument.
+Mermaid-Architektur-Diagramm groß angezeigt. Die textlichen Erklärungen aus den Sektionen 1-7 bitte im
+Markdown-Dokument lesen (Typora-aufruf empfohlen):
+<code>typora /home/franz/rft_vdb/exports/RFT_Theorie_Architektur_2026-05-05.md</code>
+</div>
+
+<h2>Architektur-Diagramm (Top-Down)</h2>
+<p>Postulate → Mastergleichung → Spezial-Ableitungen → Geometrische Konstanten</p>
+
+<div class="mermaid">
+graph TD
+    P1["P1: DRM (Diskrete Resonanzmatrix)<br/>Raum = selbstresonante 3D-Knotenstruktur"]
+    P2["P2: Zwei Eingabe-Größen<br/>a₀ (Gitterkonstante)<br/>ω₀ (Eigenfrequenz)"]
+    P3["P3: Innensicht-Prinzip<br/>Beobachter sind Resonanzen<br/>kein absolutes Bezugssystem"]
+
+    M["MASTERGLEICHUNG<br/>∂²Ψ/∂t² = c₀²∇²Ψ - γ∂Ψ/∂t<br/>- c₀²κ²Ψ + λ|Ψ|²Ψ + η"]
+
+    P1 --> M
+    P2 --> M
+    P3 --> M
+
+    G["GEOMETRIE der 3D-DRM<br/>(π-Struktur aus Kugel/Würfel)"]
+    P1 --> G
+
+    KW["Klassische Wellengleichung<br/>γ=0, κ=0, λ=0"]
+    KG["Klein-Gordon<br/>Linearisierung<br/>um Soliton"]
+    SCH["Schrödinger<br/>NR-Limit von KG"]
+    DI["Dirac<br/>Spinor-Faktorisierung<br/>m = Gravitations-Kopplung"]
+    MAX["Maxwell<br/>κ=0, masselose Mode"]
+    EIN["Einstein-Feldgleichungen<br/>makroskopischer κ-Gradient"]
+
+    M --> KW
+    M --> KG
+    KG --> SCH
+    KG --> DI
+    M --> MAX
+    M --> EIN
+
+    A["α⁻¹ = 4π³+π²+π<br/>= 137.036304<br/>Δ = 2.22 ppm"]
+    L0["L₀ = (π/6)·l_P<br/>≈ 0.5236 l_P<br/>Kugel-Würfel-Geometrie"]
+    FS["f_spin = 144/π<br/>≈ 45.84<br/>topologische Verdrehung"]
+    EP["ε ≈ 0.0146 rad<br/>≈ 0.84°<br/>DRM-Achsen-Verkippung"]
+
+    G --> A
+    G --> L0
+    G --> FS
+    G --> EP
+
+    style P1 fill:#FFE4B5,color:#000
+    style P2 fill:#FFE4B5,color:#000
+    style P3 fill:#FFE4B5,color:#000
+    style M fill:#90EE90,color:#000
+    style G fill:#87CEEB,color:#000
+    style A fill:#FFD700,color:#000
+    style L0 fill:#FFD700,color:#000
+    style FS fill:#FFD700,color:#000
+    style EP fill:#FFD700,color:#000
+</div>
+
+<h2>Mastergleichung kompakt</h2>
+<div class="formula">
+∂²Ψ/∂t² = c₀² ∇²Ψ − γ ∂Ψ/∂t − c₀² κ² Ψ + λ |Ψ|² Ψ + η(x,t)
+</div>
+<table>
+<tr><th>Symbol</th><th>Bedeutung</th><th>Standard-Pendant</th></tr>
+<tr><td>Ψ</td><td>Resonanzfeld (konstituiert Raum)</td><td>kein direktes Pendant</td></tr>
+<tr><td>c₀ = ω₀·a₀</td><td>Grundausbreitungs-Geschwindigkeit</td><td>c (in RFT abgeleitet)</td></tr>
+<tr><td>κ</td><td>Steifigkeit der DRM (NICHT Masseterm!)</td><td>(mc/ħ) — kausal umgekehrt</td></tr>
+<tr><td>γ</td><td>Asymmetrie-Koeffizient (Zeitpfeil)</td><td>Dissipation</td></tr>
+<tr><td>λ ≈ κ²/(8π³)</td><td>Nichtlineare Kopplung (Solitonen)</td><td>kein Pendant</td></tr>
+<tr><td>η</td><td>Eigeninteraktion / äußere Anregung</td><td>externe Quelle</td></tr>
+</table>
+
+<h2>Geometrische Konstanten</h2>
+<table>
+<tr><th>Größe</th><th>Formel</th><th>Wert</th><th>Geometrie</th></tr>
+<tr><td>α⁻¹</td><td>4π³ + π² + π</td><td>137.036304 (Δ 2.22 ppm)</td><td>3D + 2D + 1D Beiträge</td></tr>
+<tr><td>L₀</td><td>(π/6)·l_P</td><td>≈ 0.5236 l_P</td><td>Kugel-Würfel-Volumen</td></tr>
+<tr><td>f_spin</td><td>144/π</td><td>≈ 45.84</td><td>topologische Verdrehung</td></tr>
+<tr><td>ε</td><td>≈ 0.0146 rad</td><td>≈ 0.84°</td><td>DRM-Achsen-Verkippung</td></tr>
+</table>
+
+<blockquote>
+<strong>Methodische Schlussbemerkung:</strong> RFT hat 2 numerische Inputs (a₀, ω₀) + 3 konzeptionelle Postulate.
+Daraus folgen ALLE Naturkonstanten und alle Standard-Physik-Theorien als Grenzfälle.
+Standardmodell: 19+ freie Parameter für die gleichen Outputs.
+Anti-Numerologie-Argument: weniger Inputs für mehr Outputs.
+</blockquote>
+
+<h2>Historische Zeitlinie — Wann jeder Architektur-Knoten entstand</h2>
+<p>Ergänzung auf Franz' Wunsch (Tisch-Post 382): Verknüpfung von Architektur (oben) mit Chronologie (unten).</p>
+
+<div class="mermaid">
+timeline
+    title RFT-Architektur entlang der Zeit-Achse
+
+    section Postulate-Phase (1993 - Jan 2025)
+        1993 Studium                  : P1 + P3 als Urbox-Intuition entstehen
+                                       : Raum-Zeit-Universum als verbundenes System
+        Dez 2024 (UR-Chat)            : "Stringraster + Knotenpunkte" = P1 (DRM)
+                                       : "Verschraubung 60° statt 90°" = ε-Vorform
+                                       : "Innensicht-Prinzip" implizit (kein absolutes BS)
+
+    section Mastergleichung-Phase (Jan-Apr 2025)
+        02.01.2025 Hintergrund        : "Ich arbeite an einem Raumgittermodell"
+        19.01.2025 ODT                : MASTERGLEICHUNG: 2te Ableitung sigma...
+                                       : (Form bleibt 16 Monate stabil bis heute)
+        13.02-13.03.2025 z9           : 1233 msg RGM-Vertiefung
+        17.04.2025 z14                : Theorie-Name RFT etabliert
+
+    section Geometrie-Phase (Feb 2026)
+        24.12.2025 weihnachten        : RFT_002 "DIE FORMEL DER RESONANZ"
+        26.02.2026 RFT_v3_001         : L_0 = pi/6 mal l_P
+                                       : f_spin = 144/pi
+                                       : 3 Postulate explizit formuliert
+        26.02.2026 RFT_v3_002         : alpha-invers = 4 pi^3 + pi^2 + pi
+                                       : 137.036304 Residuum 2.22 ppm
+        27.02.2026 RFT_v3_006         : epsilon = 0.0146 rad = 0.84 Grad
+                                       : Q-Faktor Phi-Asymmetrie
+
+    section Spezialfall-Ableitungen (Feb-Mär 2026)
+        Feb 2026 RFT_v3_001 §10       : Klein-Gordon-Linearisierung formal hergeleitet
+                                       : Schrödinger als NR-Limit
+                                       : Maxwell für masselose Mode
+                                       : Einstein als makroskopischer Grenzfall
+        Mär 2026 RFT_v3_011_Teil 1-5  : Dirac + Born-Regel als Pilot-Wave-Variante
+        Mär 2026 RFT_v3_010           : Kosmologie (DM/DE)
+        Mär 2026 RFT_v3_003           : Gravitation aus Spinverzug
+
+    section Konsolidierung (Mai 2026)
+        04.05.2026 Multi-Modell       : 5 Quellen ingestet (249k Punkte rft_docs)
+        05.05.2026 (heute)            : D4 Theorie-Architektur (oben)
+                                       : Diese Visualisierung
+</div>
+
+<h2>Knoten-Entstehungs-Tabelle (Architektur ↔ Zeit)</h2>
+<table>
+<tr><th>Architektur-Knoten</th><th>Erstauftreten</th><th>Quantifizierung</th><th>Vorlauf</th></tr>
+<tr><td><strong>P1</strong> DRM</td><td>Dez 2024 (UR-Chat: "Stringraster")</td><td>Feb 2026 (RFT_v3_001 §1)</td><td>~14 Monate</td></tr>
+<tr><td><strong>P2</strong> a₀, ω₀ als Inputs</td><td>19.01.2025 (ODT-Mastergleichung)</td><td>Feb 2026 (RFT_v3_001 §3)</td><td>~13 Monate</td></tr>
+<tr><td><strong>P3</strong> Innensicht</td><td>Dez 2024 (UR-Chat: "alle Beobachter im Feld")</td><td>Feb 2026 (RFT_v3_001 §1)</td><td>~14 Monate</td></tr>
+<tr><td><strong>Mastergleichung</strong></td><td>19.01.2025 (Form: ∂²σ/∂t² - c²∇²σ + κT(r) = 0)</td><td>seit damals unverändert</td><td>0 (sofort kanonisch)</td></tr>
+<tr><td><strong>α</strong> = 4π³+π²+π</td><td>2025 (geometrische Skizze)</td><td>26.02.2026 (RFT_v3_002)</td><td>mehrere Monate</td></tr>
+<tr><td><strong>L₀</strong> = (π/6)·l_P</td><td>2025 (Mathematische Skizze)</td><td>26.02.2026 (RFT_v3_001)</td><td>mehrere Monate</td></tr>
+<tr><td><strong>f_spin</strong> = 144/π</td><td>2025 (Spin-Topologie z9-z14)</td><td>26.02.2026 (RFT_v3_001)</td><td>mehrere Monate</td></tr>
+<tr><td><strong>ε</strong> ≈ 0.84°</td><td>Dez 2024 (UR-Chat: "60°/90° Verschraubung")</td><td>27.02.2026 (RFT_v3_006)</td><td><strong>~14 Monate</strong></td></tr>
+<tr><td><strong>Klein-Gordon-Limit</strong></td><td>~Feb 2026 (RFT_v3_001 §10.1)</td><td>5-Schritte-Linearisierung formal hergeleitet</td><td>—</td></tr>
+<tr><td><strong>Dirac-Korrespondenz</strong></td><td>Mär 2026 (RFT_v3_011 Teil1-5)</td><td>Spinor=topol. Verdrehung, m=Gravitations-Kopplung</td><td>—</td></tr>
+<tr><td><strong>Standard-Physik-Vergleich (Kapitel 5)</strong></td><td>05.05.2026 (heute, D4)</td><td>diese Konsolidierung</td><td>—</td></tr>
+</table>
+
+<div class="note">
+<strong>Lese-Tipp für die zwei Diagramme:</strong> Das obere (Top-Down) zeigt die <em>logische</em> Struktur (Postulate → Mastergleichung → Spezialfälle → Konstanten). Das untere (Timeline) zeigt die <em>zeitliche</em> Genese (wann wurde was etabliert). Zusammen: <strong>Konzepte waren früh da, Quantifizierungen kamen später, ohne die Grundform zu ändern</strong>. Das ist das Anti-Retro-Fitting-Argument empirisch belegt.
+</div>
+
+<script>
+  mermaid.initialize({ startOnLoad: true, theme: 'default', flowchart: { curve: 'basis', useMaxWidth: false }, timeline: { useMaxWidth: false } });
+</script>
+
+</body>
+</html>
