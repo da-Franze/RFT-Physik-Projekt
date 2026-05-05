@@ -427,12 +427,18 @@ Beschleunigung als ein Proton — wenn auch der Unterschied sehr klein ist.
 
 $$\Delta g_{e^- \text{ vs. Proton}} \approx \eta_B \cdot g \approx 6 \times 10^{-10} \cdot g$$
 
-⚠️ **Anmerkung:** Frühere RFT-Versionen nannten Δg ~ 10⁻⁵ für Elektronen
-vs. Hadronen (DC v1.1, Dezember 2025). Die aktuelle Berechnung η_B = 6×10⁻¹⁰
-ersetzt diesen Wert. Die ältere Zahl ist ein historischer Schätzwert ohne
-rigoros berechnete Basis; η_B ist die aktuelle kanonische Vorhersage.
-🚩 **Offene Frage:** Ist der Widerspruch zwischen alten 10⁻⁵ und neuem 6×10⁻¹⁰
-vollständig aufgeklärt? Franz-Klärung erforderlich.
+**Anmerkung (Klärung 2026-05-06):** Frühere RFT-Versionen (DC v1.1, Dezember 2025)
+nannten Δm/m ~ 10⁻⁵ für **Cooper-Paar-Gravimetrie** (RFT_003 v2.2 §12.1,
+RFT_004 v7.0 §8.3). Dieser Wert gilt weiterhin für den Cooper-Paar-Test
+(siehe §6.3 dieses Dokuments mit η_Cooper ≈ 1−2α ≈ 0.985 — der Faktor 2
+in 2α reflektiert dabei direkt die zwei Elektronen des Cooper-Paares).
+
+Der hier vorhergesagte η_B ≈ 6×10⁻¹⁰ ist eine **andere Observable**: der
+Eötvös-Parameter für **normale Materie** (Z/A-Variation, Be/Ti/Cu/U) bei
+minimaler Elektronen-Beimischung in den Hadronen.
+
+Beide Werte sind RFT-konsistent und ersetzen sich nicht — sie messen
+verschiedene physikalische Konfigurationen.
 
 ### 6.2 Das Photon: 2 Ankerpunkte, gravitationsneutral
 
@@ -577,18 +583,30 @@ noch nicht vollständig formalisiert.
 **Offen:** Welcher physikalische Prozess verbindet die α-Phasenasymmetrie
 (2,22 ppm) mit dem Q_krit1-Faktor (α⁻¹·π²)^(2/3)?
 
-### 8.3 Widerspruch 10⁻⁵ vs. 6×10⁻¹⁰
+### 8.3 Resolution: 10⁻⁵ und 6×10⁻¹⁰ — verschiedene Observablen ✓
 
-🚩 **Offene Frage (Priorität MITTEL):**
+✓ **Klarstellung (2026-05-06, ehemals offene Flagge):**
 
-Ältere RFT-Dokumente (DC v1.1, Dez 2025) nennen Δg ~ 10⁻⁵ für
-Elektronen vs. Hadronen (RFT_v3_004, Flag 4). Der aktuelle kanonische
-Wert ist η_B ≈ 6×10⁻¹⁰. Dieser Widerspruch um ~5 Größenordnungen bedarf
-einer klärenden Aussage von Franz:
+Die zwei Werte beschreiben *verschiedene* physikalische Konfigurationen,
+nicht denselben Effekt:
 
-- Beschreiben beide Zahlen verschiedene Observablen?
-- War 10⁻⁵ ein Schätzwert für einen anderen Effekt?
-- Ist 6×10⁻¹⁰ der richtige Eötvös-Parameter?
+| Wert | Was es ist | Test-Methode | Im Dokument |
+|------|------------|--------------|-------------|
+| Δm/m ~ 10⁻⁵ | Cooper-Paar-Reduktion m_g | Cooper-Paar-Gravimetrie (PTB) | §6.3 |
+| η_B ≈ 6×10⁻¹⁰ | ÄP-Bruch in normaler Materie | Eötvös-Test (MICROSCOPE) | §5 |
+
+Der Cooper-Paar-Effekt (η_Cooper ≈ 1−2α ≈ 0.985) hängt direkt mit den **zwei
+Elektronen** des Paares zusammen — der Faktor 2 in 2α reflektiert die
+gepaarte Spin-Antiparallel-Konfiguration.
+
+η_B für normale Materie hingegen ist die kleine Restabweichung durch die
+α-Phasenasymmetrie (Δ_α = 2.22 ppm), die durch Z/A-Variation in Festkörpern
+mit verschiedener Elektronen-zu-Nukleon-Zusammensetzung messbar wird.
+
+**Ältere RFT-Dokumente** (RFT_003 v2.2 §12.1, RFT_004 v7.0 §8.3) ordneten
+Δm/m ~ 10⁻⁵ explizit dem Cooper-Paar-Test zu („Test: Cooper-Paar-
+Gravimetrie") — das ist also **nicht** dieselbe Größe wie η_B. Die beiden
+Vorhersagen ersetzen sich nicht, sie ergänzen sich.
 
 ### 8.4 Geometrischer Faktor 𝓕
 
@@ -678,7 +696,7 @@ DRM-Geometrie (c, L₀, α)
 ```
 🚩 4π-Koinzidenz formal beweisen     (Priorität HOCH)
 🚩 Mechanismus von η_B herleiten     (Priorität MITTEL)
-🚩 Widerspruch 10⁻⁵ vs. 6×10⁻¹⁰ klären  (Franz!)
+✓ 10⁻⁵ vs. 6×10⁻¹⁰: geklärt — verschiedene Observablen (§8.3)
 ⚠️ Geometrischer Faktor 𝓕            (experimentelle Vorhersagen)
 ○  ħ-freie Formulierung von m_i      (konzeptuelle Vollständigkeit)
 ```
