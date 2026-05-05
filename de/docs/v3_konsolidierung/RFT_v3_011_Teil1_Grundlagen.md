@@ -962,7 +962,7 @@ Alle QM-Vorhersagen reproduziert:
 | Kritik | Quelle | RFT-Antwort |
 |--------|--------|-------------|
 | Quantum Equilibrium postuliert | Pauli, Heisenberg | Born-Regel wird hergeleitet |
-| Führungsfeld: kein Medium | Viele | Raummatrix = das Medium |
+| Führungsfeld: kein Medium | Viele | Raummatrix = das Medium (Lorentz-invariant, kein Äther) |
 | Nicht-relativistisch | Korrekt | v3_004 + Erweiterung offen |
 | "Überflüssig" (Occams Razor) | Kopenhagen | Erklärt was Kopenhagen nicht kann |
 

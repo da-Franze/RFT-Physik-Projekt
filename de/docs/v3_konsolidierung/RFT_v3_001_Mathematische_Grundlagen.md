@@ -162,7 +162,7 @@ Da die Master-Gleichung das Universum selbst beschreibt, gibt es keine externe A
 
 ### 2.3 Historische Anmerkung zur Formulierung
 
-Die Master-Gleichung wurde von Franz Zollner von Anfang an als Resonanzgleichung formuliert – als Antwort auf die Frage, welche minimalen Terme ein selbstresonierendes Medium erfordert. Der κ²Ψ-Term war von Beginn an als Resonanz-Steifigkeit des Gitters konzipiert, nicht als Import der Klein-Gordon-Masse. Diese Entstehungsgeschichte ist für die Interpretation entscheidend.
+Die Master-Gleichung wurde von Franz Zollner von Anfang an als Resonanzgleichung formuliert – als Antwort auf die Frage, welche minimalen Terme ein selbstresonierendes Medium (Lorentz-invariant, kein klassischer Äther) erfordert. Der κ²Ψ-Term war von Beginn an als Resonanz-Steifigkeit des Gitters konzipiert, nicht als Import der Klein-Gordon-Masse. Diese Entstehungsgeschichte ist für die Interpretation entscheidend.
 
 ---
 
