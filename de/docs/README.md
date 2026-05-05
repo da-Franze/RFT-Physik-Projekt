@@ -6,116 +6,119 @@
 
 ---
 
-## 🎯 Überblick
+## 🎯 Schnell-Einstieg
 
-Diese Dokumentation umfasst **42 RFT-Dokumente** in 4 thematischen Serien. Aktuell sind **10 Grundlagen-Dokumente online**, weitere folgen in den kommenden Monaten.
+**Stand:** 2026-05-05 — Repo wurde komplett auf v3-Stand aktualisiert.
 
-**Stand: Oktober 2025**
+> ⚡ **Wenn du nur 5 Minuten hast:** Lies [00_uebersicht/theorie_architektur.md](00_uebersicht/theorie_architektur.md) — das zeigt die ganze RFT als Top-Down-Diagramm (Postulate → Mastergleichung → Spezial-Ableitungen → Konstanten).
 
----
+> 📖 **Wenn du tiefer einsteigen willst:** [v3_konsolidierung/](v3_konsolidierung/) ist der aktuelle Stand der Theorie (Februar 2026).
 
-## 📖 Dokumente nach Thematischen Serien
-
-### 1. 🏗️ GRUNDLAGEN-SERIE (RFT_01-10) - ✅ KOMPLETT ONLINE
-**Fundamentale Konzepte und mathematische Basis**
-
-| Dokument | Titel | Version | Status |
-|----------|-------|---------|--------|
-| [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen.md) | Mathematische Grundlagen mit Ankerpunkt-Physik | v6.0 | ✅ Online |
-| [RFT_02](grundlagen/RFT_02_Spin-Quantisierung_Universums-Entstehung.md) | Spin-Quantisierung & Universums-Entstehung | v4.0 | ✅ Online |
-| [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md) | Dynamische Resonanzmatrix | v3.0 | ✅ Online |
-| [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md) | Kalte Kondensation & Materie-Asymmetrie | v4.1 | ✅ Online |
-| [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_MAGNETISMUS.md) | Teilchenphysik, Wirbelstrukturen & Magnetismus | v3.1 | ✅ Online |
-| [RFT_06](grundlagen/RFT_06_Experimentelle_Grundlag.md) | Experimentelle Grundlagen & Testprotokolle | v3.0 | ✅ Online |
-| [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md) | Gravitation & Raumzeit-Dynamik | v3.0 | ✅ Online |
-| [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md) | Philosophische Grundlagen der RFT | v4.0 | ✅ Online |
-| [RFT_09](grundlagen/RFT_09_Kosmologie_Großraum-Strukturen.md) | Kosmologie & Großraum-Strukturen | v4.0 | ✅ Online |
-| [RFT_10](grundlagen/RFT_10_Quantenmechanik.md) | Quantenmechanik in der RFT | v4.0 | ✅ Online |
-
-### 2. 🔬 ANWENDUNGEN (RFT_11-20) - 🔜 IN VORBEREITUNG
-**Praktische Anwendungen und spezifische Phänomene**
-
-| Dokument | Titel | Status |
-|----------|-------|--------|
-| RFT_11 | Thermodynamik & Statistische Mechanik | 🚧 In Vorbereitung |
-| RFT_12 | Optik & Elektromagnetismus | 🚧 In Bearbeitung |
-| RFT_13 | Supraleitung und Super-Eigenschaften | 🚧 In Planung |
-| RFT_14 | Standardmodell-Korrespondenz | 🚧 In Entwicklung |
-| RFT_15 | Dunkle Materie als Resonanzfeld-Effekt | 🚧 In Arbeit |
-| RFT_16 | Quark-Struktur & Hadronen-Physik | 🚧 In Vorbereitung |
-| RFT_17 | Cooper-Paare & Supraleitung | 🚧 In Bearbeitung |
-| RFT_19 | Master-String & Informationstheoretische Grundlagen | 🚧 In Planung |
-| RFT_20 | Informationstheorie & RFT-Anwendungen | 🚧 In Entwicklung |
-
-**[→ Ausführliche Planung & Zeitplan](anwendungen/IN_ARBEIT.md)**
-
-### 3. 🎯 SPEZIALISIERUNGS-SERIE (RFT_21-30) - 🔜 IN VORBEREITUNG
-**Vertiefte Spezialthemen und Konsolidierungen**
-
-| Dokument | Titel | Status |
-|----------|-------|--------|
-| RFT_21 | Spindominanz - Vollständig konsolidierte Spin-Theorie | 🚧 In Vorbereitung |
-| RFT_22 | Nicht-Lokalität und Verschränkung | 🚧 In Bearbeitung |
-| RFT_23 | Das RFT-Photonenmodell | 🚧 In Planung |
-| RFT_24 | Das Doppelspalt-Experiment | 🚧 In Entwicklung |
-| RFT_25 | Kosmologische Strukturen | 🚧 In Arbeit |
-| RFT_26 | Mechanismus der Trägheit | 🚧 In Vorbereitung |
-| RFT_27 | Starke und Schwache Wechselwirkung | 🚧 In Bearbeitung |
-| RFT_28 | Beobachter & Messprozess | 🚧 In Planung |
-| RFT_29 | Reality Check - Experimentelle Validierung | 🚧 In Entwicklung |
-| RFT_30 | Innensicht-Prinzip - Philosophisches Fundament | 🚧 In Arbeit |
-
-**[→ Ausführliche Planung & Zeitplan](spezialisierung/IN_ARBEIT.md)**
-
-### 4. 🚀 FORTGESCHRITTENE KONZEPTE (RFT_31-46) - 🔜 IN VORBEREITUNG
-**Innovative Konzepte und zukunftsweisende Theorien**
-
-| Dokument | Titel | Status |
-|----------|-------|--------|
-| RFT_31 | Zeit als Emergente Größe | 🚧 In Vorbereitung |
-| RFT_32 | Naturkonstanten aus Raumgeometrie | 🚧 In Bearbeitung |
-| RFT_34 | Energie-Definition in der RFT | 🚧 In Planung |
-| RFT_35 | Kosmologische Modelle & Zeitdilatation | 🚧 In Entwicklung |
-| RFT_36 | Wirbelmodelle & Teilchenphysik | 🚧 In Arbeit |
-| RFT_37 | Energie-Formeln & Parameter | 🚧 In Vorbereitung |
-| RFT_38 | Entropie - Lokal vs. Global | 🚧 In Bearbeitung |
-| RFT_39 | CMB-Vorhersagen & Kosmische Hintergrundstrahlung | 🚧 In Planung |
-| RFT_40 | Dunkle Energie-Alternativen | 🚧 In Entwicklung |
-| RFT_41 | Experimenteller Plan | 🚧 In Arbeit |
-| RFT_42 | Kondensation & Materie-Asymmetrie | 🚧 In Vorbereitung |
-| RFT_43 | Polarisationsmodi im Resonanzgitter | 🚧 In Bearbeitung |
-
-**[→ Ausführliche Planung & Zeitplan](fortgeschritten/IN_ARBEIT.md)**
+> 🗺️ **Mapping zwischen alter Nummerierung (RFT_NN) und v3:** [_MAPPING_ALT_NEU.md](_MAPPING_ALT_NEU.md)
 
 ---
 
-## 📊 DOKUMENTATIONS-STATISTIK
+## 🆕 1. KANONISCHER STAND — v3-Konsolidierung (ab Februar 2026)
 
-### Aktueller Stand:
-- ✅ **Online:** 10 Dokumente (24%)
-- 🚧 **In Vorbereitung:** 32 Dokumente (76%)
-- 📋 **Geplant bis April 2026:** Alle 42 Dokumente
+Die v3-Reihe ist die aktuelle Form der RFT. Sie konsolidiert die früheren RFT_NN-Dokumente in einer kohärenten Reihe nach offiziellem PDF-Plan.
 
-### Thematische Verteilung:
-- **Grundlagen:** 10 Dokumente ✅ KOMPLETT
-- **Anwendungen:** 9 Dokumente 🚧 IN ARBEIT
-- **Spezialisierung:** 10 Dokumente 🚧 IN ARBEIT
-- **Fortgeschritten:** 13 Dokumente 🚧 IN ARBEIT
+### 📐 Übersichts-Dokumente
+
+| Pfad | Inhalt |
+|---|---|
+| [00_uebersicht/theorie_architektur.md](00_uebersicht/theorie_architektur.md) | **Top-Down-Architektur:** Postulate → Mastergleichung → Spezialableitungen → Konstanten |
+| [00_uebersicht/theorie_architektur.html](00_uebersicht/theorie_architektur.html) | Browser-Visualisierung (großes Mermaid-Diagramm + Timeline) |
+| [00_uebersicht/formel_chronologie.md](00_uebersicht/formel_chronologie.md) | **Zeitliche Genese:** wann jede Formel entstand (Anti-Retro-Fitting-Beleg) |
+| [00_uebersicht/formel_chronologie.html](00_uebersicht/formel_chronologie.html) | Browser-Visualisierung der Chronologie |
+
+### 📚 v3-Theorie-Dokumente (kanonisch)
+
+| Stufe | Dokumente |
+|---|---|
+| **I — Fundament** | [v3_001 Mathematische Grundlagen](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) · [v3_002 Feinstrukturkonstante α](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) · [v3_003 Gravitation/Spinverzug](v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) · [v3_004 Impuls/Energie](v3_konsolidierung/RFT_v3_004_Impuls_Energie.md) · [v3_005 Übersetzer](v3_konsolidierung/RFT_v3_005_Der_Uebersetzer_v1_1.md) |
+| **II — Emergenz** | [v3_006 Zeit-Emergenz](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) · [v3_007 Raum-Topologie 3D](v3_konsolidierung/RFT_v3_007_Raum_Topologie_3D_Emergenz.md) |
+| **III — Kosmologie & QM** | [v3_008 Schwarze Löcher](v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md) · [v3_009 Kosmogenese](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) · [v3_010 Dunkle Materie/Energie](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) · v3_011 Quantenmechanik ([Teil 1](v3_konsolidierung/RFT_v3_011_Teil1_Grundlagen.md) · [Teil 2](v3_konsolidierung/RFT_v3_011_Teil2_Mathematik.md) · [Teil 3](v3_konsolidierung/RFT_v3_011_Teil3_Fuehrungsfeld.md) · [Teil 4](v3_konsolidierung/RFT_v3_011_Teil4_Born_Messung.md) · [Teil 5](v3_konsolidierung/RFT_v3_011_Teil5_Anwendungen.md)) |
+| **IV — Wechselwirkungen** | [v3_012 Elektromagnetismus](v3_konsolidierung/RFT_v3_012_Elektromagnetismus.md) · [v3_013 Starke WW](v3_konsolidierung/RFT_v3_013_Starke_Wechselwirkung.md) · [v3_014 Schwache WW](v3_konsolidierung/RFT_v3_014_Schwache_Wechselwirkung.md) |
+| **Bonus** | [v3_Kepler — Ladungsgeometrie](v3_konsolidierung/RFT_v3_Kepler_Ladungsgeometrie.md) |
+
+→ **Vollständige Übersicht + Lese-Reihenfolge:** [v3_konsolidierung/README.md](v3_konsolidierung/README.md)
+
+### 🎯 Kern-Werte der v3-Theorie
+
+```
+α⁻¹ = 4π³ + π² + π = 137.036304    (2.22 ppm vs CODATA, geometrisch ohne freie Parameter)
+L₀  = (π/6)·l_P ≈ 0.5236·l_P       (Kugel-Würfel-Geometrie)
+ε   ≈ 0.0146 rad ≈ 0.84°            (DRM-Achsen-Verkippung = Zeitmotor)
+f_spin = 144/π ≈ 45.84              (topologische Spin-Frequenz)
+```
 
 ---
 
-## 🗺️ NAVIGATIONSHILFEN
+## 📜 2. Historische Dokumente (RFT_NN-Reihe, vor Februar 2026)
 
-### Nach Komplexität:
-- **🔰 Einsteiger:** [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_Materie_Asymmetrie.md), [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen.md), [Einstieg für Neugierige](../einstieg/neugierige.md)
-- **🎓 Fortgeschritten:** [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen_Ankerpunkt_Physik.md), [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_Magnetismus.md), [Einstieg für Physiker](../einstieg/physiker.md)
-- **🧠 Experten:** [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md), [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md), [Einstieg für Philosophen](../einstieg/philosophen.md)
+> ⚠️ **Hinweis:** Die folgenden Dokumente sind die ÄLTERE Form der RFT (vor v3-Konsolidierung). Sie bleiben hier als **historische Referenz** erhalten, aber für aktuelle Forschungsarbeit verwende bitte die v3-Reihe oben.
 
-### Nach Forschungsinteresse:
-- **🧮 Mathematiker:** [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen_Ankerpunkt_Physik.md), [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md)
-- **🔬 Experimentatoren:** [RFT_06](grundlagen/RFT_06_Experimentelle_Grundlagen.md)
-- **🌌 Kosmologen:** [RFT_02](grundlagen/RFT_02_Spin_Quantisierung_Universums_Entstehung.md), [RFT_09](grundlagen/RFT_09_Kosmologie_Grossraum_Strukturen.md)
-- **⚛️ Teilchenphysiker:** [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_Magnetismus.md)
+### 🏗️ Grundlagen-Serie (RFT_01-10) — historisch
+
+| Dokument | Titel | Aktuelle v3-Entsprechung |
+|----------|-------|--------------------------|
+| [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen.md) | Mathematische Grundlagen | → [v3_001](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) |
+| [RFT_02](grundlagen/RFT_02_Spin-Quantisierung_Universums-Entstehung.md) | Spin-Quantisierung | → [v3_003](v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) |
+| [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md) | Dynamische Resonanzmatrix | → [v3_001 §1+§2](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) |
+| [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md) | Kalte Kondensation | → [v3_009](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) |
+| [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_MAGNETISMUS.md) | Teilchenphysik & Wirbel | → [v3_013+v3_014](v3_konsolidierung/) |
+| [RFT_06](grundlagen/RFT_06_Experimentelle_Grundlag.md) | Experimentelle Grundlagen | → in v3_001 §11 |
+| [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md) | Gravitation/Raumzeit | → [v3_003](v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) |
+| [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md) | Philosophische Grundlagen | → in v3_001 §1 |
+| [RFT_09](grundlagen/RFT_09_Kosmologie_Großraum-Strukturen.md) | Kosmologie | → [v3_009](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) + [v3_010](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) |
+| [RFT_10](grundlagen/RFT_10_Quantenmechanik.md) | Quantenmechanik | → [v3_011 (5 Teile!)](v3_konsolidierung/) |
+
+### 🔬 Anwendungen (RFT_11, 15) — historisch
+
+| Dokument | Titel | Aktuelle v3-Entsprechung |
+|----------|-------|--------------------------|
+| [RFT_11](anwendungen/RFT_11_Thermodynamik_Statistische_Mechanik_aus_RF.md) | Thermodynamik | **noch nicht in v3 konsolidiert** |
+| [RFT_15](anwendungen/RFT_15_Dunkle_Materie_als_RFT-Effekt.md) | Dunkle Materie als RFT-Effekt | → [v3_010](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) |
+
+### 🎯 Spezialisierung (RFT_23, 24) — historisch
+
+| Dokument | Titel | Aktuelle v3-Entsprechung |
+|----------|-------|--------------------------|
+| [RFT_23](spezialisierung/RFT_23_Das_RFT-Photonenmodell.md) | Photonenmodell | → in v3_012 partiell |
+| [RFT_24](spezialisierung/RFT_24_Das_Doppelspaltexperiment.md) | Doppelspaltexperiment | (lokaler Annex RFT_011a, noch nicht im Repo) |
+
+### 🚀 Fortgeschritten (RFT_31-48) — historisch
+
+| Dokument | Titel | Aktuelle v3-Entsprechung |
+|----------|-------|--------------------------|
+| [RFT_31](fortgeschritten/RFT_31_Zeit_als_emergentes_Phaenomen.md) | Zeit als emergent | → [v3_006](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) |
+| [RFT_32](fortgeschritten/RFT_32_Naturkonstanten_aus_RFT.md) | Naturkonstanten | → [v3_002](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) |
+| [RFT_42](fortgeschritten/RFT_42_Kondensation_Materie-Antimaterie-Asymmetrie.md) | Materie-Antimaterie | → in v3_009 |
+| [RFT_45](fortgeschritten/RFT_45_Das_RFT-Raumfeld–kein_klassisches_Medium.md) | Raumfeld | → in v3_001 §1 |
+| [RFT_47](fortgeschritten/RFT_47_Schwarze_Löcher-Modensprung-Physik.md) | Schwarze Löcher | → [v3_008](v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md) |
+| [RFT_48](fortgeschritten/RFT_48_Supraleitung.md) | Supraleitung | **noch nicht in v3 konsolidiert** |
+
+> **3 historische Dokumente sind noch nicht in v3 konsolidiert:** RFT_11 Thermodynamik, RFT_24 Doppelspalt, RFT_48 Supraleitung. Diese Themen werden in zukünftigen v3-Erweiterungen abgedeckt.
+
+---
+
+## 🗺️ Navigationshilfen
+
+### Nach Lese-Reihenfolge (empfohlen für Erst-Einsteiger)
+
+1. **Start:** [00_uebersicht/theorie_architektur.md](00_uebersicht/theorie_architektur.md) — Top-Down-Bild der ganzen Theorie (5 Min)
+2. **Detail-Einstieg:** [v3_001 Mathematische Grundlagen](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) — Postulate + Mastergleichung
+3. **Resultat-Anker:** [v3_002 Feinstrukturkonstante](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) — α⁻¹ = 4π³+π²+π
+4. **Zeit-Emergenz:** [v3_006](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) — ε und Q-Faktor
+5. Weiter mit Spezialthemen je nach Interesse
+
+### Nach Forschungsinteresse
+
+- 🧮 **Mathematiker:** [v3_001](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md), [v3_002](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md)
+- 🔬 **Experimentatoren:** v3_001 §11 (Experimentelle Tests), [Alpha-Paper-Vorhersagen](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md#5-experimental-predictions)
+- 🌌 **Kosmologen:** [v3_009](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md), [v3_010 DM/DE](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md)
+- ⚛️ **Quantenphysiker:** [v3_011 (5 Teile)](v3_konsolidierung/), [v3_006 Zeit-Emergenz](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md)
+- 📚 **Methodisch interessiert:** [00_uebersicht/formel_chronologie.md](00_uebersicht/formel_chronologie.md) (Anti-Retro-Fitting-Beleg)
 
 ---
 
@@ -124,18 +127,20 @@ Diese Dokumentation umfasst **42 RFT-Dokumente** in 4 thematischen Serien. Aktue
 Die Entwicklung der Resonanzfeldtheorie als unabhängiges Forschungsprojekt erfordert erhebliche Ressourcen:
 
 **Was unterstützt wird:**
-- 🤖 **KI-API-Kosten** (ChatGPT, Claude, Gemini, DeepSeek) - ~150-300 €/Monat
-- 🌐 **Hosting & Infrastruktur** - ~50 €/Monat  
-- 📚 **Wissenschaftliche Literatur** - ~50 €/Monat
+- 🤖 **KI-API-Kosten** (ChatGPT, Claude, Gemini, DeepSeek) — ~150-300 €/Monat
+- 🌐 **Hosting & Infrastruktur** — ~50 €/Monat
+- 📚 **Wissenschaftliche Literatur** — ~50 €/Monat
 
 **Unterstützungsmöglichkeiten:**
-- [![Unterstütze auf Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rftprojekt) **Ko-fi** - Einfach & flexibel
-- [![PayPal Spende](https://img.shields.io/badge/PayPal-Spenden-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/rftprojekt) **PayPal** - Direkte Unterstützung
+- [![Unterstütze auf Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rftprojekt) **Ko-fi** — Einfach & flexibel
+- [![PayPal Spende](https://img.shields.io/badge/PayPal-Spenden-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/rftprojekt) **PayPal** — Direkte Unterstützung
 
 *Jede Spende hilft, diese fundamentale Forschung voranzutreiben!*
 
 [→ Ausführliche Informationen & Transparenz](../mitwirken.md)
 
 ---
-**Letzte Aktualisierung: Oktober 2025**  
+
+**Letzte Aktualisierung:** 2026-05-05 (v3-Konsolidierung integriert, Mapping zur alten Reihe erstellt, Theorie-Architektur als Übersichts-Diagramm)
+
 [← Zurück zur Hauptseite](../README.md) | [👤 Autorenprofil](../autor.md) | [📧 Kontakt](../kontakt.md)
