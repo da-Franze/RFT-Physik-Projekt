@@ -1,12 +1,34 @@
-# RFT_001: Mathematische Grundlagen der Resonanzfeldtheorie
+# RFT_v3_001: Mathematische Grundlagen der Resonanzfeldtheorie
 
-**Version:** 3.5  
-**Datum:** 26. Februar 2026  
+**Version:** v3.5 (2026-02-26)  
 **Autor:** Franz Zollner  
-**Sprache:** DE  
-**Status:** Publikationsreif (Arbeitsversion)  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Status:** Publikationsreif  
 **Lizenz:** Creative Commons BY-NC-SA 4.0  
-**Zitation:** Franz Zollner (2026). *RFT_001: Mathematische Grundlagen der Resonanzfeldtheorie.* Resonance Field Theory Series, v3.0.
+**Zitation:** Zollner, F. (2026). *RFT_v3_001: Mathematische Grundlagen der Resonanzfeldtheorie.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md
+
+---
+
+## Symbol-Glossar
+
+| Symbol | Bedeutung | Wert / Definition |
+|---|---|---|
+| `Ψ(x,t)` | Resonanzfeld (komplexes Skalarfeld auf der DRM) | Mastergleichungs-Lösung |
+| `c₀` | RFT-Lichtgeschwindigkeit | `a₀·ω₀` (Eigenfrequenz × Gitterkonstante) |
+| `κ` | Resonanz-Steifigkeit (Primärgröße, NICHT Masseterm) | abgeleitet aus DRM-Mode-Spektrum |
+| `γ` | Asymmetrie-Koeffizient (Dämpfung) | klein, treibt Zeitrichtung |
+| `λ` | Nichtlineare Selbstkopplung | quartisch in `\|Ψ\|²Ψ` |
+| `η(x,t)` | Eigeninteraktion / Hintergrund-Rauschen | stochastisch |
+| `α` | Feinstrukturkonstante | `α⁻¹ = 4π³ + π² + π ≈ 137.036304` |
+| `Φ` | Geometrie-Faktor | `2α/(1+α²) ≈ 0.014596` |
+| `a₀` | Gitterkonstante | experimentell-empirischer Input |
+| `ω₀` | Eigenfrequenz der DRM | experimentell-empirischer Input |
+| `L₀` | Fundamentale Längenskala | `(π/6)·l_P ≈ 0.5236·l_P` |
+| `f_spin` | Spin-Frequenz | `144/π ≈ 45.84` |
+| `ε` | Phasenwinkel (Mastergleichung-Term) | `≈ 0.0146 rad ≈ 0.84°` |
+| `δ` | Phasenasymmetrie (Zeitmotor) | `≈ 2α ≈ 1/(8π³)` |
+| `τ_lag` | Zeit-Verzögerung | `L₀/c = (π/6)·t_P` |
+| `l_P, t_P` | Planck-Länge, Planck-Zeit | Standard |
 
 ---
 
@@ -140,7 +162,7 @@ Da die Master-Gleichung das Universum selbst beschreibt, gibt es keine externe A
 
 ### 2.3 Historische Anmerkung zur Formulierung
 
-Die Master-Gleichung wurde von Franz Zollner von Anfang an als Resonanzgleichung formuliert – als Antwort auf die Frage, welche minimalen Terme ein selbstresonierendes Medium erfordert. Der κ²Ψ-Term war von Beginn an als Resonanz-Steifigkeit des Gitters konzipiert, nicht als Import der Klein-Gordon-Masse. Diese Entstehungsgeschichte ist für die Interpretation entscheidend.
+Die Master-Gleichung wurde von Franz Zollner von Anfang an als Resonanzgleichung formuliert – als Antwort auf die Frage, welche minimalen Terme ein selbstresonierendes Medium (Lorentz-invariant, kein klassischer Äther) erfordert. Der κ²Ψ-Term war von Beginn an als Resonanz-Steifigkeit des Gitters konzipiert, nicht als Import der Klein-Gordon-Masse. Diese Entstehungsgeschichte ist für die Interpretation entscheidend.
 
 ---
 
@@ -1333,4 +1355,4 @@ Kontakt: rft.projekt@posteo.de
 
 ---
 
-*Dieses Dokument ist Version 3.0 der RFT_001-Serie. Es ist das erste Dokument der neuen Publikationsserie und dient als Vorlage für RFT_002 bis RFT_030+.*
+*Dokument-ID: RFT_v3_001 · Stand: 2026-02-26 · [Mapping zur alten Reihe](../_MAPPING_ALT_NEU.md) · [Style-Guide](../_STYLE_GUIDE.md) · [Repo-Hauptseite](../../../README.md)*

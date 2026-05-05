@@ -99,7 +99,7 @@ $$\frac{\partial^2 \Psi}{\partial t^2} = c_0^2 \nabla^2 \Psi$$
 
 **Standard-Physik:** Wellengleichung für Schall (c = Schallgeschwindigkeit) oder Licht (c = Lichtgeschwindigkeit) in einem Medium.
 
-**RFT-Unterschied:** c₀ ist NICHT eine Materialeigenschaft, sondern die fundamentale Eigenfrequenz multipliziert mit Gitterkonstante. **Das gesamte Universum ist das Medium.**
+**RFT-Unterschied:** c₀ ist NICHT eine Materialeigenschaft, sondern die fundamentale Eigenfrequenz multipliziert mit Gitterkonstante. **Das gesamte Universum ist das Medium — Lorentz-invariant, kein klassischer Äther** (relational im Sinne von Leibniz: kein Medium *im* Raum, sondern *als* Raum).
 
 ---
 
