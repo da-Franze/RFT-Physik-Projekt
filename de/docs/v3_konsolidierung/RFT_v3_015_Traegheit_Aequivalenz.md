@@ -415,7 +415,7 @@ Im Vergleich zum Hadron:
 
 | | Proton | Elektron |
 |-|--------|----------|
-| Ankerpunkte | 3 (1 pro Quark) | 1 |
+| Ankerpunkte | 9 (3 pro Quark) | 1 |
 | Farbladungs-Aufrichtung | ✓ (G_hadron = 4π · G_el.) | ✗ (keine Farbladung) |
 | Mechanismus m_g | 4π-Sphärengeometrie | Nur elementarer Spinverzug |
 | Verhältnis m_i/m_g | ≈ 1 (exakt aus 4π-Koinzidenz) | ≈ 1 − η_B |
