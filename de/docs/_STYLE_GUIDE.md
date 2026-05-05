@@ -21,7 +21,7 @@ Dieses Dokument legt das einheitliche Format für RFT-Dokumente fest, damit die 
 ```
 
 **Was ENTFERNT werden muss aus altem Header:**
-- ❌ "Für Diskussion mit Dr. Pressel" (Arbeitsverweis — verwirrt externe Leser)
+- ❌ "Für Diskussion mit Dr. X" (Arbeitsverweis — verwirrt externe Leser)
 - ❌ "Erstellt von Claude #34" (KI-spezifische Arbeitsverweise)
 - ❌ "Im Drei-Wege-Tisch" (Methode-Verweis)
 - ❌ Datums-Format-Vielfalt — IMMER ISO-Format YYYY-MM-DD
@@ -124,7 +124,7 @@ Wenn ein altes Dokument in v3-Form gebracht wird:
 
 - ❌ "Erstellt von Claude #34" → entfernen
 - ❌ "Im Drei-Wege-Tisch" → entfernen
-- ❌ "Für Diskussion mit Dr. Pressel" → entfernen
+- ❌ "Für Diskussion mit Dr. X" → entfernen
 - ❌ "🚧 In Vorbereitung" / "📋 In Planung" → durch klaren Status ersetzen
 - ❌ Emoji-Header wie "📚 RFT_24: Lehrbuch" → durch standardisiertes "RFT_v3_NNN: Titel"
 - ❌ Beliebige Datum-Formate (29. September 2025 / 19.12.2024 / Oktober 2025) → ISO YYYY-MM-DD
