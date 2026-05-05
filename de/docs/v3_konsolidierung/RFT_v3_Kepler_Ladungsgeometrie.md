@@ -382,13 +382,14 @@ Die Herleitung entstand am 21.04.2026 aus der Verbindung einer Weihnachtsvorlesu
 
 ## Literatur
 
-1. Kepler, J. (1611). *Strena seu de nive sexangula.* — Keplersche Vermutung.
-2. Hales, T. (2005). *A proof of the Kepler conjecture.* Annals of Mathematics.
-3. Zollner, F. (2026). *RFT_v3_002: Feinstrukturkonstante — α aus Schalenintegral.* RFT v3-Serie.
-4. Zollner, F. (2026). *RFT_v3_005: Der Übersetzer — π als Dimensionsbrücke.* RFT v3-Serie.
-5. Zollner, F. (2026). *RFT_v3_013: Starke Wechselwirkung — SU(3) geometrisch.* RFT v3-Serie.
-6. Wilson, K. (1974). *Confinement of quarks.* Physical Review D.
-7. DeepSeek-Verifikation (2026-04-21). *Rückgabepaket Kugelpackung/α/Farbladungen.* Session-Protokoll, RFT-VDB.
+1. Weitz, M. (2019). *Weihnachtsvorlesung 2019: Kugelpackungen und die Keplersche Vermutung.* HAW Hamburg. YouTube: https://youtu.be/C2s9mDQYxo4 — Primärquelle für die Kanonenkugel/Kepler-Verbindung in diesem Dokument (Entstehung 2026-04-21).
+2. Kepler, J. (1611). *Strena seu de nive sexangula.* — Keplersche Vermutung.
+3. Hales, T. (2005). *A proof of the Kepler conjecture.* Annals of Mathematics.
+4. Zollner, F. (2026). *RFT_v3_002: Feinstrukturkonstante — α aus Schalenintegral.* RFT v3-Serie.
+5. Zollner, F. (2026). *RFT_v3_005: Der Übersetzer — π als Dimensionsbrücke.* RFT v3-Serie.
+6. Zollner, F. (2026). *RFT_v3_013: Starke Wechselwirkung — SU(3) geometrisch.* RFT v3-Serie.
+7. Wilson, K. (1974). *Confinement of quarks.* Physical Review D.
+8. DeepSeek-Verifikation (2026-04-21). *Rückgabepaket Kugelpackung/α/Farbladungen.* Session-Protokoll, RFT-VDB.
 
 ---
 
