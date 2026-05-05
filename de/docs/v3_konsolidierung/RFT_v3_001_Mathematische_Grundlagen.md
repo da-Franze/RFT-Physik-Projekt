@@ -6,7 +6,7 @@
 **Sprache:** DE  
 **Status:** Publikationsreif (Arbeitsversion)  
 **Lizenz:** Creative Commons BY-NC-SA 4.0  
-**Zitation:** Franz Zollner (2026). *RFT_001: Mathematische Grundlagen der Resonanzfeldtheorie.* Resonance Field Theory Series, v3.0. Für Diskussion mit Dr. Pressel.
+**Zitation:** Franz Zollner (2026). *RFT_001: Mathematische Grundlagen der Resonanzfeldtheorie.* Resonance Field Theory Series, v3.0.
 
 ---
 
