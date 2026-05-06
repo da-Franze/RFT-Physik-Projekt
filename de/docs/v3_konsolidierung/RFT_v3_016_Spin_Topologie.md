@@ -1,25 +1,35 @@
 # RFT_v3_016: Spin & Topologie
-## Dirac-Bänder: Warum Spin ½ eine Verankerung im Raum bedeutet
 
-**Version:** Final-Kandidat v1.0  
-**Datum:** 03.04.2026  
-**Instanz:** Arbeitsinstanz 016 | Auftrag K2  
-**Status:** Final-Kandidat — zur Prüfung an K2  
-**Sprache:** DE  
-**Zielgruppe:** Theoretische Physiker ohne RFT-Vorwissen  
+*Untertitel: Dirac-Bänder — Warum Spin ½ eine Verankerung im Raum bedeutet*
+
+**Version:** v1.0 (2026-04-03)  
+**Autor:** Franz Zollner  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Status:** Final-Kandidat  
+**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Zitation:** Zollner, F. (2026). *RFT_v3_016: Spin & Topologie.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_016_Spin_Topologie.md
 **Stufe:** IV — Teilchenphysik & Eigenschaften  
-**Abhängigkeiten:**
-- RFT_v3_001 (Master-Gleichung, κ, λ-Term, Solitone)
-- RFT_v3_007 (3D-Emergenz, SU(3) aus Geometrie, Oktaeder-Topologie)
-- RFT_v3_011 Teil 5 Kap. 19 (Spin aus Vortex-Struktur — Primärquelle!)
-- RFT_v3_013 (AP als Dimensionskopplung, SU(3))
-- RFT_v3_015 (AP = Verankerung, 1 AP = 1D-Kopplung)
+**Zielgruppe:** Theoretische Physiker ohne RFT-Vorwissen  
 
 ---
 
-> **Konzepte und Theorie: Franz Zollner.**  
-> **Verschriftlichung: KI-Instanz 016 (Claude Sonnet 4.5).**  
-> **Konfidenz-Level bei jedem nicht-trivialen Schritt angegeben.**
+## Symbol-Glossar
+
+| Symbol | Bedeutung | Wert / Definition |
+|---|---|---|
+| `Ψ(x,t)` | Resonanzfeld / Vortex-Wellenfunktion | 4-Komponenten-Spinor (720°-Topologie) |
+| `κ` | Resonanz-Steifigkeit | Primärgröße `[1/m]`, NICHT Masseterm |
+| `m = ħκ/c` | Effektive Masse | abgeleitet, nicht fundamental |
+| `γ, λ, η` | Mastergleichungs-Terme | Dämpfung, Nichtlinearität, Anregung |
+| `α` | Feinstrukturkonstante | `α⁻¹ = 4π³ + π² + π ≈ 137.036304` |
+| `g_s` | Gyromagnetisches Verhältnis | `g_s = 2 + α/π + O(α²) ≈ 2.002319` |
+| `S = nħ` | Spin-Drehimpuls | `n ∈ ℤ/2` (Spinoren) oder `ℤ` (Tensoren) |
+| `AP` | Ankerpunkt | Kopplung Wirbel ↔ Raummatrix (n_AP = Dimensionskopplung) |
+| `R(2π) = −I` | Spinor-Vorzeichenwechsel | Identität erst bei `R(4π) = +I` |
+| `SU(2)/Z₂ ≅ SO(3)` | Doppelabdeckung | mathematische Basis Spin ½ |
+| `τ_lag = (π/6)·t_P` | Spinverzug-Zeitskala | Schleppwirbel → Gravitation (v3_015) |
+
+**Cross-Refs:** [RFT_v3_001](RFT_v3_001_Mathematische_Grundlagen.md) (Master-Gleichung, κ, λ), [RFT_v3_004](RFT_v3_004_Impuls_Energie.md) (Dispersionsrelation), [RFT_v3_007](RFT_v3_007_Raum_Topologie_3D_Emergenz.md) (SU(3), Oktaeder), [RFT_v3_011 Teil 5 Kap. 19](RFT_v3_011_Teil5_Anwendungen.md) (Spin aus Vortex — Primärquelle), [RFT_v3_013](RFT_v3_013_Starke_Wechselwirkung.md) (AP als Dimensionskopplung), [RFT_v3_015](RFT_v3_015_Traegheit_Aequivalenz.md) (AP = Verankerung)
 
 ---
 
@@ -1214,7 +1224,10 @@ Folgedokument (offen):
 
 ---
 
-*RFT_v3_016_Spin_Topologie.md*  
-*Final-Kandidat v1.0 | 03.04.2026 | Arbeitsinstanz 016*  
-*Auftrag K2 | DC v10.12 (gearbeitet mit v10.4; K2-Korrekturen 03.04.2026 eingearbeitet)*  
-*Nächster Schritt: Review K2 → Franz → Final v1.0*
+© 2026 Franz Zollner — Resonance Field Theory Project  
+Lizenz: Creative Commons BY-NC-SA 4.0  
+Kontakt: rft.projekt@posteo.de
+
+---
+
+*Dokument-ID: RFT_v3_016 · Stand: 2026-04-03 · [Mapping zur alten Reihe](../_MAPPING_ALT_NEU.md) · [Style-Guide](../_STYLE_GUIDE.md) · [Repo-Hauptseite](../../../README.md)*
