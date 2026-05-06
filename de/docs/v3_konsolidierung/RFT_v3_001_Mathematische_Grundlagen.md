@@ -477,6 +477,12 @@ Die 9 Ankerpunkte sind die Knotenpunkte des kombinierten Wirbelfeldes des Hadron
 
 Die erhöhte Instabilität von Mesonen (6 AP) gegenüber Baryonen (9 AP) ist konsistent mit dieser Struktur: Ein 6-AP-System ist weniger fest verankert als ein 9-AP-System. ⚠️ *Eine quantitative Ableitung der Lebensdauern aus der AP-Zahl fehlt noch.*
 
+**Wichtige Klarstellung — Spin und AP-Zahl sind orthogonal:**
+
+Die AP-Zahl bestimmt die *Dimensionskopplung* eines Wirbels an die Raummatrix (Farbladung, Stabilität, Confinement) — sie sagt **nichts** über den Spin aus. Die naive Formel `n_AP × ½ = Spin` versagt bereits beim Quark (3 AP, Spin ½ — nicht 3/2). Spin entsteht aus der internen 720°-Rotationstopologie des Wirbels und ist **unabhängig** von der AP-Zahl: das Quark hat dieselbe 720°-Topologie wie das Elektron und damit ebenfalls Spin ½. Die 3 AP des Quarks kodieren ausschließlich die Farbladung (Rot/Grün/Blau = +x/+y/+z-Kopplung), nicht eine Vervielfachung des Spins.
+
+Vollständige Diskussion + offene Fragen zum Spin-Mechanismus von Komposita (Proton ↑↑↓ vs. Delta ↑↑↑) siehe [RFT_v3_016 §2.4 + §10.2](RFT_v3_016_Spin_Topologie.md#24-wichtige-klarstellung-spin-und-dimensionskopplung-sind-orthogonal).
+
 ### 8.2 Massenformel
 
 Die emergente Masse eines Teilchens lautet:
