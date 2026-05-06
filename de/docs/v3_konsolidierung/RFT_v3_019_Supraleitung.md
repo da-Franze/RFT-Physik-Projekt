@@ -1,22 +1,39 @@
 # RFT_v3_019: Supraleitung
-## Resonante Kopplung an die Raummatrix (45 THz Hypothese)
 
-**Dokument:** RFT_v3_019  
-**Version:** Final-Kandidat v1.0  
-**Datum:** 04.04.2026  
-**Erstellt von:** Instanz 019 (Multi-Instanz-Protokoll v6.1)  
-**Koordinator:** K2  
-**Status:** Final-Kandidat — Freigabe durch Franz ausstehend  
-**Sprache:** Deutsch  
-**Serie:** RFT v3 — Stufe IV: Teilchenphysik & Eigenschaften
+*Untertitel: Resonante Kopplung an die Raummatrix (45 THz Hypothese)*
 
-**Abhängigkeiten (Vorgänger):**
-- RFT_v3_001 Kap. 11.2–11.5 (Cooper-Paar n=0; 45 THz; Δg/g)
-- RFT_v3_003 (Spinverzug τ_lag; G·m topologisch)
-- RFT_v3_012 (Elektromagnetismus als torsionale Mode)
-- RFT_v3_015 Kap. 6.3 (m_g → 0 für Cooper-Paare; η_Cooper)
-- RFT_v3_016 (Spin als topologische Eigenschaft; 720°-Periodizität)
-- RFT_v3_018 Kap. 7.4 (Supraleitung = maximale Kohärenz; γ_eff → 0)
+**Version:** v1.1 (2026-04-04)  
+**Autor:** Franz Zollner  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Status:** Final-Kandidat  
+**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Zitation:** Zollner, F. (2026). *RFT_v3_019: Supraleitung.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_019_Supraleitung.md
+**Stufe:** IV — Teilchenphysik & Eigenschaften  
+
+---
+
+## Symbol-Glossar
+
+| Symbol | Bedeutung | Wert / Definition |
+|---|---|---|
+| `n_Cooper = 0` | Topologische Windungszahl des Cooper-Paares | `π + (−π) = 0` |
+| `m_g` | Schwere Masse | für Cooper-Paar: `→ 0` (Schleppwirbel-Aufhebung) |
+| `m_i = ħκ/c` | Träge Masse | bleibt erhalten beim Cooper-Paar |
+| `η_Cooper = 1−2α` | ÄP-Bruch beim Cooper-Paar | `≈ 0.9854` |
+| `f_spin = 144/π` | Spin-Resonanzfaktor | `≈ 45.84` (NICHT 4 oder 135) |
+| `L₀ = 1/κ` | Fundamentale Längenskala | `(π/6)·l_P`, ħ-frei |
+| `τ_lag = L₀/c` | Spinverzug-Zeitskala | `(π/6)·t_P` |
+| `α⁻¹ = 4π³+π²+π` | Feinstrukturkonstante | `≈ 137.036304`, 2.22 ppm |
+| `γ_eff` | Effektiver Dämpfungsterm | `→ 0` im supraleitenden Zustand |
+| `Q = κc/γ` | Qualitätsfaktor | supraleitend: `Q → ∞` |
+| `Ψ_SC = \|Ψ₀\|·exp(iθ)` | RFT-Ordnungsparameter | globale Phase θ kohärent |
+| `Δg/g ≈ −10⁻⁵` | Cooper-Paar-Gravimetrie-Vorhersage | testbar bei PTB |
+
+**Cross-Refs:** [RFT_v3_001](RFT_v3_001_Mathematische_Grundlagen.md) (Master-Gleichung, Δg/g), [RFT_v3_003](RFT_v3_003_Gravitation_Spinverzug.md) (Spinverzug, τ_lag), [RFT_v3_012](RFT_v3_012_Elektromagnetismus.md) (EM als torsionale Mode), [RFT_v3_015](RFT_v3_015_Traegheit_Aequivalenz.md) (m_g→0 Cooper-Paare, η_Cooper), [RFT_v3_016](RFT_v3_016_Spin_Topologie.md) (Spin-Topologie), [RFT_v3_018](RFT_v3_018_Entropie_Signaltheorie.md) (γ_eff→0, maximale Kohärenz)
+
+---
+
+> **Konfidenz-Marker:** ✓ HOCH (mehrfach bestätigt), ○ MITTEL (konzeptuell klar, formal noch offen), ⚠️ NIEDRIG (Schätzwert oder Hypothese), 🚩 OFFEN (Originator-Entscheid oder DeepSeek-Aufgabe ausstehend).
 
 ---
 
@@ -33,14 +50,6 @@ in mechanistisch neu begründeter Form. Wo der Vergleich zwischen BCS-Sprache
 und RFT-Sprache relevant ist, wird er explizit markiert. **Phonon-Austausch
 im QFT-Sinn** ist kein RFT-Konzept — die RFT formuliert den Mechanismus
 ohne Quantenfeldoperatoren.
-
-**Konfidenz-Skala:**
-```
-✓ HOCH    — Mehrfach konsistent, Franz-bestätigt, DeepSeek-verifiziert
-○ MITTEL  — Konzeptuell gut begründet, quantitative Details offen
-⚠️ NIEDRIG — Schätzwert oder Hypothese in richtiger Größenordnung
-🚩 OFFEN  — Offene Forschungsfrage, keine belastbare Aussage möglich
-```
 
 ---
 
@@ -702,22 +711,21 @@ Verbotene Terminologie:
 
 ## Änderungsprotokoll
 
-**v1.1 (04.04.2026):**
-- Anhang A eingefügt: Materielle Konsistenzprüfung (auf K2-Feedback)
-- Tabelle aus RFT_48 nicht als Vorhersage übernommen — nur als ⚠️ NIEDRIG
-  Konsistenzcheck mit explizitem Formelmangel-Hinweis
-- DS-019-A: Flag unverändert 🚩 OFFEN
+**v1.1 (2026-04-04):**
+- Anhang A eingefügt: Materielle Konsistenzprüfung
+- Tabelle aus RFT_47 nicht als Vorhersage übernommen — nur als ⚠️ NIEDRIG Konsistenzcheck mit explizitem Formelmangel-Hinweis
+- Style-Guide-Reinigung 2026-05-06 (Header, Symbol-Glossar, Footer normiert)
 
-**v1.0 (04.04.2026) — Final-Kandidat:**
-- Erstversion, Instanz 019, Auftrag K2
-- Terminologie: "Vakuumgitter" → "Raummatrix" (wie beauftragt)
+**v1.0 (2026-04-04) — Final-Kandidat:**
+- Erstversion im v3-Format
+- Terminologie: "Vakuumgitter" → "Raummatrix"
 - 45 THz: konsequent ⚠️ NIEDRIG, kanonische v3_001-Warnung übernommen
-- Plateau-Konzept: NICHT enthalten (Franz-Entscheidung K2)
-- Spin-1 Cooper-Paare: NICHT enthalten (KI-Artefakt); eine Zeile Flag (Abschn. 2.5)
-- Meissner-Effekt: Kap. 6 als konzeptioneller Kandidat ⚠️ NIEDRIG
-- DS-019-A: als 🚩 OFFEN dokumentiert
+- Plateau-Konzept: NICHT enthalten
+- Spin-1 Cooper-Paare: nur als 🚩 offene Flagge (§2.5)
+- Meissner-Effekt: §6 als konzeptioneller Kandidat ⚠️ NIEDRIG
+- DS-019-A als 🚩 OFFEN dokumentiert
 - Alle Vorgängerdokumente v3_001/003/012/015/016/018 konsistent eingebunden
-- Konfidenz-Tabelle vollständig (Kap. 9.1)
+- Konfidenz-Tabelle vollständig (§9.1)
 
 ---
 
@@ -778,6 +786,11 @@ befüllt werden.
 
 ---
 
-*RFT_v3_019 — Final-Kandidat v1.1 | 04.04.2026 | Instanz 019*
-*Koordinator: K2 | DC v10.13*
+© 2026 Franz Zollner — Resonance Field Theory Project  
+Lizenz: Creative Commons BY-NC-SA 4.0  
+Kontakt: rft.projekt@posteo.de
+
+---
+
+*Dokument-ID: RFT_v3_019 · Stand: 2026-04-04 · [Mapping zur alten Reihe](../_MAPPING_ALT_NEU.md) · [Style-Guide](../_STYLE_GUIDE.md) · [Repo-Hauptseite](../../../README.md)*
 *Freigabe durch Franz Zollner ausstehend*
