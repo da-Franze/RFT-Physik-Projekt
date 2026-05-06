@@ -1,25 +1,38 @@
 # RFT_v3_018: Entropie & Signaltheorie
-## Thermodynamik als Verlust von Phaseninformation (Dekohärenz)
 
-**Version:** Final-Kandidat v1.0  
-**Datum:** 04. April 2026  
-**Autor:** Franz Zollner (Konzept) / KI-Instanz A018 (Verschriftlichung)  
-**Sprache:** DE  
-**Protokoll:** Multi-Instanz v6.1 | Auftrag K2 → A018 | DC v10.12  
-**Status:** Final-Kandidat — zur Franz-Freigabe  
+*Untertitel: Thermodynamik als Verlust von Phaseninformation (Dekohärenz)*
+
+**Version:** v1.0 (2026-04-04)  
+**Autor:** Franz Zollner  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Status:** Final-Kandidat  
 **Lizenz:** Creative Commons BY-NC-SA 4.0  
-
-**Vorgänger-Dokumente:**  
-v3_001 (Master-Gleichung, γ-Term) | v3_006 (Zeitpfeil, Φ-Motor) | v3_011 Teil 4 Kap. 14–15 (Dekohärenz, Dichtematrix) | v3_014 (γ-Term → Zerfall) | v3_009 (Kosmogenese, η_B) | v3_016 (Spin-Topologie, τ_lag)
+**Zitation:** Zollner, F. (2026). *RFT_v3_018: Entropie & Signaltheorie.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_018_Entropie_Signaltheorie.md
 
 ---
 
-> **Methodische Grundregel:**  
-> Die Konzepte und Ideen stammen von **Franz Zollner**.  
-> Die Verschriftlichung stammt von KI-Modellen — sie können halluzinieren.  
-> Alle Formeln und Aussagen sind mit Skepsis zu behandeln.  
-> Quellen-Hierarchie: Franz direkte Aussage > DC > v3-Final > v2-Serie > KI-Content  
-> Bei Widerspruch gewinnt immer die höhere Stufe.
+## Symbol-Glossar
+
+| Symbol | Bedeutung | Wert / Definition |
+|---|---|---|
+| `Ψ(x,t)` | Resonanzfeld | komplex: `|Ψ| · exp(iφ)` |
+| `γ` | Asymmetrie-Koeffizient (Dämpfung) | bricht T-Symmetrie, erzwingt Entropieproduktion |
+| `κ` | Resonanz-Steifigkeit | Primärgröße `[1/m]` |
+| `λ, η` | Mastergleichungs-Terme | Nichtlinearität, Anregung (η = 0 isoliert) |
+| `Q = ω_res/γ` | Qualitätsfaktor | hoher Q → langsame Dekohärenz → stabiler Pointer State |
+| `ρ_off` | Off-Diagonale der Dichtematrix | trägt Phasenkohärenz; zerfällt mit `exp(−γt)` |
+| `S_VN = −Tr(ρ ln ρ)` | Von-Neumann-Entropie | 0 für reinen Zustand, > 0 für Mischung |
+| `dS/dt = ∫γ\|∂Ψ/∂t\|² d³x` | Entropieproduktionsrate | `≥ 0` (Zweiter Hauptsatz) |
+| `τ_D ~ ħ/(N_E·k_B·T)` | Dekohärenzzeit | hängt von Umgebungs-Freiheitsgraden ab |
+| `α⁻¹ = 4π³+π²+π` | Feinstrukturkonstante | `≈ 137.036304`, 2.22 ppm |
+| `Φ = 2α/(1+α²)` | Geometrie-Faktor | `≈ 0.01459` (Zeitmotor v3_006) |
+| `η_B` | Baryon-Asymmetrie | `Δ_α² · (α⁻¹·π²)^(2/3) ≈ 6.02×10⁻¹⁰` |
+
+**Cross-Refs:** [RFT_v3_001](RFT_v3_001_Mathematische_Grundlagen.md) (Master-Gleichung, γ-Term — Primärquelle), [RFT_v3_006](RFT_v3_006_Zeit_Emergenz.md) (Zeitpfeil, Φ-Motor), [RFT_v3_009](RFT_v3_009_Kosmogenese.md) (Kosmogenese, η_B), [RFT_v3_011 Teil 4](RFT_v3_011_Teil4_Quantenphaenomene.md) (Kap. 14-15 Dekohärenz — Primärquelle), [RFT_v3_014](RFT_v3_014_Schwache_Wechselwirkung.md) (Zerfall), [RFT_v3_016](RFT_v3_016_Spin_Topologie.md) (Spin-Topologie, τ_lag), [RFT_v3_017](RFT_v3_017_Verschraenkung.md) (parallel: Verschränkung)
+
+---
+
+> **Konfidenz-Marker:** ✓ HOCH (mehrfach bestätigt), ○ MITTEL (konzeptuell klar, formal noch offen), ⚠️ NIEDRIG (Arbeitshypothese), 🚩 OFFEN (Originator-Entscheid oder DeepSeek-Aufgabe ausstehend).
 
 ---
 
@@ -45,21 +58,19 @@ Dieses Dokument vertieft und formalisiert das Material aus v3_011 Kap. 14–15 u
 
 ## Inhaltsverzeichnis
 
-```
-Kap. 1 — Das thermodynamische Rätsel: Warum der Zeitpfeil?
-Kap. 2 — Der γ-Term als Quelle der Irreversibilität
-Kap. 3 — Phaseninformation und Entropie in der Raummatrix
-Kap. 4 — Dekohärenz als physikalischer Prozess
-Kap. 5 — Signaltheorie mit RFT-Brille
-Kap. 6 — Der Zweite Hauptsatz emergiert
-Kap. 7 — Verbindungen zur v3-Serie (γ-Dreifach-Verbindung)
-Kap. 8 — Ehrliche Grenzen
-Kap. 9 — Zusammenfassung und Formelübersicht
-```
+1. Das thermodynamische Rätsel — Warum der Zeitpfeil?
+2. Der γ-Term als Quelle der Irreversibilität
+3. Phaseninformation und Entropie in der Raummatrix
+4. Dekohärenz als physikalischer Prozess
+5. Signaltheorie mit RFT-Brille
+6. Der Zweite Hauptsatz emergiert
+7. Verbindungen zur v3-Serie — Die γ-Dreifach-Verbindung
+8. Ehrliche Grenzen
+9. Zusammenfassung und Formelübersicht
 
 ---
 
-## Kapitel 1: Das thermodynamische Rätsel — Warum der Zeitpfeil?
+## 1. Das thermodynamische Rätsel — Warum der Zeitpfeil?
 
 ### 1.1 Die unbequeme Asymmetrie
 
@@ -97,7 +108,7 @@ Dies wird in Kapitel 2 formal entwickelt.
 
 ---
 
-## Kapitel 2: Der γ-Term als Quelle der Irreversibilität
+## 2. Der γ-Term als Quelle der Irreversibilität
 
 ### 2.1 Die Master-Gleichung und ihre Terme
 
@@ -201,7 +212,7 @@ Dies ist die erste Facette der γ-Dreifach-Verbindung (ausführlich in Kap. 7).
 
 ---
 
-## Kapitel 3: Phaseninformation und Entropie in der Raummatrix
+## 3. Phaseninformation und Entropie in der Raummatrix
 
 ### 3.1 Was ist "Phaseninformation"?
 
@@ -295,7 +306,7 @@ In der RFT entspricht lokale Entropie-Abnahme der Bildung kohärenter Strukturen
 
 ---
 
-## Kapitel 4: Dekohärenz als physikalischer Prozess
+## 4. Dekohärenz als physikalischer Prozess
 
 ### 4.1 Die Kernfrage
 
@@ -432,7 +443,7 @@ Was wir experimentell als "stabile Teilchen" beobachten, sind genau diejenigen R
 
 ---
 
-## Kapitel 5: Signaltheorie mit RFT-Brille
+## 5. Signaltheorie mit RFT-Brille
 
 ### 5.1 Die Frage und das Methodenproblem
 
@@ -521,7 +532,7 @@ Mögliche Auflösung:
 
 ---
 
-## Kapitel 6: Der Zweite Hauptsatz emergiert
+## 6. Der Zweite Hauptsatz emergiert
 
 ### 6.1 Boltzmann neu begründet
 
@@ -583,7 +594,7 @@ Die RFT erklärt mechanistisch, warum und wo lokale Entropie sinken darf.
 
 ---
 
-## Kapitel 7: Verbindungen zur v3-Serie — Die γ-Dreifach-Verbindung
+## 7. Verbindungen zur v3-Serie — Die γ-Dreifach-Verbindung
 
 ### 7.1 Das gemeinsame Fundament
 
@@ -706,7 +717,7 @@ In RFT-Sprache:
 
 ---
 
-## Kapitel 8: Ehrliche Grenzen
+## 8. Ehrliche Grenzen
 
 ### 8.1 Konfidenz-Übersicht
 
@@ -795,7 +806,7 @@ DS-018-D (optional):
 
 ---
 
-## Kapitel 9: Zusammenfassung und Formelübersicht
+## 9. Zusammenfassung und Formelübersicht
 
 ### 9.1 Die vier Kernaussagen
 
@@ -899,90 +910,10 @@ KORREKT:           FALSCH (und warum):
 
 ---
 
-## Feedback-Brief: A018 → K2
-
-**Dokument:** RFT_v3_018 Entropie & Signaltheorie  
-**Instanz:** A018 | **An:** K2 | **Datum:** 04.04.2026
-
-### STATUS
-
-```
-✅ Kap. 1 — Das thermodynamische Rätsel: FERTIG
-✅ Kap. 2 — γ-Term als Quelle der Irreversibilität: FERTIG
-✅ Kap. 3 — Phaseninformation und Entropie: FERTIG
-✅ Kap. 4 — Dekohärenz als physikalischer Prozess: FERTIG
-✅ Kap. 5 — Signaltheorie mit RFT-Brille: FERTIG (Grundgerüst)
-✅ Kap. 6 — 2. Hauptsatz emergiert: FERTIG
-✅ Kap. 7 — Verbindungen zur v3-Serie: FERTIG (alle 3 K2-Insights)
-✅ Kap. 8 — Ehrliche Grenzen: FERTIG
-✅ Kap. 9 — Zusammenfassung + Formelübersicht: FERTIG
-```
-
-### NEUE FLAGS
-
-**F1 — Chirale Entropieproduktion (K2-Insight 3):**
-Kap. 7.5 dokumentiert. Franz-Entscheid erbeten. Verbindung zu v3_014 F4 (Händigkeit links, kosmologischer Ursprung).
-
-**F2 — γ aus Raummatrix-Parametern:**
-Kap. 8.2. Geerbt. Blockiert vollständige T-Identifikation.
-
-**F3 — H-Theorem in Innensicht:**
-Kap. 8.3. Konzeptuelle Spannung (kein Widerspruch). DS-018-D empfohlen.
-
-### QUELLEN-AUDIT (J.21-Protokoll)
-
-9 Quellen gesichtet:
-
-```
-v3_001 (Projektordner)          ✓ HOCH  γ-Term, Kap. 2 Primärquelle
-v3_006 (Projektordner)          ✓ HOCH  Zeitpfeil/Φ, Kap. 7.2
-v3_011 Teil 4 Kap. 14–15        ✓ HOCH  Dekohärenz, Kap. 4 Primärquelle
-v3_009 (Projektordner)          ✓ HOCH  η_B, Kap. 7.4
-v3_014 (Projektordner)          ✓ HOCH  γ-Dreifach-Verbindung, Kap. 7.3
-RFT_11 Upload                   ○ MITTEL Modenstatistik Kap. 6; c₀→c korrigiert
-RFT_38/rft_38 Upload            ○ MITTEL Lokal/Global Kap. 3.4; "Gitter"→"Raummatrix"
-RFT_20 Upload                   ⚠️ NIEDRIG J.18 frühe Phase; ART-Sprache; kaum verwendet
-DeepSeek-Diskussionen Upload    ○ MITTEL  Dekohärenz-Mechanismus Kap. 4 (J.16 Brille)
-```
-
-KI-Artefakte identifiziert und entfernt:
-- `c₀` aus RFT_11 → `c` (J.7)
-- "revolutionäre Entropie-Formel" aus RFT_32 (J.19) → nicht übernommen
-- "REVOLUTIONÄR!" mehrfach (J.19) → ignoriert
-- ε_π = π/4 (RFT_32, unbelegt) → nicht übernommen
-
-### NEUE INSIGHTS FÜR DC-UPDATE
-
-**1. γ-Dreifach-Verbindung präzisiert** (K2-Insight 1):
-Zeitpfeil (v3_006) + Zerfall (v3_014) + Entropie (v3_018) = drei Manifestationen von γ.
-→ DC Domain A + J updaten.
-
-**2. Pointer States = stabile Teilchen** (K2-Insight 2):
-Pointer States = Raummatrix-Moden mit minimaler Dekohärenzrate = stabile Elementarteilchen.
-Q = ω_res/γ: Hoher Q ↔ langsame Dekohärenz ↔ stabiles Teilchen.
-→ DC Domain E + F updaten.
-
-**3. Chirale Entropieproduktion** (K2-Insight 3, als offene Frage):
-γ_L ≠ γ_R? → Franz-Entscheid erbeten.
-→ DC Domain I neue Flag.
-
-### VERBINDUNGEN ZUR v3-SERIE: LÜCKEN?
-
-Noch nicht verbunden:
-- v3_015 (Inertia/Äquivalenz): Trägheit aus Dekohärenz-Widerstand? — spekulativ, nicht ausgearbeitet
-- v3_016 (Spin-Topologie): τ_lag ↔ Dekohärenzzeit? — konzeptuell denkbar, nicht ausgeführt
-
-### EMPFEHLUNG
-
-v3_018 ist bereit für Franz-Freigabe als Final-Kandidat v1.0.
-
-Kein inhaltlicher Blocker. Alle 9 Kapitel vollständig. Konfidenz-Level durchgängig gesetzt. Offene Fragen präzise dokumentiert. DeepSeek-Aufgaben DS-018-A bis DS-018-D klar formuliert. Alle drei K2-Insights eingearbeitet.
-
-Nach Franz-Freigabe: EN-Übersetzung T18 einplanen.
+© 2026 Franz Zollner — Resonance Field Theory Project  
+Lizenz: Creative Commons BY-NC-SA 4.0  
+Kontakt: rft.projekt@posteo.de
 
 ---
 
-*RFT_v3_018 Final-Kandidat v1.0 | A018 → K2 | 04.04.2026*  
-*Primärquellen: v3_001 (γ-Term) + v3_011 Kap. 14–15 (Dekohärenz)*  
-*60+ Konfidenz-Marker | 9 Quellen gesichtet | 4 KI-Artefakte entfernt*  
-*γ-Dreifach-Verbindung, Pointer States = Teilchen, Chirale Entropie: eingearbeitet*
+*Dokument-ID: RFT_v3_018 · Stand: 2026-04-04 · [Mapping zur alten Reihe](../_MAPPING_ALT_NEU.md) · [Style-Guide](../_STYLE_GUIDE.md) · [Repo-Hauptseite](../../../README.md)*
