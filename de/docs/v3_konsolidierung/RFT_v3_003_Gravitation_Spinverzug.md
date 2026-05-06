@@ -155,13 +155,19 @@ Jeder massive Vortex besitzt einen Spin. Dieser Spin erzeugt eine Phasenverzöge
 
 Diese Phasenverzögerung ist der mikroskopische Ursprung der Gravitation in der RFT.
 
-**Anschauliche Analogie — Löffel im Honig (Originator-Bild, Franz Zollner):**
-
-Ein rotierender Löffel in zähem Honig erzeugt durch die Viskosität des Mediums eine *nachwirkende Spannung*. Diese Spannung baut sich nicht ab, solange der Löffel rotiert — sie wirkt als Ziehkraft auf benachbarte Bereiche des Honigs.
-
-Genauso erzeugt ein rotierender Vortex (Spin) im Raumgitter eine residuale Verspannung über τ_lag. Diese **Nachwirkungs-Spannung** *ist* die Gravitation. Es wird kein Material verdrängt; die Spannung selbst ist die gravitative Wirkung. Wenn sich mehrere solcher rotierender Strukturen vereinigen, addieren sich ihre Spannungen — bis die Raummatrix sie nicht mehr ausgleichen kann. An diesem Punkt erfolgt ein **Modensprung**: die Matrix springt in eine höhere harmonische Mode (siehe [RFT_v3_008 — Schwarze Löcher als Modensprung-Phänomene](RFT_v3_008_Schwarze_Loecher_Modensprung.md)). Der Ereignishorizont eines schwarzen Lochs ist diese Modensprung-Grenzfläche, keine Singularität.
-
-> Quelle des Bildes: RFT_003 v2.2 (2026-01-01), Originator-Bestätigung 2026-05-06.
+> 🍯 **Metapher — Löffel im Honig (Originator-Bild, Franz Zollner).**
+> Anschauliche Analogie zur Veranschaulichung des Mechanismus, *keine* formale Ableitung. Wie der Wirbel-Begriff bei Nabla-Operatoren oder Divergenzen ist die Bildsprache eine Brücke zwischen Intuition und Formalismus.
+>
+> **Rotierender Löffel im Honig (→ schwere Masse / Gravitation):**
+> Ein rotierender Löffel in zähem Honig erzeugt durch die Viskosität eine *nachwirkende Spannung*. Diese Spannung baut sich nicht ab, solange der Löffel rotiert — sie wirkt als Ziehkraft auf benachbarte Bereiche. Genauso erzeugt ein rotierender Vortex (Spin) im Raumgitter eine residuale Verspannung über τ_lag. Diese Nachwirkungs-Spannung *ist* die Gravitation. Es wird kein Material verdrängt; die Spannung selbst ist die gravitative Wirkung.
+>
+> **Translatorisch bewegter Löffel im Honig (→ träge Masse):**
+> Wenn der Löffel im Honig vor und zurück bewegt wird, zieht der Honig den Löffel zurück — durch κ-Feld-Antwort des Mediums. Das ist die *träge* Masse, die Translations-Bewegung Widerstand entgegensetzt. Formal in v3_015 §2: m_i = ħκ/c.
+>
+> **Verschmelzung mehrerer rotierender Strukturen:**
+> Addieren sich die Nachwirkungs-Spannungen, bis die Raummatrix sie nicht mehr ausgleichen kann, erfolgt ein **Modensprung**: die Matrix springt in eine höhere harmonische Mode (siehe [RFT_v3_008](RFT_v3_008_Schwarze_Loecher_Modensprung.md)). Der Ereignishorizont eines schwarzen Lochs ist diese Modensprung-Grenzfläche, keine Singularität.
+>
+> Bildquellen: RFT_003 v2.2 (2026-01-01) für Rotations-Bild; Originator-Erweiterung 2026-05-06 für Translations-Bild und Modensprung-Brücke.
 
 ### 3.2 Charakteristische Zeitskala
 
