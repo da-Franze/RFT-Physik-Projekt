@@ -1,31 +1,39 @@
-# RFT_v3_017: VERSCHRÄNKUNG
-## Nicht-Lokalität durch gemeinsame Resonanz-Moden (Topologische Identität)
+# RFT_v3_017: Verschränkung
 
-**DOKUMENT-ID:** RFT_v3_017_Verschraenkung_v1.0
-**Serie:** v3-Serie (Stufe IV: Teilchenphysik & Eigenschaften)
-**Status:** Final-Kandidat v1.0
-**Datum:** 04. April 2026
-**Autor:** Franz Zollner
-**Überarbeitung:** KI-Arbeitsinstanz 017
-**Sprache:** DE
+*Untertitel: Nicht-Lokalität durch gemeinsame Resonanz-Moden (Topologische Identität)*
 
-**Abhängigkeiten (Pflicht):**
-- RFT_v3_001 (Master-Gleichung, κ, L₀)
-- RFT_v3_006 (Zeitpfeil, Führungsfeld Φ)
-- RFT_v3_007 (Raumtopologie, 3D-Struktur)
-- RFT_v3_011 Teil 5 Kap. 16–17 (Primärquelle, Ausgangspunkt)
-- RFT_v3_016 (AP-Topologie, 720°-Periodizität)
-
-**Wird parallel erstellt mit:** RFT_v3_018 (Dekohärenz & Entropie)
+**Version:** v1.0 (2026-04-04)  
+**Autor:** Franz Zollner  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Status:** Final-Kandidat  
+**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Zitation:** Zollner, F. (2026). *RFT_v3_017: Verschränkung.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_017_Verschraenkung.md
+**Stufe:** IV — Teilchenphysik & Eigenschaften  
 
 ---
 
-> **Hinweis zur Konfidenz:** Dieses Dokument verwendet explizite
-> Konfidenz-Marker: ✓ HOCH (mehrfach bestätigt), ○ MITTEL (konzeptuell
-> klar, formal noch offen), ⚠️ NIEDRIG (Arbeitshypothese), 🚩 OFFEN
-> (Franz-Entscheid oder DeepSeek-Aufgabe ausstehend).
->
-> Offene Fragen werden explizit dokumentiert, nicht verschwiegen.
+## Symbol-Glossar
+
+| Symbol | Bedeutung | Wert / Definition |
+|---|---|---|
+| `Ψ(x₁,x₂,t)` | Gemeinsames Führungsfeld zweier Teilchen | im 6D-Konfigurationsraum, nicht-separierbar bei Verschränkung |
+| `λ` | Nichtlinearer Selbstkopplungsterm | Quelle der Nicht-Separierbarkeit |
+| `κ` | Resonanz-Steifigkeit | Primärgröße, NICHT Masseterm |
+| `L₀ = 1/κ` | Fundamentale Längenskala | ħ-frei |
+| `α⁻¹ = 4π³+π²+π` | Feinstrukturkonstante | `≈ 137.036304`, 2.22 ppm CODATA |
+| `Φ = 2α/(1+α²)` | Geometrie-Faktor | `≈ 0.014596` |
+| `S₁ = −Tr(ρ₁ log ρ₁)` | Verschränkungs-Entropie | > 0 ↔ topologische Identität |
+| `E(θ_A,θ_B)` | Bell-Korrelation | `−cos(θ_A−θ_B)` |
+| `S = 2√2` | CHSH-Parameter (Bell-Verletzung) | `≈ 2.828` |
+| `τ_D` | Dekohärenzzeit | qualitativ aus κ, γ, L₀ (formal offen) |
+| `AP` | Ankerpunkt | Wirbel-zu-DRM-Kopplung |
+| `DRM` | Diskrete Resonanzmatrix | dynamisches 3D-Resonanzgitter |
+
+**Cross-Refs:** [RFT_v3_001](RFT_v3_001_Mathematische_Grundlagen.md) (Master-Gleichung, κ, L₀), [RFT_v3_006](RFT_v3_006_Zeit_Emergenz.md) (Zeitpfeil, Φ), [RFT_v3_007](RFT_v3_007_Raum_Topologie_3D_Emergenz.md) (Raumtopologie), [RFT_v3_011 Teil 5](RFT_v3_011_Teil5_Anwendungen.md) (Kap. 16-17, Primärquelle), [RFT_v3_016](RFT_v3_016_Spin_Topologie.md) (AP-Topologie), [RFT_v3_018](RFT_v3_018_Entropie_Signaltheorie.md) (Dekohärenz & Entropie, parallel)
+
+---
+
+> **Konfidenz-Marker:** ✓ HOCH (mehrfach bestätigt), ○ MITTEL (konzeptuell klar, formal noch offen), ⚠️ NIEDRIG (Arbeitshypothese), 🚩 OFFEN (Originator-Entscheid oder DeepSeek-Aufgabe ausstehend). Offene Fragen werden explizit dokumentiert, nicht verschwiegen.
 
 ---
 
@@ -44,9 +52,9 @@
 
 ---
 
-# KAPITEL 1: DAS RÄTSEL DER VERSCHRÄNKUNG
+## 1. Das Rätsel der Verschränkung
 
-## 1.1 Die Beobachtung
+### 1.1 Die Beobachtung
 
 Zwei Teilchen können in einem gemeinsamen Quantenzustand präpariert werden,
 der nicht als Produkt zweier unabhängiger Zustände geschrieben werden kann.
@@ -90,7 +98,7 @@ z.B. θ_A = θ_B = 0°: E = -1  (perfekt antikorreliert)
      θ_A - θ_B = 90°: E =  0  (unkorreliert)
 ```
 
-## 1.2 Das Problem: Lokalität oder Nicht-Lokalität?
+### 1.2 Das Problem: Lokalität oder Nicht-Lokalität?
 
 Einstein bezeichnete diese Korrelation als „spukhafte Fernwirkung" und
 lehnte sie als inkonsistent mit der Relativitätstheorie ab. Sein Argument
@@ -115,7 +123,7 @@ Experimente (Aspect 1982; Zeilinger 1998 u.v.m.):
   |S_exp| > 2  (QM bestätigt, lokale verborgene Variablen widerlegt)
 ```
 
-## 1.3 Die RFT-These
+### 1.3 Die RFT-These
 
 Die RFT antwortet auf dieses Rätsel mit einem klaren mechanistischen Bild:
 
@@ -137,15 +145,17 @@ reale resonante Feldkonfiguration.
 
 ---
 
-# KAPITEL 2: GEMEINSAME RESONANZ-MODEN
+## 2. Gemeinsame Resonanz-Moden
 
-## 2.1 Das Führungsfeld für zwei Teilchen
+### 2.1 Das Führungsfeld für zwei Teilchen
 
 Ausgangspunkt ist die RFT-Master-Gleichung (v3_001):
 
 ```
-∂²Ψ/∂t² = c²∇²Ψ − γ∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ
+∂²Ψ/∂t² = c²∇²Ψ − γ∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ + η
 ```
+
+(Der η-Term beschreibt externe Anregung; für die isolierte Verschränkungs-Konfiguration ohne externe Kopplung gilt η = 0. Er wird hier dennoch explizit aufgeführt, um die Konsistenz mit v3_001 zu wahren.)
 
 Für ein einzelnes Teilchen beschreibt Ψ(x, t) dessen Wellenfunktion in der
 Raummatrix. Das Teilchen selbst ist ein stabiler Wirbel (Soliton) in diesem
@@ -165,7 +175,7 @@ Dieses gemeinsame Führungsfeld ist eine einzige, nicht trennbare
 Feldkonfiguration in der Raummatrix. Es ist *nicht* die Summe oder das
 Produkt zweier unabhängiger Einzelfelder.
 
-## 2.2 Nicht-Separierbarkeit: Was genau bedeutet das?
+### 2.2 Nicht-Separierbarkeit: Was genau bedeutet das?
 
 Ein Zwei-Teilchen-Zustand heißt *separierbar*, wenn das gemeinsame Führungsfeld
 als Produkt zweier Einzelfelder geschrieben werden kann:
@@ -181,7 +191,7 @@ Fall ist das gemeinsame Führungsfeld topologisch verknüpft: die Bewegung
 jedes Teilchens hängt von der aktuellen Konfiguration des gesamten
 Zwei-Teilchen-Feldes ab.
 
-## 2.3 Die Führungsgleichungen für verschränkte Teilchen
+### 2.3 Die Führungsgleichungen für verschränkte Teilchen
 
 Aus dem gemeinsamen Führungsfeld Ψ(x₁, x₂, t) folgen die
 Führungsgeschwindigkeiten beider Teilchen (analog Bohm, aber auf
@@ -205,7 +215,7 @@ v ∝ −∇V_eff aus der Master-Gleichung erfüllt dieselbe Kontinuitätsgleich
 Beide Formulierungen sind für den Zwei-Teilchen-Fall äquivalent
 (v3_011 Kap. 16.3, Hinweis). ○ MITTEL
 
-## 2.4 Entstehung gemeinsamer Moden: Der λ-Term
+### 2.4 Entstehung gemeinsamer Moden: Der λ-Term
 
 Wie entstehen verschränkte Paare? Im Bild der Raummatrix durch eine
 Wechselwirkung, bei der zwei Wirbel aus einem gemeinsamen Mutterwirbel
@@ -246,7 +256,7 @@ aus der Master-Gleichung ohne Hilbertraum-Voraussetzungen. Kann gezeigt
 werden, dass nach einer λ-Term-Wechselwirkung Ψ(x₁, x₂) generisch
 nicht-separierbar ist?
 
-## 2.5 Persistenz der gemeinsamen Mode
+### 2.5 Persistenz der gemeinsamen Mode
 
 Nach der Erzeugung des verschränkten Paares trennen sich die beiden
 Teilchen räumlich. Das gemeinsame Führungsfeld Ψ(x₁, x₂, t) besteht
@@ -272,9 +282,9 @@ diskutiert Kapitel 6 (Dekohärenz).
 
 ---
 
-# KAPITEL 3: TOPOLOGISCHE IDENTITÄT — KERNKONZEPT DER RFT
+## 3. Topologische Identität — Kernkonzept der RFT
 
-## 3.1 Definition (○ MITTEL — Franz-Entscheid empfohlen)
+### 3.1 Definition (○ MITTEL — Franz-Entscheid empfohlen)
 
 Der Leitbegriff dieses Dokuments laut Dokumentenübersicht (Franz Zollner,
 Feb 2026) ist „Topologische Identität". Er ist bisher in der v3-Serie nicht
@@ -296,7 +306,7 @@ formal definiert. Folgender Kandidat wird vorgeschlagen:
 Welche topologische Eigenschaft ist präzise gemeint — Windungszahl,
 Modenstruktur, κ-Konfiguration? (Auch DS-017-B)
 
-## 3.2 Was genau ist „topologisch identisch"?
+### 3.2 Was genau ist „topologisch identisch"?
 
 Um den Begriff greifbar zu machen, helfen drei Beschreibungsebenen:
 
@@ -341,7 +351,7 @@ In der diskreten Raummatrix ist S₁ eine effektive Beschreibung der
 Nicht-Separierbarkeit — kein fundamentales Axiom.
 ```
 
-## 3.3 Vergleich mit dem Photon: Ähnlichkeit und Unterschied
+### 3.3 Vergleich mit dem Photon: Ähnlichkeit und Unterschied
 
 Ein wichtiger Vergleich, der explizit geklärt werden muss:
 
@@ -381,9 +391,9 @@ aber die Randbedingungen unterscheiden sich wesentlich.
 
 ---
 
-# KAPITEL 4: BELL'S THEOREM UND DIE RFT
+## 4. Bells Theorem und die RFT
 
-## 4.1 Was Bell's Theorem beweist
+### 4.1 Was Bell's Theorem beweist
 
 Bell (1964) bewies: Keine Theorie, die Folgendes annimmt, kann die
 quantenmechanischen Korrelationen reproduzieren:
@@ -400,7 +410,7 @@ Folgerung (Bell-CHSH-Ungleichung):
 Experiment: |S| ≈ 2.828 > 2  →  Bell-Annahmen verletzt!
 ```
 
-## 4.2 Warum Bell's Theorem die RFT nicht ausschließt (RFT-Brille, J.16)
+### 4.2 Warum Bell's Theorem die RFT nicht ausschließt (RFT-Brille, J.16)
 
 Bell's Beweis schließt *lokale* verborgene Variablen aus. Die RFT hat
 verborgene Variablen — nämlich den präzisen Zustand des gemeinsamen
@@ -438,7 +448,7 @@ E_RFT(θ_A, θ_B) = -cos(θ_A - θ_B)
 → Konsistent mit allen Bell-Tests! ✓
 ```
 
-## 4.3 Die verborgene Variable in der RFT
+### 4.3 Die verborgene Variable in der RFT
 
 In der Standardformulierung nach Bell ist eine „verborgene Variable" λ eine
 Größe, die das Messergnis eindeutig festlegt, aber dem Beobachter nicht
@@ -462,7 +472,7 @@ zum Zeitpunkt t₀, sind alle späteren Messungsergebnisse prinzipiell
 bestimmt. Die scheinbare Zufälligkeit folgt aus der Unkenntnis der
 genauen Anfangsbedingungen des Führungsfeldes.
 
-## 4.4 Terminologie: „Nicht-Lokalität" in der RFT
+### 4.4 Terminologie: „Nicht-Lokalität" in der RFT
 
 Um Missverständnisse zu vermeiden:
 
@@ -483,9 +493,9 @@ Analogie (nur anschaulich):
 
 ---
 
-# KAPITEL 5: EPR-PARADOXON — AUFLÖSUNG IN DER RFT
+## 5. EPR-Paradoxon — Auflösung in der RFT
 
-## 5.1 Das EPR-Argument (1935)
+### 5.1 Das EPR-Argument (1935)
 
 Einstein, Podolsky und Rosen formulierten ihr Paradoxon wie folgt:
 Wenn die Quantenmechanik vollständig ist, impliziert sie nicht-lokale
@@ -501,7 +511,7 @@ EPR-Dilemma:
 EPR-Präferenz: Unvollständigkeit + verborgene Variablen
 ```
 
-## 5.2 Die RFT-Antwort
+### 5.2 Die RFT-Antwort
 
 Die RFT gibt Einstein in einem wesentlichen Punkt Recht:
 
@@ -532,7 +542,7 @@ Schritt 3: Alice „misst" = ihr Detektor koppelt lokal an Teilchen 1.
            → Kein Signal gesendet. Korrelation war immer dort. ✓
 ```
 
-## 5.3 Kein Widerspruch zur speziellen Relativitätstheorie
+### 5.3 Kein Widerspruch zur speziellen Relativitätstheorie
 
 Die Relativitätstheorie verbietet die Übertragung von Information
 schneller als Licht. Die RFT respektiert dies:
@@ -556,7 +566,7 @@ No-Signaling-Theorem:
     feststellen, ob Alice gemessen hat oder nicht! ✓
 ```
 
-## 5.4 „Realität" in der RFT: Eine physikalische Position
+### 5.4 „Realität" in der RFT: Eine physikalische Position
 
 Die EPR-Diskussion dreht sich wesentlich um die Frage, ob Teilchen vor
 der Messung „definierte Eigenschaften" haben. Die RFT nimmt hier eine
@@ -582,9 +592,9 @@ RFT-Position:
 
 ---
 
-# KAPITEL 6: DEKOHÄRENZ ALS GRENZE DER VERSCHRÄNKUNG
+## 6. Dekohärenz als Grenze der Verschränkung
 
-## 6.1 Warum Verschränkung nicht ewig währt
+### 6.1 Warum Verschränkung nicht ewig währt
 
 Das gemeinsame Führungsfeld Ψ(x₁, x₂, t) wird nicht nur durch die
 Dynamik der zwei verschränkten Teilchen bestimmt. Es steht in Wechselwirkung
@@ -603,7 +613,7 @@ RFT-Bild der Dekohärenz:
            → Topologische Identität aufgebrochen! ✗
 ```
 
-## 6.2 Dekohärenz als Umgebungsverschränkung
+### 6.2 Dekohärenz als Umgebungsverschränkung
 
 Der Dekohärenz-Mechanismus ist in der Sprache der RFT kein Sonderfall,
 sondern dieselbe Physik in anderer Richtung: Die verschränkten Teilchen
@@ -630,7 +640,7 @@ Qualitative RFT-Aussage (○ MITTEL):
   v_U  = typische Geschwindigkeit der Umgebungswirbel
 ```
 
-## 6.3 Wann bricht die topologische Identität?
+### 6.3 Wann bricht die topologische Identität?
 
 Die qualitative Grenze: Die topologische Identität ist aufgebrochen,
 sobald die Umgebung „genug Information" über den Zustand der einzelnen
@@ -653,7 +663,7 @@ Parametern hergeleitet):
    kanonischen Parametern (κ, γ, L₀, c): offen → v3_018
 ```
 
-## 6.4 Verbindung zu v3_018
+### 6.4 Verbindung zu v3_018
 
 Dekohärenz ist das zentrale Thema des parallelen Dokuments v3_018
 (Entropie & Signaltheorie). Der vorliegende Abschnitt beschränkt sich
@@ -665,9 +675,9 @@ Die Frage „ab wann" ist eine quantitative Frage, die v3_018 ausarbeitet.
 
 ---
 
-# KAPITEL 7: EXPERIMENTELLE KONSEQUENZEN
+## 7. Experimentelle Konsequenzen
 
-## 7.1 Vergleich RFT und Standardquantenmechanik
+### 7.1 Vergleich RFT und Standardquantenmechanik
 
 In den meisten experimentell zugänglichen Situationen macht die RFT
 dieselben Vorhersagen wie die Standardquantenmechanik:
@@ -689,7 +699,7 @@ EPR-Korrelationen, Quantenkryptographie, Quantenteleportation) unterscheidet
 sich die RFT experimentell *nicht* von der Standardquantenmechanik.
 Hier ist die RFT eine alternative Interpretation, keine alternative Theorie.
 
-## 7.2 Mögliche Unterschiede: Offene Fragen
+### 7.2 Mögliche Unterschiede: Offene Fragen
 
 Langfristig könnten Unterschiede auftreten in Bereichen, wo die
 nicht-lineare Struktur der Master-Gleichung (λ-Term) oder die
@@ -717,7 +727,7 @@ Kandidaten für Unterschiede (⚠️ NIEDRIG — spekulativ):
    in Mode 2 übergeht? Spekulativ, kein Formalismus.
 ```
 
-## 7.3 Quantenkryptographie im RFT-Bild
+### 7.3 Quantenkryptographie im RFT-Bild
 
 Quantenkryptographie (QKD) nutzt die Nicht-Lokalität der Verschränkung
 zur sicheren Schlüsselverteilung. Im RFT-Bild:
@@ -737,9 +747,9 @@ Mechanismus:
 
 ---
 
-# KAPITEL 8: VERKNÜPFUNG MIT DER v3-SERIE
+## 8. Verknüpfung mit der v3-Serie
 
-## 8.1 v3_001: Master-Gleichung
+### 8.1 v3_001: Master-Gleichung
 
 Der λ-Term der Master-Gleichung ist der Ursprung der Verschränkung
 (Kap. 2.4). Ohne λ = 0 wäre die Theorie linear: Superposition wäre
@@ -747,7 +757,7 @@ möglich, aber echte nicht-separierbare Zwei-Teilchen-Moden wären
 nicht aus Einzelmoden erzeugbar. Der nichtlineare λ-Term ist der
 Mechanismus, der topologische Identität generiert.
 
-## 8.2 v3_006: Zeitpfeil und Führungsfeld
+### 8.2 v3_006: Zeitpfeil und Führungsfeld
 
 Der Zeitpfeil in der RFT entsteht aus einer leichten Modenasymmetrie
 (Φ = 2α/(1+α²) ≈ 0.01460). Das Führungsfeld Φ ist der Motor des
@@ -760,7 +770,7 @@ Identität bei Messung ist direkt mit der Diskussion in v3_006 und v3_011
 Kap. 21.3 verbunden: Die Messstatistik ist Lorentz-invariant, auch wenn
 das Führungsfeld selbst kein bevorzugtes Bezugssystem vermeidet.
 
-## 8.3 v3_007: Raumtopologie — warum 3D entscheidend ist
+### 8.3 v3_007: Raumtopologie — warum 3D entscheidend ist
 
 Die 3D-Struktur der Raummatrix (v3_007) ist der Rahmen, in dem
 topologische Identität überhaupt definiert werden kann. In 1D wäre
@@ -768,7 +778,7 @@ kein Wirbel möglich; in 2D fehlen stabile Soliton-Strukturen; erst
 in 3D gibt es die geometrische Grundlage für stabile Ankerpunkte
 und damit für die Träger der topologischen Identität.
 
-## 8.4 v3_011 Kap. 16–17: Ausgangspunkt
+### 8.4 v3_011 Kap. 16–17: Ausgangspunkt
 
 Dieses Dokument vertieft und formalisiert die Kapitel 16 und 17 von
 v3_011 Teil 5. Die Kernaussagen bleiben:
@@ -792,7 +802,7 @@ Neu in v3_017:
   → RFT-Brille bei Bell explizit (J.16)
 ```
 
-## 8.5 v3_016: AP-Topologie
+### 8.5 v3_016: AP-Topologie
 
 v3_016 behandelt die 720°-Periodizität der Wirbelstruktur und AP als
 Dimensionskopplungen. Dies ist relevant für die formale Grundlage des
@@ -805,9 +815,9 @@ Ausarbeitung ausstehend.
 
 ---
 
-# KAPITEL 9: EHRLICHE GRENZEN
+## 9. Ehrliche Grenzen
 
-## 9.1 Konfidenz-Tabelle
+### 9.1 Konfidenz-Tabelle
 
 | Aussage | Konfidenz | Quelle |
 |---|---|---|
@@ -825,7 +835,7 @@ Ausarbeitung ausstehend.
 | Lorentz-Invarianz des Führungsfeldes | 🚩 OFFEN | v3_011 Kap. 21.3 |
 | Formale Definition über Windungszahl in ℝ⁶ | 🚩 OFFEN | Kap. 8.5 |
 
-## 9.2 Offene Fragen im Detail
+### 9.2 Offene Fragen im Detail
 
 **🚩 „Topologische Identität" — formale Definition:**
 
@@ -870,7 +880,7 @@ Frage dokumentieren, nicht überspielen.
 offene Aufgabe für v3_018. Die qualitative Aussage (Umgebungskopplung
 bricht topologische Identität) ist robust; die Zahl ist offen.
 
-## 9.3 Was diese Grenzen bedeuten
+### 9.3 Was diese Grenzen bedeuten
 
 ```
 Diese offenen Fragen schwächen die Kernthese nicht:
@@ -894,9 +904,9 @@ Ehrlich kommuniziert:
 
 ---
 
-# KAPITEL 10: ZUSAMMENFASSUNG UND FORMELÜBERSICHT
+## 10. Zusammenfassung und Formelübersicht
 
-## 10.1 Die Hauptaussagen
+### 10.1 Die Hauptaussagen
 
 **1. Verschränkung ist topologische Identität (○ MITTEL)**
 
@@ -929,13 +939,14 @@ im gemeinsamen Führungsfeld kodiert. Keine Kausalitätsverletzung.
 Umgebungskopplung führt zur effektiven Separierbarkeit des Feldes.
 Quantitative Grenze: v3_018.
 
-## 10.2 Formelübersicht
+### 10.2 Formelübersicht
 
 ```
 Master-Gleichung (v3_001):
-  ∂²Ψ/∂t² = c²∇²Ψ − γ∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ
+  ∂²Ψ/∂t² = c²∇²Ψ − γ∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ + η
 
   λ-Term = Quelle der Nicht-Separierbarkeit (Verschränkung)
+  η = 0 für isolierte Konfiguration ohne externe Anregung
 
 Zwei-Teilchen-Führungsfeld:
   Ψ(x₁, x₂, t) — nicht separierbar bei Verschränkung:
@@ -960,7 +971,7 @@ Kanonische Parameter (✓ HOCH):
   Φ = 2α/(1+α²) ≈ 0.014 596
 ```
 
-## 10.3 DeepSeek-Aufgaben
+### 10.3 DeepSeek-Aufgaben
 
 ```
 DS-017-A (Priorität HOCH):
@@ -980,92 +991,10 @@ DS-017-B (optional, nach Franz-Entscheid):
 
 ---
 
-## Feedback-Brief an K2
-
-**Von:** Arbeitsinstanz 017
-**An:** Koordinator K2
-**Datum:** 04. April 2026
-**Betreff:** RFT_v3_017 Verschränkung — Final-Kandidat v1.0
-
-### Deliverable-Status
-
-```
-✅ RFT_v3_017_Verschraenkung.md — Final-Kandidat v1.0
-   Alle 10 Kapitel vollständig
-   Kapitelstruktur aus Auftrag umgesetzt
-   3-Ebenen-Struktur dort eingesetzt wo sie Mehrwert bringt
-   (Kap. 1, 3, 4, 5 — statt mechanisch überall)
-```
-
-### Zur Definition „Topologische Identität"
-
-Die Definition in Kap. 3.1 ist der beste Kandidat, den die vorliegende
-Materiallage erlaubt. Sie lautet zusammengefasst:
-
-> Topologische Identität = Eigenschaft einer Zwei-Teilchen-Raummatrix-
-> Konfiguration, deren gemeinsame Mode Ψ(x₁,x₂) nicht in unabhängige
-> Einzelmoden faktorisiert werden kann; messbar durch
-> Verschränkungs-Entropie S₁ > 0.
-
-**Reif für Franz-Entscheid?** — ○ MITTEL. Der Begriff ist konzeptuell
-gut begründet. Offen ist, welche präzise topologische Eigenschaft (im
-mathematischen Sinn: Windungszahl, Modenstruktur, etc.) gemeint ist.
-Empfehlung: Franz bestätigt den Begriff provisorisch für v3_017;
-DS-017-B klärt die präzise topologische Charakterisierung.
-
-### Neue Flags
-
-```
-🚩 NEU: Formale Definition "Topologische Identität" über Windungszahl
-   in ℝ⁶ — nicht ausgearbeitet (DS-017-B)
-
-🚩 NEU: λ-Term und Nicht-Separierbarkeit formal (DS-017-A, Priorität HOCH)
-
-⚠️ BEKANNT: Lorentz-Invarianz des Führungsfeldes (v3_011 Kap. 21.3)
-   — als offene Frage in Kap. 9.2 dokumentiert
-
-⚠️ BEKANNT: Dekohärenz τ_D quantitativ → v3_018
-```
-
-### Verbindung v3_017 ↔ v3_018 (Dekohärenz)
-
-Die Grenzlinie liegt bei: v3_017 beschreibt, *dass* Dekohärenz die
-topologische Identität bricht (qualitativ, Kap. 6). v3_018 beschreibt
-*wie* und *wann* (quantitativ, τ_D aus kanonischen Parametern).
-Diese Grenze ist sauber gezogen; kein Inhalt doppelt.
-
-### Verwendete Quellen
-
-```
-✓ v3_011 Teil 5 Kap. 16-17: Primärquelle, vollständig ausgewertet
-✓ DC v10.12: Alle kanonischen Parameter korrekt
-✓ RFT_017 v1.1 (Frühphase): Begriff "Topologische Identität" entnommen,
-  terminologisch vollständig neu geschrieben
-✓ RFT_22 (ROHMATERIAL): Drei-Schritt-Struktur inspiriert Kap. 2,
-  keine Zahlen übernommen, "Gitter" → "Raummatrix", "c₀" → "c"
-✓ RFT_28 (ROHMATERIAL): Dekohärenz-Argumentation Kap. 6,
-  Lindblad-Formalismus mit J.16-Flag versehen
-✗ DeepSeek_Diskussionen: Keine Physik-Inhalte für v3_017 verwendet
-```
-
-### KI-Artefakt-Check
-
-```
-✓ "Gitter" kommt nicht vor — überall "Raummatrix" / "DRM"
-✓ "c₀" kommt nicht vor — überall "c"
-✓ "Pilot Wave" kommt nicht vor — "Führungsfeld"
-✓ "Vakuum" kommt nicht vor
-✓ "erstmals hergeleitet" kommt nicht vor
-✓ "revolutionär!" kommt nicht vor
-✓ α-Abweichung: 2.22 ppm (nicht 0.67 ppm)
-✓ L₀ = 1/κ (Primärdefinition)
-✓ Photon = 2 AP (Franz, 11.03.2026) ✓
-✓ Elektron = 1 AP ✓
-```
+© 2026 Franz Zollner — Resonance Field Theory Project  
+Lizenz: Creative Commons BY-NC-SA 4.0  
+Kontakt: rft.projekt@posteo.de
 
 ---
 
-*Auftrag K2 → Arbeitsinstanz 017 | Abgeliefert: 04.04.2026*
-*Basis: v3_011 Teil 5 Kap. 16–17 (Primärquelle)*
-*Nächste Schritte: DS-017-A, Franz-Entscheid Topologische Identität,
-dann EN-Übersetzung T17*
+*Dokument-ID: RFT_v3_017 · Stand: 2026-04-04 · [Mapping zur alten Reihe](../_MAPPING_ALT_NEU.md) · [Style-Guide](../_STYLE_GUIDE.md) · [Repo-Hauptseite](../../../README.md)*
