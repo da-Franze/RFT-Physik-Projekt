@@ -255,24 +255,9 @@ Schritt 3: Schnittpunkte Sphäre ∩ Achsen:
 
 Ergebnis: Ein reguläres Oktaeder (6 Ecken, alle Kanten = L₀√2)
 
-╔═══════════════════════════════════════════════════════════════╗
-║         ASCII-Skizze des Oktaeders (3D-Projektion)            ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║                      P₅ (z+, Blau)                            ║
-║                       ●                                       ║
-║                      /|\                                      ║
-║                     / | \                                     ║
-║                P₃ ●──┼──● P₁                                  ║
-║               (y+) |\  o  /| (x+)                             ║
-║                    | \   / |                                  ║
-║                P₄ ●──┼──● P₂                                  ║
-║               (y-)  \ | / (x-)                                ║
-║                       \|/                                     ║
-║                        ●                                      ║
-║                       P₆ (z-)                                 ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+![Oktaeder als Sphäre ∩ Raummatrix-Achsen](../../../assets/images/v3_020/oktaeder_sphere_intersection.svg)
+
+*Sechs Schnittpunkte der Einheitssphäre (Radius L₀) mit den drei kartesischen Achsen ergeben ein reguläres Oktaeder. Materie-Farbladungen (P₁/P₃/P₅, kräftige Farben) und Anti-Farbladungen (P₂/P₄/P₆, gedämpft) sind im selben Oktaeder enthalten — keine separaten Postulate nötig.*
 ```
 
 Konfidenz: ✓ HOCH — direkte geometrische Konstruktion, in v3_007 rigoros etabliert.
@@ -318,23 +303,21 @@ flowchart TB
 
 Das Oktaeder lässt sich in zwei Tetraeder zerlegen, die eine gemeinsame Spitze am Ursprung teilen (v3_007 Kap. 5.2):
 
-╔═══════════════════════════════════════════════════════════════╗
-║      Sanduhr-Zerlegung: Materie / Antimaterie                 ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  Oberer Tetraeder (positive Achsenrichtungen):                ║
-║  ├─ P₁ = (+L₀, 0, 0)   →  Farbladung Rot   (+x)               ║
-║  ├─ P₃ = (0, +L₀, 0)   →  Farbladung Grün  (+y)               ║
-║  ├─ P₅ = (0, 0, +L₀)   →  Farbladung Blau  (+z)               ║
-║  └─ Spitze: Ursprung o  →  Materie-Seite                      ║
-║                                                               ║
-║  Unterer Tetraeder (negative Achsenrichtungen):               ║
-║  ├─ P₂ = (−L₀, 0, 0)   →  Anti-Rot         (−x)               ║
-║  ├─ P₄ = (0, −L₀, 0)   →  Anti-Grün        (−y)               ║
-║  ├─ P₆ = (0, 0, −L₀)   →  Anti-Blau        (−z)               ║
-║  └─ Spitze: Ursprung o  →  Antimaterie-Seite                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+![Sanduhr-Geometrie: Materie- und Antimaterie-Tetraeder mit gemeinsamer Spitze am Ursprung](../../../assets/images/v3_020/sanduhr_materie_antimaterie.svg)
+
+*Die Sanduhr-Form mit gemeinsamer Spitze am Ursprung. Die zwei Tetraeder (Materie oben, Antimaterie unten) treffen sich in der **Mitte** der Sanduhr — beide Tetraeder bestehen ausschließlich aus geraden Kanten. Dies ist die geometrische Darstellung der Materie-Antimaterie-Symmetrie ohne separates Postulat.*
+
+**Listendarstellung der Vertices:**
+
+| Tetraeder | Vertex | Koordinaten | Farbladung |
+|---|---|---|---|
+| Materie (oben) | P₁ | (+L₀, 0, 0) | Rot (+x) |
+| Materie (oben) | P₃ | (0, +L₀, 0) | Grün (+y) |
+| Materie (oben) | P₅ | (0, 0, +L₀) | Blau (+z) |
+| **Spitze (Mitte)** | **o** | **(0, 0, 0)** | **gemeinsam** |
+| Antimaterie (unten) | P₂ | (−L₀, 0, 0) | Anti-Rot (−x) |
+| Antimaterie (unten) | P₄ | (0, −L₀, 0) | Anti-Grün (−y) |
+| Antimaterie (unten) | P₆ | (0, 0, −L₀) | Anti-Blau (−z) |
 
 Die Sanduhr-Form mit gemeinsamer Spitze ist die geometrische Darstellung der Materie-Antimaterie-Symmetrie: beide Hemisphären sind spiegelbildlich und verbunden am Ursprung.
 
