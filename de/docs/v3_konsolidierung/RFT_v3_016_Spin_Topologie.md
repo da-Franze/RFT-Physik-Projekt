@@ -686,28 +686,40 @@ Zusammenfassung:
 
 **Schematische Darstellung der Spin-Statistik aus Topologie:**
 
+**FERMIONEN** — 1 AP, 720°-Periodizität:
+
 ```mermaid
 flowchart TB
-    subgraph FERM [FERMIONEN — 1 AP, 720°-Periodizität]
-        F1["Wirbel A und Wirbel B"]
-        F2["Trajektorien-Vertauschung in 3D<br/>= 180°-Halbdrehung"]
-        F3["Phasenfaktor: e^iπ = <b>−1</b>"]
-        F4["Ψ(2,1) = <b>−</b>Ψ(1,2)<br/>antisymmetrisch"]
-        F5["→ Pauli-Prinzip<br/>(zwei Fermionen nie im selben Zustand)"]
-        F1 --> F2 --> F3 --> F4 --> F5
-    end
+    F1["Wirbel A und Wirbel B<br/>(zwei identische 1-AP-Vortizes)"]
+    F2["Trajektorien-Vertauschung in 3D<br/>entspricht 180°-Halbdrehung"]
+    F3["Phasenfaktor: e^iπ = <b>−1</b>"]
+    F4["Wellenfunktion: Ψ(2,1) = <b>−</b>Ψ(1,2)<br/>antisymmetrisch"]
+    F5["<b>Pauli-Prinzip</b><br/>(zwei Fermionen nie im selben Zustand)"]
+    F1 --> F2 --> F3 --> F4 --> F5
     
-    subgraph BOSO [BOSONEN — 2 AP, 360°-Periodizität]
-        B1["Wirbel A und Wirbel B"]
-        B2["Trajektorien-Vertauschung in 3D<br/>= 360°-Volldrehung"]
-        B3["Phasenfaktor: e^i2π = <b>+1</b>"]
-        B4["Ψ(2,1) = <b>+</b>Ψ(1,2)<br/>symmetrisch"]
-        B5["→ Bose-Einstein-Statistik<br/>(beliebig viele im selben Zustand)"]
-        B1 --> B2 --> B3 --> B4 --> B5
-    end
+    style F1 fill:#f8d7da,stroke:#721c24
+    style F2 fill:#f8d7da,stroke:#721c24
+    style F3 fill:#f8d7da,stroke:#721c24
+    style F4 fill:#f8d7da,stroke:#721c24
+    style F5 fill:#dc3545,stroke:#721c24,color:#fff
+```
+
+**BOSONEN** — 2 AP, 360°-Periodizität:
+
+```mermaid
+flowchart TB
+    B1["Wirbel A und Wirbel B<br/>(zwei identische 2-AP-Vortizes)"]
+    B2["Trajektorien-Vertauschung in 3D<br/>entspricht 360°-Volldrehung"]
+    B3["Phasenfaktor: e^i2π = <b>+1</b>"]
+    B4["Wellenfunktion: Ψ(2,1) = <b>+</b>Ψ(1,2)<br/>symmetrisch"]
+    B5["<b>Bose-Einstein-Statistik</b><br/>(beliebig viele im selben Zustand)"]
+    B1 --> B2 --> B3 --> B4 --> B5
     
-    style FERM fill:#f8d7da,stroke:#721c24
-    style BOSO fill:#d1ecf1,stroke:#0c5460
+    style B1 fill:#d1ecf1,stroke:#0c5460
+    style B2 fill:#d1ecf1,stroke:#0c5460
+    style B3 fill:#d1ecf1,stroke:#0c5460
+    style B4 fill:#d1ecf1,stroke:#0c5460
+    style B5 fill:#17a2b8,stroke:#0c5460,color:#fff
 ```
 
 *Spin-Statistik folgt direkt aus der Wirbel-Topologie: Die Halbdrehung bei der Trajektorien-Vertauschung wirkt sich verschieden auf 720°- und 360°-periodische Wirbel aus. Der Vorzeichenwechsel bei Fermionen erzwingt das Pauli-Prinzip.*
