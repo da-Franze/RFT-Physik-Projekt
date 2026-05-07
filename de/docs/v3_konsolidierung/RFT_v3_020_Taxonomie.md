@@ -303,9 +303,14 @@ flowchart TB
 
 Das Oktaeder lässt sich in zwei Tetraeder zerlegen, die eine gemeinsame Spitze am Ursprung teilen (v3_007 Kap. 5.2):
 
-![Sanduhr-Geometrie: Materie- und Antimaterie-Tetraeder mit gemeinsamer Spitze am Ursprung](../../../assets/images/v3_020/sanduhr_materie_antimaterie.svg)
+![Sanduhr-Geometrie der Farbladungen: Punktspiegelung am Ursprung](../../../assets/images/v3_020/sanduhr_materie_antimaterie.svg)
 
-*Die Sanduhr-Form mit gemeinsamer Spitze am Ursprung. Die zwei Tetraeder (Materie oben, Antimaterie unten) treffen sich in der **Mitte** der Sanduhr — beide Tetraeder bestehen ausschließlich aus geraden Kanten. Dies ist die geometrische Darstellung der Materie-Antimaterie-Symmetrie ohne separates Postulat.*
+**Lese-Schlüssel zum Bild:**
+- **Farbe** bestimmt die *Achse*: jede Farbe + Anti-Farbe bilden eine durchgehende Linie der Länge 2L₀ durch den Ursprung (rote Linie P₁↔P₂, grüne Linie P₃↔P₄, blaue Linie P₅↔P₆).
+- **Richtung** (oben/unten) bestimmt die *Eigenschaft*: Materie (positive Achse) oben, Antimaterie (negative Achse) unten.
+- Die Anti-Vertices liegen **diagonal gegenüber** ihren Materie-Partnern (Punktspiegelung am Ursprung): P₁ Rot oben rechts ↔ P₂ Anti-Rot unten links, P₃ Grün oben links ↔ P₄ Anti-Grün unten rechts.
+- Die zwei Tetraeder (Materie oben, Antimaterie unten) bilden die Sanduhr — gemeinsamer Schnittpunkt **in der Mitte** ist der Ursprung.
+- Beide Tetraeder bestehen ausschließlich aus geraden Kanten — keine Krümmung, keine Postulate.
 
 **Listendarstellung der Vertices:**
 
