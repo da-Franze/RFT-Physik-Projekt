@@ -3189,20 +3189,15 @@ Wellengleichung  Klein-Gordon
 
 **Mathematisch:**
 
-```
-Master-Gleichung:
-∂²Ψ/∂t² = c²∇²Ψ - γ∂Ψ/∂t - c²κ²Ψ + λ|Ψ|²Ψ + η
+Master-Gleichung: `∂²Ψ/∂t² = c²∇²Ψ − γ∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ + η`
 
-├─ γ=0, κ=0, λ=0, η=0:  Wellengleichung
-│
-├─ γ=0, λ=0, η=0, κ≠0:  Klein-Gordon
-│  │
-│  └─ v≪c:  Schrödinger
-│     │
-│     └─ ℏ→0:  Newton
-│
-└─ Alle Terme:  Vollständige RFT (Teilchen als Solitonen)
-```
+| Spezialfall | Bedingungen | Resultat |
+|---|---|---|
+| Wellengleichung | γ=0, κ=0, λ=0, η=0 | klassische Wellengleichung |
+| Klein-Gordon | γ=0, λ=0, η=0, κ≠0 | relativistische QM |
+| Schrödinger | + Limes v ≪ c | nicht-relativistische QM |
+| Newton | + Limes ℏ → 0 | klassische Mechanik |
+| **Vollständige RFT** | alle Terme aktiv | Teilchen als Solitonen |
 
 ### Parameter-Regime
 

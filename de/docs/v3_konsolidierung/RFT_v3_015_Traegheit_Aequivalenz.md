@@ -675,21 +675,14 @@ konzeptuell wichtig, weil erst dann m_i und m_g in denselben Grundgrößen
 
 ### 9.2 Konzeptuelle Hierarchie
 
-```
-DRM-Geometrie (c, L₀, α)
-        │
-        ├─ κ-Feld (Resonanz-Steifigkeit)
-        │       └─ m_i = ħκ/c    [LOKAL, sofortig]
-        │
-        ├─ Spinverzug-Mechanismus (τ_lag = L₀/c)
-        │       └─ m_g ~ Schleppwirbelamplitude   [NICHT-LOKAL]
-        │
-        ├─ 4π-Koinzidenz (für Hadronen)
-        │       └─ m_i ≈ m_g   [Äquivalenzprinzip]
-        │
-        └─ Phasenasymmetrie δ (Zeitmotor)
-                └─ η_B = Δ_α² · Q_krit1^(2/3) ≈ 6×10⁻¹⁰  [ÄP-Bruch]
-```
+Aus der DRM-Geometrie (mit Eingaben c, L₀, α) folgen vier Mechanismen:
+
+| Mechanismus | Resultat | Charakter |
+|---|---|---|
+| κ-Feld (Resonanz-Steifigkeit) | `m_i = ħκ/c` | LOKAL, sofortig |
+| Spinverzug (τ_lag = L₀/c) | `m_g ~ Schleppwirbelamplitude` | NICHT-LOKAL, propagierend |
+| 4π-Koinzidenz (Hadronen) | `m_i ≈ m_g` | Äquivalenzprinzip |
+| Phasenasymmetrie δ (Zeitmotor) | `η_B = Δ_α² · Q_krit1^(2/3) ≈ 6×10⁻¹⁰` | ÄP-Bruch |
 
 ### 9.3 Offene Flaggen (Priorität)
 

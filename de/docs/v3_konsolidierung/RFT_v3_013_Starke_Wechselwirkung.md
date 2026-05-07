@@ -564,16 +564,19 @@ asymmetrische Verzerrung in der umgebenden Raummatrix. Werden zwei
 Quarks voneinander getrennt, entsteht zwischen ihren divergierenden
 Verzerrungsfeldern eine Übergangszone:
 
+```mermaid
+flowchart LR
+    A["Quark A<br/>Schräglage Rot<br/>(Gradient ↑)"]
+    S["String-Übergangszone<br/>← Rückstellkraft →<br/>auf 180° aufrichten"]
+    B["Quark B<br/>Schräglage Blau<br/>(Gradient ↑)"]
+    A ---|"Raummatrix-Verzerrung"| S
+    S ---|"Raummatrix-Verzerrung"| B
+    style A fill:#ffcccc,stroke:#cc0000
+    style B fill:#ccccff,stroke:#0000cc
+    style S fill:#fffacd,stroke:#856404
 ```
-Quark A (Schräglage Rot)      Quark B (Schräglage Blau)
-│ Gradient ↑                   │ Gradient ↑
-│ Raummatrix-Verzerrung        │ Raummatrix-Verzerrung
-│──────────── Übergangszone ───────────────│
-                (String!)
-    ← Rückstellkraft: Will APs auf 180° aufrichten →
 
-String-Energie ~ κ_str × Abstand   (qualitativ linear)
-```
+*String-Energie wächst qualitativ linear mit dem Abstand: `E_String ~ κ_str · Abstand`. Diese lineare Energie-Skalierung ist die geometrische Grundlage des Confinement.*
 
 Die Übergangszone verhält sich wie ein "String": Ihre Energie steigt
 mit wachsendem Abstand der Quarks. Das erklärt zwei Phänomene:

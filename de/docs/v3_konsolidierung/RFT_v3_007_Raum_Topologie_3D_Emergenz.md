@@ -231,20 +231,13 @@ Die physikalische Begründung: D Ankerpunkte bilden in D Dimensionen die minimal
 
 ### 4.2 Ankerpunkt-Hierarchie (Franz bestätigt)
 
-```
-┌─────────────────────────────────────────────────────────┐
-│ ANKERPUNKT-RESONANZ-HIERARCHIE (in 3D):                 │
-│                                                         │
-│ 1 Ankerpunkt → keine stabile Resonanz                   │
-│               → nicht existenzfähig (nicht beobachtet) │
-│                                                         │
-│ 2 Ankerpunkte → schwache Resonanz, hohe Verspannung     │
-│               → kurze Lebensdauer (Mesonen, Pionen)     │
-│                                                         │
-│ 3 Ankerpunkte → stabile Resonanz, geringe Verspannung   │
-│               → lange Lebensdauer (Quarks, Leptonen) ✓ │
-└─────────────────────────────────────────────────────────┘
-```
+**Ankerpunkt-Resonanz-Hierarchie (in 3D):**
+
+| AP-Zahl | Resonanz-Stabilität | Verspannung | Beobachtung |
+|---|---|---|---|
+| 1 Ankerpunkt | keine stabile Resonanz | — | nicht existenzfähig (nicht beobachtet) |
+| 2 Ankerpunkte | schwache Resonanz | hoch | kurze Lebensdauer (Mesonen, Pionen) |
+| 3 Ankerpunkte | stabile Resonanz | gering | lange Lebensdauer (Quarks, Leptonen) ✓ |
 
 Analogie: Ein Kamera-Stativ. Ein Bein fällt sofort um. Zwei Beine wackeln. Drei Beine stehen fest.
 

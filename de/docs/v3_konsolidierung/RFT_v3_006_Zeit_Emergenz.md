@@ -63,29 +63,11 @@ Drittens: Der Qualitätsfaktor Q des Raumgitters variiert kosmologisch. Diese Va
 
 ### 1.1 Drei Konzeptionen im Vergleich
 
-```
-NEWTON (1687):
-  Zeit verläuft absolut, gleichförmig, unabhängig von allem.
-  ├─ Problem 1: Kein messbarer "Zeitbehälter" existiert
-  ├─ Problem 2: Warum ist Zeit nicht umkehrbar? (kein Mechanismus)
-  └─ Problem 3: Was war "vor" der Zeit? (sinnlose Frage ohne Antwort)
-
-EINSTEIN (1905–1915):
-  Zeit = vierte Dimension der Raumzeit. Jeder Punkt (x,y,z,t)
-  existiert "auf einmal". Alle Ereignisse liegen fest wie
-  Frames in einem Film.
-  ├─ Problem 1: Kausalität ist unmöglich! (alles vorbestimmt)
-  ├─ Problem 2: Zeit hat keinen Operator in der QM
-  │   (Energie → Ĥ, Ort → x̂, Impuls → p̂, aber Zeit → nur Zahl t)
-  └─ Problem 3: Was gibt Information die Richtung? (unbefriedigend)
-
-RFT (diese Arbeit):
-  Zeit emergiert aus der asymmetrischen Dynamik des DRM.
-  Zeit IST kontinuierlich — aber ihr Motor ist die Schwebung.
-  ├─ Kausalität: natürlich (Schwebung hat Phasenverlauf)
-  ├─ Zeitpfeil: mechanistisch (Asymmetrie ε ≠ 0, quantitativ: Φ)
-  └─ Zeitoperator: emerges from t̂ = (2π/Δω) · N̂
-```
+| Konzeption | Zeit-Begriff | Probleme / Auflösungen |
+|---|---|---|
+| **Newton (1687)** | absolut, gleichförmig, unabhängig | (1) kein messbarer "Zeitbehälter" · (2) keine mechanistische Begründung des Zeitpfeils · (3) "vor der Zeit" sinnlos |
+| **Einstein (1905–1915)** | 4. Dimension der Raumzeit; alle (x,y,z,t) "auf einmal" | (1) Kausalität-Problem (alles vorbestimmt) · (2) kein Zeit-Operator in der QM (Energie→Ĥ, Ort→x̂, aber Zeit→Zahl t) · (3) keine Erklärung für Informations-Richtung |
+| **RFT (diese Arbeit)** | emergent aus asymmetrischer DRM-Dynamik; kontinuierlich, Motor = Schwebung | (1) Kausalität natürlich aus Phasenverlauf · (2) Zeitpfeil mechanistisch (ε ≠ 0, quantitativ Φ) · (3) Zeitoperator `t̂ = (2π/Δω)·N̂` emergent |
 
 ### 1.2 Das Innensicht-Argument
 
@@ -238,29 +220,13 @@ Konfidenz: HOCH (Formel), ○ (Verbindung zu ε geometrisch noch offen)
 
 Die Größe Φ ≈ 2α taucht in drei physikalisch unabhängigen Kontexten als konsistente Asymmetrie auf:
 
-```
-KONTEXT 1 — Elektromagnetik (α-Residuum):
-  α⁻¹_geometrisch = 4π³ + π² + π = 137,036 304
-  α⁻¹_CODATA      = 137,035 999 084(21)
-  Residuum: 2,22 ppm
-  → Interpretiert als Signatur der Zeitasymmetrie in der EM-Kopplung
-  ✓ Konfidenz: HOCH (Rechnung direkt verifizierbar)
+| Kontext | Beobachtung | Interpretation | Konfidenz |
+|---|---|---|---|
+| **1. Elektromagnetik** (α-Residuum) | `α⁻¹_geometrisch = 4π³ + π² + π = 137,036 304` vs. `α⁻¹_CODATA = 137,035 999 084(21)` → Residuum **2,22 ppm** | Signatur der Zeitasymmetrie in der EM-Kopplung | ✓ HOCH (Rechnung direkt verifizierbar) |
+| **2. Starke WW** (Protonenmasse) | `m_p·c² = (n·π − 2α) × k_B × T_Kond` mit `n=2` → 938,3 MeV (exp.: 938,272 MeV, 0,003% ✓) | Dieselbe Größe 2α korrigiert die Protonenmasse | ○ MITTEL (T_QCD noch nicht aus Fundamentalinputs) |
+| **3. Topologie** (Elektron-Stabilität) | Kreisel-Geometrie: Korrekturfaktor 2α-kompatibel | Konsistenz mit Φ ≈ 2α | ○ MITTEL (Projektionsfaktor noch offen) |
 
-KONTEXT 2 — Starke Wechselwirkung (Protonenmasse):
-  n×π-Formel mit Asymmetrie-Korrektur:
-  m_p·c² = (n·π − 2α) × k_B × T_Kond   mit n=2
-  Proton: 938,3 MeV (experimentell: 938,272 MeV, 0,003% ✓)
-  → Dieselbe Größe 2α korrigiert die Protonenmasse
-  ✓ Konfidenz: MITTEL (T_QCD noch nicht aus Fundamentalinputs)
-
-KONTEXT 3 — Topologie (Elektron-Stabilitätsstruktur):
-  Kreisel-Geometrie: Korrekturfaktor ebenfalls 2α-kompatibel
-  ✓ Konfidenz: MITTEL (Projektionsfaktor noch offen)
-
-FAZIT: Φ ≈ 2α taucht dreifach auf — das stützt die Zeitmotor-
-       Interpretation qualitativ stark. Ob ε (geometrischer Winkel)
-       direkt aus diesen Kontexten folgt: ⚠️ noch nicht hergeleitet.
-```
+**Fazit:** Φ ≈ 2α taucht dreifach auf — das stützt die Zeitmotor-Interpretation qualitativ stark. Ob ε (geometrischer Winkel) direkt aus diesen Kontexten folgt, ist ⚠️ noch nicht hergeleitet.
 
 ### 3.4 Verbindung zum α-Residuum (Arbeitshypothese)
 

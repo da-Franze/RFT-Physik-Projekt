@@ -446,23 +446,17 @@ Der Resteffekt ~2α ist voraussichtlich viele Größenordnungen unterhalb aktuel
 
 ## Verbindung zur Konstantenhierarchie
 
-```
-DRM-Geometrie
-    │
-    ├─ c  [m/s]               ← Fundamental
-    │
-    ├─ α = 1/(4π³+π²+π)       ← Aus π-Geometrie (→ RFT_v3_002)
-    │
-    ├─ L₀ = (π/6)·l_P         ← Aus Resonanzbedingung
-    │    │
-    │    └─ L₀/l_P = 0,522    ← Geometrische Vorhersage ✓
-    │
-    ├─ G·ħ = (36/π²)·c³·L₀²   ← Konsistenzrelation ✓
-    │
-    ├─ G_elementar = c³·L₀²/(4π·ħ)
-    │
-    └─ G_hadron = 4π·G_elementar = G_gemessen  ✓
-```
+Aus der DRM-Geometrie folgen die fundamentalen Konstanten in dieser Hierarchie:
+
+| Konstante | Formel | Status |
+|---|---|---|
+| `c` [m/s] | Lichtgeschwindigkeit | Fundamental (Eingabewert) |
+| `α = 1/(4π³+π²+π)` | π-Geometrie der Resonanzmoden | aus RFT_v3_002 |
+| `L₀ = (π/6)·l_P` | Resonanzbedingung | geometrisch hergeleitet |
+| `L₀/l_P = 0,522` | numerische Verifikation | ✓ geometrische Vorhersage |
+| `G·ħ = (36/π²)·c³·L₀²` | Konsistenzrelation | ✓ algebraisch verifiziert |
+| `G_elementar = c³·L₀²/(4π·ħ)` | Quark-Fehlanpassung | aus Spinverzug |
+| `G_hadron = 4π·G_elementar` | Farbladungs-Aufrichtung | ✓ = G_gemessen |
 
 ---
 
