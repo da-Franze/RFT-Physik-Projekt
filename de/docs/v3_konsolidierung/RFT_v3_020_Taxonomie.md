@@ -255,18 +255,24 @@ Schritt 3: Schnittpunkte Sphäre ∩ Achsen:
 
 Ergebnis: Ein reguläres Oktaeder (6 Ecken, alle Kanten = L₀√2)
 
-            P₅ (z+, Blau)
-             ●
-            /|\
-           / | \
-      P₃ ●──┼──● P₁
-     (y+) |\  o  /| (x+)
-          | \   / |
-      P₄ ●──┼──● P₂
-     (y-)  \ | / (x-)
-             \|/
-              ●
-             P₆ (z-)
+╔═══════════════════════════════════════════════════════════════╗
+║         ASCII-Skizze des Oktaeders (3D-Projektion)            ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║                      P₅ (z+, Blau)                            ║
+║                       ●                                       ║
+║                      /|\                                      ║
+║                     / | \                                     ║
+║                P₃ ●──┼──● P₁                                  ║
+║               (y+) |\  o  /| (x+)                             ║
+║                    | \   / |                                  ║
+║                P₄ ●──┼──● P₂                                  ║
+║               (y-)  \ | / (x-)                                ║
+║                       \|/                                     ║
+║                        ●                                      ║
+║                       P₆ (z-)                                 ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 Konfidenz: ✓ HOCH — direkte geometrische Konstruktion, in v3_007 rigoros etabliert.
@@ -312,19 +318,23 @@ flowchart TB
 
 Das Oktaeder lässt sich in zwei Tetraeder zerlegen, die eine gemeinsame Spitze am Ursprung teilen (v3_007 Kap. 5.2):
 
-```
-Oberer Tetraeder (positive Achsenrichtungen):
-├─ P₁ = (+L₀, 0, 0)   →  Farbladung Rot   (+x)
-├─ P₃ = (0, +L₀, 0)   →  Farbladung Grün  (+y)
-├─ P₅ = (0, 0, +L₀)   →  Farbladung Blau  (+z)
-└─ Spitze: Ursprung o  →  Materie-Seite
-
-Unterer Tetraeder (negative Achsenrichtungen):
-├─ P₂ = (−L₀, 0, 0)   →  Anti-Rot         (−x)
-├─ P₄ = (0, −L₀, 0)   →  Anti-Grün        (−y)
-├─ P₆ = (0, 0, −L₀)   →  Anti-Blau        (−z)
-└─ Spitze: Ursprung o  →  Antimaterie-Seite
-```
+╔═══════════════════════════════════════════════════════════════╗
+║      Sanduhr-Zerlegung: Materie / Antimaterie                 ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  Oberer Tetraeder (positive Achsenrichtungen):                ║
+║  ├─ P₁ = (+L₀, 0, 0)   →  Farbladung Rot   (+x)               ║
+║  ├─ P₃ = (0, +L₀, 0)   →  Farbladung Grün  (+y)               ║
+║  ├─ P₅ = (0, 0, +L₀)   →  Farbladung Blau  (+z)               ║
+║  └─ Spitze: Ursprung o  →  Materie-Seite                      ║
+║                                                               ║
+║  Unterer Tetraeder (negative Achsenrichtungen):               ║
+║  ├─ P₂ = (−L₀, 0, 0)   →  Anti-Rot         (−x)               ║
+║  ├─ P₄ = (0, −L₀, 0)   →  Anti-Grün        (−y)               ║
+║  ├─ P₆ = (0, 0, −L₀)   →  Anti-Blau        (−z)               ║
+║  └─ Spitze: Ursprung o  →  Antimaterie-Seite                  ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 
 Die Sanduhr-Form mit gemeinsamer Spitze ist die geometrische Darstellung der Materie-Antimaterie-Symmetrie: beide Hemisphären sind spiegelbildlich und verbunden am Ursprung.
 
