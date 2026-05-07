@@ -409,43 +409,26 @@ Konfidenz: ✓ HOCH (Geometrie) | ○ MITTEL (Confinement-Mechanismus quantitati
 
 Die folgende Tabelle gibt die vollständige RFT-Teilchen-Taxonomie nach dem Stand der v3-Serie wieder. Die AP-Zählung ist kanonisch (DC v10.13, Domain E). Spin-Werte sind experimentell etablierte Fakten — ihre Herleitung aus der RFT ist teilweise noch offen (vgl. Kap. 8).
 
-```
-KANONISCHE RFT-TEILCHEN-TAXONOMIE (DC v10.13, 04.04.2026)
-─────────────────────────────────────────────────────────────────────────
-Klasse     | Teilchen      | AP  | Spin | Farbldg.| Stabilität | Konfid.
-─────────────────────────────────────────────────────────────────────────
-Pseudo-0AP | Neutrino ν    |  0  |  ½   | nein    | stabil(?)  | ⚠️ ARBTSHYP
-           |               |     |      |         | κ>0: m_ν≠0 |
-─────────────────────────────────────────────────────────────────────────
-Lepton     | Elektron e⁻   |  1  |  ½   | nein    | ✅ stabil  | ✓ HOCH
-           | Positron e⁺   |  1  |  ½   | nein    | ✅ stabil  | ✓ HOCH
-           | Myon μ⁻       |  1  |  ½   | nein    | ⚠️ instabil| ○ MITTEL
-           | Tauon τ⁻      |  1  |  ½   | nein    | ⚠️ instabil| ○ MITTEL
-─────────────────────────────────────────────────────────────────────────
-Boson      | Photon γ      |  2  |  1   | nein    | ✅ stabil  | ✓ HOCH
-(stabil)   |               |     |      |         |(komplementär)|
-─────────────────────────────────────────────────────────────────────────
-Boson      | W⁺, W⁻, Z⁰   | (2) |  1   | nein    | ❌ transient| ○ MITTEL
-(transient)|               |     |      |         | ~10⁻²⁵ s   |
-─────────────────────────────────────────────────────────────────────────
-Quark      | u, d, s, c,   |  3  |  ½   | ja      | ∞ confined | ✓ HOCH
-(elementar)|    b, t       |     |      | (r/g/b) | (kein freies|
-           |               |     |      |         |  Quark!)   |
-─────────────────────────────────────────────────────────────────────────
-Baryon     | Proton p      |  9  |  ½   | nein    | ✅ stabil  | ✓ HOCH
-(Komposit) | Neutron n     |  9  |  ½   | nein    | ⚠️ β-Zerfall| ✓ HOCH
-           | Delta Δ       |  9  | 3/2  | nein    | ⚠️ instabil| ✓ HOCH
-           | (weitere)     | 3×N |  ?   | nein    | variabel   | ○ MITTEL
-─────────────────────────────────────────────────────────────────────────
-Meson      | π⁰, π±        |  ?  |  0   | nein    | ⚠️ instabil| 🚩 OFFEN
-(Komposit) | K, η, ρ...    |  ?  |  ?   | nein    | variabel   | 🚩 OFFEN
-─────────────────────────────────────────────────────────────────────────
-Sonderfall | Cooper-Paar   | (2) |  0   | nein    | ✅ kond.   | ○ MITTEL
-           |               |     |      |         | (n=0 Top.) |
-─────────────────────────────────────────────────────────────────────────
-Offen      | Higgs-Boson H |  ?  |  0   | nein    | ⚠️ instabil| 🚩 OFFEN
-─────────────────────────────────────────────────────────────────────────
-```
+**KANONISCHE RFT-TEILCHEN-TAXONOMIE** (DC v10.13, 04.04.2026)
+
+| Klasse | Teilchen | AP | Spin | Farbladung | Stabilität | Konfidenz |
+|---|---|:---:|:---:|:---:|---|---|
+| Pseudo-0AP | Neutrino ν | 0 | ½ | nein | stabil(?), κ>0: m_ν≠0 | ⚠️ ARBEITSHYPOTHESE |
+| Lepton | Elektron e⁻ | 1 | ½ | nein | ✅ stabil | ✓ HOCH |
+| Lepton | Positron e⁺ | 1 | ½ | nein | ✅ stabil | ✓ HOCH |
+| Lepton | Myon μ⁻ | 1 | ½ | nein | ⚠️ instabil | ○ MITTEL |
+| Lepton | Tauon τ⁻ | 1 | ½ | nein | ⚠️ instabil | ○ MITTEL |
+| Boson (stabil) | Photon γ | 2 | 1 | nein | ✅ stabil (komplementär) | ✓ HOCH |
+| Boson (transient) | W⁺, W⁻, Z⁰ | (2) | 1 | nein | ❌ transient (~10⁻²⁵ s) | ○ MITTEL |
+| Quark (elementar) | u, d, s, c, b, t | 3 | ½ | ja (r/g/b) | ∞ confined (kein freies Quark!) | ✓ HOCH |
+| Baryon (Komposit) | Proton p | 9 | ½ | nein | ✅ stabil | ✓ HOCH |
+| Baryon (Komposit) | Neutron n | 9 | ½ | nein | ⚠️ β-Zerfall | ✓ HOCH |
+| Baryon (Komposit) | Delta Δ | 9 | 3/2 | nein | ⚠️ instabil | ✓ HOCH |
+| Baryon (Komposit) | (weitere) | 3×N | ? | nein | variabel | ○ MITTEL |
+| Meson (Komposit) | π⁰, π± | ? | 0 | nein | ⚠️ instabil | 🚩 OFFEN |
+| Meson (Komposit) | K, η, ρ... | ? | ? | nein | variabel | 🚩 OFFEN |
+| Sonderfall | Cooper-Paar | (2) | 0 | nein | ✅ kondensiert (n=0 Top.) | ○ MITTEL |
+| Offen | Higgs-Boson H | ? | 0 | nein | ⚠️ instabil | 🚩 OFFEN |
 
 ### 4.2 Spin und AP: Getrennte Spalten — getrennte Physik
 
@@ -923,30 +906,28 @@ RFT:
 
 ### 8.8 Konfidenz-Übersicht: Vollständige Tabelle
 
-```
-Taxonomie-Element                      | Konfidenz  | Blocker?
-──────────────────────────────────────|────────────|────────
-AP-Definition (Franz, 15.03.2026)     | ✓ HOCH     | —
-Elektron = 1 AP                       | ✓ HOCH     | —
-Photon = 2 AP (Franz, 11.03.2026)     | ✓ HOCH     | —
-Quark = 3 AP                          | ✓ HOCH     | —
-Proton = 9 AP                         | ✓ HOCH     | —
-Spin ⊥ AP (Orthogonalität)            | ○ MITTEL   | —
-AP = Dimensionskopplung               | ○ MITTEL   | —
-Farbladung = 3D-Kopplung              | ✓ HOCH     | —
-120°-Beweis (direkte Vektorrechnung)  | ✓ HOCH     | —
-SU(3) aus Oktaeder-Geometrie          | ✓ HOCH     | —
-Confinement = topologisch             | ○ MITTEL   | Quantitativ offen
-W/Z = transiente 2-AP-Moden          | ○ MITTEL   | —
-Neutrino = Longitudinalwelle (0 AP)   | ○ MITTEL   | —
-Neutrino-Spin ½                       | ⚠️ NIEDRIG | Mechanismus fehlt
-Drei Generationen (harmonisch)        | ⚠️ NIEDRIG | formal nicht hergeleitet
-Spin ½ bei Quarks (3 AP)             | ⚠️ NIEDRIG | formal offen
-AP→Spin-Mapping Komposita             | 🚩 OFFEN   | Franz-Entscheid!
-Mesonik AP-Zahl                       | 🚩 OFFEN   | kein Ansatz
-Higgs in RFT                          | 🚩 OFFEN   | kein Ansatz
-Exotische Hadronen                    | 🚩 OFFEN   | Stabilitätsanalyse fehlt
-```
+| Taxonomie-Element | Konfidenz | Blocker? |
+|---|---|---|
+| AP-Definition (Franz, 15.03.2026) | ✓ HOCH | — |
+| Elektron = 1 AP | ✓ HOCH | — |
+| Photon = 2 AP (Franz, 11.03.2026) | ✓ HOCH | — |
+| Quark = 3 AP | ✓ HOCH | — |
+| Proton = 9 AP | ✓ HOCH | — |
+| Spin ⊥ AP (Orthogonalität) | ○ MITTEL | — |
+| AP = Dimensionskopplung | ○ MITTEL | — |
+| Farbladung = 3D-Kopplung | ✓ HOCH | — |
+| 120°-Beweis (direkte Vektorrechnung) | ✓ HOCH | — |
+| SU(3) aus Oktaeder-Geometrie | ✓ HOCH | — |
+| Confinement = topologisch | ○ MITTEL | Quantitativ offen |
+| W/Z = transiente 2-AP-Moden | ○ MITTEL | — |
+| Neutrino = Longitudinalwelle (0 AP) | ○ MITTEL | — |
+| Neutrino-Spin ½ | ⚠️ NIEDRIG | Mechanismus fehlt |
+| Drei Generationen (harmonisch) | ⚠️ NIEDRIG | formal nicht hergeleitet |
+| Spin ½ bei Quarks (3 AP) | ⚠️ NIEDRIG | formal offen |
+| AP→Spin-Mapping Komposita | 🚩 OFFEN | Franz-Entscheid! |
+| Mesonik AP-Zahl | 🚩 OFFEN | kein Ansatz |
+| Higgs in RFT | 🚩 OFFEN | kein Ansatz |
+| Exotische Hadronen | 🚩 OFFEN | Stabilitätsanalyse fehlt |
 
 ---
 
@@ -958,22 +939,20 @@ Das SM und die RFT beschreiben dasselbe Teilchenspektrum aus unterschiedlichen A
 
 ### 9.2 SM vs. RFT: Klassifikationsvergleich
 
-```
-Eigenschaft          | SM                       | RFT-Erklärung            | Status
-─────────────────────|──────────────────────────|──────────────────────────|────────
-Elektrische Ladung   | Postulat                 | Würfel-Ebenenstruktur    | ✓ HOCH
-Farbladung SU(3)     | Postulierte Eichsymmetrie| Oktaeder-Geometrie (3D)  | ✓ HOCH
-Spin ½ (Leptonen)   | Postulat (Dirac)         | 720°-Topologie (1 AP)    | ○ MITTEL
-Spin ½ (Quarks)     | Postulat                 | 🚩 offen (AP⊥Spin!)     | 🚩 OFFEN
-Confinement          | Dynamisch (α_s Anstieg)  | Topologisch (3D-Kopplung)| ○ MITTEL
-3 Generationen       | Beobachtet, unerklärt    | Harmonische Moden (Kand.)| ⚠️ NIEDRIG
-Paritätsverletzung   | Postulat (SM-Struktur)   | γ-Term-Asymmetrie        | ○ MITTEL
-Boson-Spin 1         | Postulat (Eichboson)     | 2-AP-Objekt (geometrisch)| ✓ HOCH (Photon)
-Neutrino-Masse        | Seesaw (ad hoc)          | κ > 0 → m_ν = ħκ_ν/c   | ○ MITTEL
-Higgs-Mechanismus    | Spontane Symmetriebr.    | 🚩 kein RFT-Bild         | 🚩 OFFEN
-Asymptotische Freiheit| QCD (formale Rechnung) | 🚩 kein RFT-Mechanismus  | 🚩 OFFEN
-Myon g-2 Anomalie    | ~4σ Abweichung           | 🚩 kein RFT-Bild         | 🚩 OFFEN
-```
+| Eigenschaft | SM | RFT-Erklärung | Status |
+|---|---|---|---|
+| Elektrische Ladung | Postulat | Würfel-Ebenenstruktur | ✓ HOCH |
+| Farbladung SU(3) | Postulierte Eichsymmetrie | Oktaeder-Geometrie (3D) | ✓ HOCH |
+| Spin ½ (Leptonen) | Postulat (Dirac) | 720°-Topologie (1 AP) | ○ MITTEL |
+| Spin ½ (Quarks) | Postulat | 🚩 offen (AP⊥Spin!) | 🚩 OFFEN |
+| Confinement | Dynamisch (α_s Anstieg) | Topologisch (3D-Kopplung) | ○ MITTEL |
+| 3 Generationen | Beobachtet, unerklärt | Harmonische Moden (Kand.) | ⚠️ NIEDRIG |
+| Paritätsverletzung | Postulat (SM-Struktur) | γ-Term-Asymmetrie | ○ MITTEL |
+| Boson-Spin 1 | Postulat (Eichboson) | 2-AP-Objekt (geometrisch) | ✓ HOCH (Photon) |
+| Neutrino-Masse | Seesaw (ad hoc) | κ > 0 → m_ν = ħκ_ν/c | ○ MITTEL |
+| Higgs-Mechanismus | Spontane Symmetriebr. | 🚩 kein RFT-Bild | 🚩 OFFEN |
+| Asymptotische Freiheit | QCD (formale Rechnung) | 🚩 kein RFT-Mechanismus | 🚩 OFFEN |
+| Myon g-2 Anomalie | ~4σ Abweichung | 🚩 kein RFT-Bild | 🚩 OFFEN |
 
 ### 9.3 Was die RFT geometrisch erklärt
 
