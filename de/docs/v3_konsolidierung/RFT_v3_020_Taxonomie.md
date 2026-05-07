@@ -159,6 +159,42 @@ Stabilitätshierarchie (kanonisch):
 
 **Wichtige Klarstellung:** Jeder Wirbel hält seine eigenen Ankerpunkte. Im Hadron teilen Quarks keine Ankerpunkte — jedes Quark hat seine eigenen, die durch die Raummatrix dynamisch gekoppelt, aber topologisch getrennt sind (Franz Zollner, bestätigt; v3_007 Kap. 4.3).
 
+**Schematische Darstellung der AP-Stabilitätshierarchie:**
+
+```mermaid
+flowchart LR
+    AP0["0 AP<br/><i>keine Transversalkopplung</i>"]
+    AP1["1 AP<br/><i>1D-Kopplung</i>"]
+    AP2["2 AP<br/><i>2D-Kopplung</i>"]
+    AP3["3 AP<br/><i>3D-Kopplung — Resonanzbedingung n_AP ≥ 3 erfüllt</i>"]
+    AP9["9 AP<br/><i>3 × 3 AP, Komposit</i>"]
+    AP4["4+ AP<br/><i>überbestimmt in 3D</i>"]
+    
+    AP0 --> N["Neutrino<br/>(longitudinal, ⚠️ Hyp.)"]
+    AP1 --> L["Leptonen<br/>e⁻, e⁺, μ, τ<br/>(stabil ✓)"]
+    AP2 --> P["Photon ✓<br/>(komplementär e⁻+e⁺)"]
+    AP2 --> WZ["W±, Z⁰<br/>(transient, ~10⁻²⁵s)"]
+    AP3 --> Q["Quarks ✓<br/>(confined)"]
+    AP9 --> H["Proton, Neutron, Δ<br/>(stabile Komposita)"]
+    AP4 --> X["instabil<br/>(Modensprung oder Zerfall)"]
+    
+    style AP0 fill:#f5f5f5,stroke:#999
+    style AP1 fill:#d4edda,stroke:#155724
+    style AP2 fill:#fff3cd,stroke:#856404
+    style AP3 fill:#d4edda,stroke:#155724
+    style AP9 fill:#d4edda,stroke:#155724
+    style AP4 fill:#f8d7da,stroke:#721c24
+    style L fill:#d4edda
+    style P fill:#d4edda
+    style Q fill:#d4edda
+    style H fill:#d4edda
+    style WZ fill:#fff3cd
+    style N fill:#f5f5f5
+    style X fill:#f8d7da
+```
+
+*Die AP-Zahl bestimmt die Stabilität in 3D: 1 AP frei (Lepton), 3 AP confined (Quark), 9 AP komposit-stabil (Baryon). Die Übergänge sind topologisch zwingend, keine Postulate.*
+
 ### 2.4 AP und Spin: Orthogonale Eigenschaften
 
 Eine der wichtigsten konzeptuellen Klärungen der v3-Serie betrifft das Verhältnis von AP-Zahl und Spin. Intuitiv könnte man erwarten: mehr APs → höherer Spin. Diese intuitive Formel versagt jedoch (v3_016 Kap. 2.4):
@@ -235,6 +271,43 @@ Ergebnis: Ein reguläres Oktaeder (6 Ecken, alle Kanten = L₀√2)
 
 Konfidenz: ✓ HOCH — direkte geometrische Konstruktion, in v3_007 rigoros etabliert.
 
+**Schematische Darstellung des Oktaeders:**
+
+```mermaid
+flowchart TB
+    O((Ursprung o<br/>L₀=0))
+    P5["P₅: (0, 0, +L₀)<br/><b>Blau</b> (+z)"]
+    P1["P₁: (+L₀, 0, 0)<br/><b>Rot</b> (+x)"]
+    P3["P₃: (0, +L₀, 0)<br/><b>Grün</b> (+y)"]
+    P2["P₂: (−L₀, 0, 0)<br/><b>Anti-Rot</b> (−x)"]
+    P4["P₄: (0, −L₀, 0)<br/><b>Anti-Grün</b> (−y)"]
+    P6["P₆: (0, 0, −L₀)<br/><b>Anti-Blau</b> (−z)"]
+    
+    P5 --- O
+    P1 --- O
+    P3 --- O
+    O --- P2
+    O --- P4
+    O --- P6
+    
+    P5 -.->|"Kanten alle L₀√2"| P1
+    P5 -.-> P3
+    P1 -.-> P3
+    P2 -.-> P4
+    P2 -.-> P6
+    P4 -.-> P6
+    
+    style P1 fill:#ffcccc,stroke:#cc0000
+    style P3 fill:#ccffcc,stroke:#00cc00
+    style P5 fill:#ccccff,stroke:#0000cc
+    style P2 fill:#ffe6e6,stroke:#996666,stroke-dasharray: 3 3
+    style P4 fill:#e6ffe6,stroke:#669966,stroke-dasharray: 3 3
+    style P6 fill:#e6e6ff,stroke:#666699,stroke-dasharray: 3 3
+    style O fill:#fffacd,stroke:#000
+```
+
+*Sechs Schnittpunkte der Einheitssphäre (Radius L₀) mit den drei Raumachsen ergeben ein reguläres Oktaeder. Positive Achsen tragen Materie-Farbladungen (Rot/Grün/Blau), negative Achsen die zugehörigen Anti-Farben.*
+
 ### 3.2 Die Sanduhr: Materie- und Antimaterie-Tetraeder
 
 Das Oktaeder lässt sich in zwei Tetraeder zerlegen, die eine gemeinsame Spitze am Ursprung teilen (v3_007 Kap. 5.2):
@@ -256,6 +329,38 @@ Unterer Tetraeder (negative Achsenrichtungen):
 Die Sanduhr-Form mit gemeinsamer Spitze ist die geometrische Darstellung der Materie-Antimaterie-Symmetrie: beide Hemisphären sind spiegelbildlich und verbunden am Ursprung.
 
 Wichtig: Die Anti-Farben sind im Oktaeder explizit enthalten (P₂, P₄, P₆). Sie müssen nicht separat postuliert werden — sie emergieren aus der Geometrie der negativen Achsenrichtungen (v3_013).
+
+**Schematische Darstellung der Sanduhr-Geometrie:**
+
+```mermaid
+flowchart TB
+    subgraph M [MATERIE-Tetraeder · positive Achsen]
+        T1["P₁ Rot (+x)"]
+        T3["P₃ Grün (+y)"]
+        T5["P₅ Blau (+z)"]
+    end
+    
+    O(("Ursprung o<br/>(gemeinsame Spitze)<br/>Materie/Antimaterie-Schnittpunkt"))
+    
+    subgraph A [ANTIMATERIE-Tetraeder · negative Achsen]
+        T2["P₂ Anti-Rot (−x)"]
+        T4["P₄ Anti-Grün (−y)"]
+        T6["P₆ Anti-Blau (−z)"]
+    end
+    
+    T1 --> O
+    T3 --> O
+    T5 --> O
+    O --> T2
+    O --> T4
+    O --> T6
+    
+    style M fill:#e8f5e9,stroke:#2e7d32
+    style A fill:#fce4ec,stroke:#880e4f
+    style O fill:#fff8e1,stroke:#000
+```
+
+*Das Oktaeder zerfällt in zwei Tetraeder mit gemeinsamer Spitze am Ursprung. Materie (oberer Tetraeder, positive Achsen) und Antimaterie (unterer Tetraeder, negative Achsen) sind spiegelbildlich verbunden — die "Sanduhr"-Form erklärt die Materie-Antimaterie-Symmetrie geometrisch, ohne separates Postulat.*
 
 ### 3.3 Farbladung = Raumrichtung
 
