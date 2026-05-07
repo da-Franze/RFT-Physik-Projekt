@@ -240,6 +240,36 @@ Formale Frage [🚩 OFFEN]:
 | Delta-Baryon Δ | 9 | 3×3D | 3/2 | 🚩 Mapping offen | 🚩 OFFEN |
 | Neutrino ν | 0 | — | ½ | ⚠️ Longitudinalwelle? | ⚠️ ARBEITSHYP. |
 
+**Schematische Darstellung der Spin/AP-Orthogonalität:**
+
+```mermaid
+flowchart TB
+    W["Wirbel<br/>(Soliton der Master-Gleichung)"]
+    
+    subgraph EXT [Externe Eigenschaften — bestimmt durch AP-Zahl]
+        AP["n_AP = Anzahl der Dimensionskopplungen"]
+        F["Farbladung<br/>(nur bei 3 AP)"]
+        S["Stabilität / Confinement"]
+    end
+    
+    subgraph INT [Interne Eigenschaften — bestimmt durch Wirbel-Topologie]
+        T["720°-Periodizität<br/>der Wirbelachse"]
+        SP["Spin ½<br/>(universell für stabile Vortizes)"]
+    end
+    
+    W --> AP
+    AP --> F
+    AP --> S
+    W --> T
+    T --> SP
+    
+    style EXT fill:#fff3cd,stroke:#856404
+    style INT fill:#d1ecf1,stroke:#0c5460
+    style W fill:#f8d7da,stroke:#721c24
+```
+
+*AP-Zahl und Spin sind orthogonale Eigenschaften des Wirbels. AP bestimmt wie der Wirbel an die DRM-Dimensionen koppelt (Farbladung, Confinement). Spin entsteht aus der internen 720°-Topologie der Wirbelachse — unabhängig davon, wie viele AP der Wirbel hat. Deshalb haben sowohl Elektron (1 AP) als auch Quark (3 AP) Spin ½.*
+
 > **🚩 Offenes Problem:** Die Relation "n_AP × ½ → Spin" gilt NICHT allgemein.
 > Sie ist ein Spezialfall für Leptonen (1-AP-Objekte).
 > Für Quarks (3 AP, Spin ½) und Komposita (9 AP, Spin ½ oder 3/2)
@@ -310,6 +340,23 @@ Kandidat-Argument für RFT-Kontext [○ MITTEL]:
   Erst nach 720° ist die Einbettung vollständig wiederhergestellt.
   → 4π-Periodizität = topologische Eigenschaft der 1D-Wirbelverankerung
 ```
+
+**Schematische Darstellung der 720°-Topologie:**
+
+```mermaid
+flowchart LR
+    A["Ausgangszustand<br/>R(0°) = +I"]
+    B["Nach 360°-Rotation<br/>R(2π) = −I<br/><i>Orientierung gespiegelt!</i>"]
+    C["Nach 720°-Rotation<br/>R(4π) = +I<br/><i>vollständig zurück</i>"]
+    A -->|"+360° Rotation<br/>(2π)"| B
+    B -->|"+360° Rotation<br/>(2π)"| C
+    C -.->|"Identisch zu A"| A
+    style A fill:#d4edda,stroke:#155724
+    style B fill:#fff3cd,stroke:#856404
+    style C fill:#d4edda,stroke:#155724
+```
+
+*Klassische Objekte (Tensoren) erfüllen R(2π) = +I — sie sind nach einer Umdrehung wieder identisch. Spinoren leben in der Doppelabdeckung SU(2): sie wechseln nach 360° das Vorzeichen und brauchen 720° zur Identität. Das ist die topologische Signatur von Spin ½.*
 
 ### 3.3 Windungszahl und halbzahliger Spin
 
@@ -636,6 +683,34 @@ Zusammenfassung:
  vollständiger Beweis würde Lorentz-Invarianz der RFT voraussetzen,
  die formal noch nicht bewiesen ist → Kap. 10]
 ```
+
+**Schematische Darstellung der Spin-Statistik aus Topologie:**
+
+```mermaid
+flowchart TB
+    subgraph FERM [FERMIONEN — 1 AP, 720°-Periodizität]
+        F1["Wirbel A und Wirbel B"]
+        F2["Trajektorien-Vertauschung in 3D<br/>= 180°-Halbdrehung"]
+        F3["Phasenfaktor: e^iπ = <b>−1</b>"]
+        F4["Ψ(2,1) = <b>−</b>Ψ(1,2)<br/>antisymmetrisch"]
+        F5["→ Pauli-Prinzip<br/>(zwei Fermionen nie im selben Zustand)"]
+        F1 --> F2 --> F3 --> F4 --> F5
+    end
+    
+    subgraph BOSO [BOSONEN — 2 AP, 360°-Periodizität]
+        B1["Wirbel A und Wirbel B"]
+        B2["Trajektorien-Vertauschung in 3D<br/>= 360°-Volldrehung"]
+        B3["Phasenfaktor: e^i2π = <b>+1</b>"]
+        B4["Ψ(2,1) = <b>+</b>Ψ(1,2)<br/>symmetrisch"]
+        B5["→ Bose-Einstein-Statistik<br/>(beliebig viele im selben Zustand)"]
+        B1 --> B2 --> B3 --> B4 --> B5
+    end
+    
+    style FERM fill:#f8d7da,stroke:#721c24
+    style BOSO fill:#d1ecf1,stroke:#0c5460
+```
+
+*Spin-Statistik folgt direkt aus der Wirbel-Topologie: Die Halbdrehung bei der Trajektorien-Vertauschung wirkt sich verschieden auf 720°- und 360°-periodische Wirbel aus. Der Vorzeichenwechsel bei Fermionen erzwingt das Pauli-Prinzip.*
 
 ### 6.3 Pauli-Prinzip als topologische Eigenschaft
 
