@@ -109,15 +109,13 @@ Die gesamte RFT basiert auf der nichtlinearen Feldgleichung für das skalare Res
 
 Jeder Term hat eine physikalische Bedeutung:
 
-```
-Term          Funktion                          Zeitumkehrverhalten
-─────────────────────────────────────────────────────────────────
-c²∇²Ψ        Wellenpropagation im Medium        symmetrisch
-−c²κ²Ψ       Resonanz-Steifigkeit               symmetrisch
-+λ|Ψ|²Ψ      Nichtlineare Selbstkopplung        symmetrisch
-+η            Eigeninteraktion                  symmetrisch
-−γ∂Ψ/∂t      Dämpfung / Asymmetrie-Koeffizient ASYMMETRISCH ←
-```
+| Term | Funktion | Zeitumkehrverhalten |
+|---|---|---|
+| `c²∇²Ψ` | Wellenpropagation im Medium | symmetrisch |
+| `−c²κ²Ψ` | Resonanz-Steifigkeit | symmetrisch |
+| `+λ\|Ψ\|²Ψ` | nichtlineare Selbstkopplung | symmetrisch |
+| `+η` | Eigeninteraktion | symmetrisch |
+| `−γ ∂Ψ/∂t` | Dämpfung / Asymmetrie-Koeffizient | **ASYMMETRISCH** ← |
 
 Der γ-Term ist der einzige Term, der sich unter t→−t ändert. Er verwandelt sich dabei in +γ∂Ψ/∂t — mit umgekehrtem Vorzeichen. Das heißt: Eine zeitumgekehrte Lösung der Master-Gleichung mit γ ≠ 0 ist im Allgemeinen keine Lösung der Master-Gleichung. ✓ HOCH
 

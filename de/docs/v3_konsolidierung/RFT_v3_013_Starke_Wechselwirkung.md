@@ -301,15 +301,13 @@ Mechanismus. ○ MITTEL (Kandidat, noch nicht rigoros hergeleitet)
 
 **Kanonische Ankerpunkt-Tabelle** (v3_011 Final v1.0, KORREKTUR_005):
 
-```
-Teilchen          | AP  | Notiz
-------------------|-----|---------------------------------------
-Elektron e⁻       | 1   | elementar
-Photon γ          | 2   | e⁻+e⁺ (Franz, 11.03.2026); n=0 Mode
-Quark (u,d,s,...) | 3   | 1 Quark = 3 AP individuell ✓ HOCH
-Proton            | 9   | 3 Quarks × 3 AP = 9 gesamt ✓ HOCH
-Delta-Baryon      | 9   | 3 Quarks × 3 AP (NICHT 3!) ✓ HOCH
-```
+| Teilchen | AP | Notiz |
+|---|---|---|
+| Elektron e⁻ | 1 | elementar |
+| Photon γ | 2 | e⁻+e⁺ (Franz, 11.03.2026); n=0 Mode |
+| Quark (u, d, s, ...) | 3 | 1 Quark = 3 AP individuell (✓ HOCH) |
+| Proton | 9 | 3 Quarks × 3 AP = 9 gesamt (✓ HOCH) |
+| Delta-Baryon | 9 | 3 Quarks × 3 AP (NICHT 3!) (✓ HOCH) |
 
 **Zwei Beschreibungsebenen für das Proton:**
 
@@ -632,28 +630,24 @@ Zahlenprüfung ausstehend — DeepSeek-Aufgabe F2 empfohlen).
 
 ### 5.1 Was RFT und QCD gemeinsam erklären
 
-```
-Phänomen                | QCD-Erklärung             | RFT-Erklärung
-------------------------|---------------------------|----------------------------
-3 Farbladungen          | Postulat (SU(3)-Axiom)    | 3D-Geometrie (Konsequenz)
-SU(3)-Symmetrie         | Eichsymmetrie             | Oktaeder-Symmetrie
-Confinement (qualit.)   | Lin. Potential V(r)~κ·r   | Geometrische Instabilität
-Farbneutralität         | Singlett-Zustände         | Vektorsumme = 0 (autom.)
-Baryon = 3 Quarks       | 3 Farbladungen → weiß     | n_AP ≥ 3 in 3D (minimal)
-Anti-Quarks             | Konjugierte Darstellung   | Unterer Tetraeder (−Achsen)
-```
+| Phänomen | QCD-Erklärung | RFT-Erklärung |
+|---|---|---|
+| 3 Farbladungen | Postulat (SU(3)-Axiom) | 3D-Geometrie (Konsequenz) |
+| SU(3)-Symmetrie | Eichsymmetrie | Oktaeder-Symmetrie |
+| Confinement (qualit.) | lin. Potential V(r) ~ κ·r | geometrische Instabilität |
+| Farbneutralität | Singulett-Zustände | Vektorsumme = 0 (automatisch) |
+| Baryon = 3 Quarks | 3 Farbladungen → weiß | n_AP ≥ 3 in 3D (minimal) |
+| Anti-Quarks | konjugierte Darstellung | unterer Tetraeder (−Achsen) |
 
 ### 5.2 Was RFT zusätzlich bietet
 
-```
-Einsicht                        | Status
---------------------------------|-------
-Warum 3 Farbladungen?           | Konsequenz von 3D ✓ HOCH
-Warum SU(3) und nicht SU(4)?   | Geometrisch erzwungen ✓ HOCH
-Mechanismus für Confinement     | Geometrische Instabilität ○ MITTEL
-Hadronmasse qualitativ          | Aufrichtungsenergie ○ MITTEL
-Materie/Antimaterie geometrisch | Oberer/unterer Tetraeder ✓ HOCH
-```
+| Einsicht | Status |
+|---|---|
+| Warum 3 Farbladungen? | Konsequenz von 3D — ✓ HOCH |
+| Warum SU(3) und nicht SU(4)? | geometrisch erzwungen — ✓ HOCH |
+| Mechanismus für Confinement | geometrische Instabilität — ○ MITTEL |
+| Hadronmasse qualitativ | Aufrichtungsenergie — ○ MITTEL |
+| Materie/Antimaterie geometrisch | oberer/unterer Tetraeder — ✓ HOCH |
 
 ### 5.3 Die Gluonen-Frage
 

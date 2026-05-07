@@ -658,21 +658,19 @@ CP-Verletzung (⚠️ NIEDRIG — spekulativ):
 
 ## 7. Vergleich mit dem Standardmodell
 
-```
-Eigenschaft           | SM (elektroschwach)        | RFT (Geometrische Relaxation)
-----------------------|----------------------------|-------------------------------
-Mechanismus           | W/Z-Austausch (fundamental)| AP-Konfigurationsübergang
-W/Z-Bosonen           | Fundamentale Eichbosonen   | Transiente 2-AP-Übergangsmoden ○
-Masse der W/Z         | Higgs-Mechanismus          | Netto-Ladung der 2-AP-Mode ○
-Symmetriegruppe       | SU(2)_L postuliert         | SU(2) aus 2D-Kopplung ○
-Paritätsverletzung    | Postulat (SU(2)_L)         | Geometrische Konsequenz γ-Term ○
-Reichweite            | ~1/m_W (Yukawa)            | Korrelationslänge 2-AP-Mode ○
-Fermi-Konstante G_F   | Experimentell bestimmt     | 🚩 Kein RFT-Ansatz
-CKM-Matrix            | 4 freie Parameter          | 🚩 Kein RFT-Ansatz
-CP-Verletzung         | CKM-Phasenwinkel           | ⚠️ γ-Term → T → CP (spekulativ)
-Neutrino-Masse        | Seesaw-Mechanismus / Dirac | ○ Longitudinalwelle, κ > 0 → m_ν > 0 ✓
-Generationen-Zahl     | Postulat (3)               | ○ Harmonische Modi n=1,2,3
-```
+| Eigenschaft | SM (elektroschwach) | RFT (Geometrische Relaxation) |
+|---|---|---|
+| Mechanismus | W/Z-Austausch (fundamental) | AP-Konfigurationsübergang |
+| W/Z-Bosonen | fundamentale Eichbosonen | transiente 2-AP-Übergangsmoden (○) |
+| Masse der W/Z | Higgs-Mechanismus | Netto-Ladung der 2-AP-Mode (○) |
+| Symmetriegruppe | SU(2)_L postuliert | SU(2) aus 2D-Kopplung (○) |
+| Paritätsverletzung | Postulat (SU(2)_L) | geometrische Konsequenz γ-Term (○) |
+| Reichweite | ~1/m_W (Yukawa) | Korrelationslänge 2-AP-Mode (○) |
+| Fermi-Konstante G_F | experimentell bestimmt | 🚩 kein RFT-Ansatz |
+| CKM-Matrix | 4 freie Parameter | 🚩 kein RFT-Ansatz |
+| CP-Verletzung | CKM-Phasenwinkel | ⚠️ γ-Term → T → CP (spekulativ) |
+| Neutrino-Masse | Seesaw-Mechanismus / Dirac | longitudinale Welle, κ > 0 → m_ν > 0 ✓ (○) |
+| Generationen-Zahl | Postulat (3) | harmonische Modi n=1,2,3 (○) |
 
 **Résumé:** Die RFT bietet ein konsistentes qualitatives Bild für die
 Mechanismus-Fragen (Zerfall, Paritätsverletzung, Reichweite) und liefert
@@ -907,27 +905,25 @@ in der RFT.
 
 ### 10.2 Konfidenz-Tabelle
 
-```
-Aussage                              | Konfidenz   | Quelle
--------------------------------------|-------------|--------
-AP-Hierarchie: 1/2/3-AP Stabilität  | ✓ HOCH      | v3_001, KORREKTUR_005
-γ-Term → Instabilität → Zerfall     | ✓ HOCH      | v3_001 Kap. 2.2
-Zerfall = geometrische Relaxation   | ○ MITTEL    | Konzept, formal offen
-AP als Dimensionskopplung           | ○ MITTEL    | Franz 15.03.2026
-W/Z = transiente 2-AP-Moden         | ○ MITTEL    | Konsistent, formal offen
-Reichweite aus 2-AP-Instabilität    | ○ MITTEL    | Korrelationslänge-Argument
-Paritätsverletzung aus γ-Term       | ○ MITTEL    | Polarisiertes-Wellen-Bild
-SU(2) aus 2D-Kopplung              | ○ MITTEL    | Analogie zu SU(3), v3_013
-e⁻=links, e⁺=rechts (Polarisation)  | ○ MITTEL    | DC v10.2 Franz 15.03.2026
-Neutrino = Longitudinalwelle, κ>0   | ○ MITTEL    | Franz 15.03.2026 ✅
-3-AP→2-AP-Kollaps bei hohem κ      | ⚠️ NIEDRIG   | V2-Material, unverifiziert
-CP-Verletzung aus γ → T → CP       | ⚠️ NIEDRIG   | CPT-Weg (RFT-Brille!)
-Baryon-Asymmetrie aus CP-Verletz.   | ⚠️ NIEDRIG   | Spekulativer Kausalpfad
-Neutrino-Masse: κ>0, m_ν>0 (winzig)  | ○ MITTEL    | Franz 15.03.2026 ✅ GELÖST
-G_F aus L₀, κ, c                   | 🚩 OFFEN    | Kein Ansatz
-CKM-Matrix geometrisch             | 🚩 OFFEN    | Kein Ansatz
-τ_Neutron = 880 s aus RFT          | 🚩 OFFEN    | Kein quantitativer Ansatz
-```
+| Aussage | Konfidenz | Quelle |
+|---|---|---|
+| AP-Hierarchie: 1/2/3-AP Stabilität | ✓ HOCH | v3_001 |
+| γ-Term → Instabilität → Zerfall | ✓ HOCH | v3_001 Kap. 2.2 |
+| Zerfall = geometrische Relaxation | ○ MITTEL | Konzept, formal offen |
+| AP als Dimensionskopplung | ○ MITTEL | Franz 15.03.2026 |
+| W/Z = transiente 2-AP-Moden | ○ MITTEL | konsistent, formal offen |
+| Reichweite aus 2-AP-Instabilität | ○ MITTEL | Korrelationslänge-Argument |
+| Paritätsverletzung aus γ-Term | ○ MITTEL | Polarisiertes-Wellen-Bild |
+| SU(2) aus 2D-Kopplung | ○ MITTEL | Analogie zu SU(3), v3_013 |
+| e⁻ = links, e⁺ = rechts (Polarisation) | ○ MITTEL | Franz 15.03.2026 |
+| Neutrino = Longitudinalwelle, κ > 0 | ○ MITTEL | Franz 15.03.2026 ✅ |
+| 3-AP → 2-AP-Kollaps bei hohem κ | ⚠️ NIEDRIG | v2-Material, unverifiziert |
+| CP-Verletzung aus γ → T → CP | ⚠️ NIEDRIG | CPT-Weg (RFT-Brille!) |
+| Baryon-Asymmetrie aus CP-Verletzung | ⚠️ NIEDRIG | spekulativer Kausalpfad |
+| Neutrino-Masse: κ > 0, m_ν > 0 (winzig) | ○ MITTEL | Franz 15.03.2026 ✅ |
+| G_F aus L₀, κ, c | 🚩 OFFEN | kein Ansatz |
+| CKM-Matrix geometrisch | 🚩 OFFEN | kein Ansatz |
+| τ_Neutron = 880 s aus RFT | 🚩 OFFEN | kein quantitativer Ansatz |
 
 ### 10.3 Zentrale Konzepte und Relationen
 
