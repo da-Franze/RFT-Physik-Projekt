@@ -1022,52 +1022,34 @@ Diese Lücken sind ehrliche Grenzen des aktuellen Stands. Sie mindern nicht den 
 
 ### 10.2 Vollständige Referenztabelle
 
-```
-RFT-TEILCHEN-REFERENZTABELLE — Final v1.0
-(Synthesis: gesamte v3-Serie, Stand 04.04.2026)
-═══════════════════════════════════════════════════════════════════════════════
-Teilchen       │ AP  │ Spin │ Farbldg. │ Wechselwirkung      │ Konfidenz
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Neutrino ν     │  0  │  ½   │ nein     │ Gravitation (indir.) │ ⚠️ Arbeitshyp
-               │     │      │          │ NICHT EM, NICHT Farb │ Spin: 🚩 offen
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Elektron e⁻   │  1  │  ½   │ nein     │ EM, Schwach, Grav.  │ ✓ HOCH
-Positron e⁺   │  1  │  ½   │ nein     │ EM, Schwach, Grav.  │ ✓ HOCH
-Myon μ⁻       │  1  │  ½   │ nein     │ EM, Schwach, Grav.  │ ○ MITTEL
-Tauon τ⁻      │  1  │  ½   │ nein     │ EM, Schwach, Grav.  │ ○ MITTEL
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Photon γ       │  2  │  1   │ nein     │ EM (Träger!)        │ ✓ HOCH
-               │ (e+e)│     │          │ stabil, masselos    │ (Franz 11.3.)
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-W⁺, W⁻        │ (2) │  1   │ nein     │ Schwach (Träger)    │ ○ MITTEL
-Z⁰             │ (2) │  1   │ nein     │ Schwach (Träger)    │ ○ MITTEL
-               │     │      │          │ transient, ~10⁻²⁵s │
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Quark (u,d)   │  3  │  ½   │ ja (r/g/b)│ Stark, EM, Schwach  │ ✓ HOCH
-Quark (s,c)   │  3  │  ½   │ ja (r/g/b)│ Stark, EM, Schwach  │ ✓ HOCH
-Quark (b,t)   │  3  │  ½   │ ja (r/g/b)│ Stark, EM, Schwach  │ ✓ HOCH
-               │     │      │          │ confined (∞)        │ Spin: ⚠️ NIEDR
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Proton p      │  9  │  ½   │ nein (weiß)│ EM, Schwach, Grav. │ ✓ HOCH AP
-               │ (3Q)│      │          │ stabil               │ 🚩 Spin offen
-Neutron n     │  9  │  ½   │ nein (weiß)│ Schwach, Grav.     │ ✓ HOCH AP
-               │ (3Q)│      │          │ frei: β-Zerfall     │ 🚩 Spin offen
-Delta Δ       │  9  │ 3/2  │ nein (weiß)│ Stark, EM          │ ✓ HOCH AP
-               │ (3Q)│      │          │ instabil (~10⁻²⁴s)  │ 🚩 Spin offen
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Cooper-Paar   │ (2) │  0   │ nein     │ kond. (n=0 Top.)    │ ○ MITTEL
-───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Mesonen π,K.. │  ?  │  0/1 │ nein     │ Stark (resid.)      │ 🚩 OFFEN
-Higgs H       │  ?  │  0   │ nein     │ Masse? (kein Bild)  │ 🚩 OFFEN
-═══════════════════════════════════════════════════════════════════════════════
+*RFT-Teilchen-Referenztabelle — Final v1.0 (Synthesis: gesamte v3-Serie, Stand 2026-04-04)*
 
-Legende:
-  ✓ HOCH      = rigoros hergeleitet / Franz-Direktaussage
-  ○ MITTEL    = konzeptuell etabliert, formal ausstehend
-  ⚠️ NIEDRIG  = konzeptuell plausibel, nicht rigoros
-  🚩 OFFEN    = kein ausgearbeiteter Ansatz
-  (2) in AP   = transient / nicht-elementar (Kap. 7)
-```
+| Teilchen | AP | Spin | Farbladung | Wechselwirkung | Konfidenz |
+|---|---|---|---|---|---|
+| Neutrino ν | 0 | ½ | nein | Gravitation (indirekt); NICHT EM, NICHT Farbladung | ⚠️ Arbeitshyp.; Spin: 🚩 offen |
+| Elektron e⁻ | 1 | ½ | nein | EM, Schwach, Gravitation | ✓ HOCH |
+| Positron e⁺ | 1 | ½ | nein | EM, Schwach, Gravitation | ✓ HOCH |
+| Myon μ⁻ | 1 | ½ | nein | EM, Schwach, Gravitation | ○ MITTEL |
+| Tauon τ⁻ | 1 | ½ | nein | EM, Schwach, Gravitation | ○ MITTEL |
+| Photon γ | 2 (e⁻+e⁺) | 1 | nein | EM (Träger!); stabil, masselos | ✓ HOCH (Franz 11.03.2026) |
+| W⁺, W⁻ | (2) | 1 | nein | Schwach (Träger); transient ~10⁻²⁵s | ○ MITTEL |
+| Z⁰ | (2) | 1 | nein | Schwach (Träger); transient ~10⁻²⁵s | ○ MITTEL |
+| Quark (u, d) | 3 | ½ | ja (R/G/B) | Stark, EM, Schwach; confined (∞) | ✓ HOCH; Spin: ⚠️ NIEDRIG |
+| Quark (s, c) | 3 | ½ | ja (R/G/B) | Stark, EM, Schwach; confined (∞) | ✓ HOCH; Spin: ⚠️ NIEDRIG |
+| Quark (b, t) | 3 | ½ | ja (R/G/B) | Stark, EM, Schwach; confined (∞) | ✓ HOCH; Spin: ⚠️ NIEDRIG |
+| Proton p | 9 (3Q) | ½ | nein (weiß) | EM, Schwach, Gravitation; stabil | ✓ HOCH AP; 🚩 Spin offen |
+| Neutron n | 9 (3Q) | ½ | nein (weiß) | Schwach, Gravitation; frei: β-Zerfall | ✓ HOCH AP; 🚩 Spin offen |
+| Delta Δ | 9 (3Q) | 3/2 | nein (weiß) | Stark, EM; instabil (~10⁻²⁴s) | ✓ HOCH AP; 🚩 Spin offen |
+| Cooper-Paar | (2) | 0 | nein | kondensiert (n=0-Topologie) | ○ MITTEL |
+| Mesonen (π, K, ...) | ? | 0/1 | nein | Stark (residuell) | 🚩 OFFEN |
+| Higgs-Boson H | ? | 0 | nein | Masse? (kein RFT-Bild) | 🚩 OFFEN |
+
+**Legende:**
+- ✓ HOCH = rigoros hergeleitet / Franz-Direktaussage
+- ○ MITTEL = konzeptuell etabliert, formal ausstehend
+- ⚠️ NIEDRIG = konzeptuell plausibel, nicht rigoros
+- 🚩 OFFEN = kein ausgearbeiteter Ansatz
+- *(n) in AP* = transient / nicht-elementar (Details siehe Kap. 7)
 
 ### 10.3 Drei Kernsätze der RFT-Taxonomie
 
