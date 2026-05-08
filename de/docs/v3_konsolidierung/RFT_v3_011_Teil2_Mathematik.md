@@ -1396,20 +1396,13 @@ Wir haben die Trampolin-Analogie in Kapitel 1 kurz erwähnt. Jetzt vertiefen wir
 
 **Stell dir ein riesiges 3D-Trampolin vor:**
 
-```
-Klassisches 2D-Trampolin:
-     ___________
-    /           \  
-   /  Person     \  (2D-Oberfläche)
-  /_______________\
-
-RFT 3D-"Trampolin":
-    
-    ┌──────────┐
-    │  ░░░░░░  │
-    │  ░Ψ░░░  │  (3D-Volumen!)
-    │  ░░░░░░  │
-    └──────────┘
+```mermaid
+flowchart LR
+    A["<b>Klassisches 2D-Trampolin</b><br/>2D-Tuch <i>im</i> 3D-Raum<br/>Person springt auf der Oberfläche"]
+    B["<b>RFT 3D-Trampolin</b><br/>3D-Matrix <i>IST</i> der Raum<br/>Ψ-Feld füllt das Volumen<br/>(kein höherer Raum nötig!)"]
+    A -.->|"Erweiterung um 1 Dimension"| B
+    style A fill:#e3f2fd,stroke:#1976d2
+    style B fill:#fff3e0,stroke:#e65100
 ```
 
 **Wichtiger Unterschied:**
@@ -1419,16 +1412,14 @@ RFT 3D-"Trampolin":
 
 **Eigenschaften des 3D-Trampolins:**
 
-```
-Eigenschaft        | Parameter | Physikalische Größe
--------------------|-----------|--------------------
-Tuch-Spannung      | κ²        | Matrix-Steifigkeit
-Tuch-Masse-Dichte  | 1/c²     | Matrix-Trägheit
-Tuch-Dämpfung      | γ         | Zeit-Asymmetrie
-Tuch-Elastizität   | λ         | Nicht-Linearität
-Wellen-Speed       | c        | Lichtgeschwindigkeit
-Selbst-Schwingung  | η         | Eigeninteraktion
-```
+| Eigenschaft | Parameter | Physikalische Größe |
+|---|---|---|
+| Tuch-Spannung | κ² | Matrix-Steifigkeit |
+| Tuch-Masse-Dichte | 1/c² | Matrix-Trägheit |
+| Tuch-Dämpfung | γ | Zeit-Asymmetrie |
+| Tuch-Elastizität | λ | Nicht-Linearität |
+| Wellen-Geschwindigkeit | c | Lichtgeschwindigkeit |
+| Selbst-Schwingung | η | Eigeninteraktion |
 
 **Term-für-Term-Analogie:**
 
@@ -3189,20 +3180,15 @@ Wellengleichung  Klein-Gordon
 
 **Mathematisch:**
 
-```
-Master-Gleichung:
-∂²Ψ/∂t² = c²∇²Ψ - γ∂Ψ/∂t - c²κ²Ψ + λ|Ψ|²Ψ + η
+Master-Gleichung: `∂²Ψ/∂t² = c²∇²Ψ − γ∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ + η`
 
-├─ γ=0, κ=0, λ=0, η=0:  Wellengleichung
-│
-├─ γ=0, λ=0, η=0, κ≠0:  Klein-Gordon
-│  │
-│  └─ v≪c:  Schrödinger
-│     │
-│     └─ ℏ→0:  Newton
-│
-└─ Alle Terme:  Vollständige RFT (Teilchen als Solitonen)
-```
+| Spezialfall | Bedingungen | Resultat |
+|---|---|---|
+| Wellengleichung | γ=0, κ=0, λ=0, η=0 | klassische Wellengleichung |
+| Klein-Gordon | γ=0, λ=0, η=0, κ≠0 | relativistische QM |
+| Schrödinger | + Limes v ≪ c | nicht-relativistische QM |
+| Newton | + Limes ℏ → 0 | klassische Mechanik |
+| **Vollständige RFT** | alle Terme aktiv | Teilchen als Solitonen |
 
 ### Parameter-Regime
 

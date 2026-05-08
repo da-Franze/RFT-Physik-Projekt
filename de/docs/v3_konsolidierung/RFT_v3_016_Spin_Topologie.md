@@ -846,23 +846,19 @@ Die Korrekturreihe:
 
 ### 8.1 Gegenüberstellung: Spin-Beschreibung
 
-```
-Eigenschaft          | Standardmodell              | RFT
----------------------|-----------------------------|---------------------------------
-Spin-Definition      | Abstrakte innere QZ         | Vortex-Rotationsdrehimpuls ○ M
-720°-Periodizität    | Mathematische Anforderung   | Geometrische Konsequenz 1-AP ○ M
-Dirac-Gleichung      | Fundamental (postuliert)    | Effektiv (emergiert) ○ M
-γ^μ-Matrizen         | Aus Lorentz-Anforderung     | Aus Raummatrix-Geometrie ⚠️
-g_s = 2 Ausgangspkt  | Aus Dirac-Gleichung         | Aus 720°-Topologie ○ M
-g_s-Korrekturen      | Aus QED-Perturbation        | α geometrisch fixiert ✓ H
-Spin-Statistik       | Aus QFT-Axiomen             | Aus Topologie (Vertauschung) ○ M
-Pauli-Prinzip        | Antisymmetrie-Postulat      | Topolog. Trajektorien-Schutz ○ M
-Antimaterie (e⁺)     | Negative Energie-Lösung     | Rechts-Wirbel (1 AP, +Pol.) ✓ H
-Spin-½ + Farbladung  | Separate Quantenzahlen      | Beide aus AP-Dimension ○ M
-Spin-½ + kein Farb.  | Separate Regel              | Geometrisch (1-AP ≠ 3-AP) ○ M
-```
-
-Legende: H = ✓ HOCH | M = ○ MITTEL | ⚠️ = Niedrig/offen
+| Eigenschaft | Standardmodell | RFT | Konfidenz |
+|---|---|---|---|
+| Spin-Definition | abstrakte innere Quantenzahl | Vortex-Rotationsdrehimpuls | ○ MITTEL |
+| 720°-Periodizität | mathematische Anforderung | geometrische Konsequenz aus 1-AP | ○ MITTEL |
+| Dirac-Gleichung | fundamental (postuliert) | effektiv (emergiert) | ○ MITTEL |
+| γ^μ-Matrizen | aus Lorentz-Anforderung | aus Raummatrix-Geometrie | ⚠️ NIEDRIG |
+| g_s = 2 Ausgangspunkt | aus Dirac-Gleichung | aus 720°-Topologie | ○ MITTEL |
+| g_s-Korrekturen | aus QED-Perturbation | α geometrisch fixiert | ✓ HOCH |
+| Spin-Statistik | aus QFT-Axiomen | aus Topologie (Vertauschung) | ○ MITTEL |
+| Pauli-Prinzip | Antisymmetrie-Postulat | topologischer Trajektorien-Schutz | ○ MITTEL |
+| Antimaterie (e⁺) | negative Energie-Lösung | Rechts-Wirbel (1 AP, +Polarisation) | ✓ HOCH |
+| Spin-½ + Farbladung | separate Quantenzahlen | beide aus AP-Dimension | ○ MITTEL |
+| Spin-½ + keine Farbladung | separate Regel | geometrisch (1-AP ≠ 3-AP) | ○ MITTEL |
 
 ### 8.2 Was RFT zusätzlich leistet
 
@@ -1164,30 +1160,28 @@ Kandidat-Auflösung (⚠️ SPEKULATIV):
 
 ### 10.7 Konfidenz-Übersichtstabelle
 
-```
-Aussage                                           | Konfidenz | Status
---------------------------------------------------|-----------|-------
-Spin = Drehimpuls des Vortex                      | ✓ HOCH    | aus v3_011
-SU(2)-Doppelabdeckung von SO(3)                  | ✓ HOCH    | Mathematik
-720°-Periodizität für Spinoren (experimentell)    | ✓ HOCH    | Messung
-1 AP → 1D-Kopplung (Konzept)                      | ○ MITTEL  | DC v10.4
-1D-Kopplung → 720°-Topologie                      | ○ MITTEL  | konzeptuell
-Spin ½ aus 720°-Topologie (Leptonen)              | ○ MITTEL  | plausibel
-AP-Zahl ≠ Spin-Zahl (Quarks: 3AP → ½, nicht 3/2) | 🚩 OFFEN  | Franz-Entscheid!
-Spin und Dimensionskopplung orthogonal            | ○ MITTEL  | K2, 03.04.2026
-Dirac-Gleichung emergiert                         | ○ MITTEL  | v3_011
-γ^μ aus Raummatrix-Geometrie                      | ⚠️ NIEDRIG | offen
-g_s = 2 aus 720° (qualitativ)                     | ○ MITTEL  | Argument
-g_s = 2 (formale Herleitung)                      | ⚠️ NIEDRIG | fehlt
-Spin-Statistik aus Topologie (qualitativ)         | ✓ HOCH    | v3_011
-Spin-Statistik (formaler Beweis ohne LI-Axiom)    | ○ MITTEL  | konzeptuell
-AP→Spin Leptonen                                  | ✓ HOCH    | kanonisch
-AP→Spin Quarks (Mechanismus)                      | 🚩 OFFEN  | Franz-Entscheid!
-AP→Spin Komposita (Proton/Delta)                  | 🚩 OFFEN  | Franz-Entscheid!
-720°-Herleitung aus Master-Gleichung              | 🚩 OFFEN  | DS-016-A
-Dirac-Bänder als RFT-Konzept                     | ⚠️ NIEDRIG | nur Analogie
-κ-Grenzfrequenz als RFT-Analog                    | ○ MITTEL  | konsistent
-```
+| Aussage | Konfidenz | Status |
+|---|---|---|
+| Spin = Drehimpuls des Vortex | ✓ HOCH | aus v3_011 |
+| SU(2)-Doppelabdeckung von SO(3) | ✓ HOCH | Mathematik |
+| 720°-Periodizität für Spinoren (experimentell) | ✓ HOCH | Messung |
+| 1 AP → 1D-Kopplung (Konzept) | ○ MITTEL | konzeptuell |
+| 1D-Kopplung → 720°-Topologie | ○ MITTEL | konzeptuell |
+| Spin ½ aus 720°-Topologie (Leptonen) | ○ MITTEL | plausibel |
+| AP-Zahl ≠ Spin-Zahl (Quarks: 3 AP → ½, nicht 3/2) | 🚩 OFFEN | Franz-Entscheid |
+| Spin und Dimensionskopplung orthogonal | ○ MITTEL | konzeptuell |
+| Dirac-Gleichung emergiert | ○ MITTEL | v3_011 |
+| γ^μ aus Raummatrix-Geometrie | ⚠️ NIEDRIG | offen |
+| g_s = 2 aus 720° (qualitativ) | ○ MITTEL | Argument |
+| g_s = 2 (formale Herleitung) | ⚠️ NIEDRIG | fehlt |
+| Spin-Statistik aus Topologie (qualitativ) | ✓ HOCH | v3_011 |
+| Spin-Statistik (formaler Beweis ohne LI-Axiom) | ○ MITTEL | konzeptuell |
+| AP→Spin Leptonen | ✓ HOCH | kanonisch |
+| AP→Spin Quarks (Mechanismus) | 🚩 OFFEN | Franz-Entscheid |
+| AP→Spin Komposita (Proton/Delta) | 🚩 OFFEN | Franz-Entscheid |
+| 720°-Herleitung aus Master-Gleichung | 🚩 OFFEN | DS-016-A |
+| Dirac-Bänder als RFT-Konzept | ⚠️ NIEDRIG | nur Analogie |
+| κ-Grenzfrequenz als RFT-Analog | ○ MITTEL | konsistent |
 
 ---
 

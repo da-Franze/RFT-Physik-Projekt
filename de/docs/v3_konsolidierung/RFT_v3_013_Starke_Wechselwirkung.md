@@ -301,15 +301,13 @@ Mechanismus. ○ MITTEL (Kandidat, noch nicht rigoros hergeleitet)
 
 **Kanonische Ankerpunkt-Tabelle** (v3_011 Final v1.0, KORREKTUR_005):
 
-```
-Teilchen          | AP  | Notiz
-------------------|-----|---------------------------------------
-Elektron e⁻       | 1   | elementar
-Photon γ          | 2   | e⁻+e⁺ (Franz, 11.03.2026); n=0 Mode
-Quark (u,d,s,...) | 3   | 1 Quark = 3 AP individuell ✓ HOCH
-Proton            | 9   | 3 Quarks × 3 AP = 9 gesamt ✓ HOCH
-Delta-Baryon      | 9   | 3 Quarks × 3 AP (NICHT 3!) ✓ HOCH
-```
+| Teilchen | AP | Notiz |
+|---|---|---|
+| Elektron e⁻ | 1 | elementar |
+| Photon γ | 2 | e⁻+e⁺ (Franz, 11.03.2026); n=0 Mode |
+| Quark (u, d, s, ...) | 3 | 1 Quark = 3 AP individuell (✓ HOCH) |
+| Proton | 9 | 3 Quarks × 3 AP = 9 gesamt (✓ HOCH) |
+| Delta-Baryon | 9 | 3 Quarks × 3 AP (NICHT 3!) (✓ HOCH) |
 
 **Zwei Beschreibungsebenen für das Proton:**
 
@@ -564,16 +562,19 @@ asymmetrische Verzerrung in der umgebenden Raummatrix. Werden zwei
 Quarks voneinander getrennt, entsteht zwischen ihren divergierenden
 Verzerrungsfeldern eine Übergangszone:
 
+```mermaid
+flowchart LR
+    A["Quark A<br/>Schräglage Rot<br/>(Gradient ↑)"]
+    S["String-Übergangszone<br/>← Rückstellkraft →<br/>auf 180° aufrichten"]
+    B["Quark B<br/>Schräglage Blau<br/>(Gradient ↑)"]
+    A ---|"Raummatrix-Verzerrung"| S
+    S ---|"Raummatrix-Verzerrung"| B
+    style A fill:#ffcccc,stroke:#cc0000
+    style B fill:#ccccff,stroke:#0000cc
+    style S fill:#fffacd,stroke:#856404
 ```
-Quark A (Schräglage Rot)      Quark B (Schräglage Blau)
-│ Gradient ↑                   │ Gradient ↑
-│ Raummatrix-Verzerrung        │ Raummatrix-Verzerrung
-│──────────── Übergangszone ───────────────│
-                (String!)
-    ← Rückstellkraft: Will APs auf 180° aufrichten →
 
-String-Energie ~ κ_str × Abstand   (qualitativ linear)
-```
+*String-Energie wächst qualitativ linear mit dem Abstand: `E_String ~ κ_str · Abstand`. Diese lineare Energie-Skalierung ist die geometrische Grundlage des Confinement.*
 
 Die Übergangszone verhält sich wie ein "String": Ihre Energie steigt
 mit wachsendem Abstand der Quarks. Das erklärt zwei Phänomene:
@@ -629,28 +630,24 @@ Zahlenprüfung ausstehend — DeepSeek-Aufgabe F2 empfohlen).
 
 ### 5.1 Was RFT und QCD gemeinsam erklären
 
-```
-Phänomen                | QCD-Erklärung             | RFT-Erklärung
-------------------------|---------------------------|----------------------------
-3 Farbladungen          | Postulat (SU(3)-Axiom)    | 3D-Geometrie (Konsequenz)
-SU(3)-Symmetrie         | Eichsymmetrie             | Oktaeder-Symmetrie
-Confinement (qualit.)   | Lin. Potential V(r)~κ·r   | Geometrische Instabilität
-Farbneutralität         | Singlett-Zustände         | Vektorsumme = 0 (autom.)
-Baryon = 3 Quarks       | 3 Farbladungen → weiß     | n_AP ≥ 3 in 3D (minimal)
-Anti-Quarks             | Konjugierte Darstellung   | Unterer Tetraeder (−Achsen)
-```
+| Phänomen | QCD-Erklärung | RFT-Erklärung |
+|---|---|---|
+| 3 Farbladungen | Postulat (SU(3)-Axiom) | 3D-Geometrie (Konsequenz) |
+| SU(3)-Symmetrie | Eichsymmetrie | Oktaeder-Symmetrie |
+| Confinement (qualit.) | lin. Potential V(r) ~ κ·r | geometrische Instabilität |
+| Farbneutralität | Singulett-Zustände | Vektorsumme = 0 (automatisch) |
+| Baryon = 3 Quarks | 3 Farbladungen → weiß | n_AP ≥ 3 in 3D (minimal) |
+| Anti-Quarks | konjugierte Darstellung | unterer Tetraeder (−Achsen) |
 
 ### 5.2 Was RFT zusätzlich bietet
 
-```
-Einsicht                        | Status
---------------------------------|-------
-Warum 3 Farbladungen?           | Konsequenz von 3D ✓ HOCH
-Warum SU(3) und nicht SU(4)?   | Geometrisch erzwungen ✓ HOCH
-Mechanismus für Confinement     | Geometrische Instabilität ○ MITTEL
-Hadronmasse qualitativ          | Aufrichtungsenergie ○ MITTEL
-Materie/Antimaterie geometrisch | Oberer/unterer Tetraeder ✓ HOCH
-```
+| Einsicht | Status |
+|---|---|
+| Warum 3 Farbladungen? | Konsequenz von 3D — ✓ HOCH |
+| Warum SU(3) und nicht SU(4)? | geometrisch erzwungen — ✓ HOCH |
+| Mechanismus für Confinement | geometrische Instabilität — ○ MITTEL |
+| Hadronmasse qualitativ | Aufrichtungsenergie — ○ MITTEL |
+| Materie/Antimaterie geometrisch | oberer/unterer Tetraeder — ✓ HOCH |
 
 ### 5.3 Die Gluonen-Frage
 

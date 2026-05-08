@@ -109,15 +109,13 @@ Die gesamte RFT basiert auf der nichtlinearen Feldgleichung für das skalare Res
 
 Jeder Term hat eine physikalische Bedeutung:
 
-```
-Term          Funktion                          Zeitumkehrverhalten
-─────────────────────────────────────────────────────────────────
-c²∇²Ψ        Wellenpropagation im Medium        symmetrisch
-−c²κ²Ψ       Resonanz-Steifigkeit               symmetrisch
-+λ|Ψ|²Ψ      Nichtlineare Selbstkopplung        symmetrisch
-+η            Eigeninteraktion                  symmetrisch
-−γ∂Ψ/∂t      Dämpfung / Asymmetrie-Koeffizient ASYMMETRISCH ←
-```
+| Term | Funktion | Zeitumkehrverhalten |
+|---|---|---|
+| `c²∇²Ψ` | Wellenpropagation im Medium | symmetrisch |
+| `−c²κ²Ψ` | Resonanz-Steifigkeit | symmetrisch |
+| `+λ\|Ψ\|²Ψ` | nichtlineare Selbstkopplung | symmetrisch |
+| `+η` | Eigeninteraktion | symmetrisch |
+| `−γ ∂Ψ/∂t` | Dämpfung / Asymmetrie-Koeffizient | **ASYMMETRISCH** ← |
 
 Der γ-Term ist der einzige Term, der sich unter t→−t ändert. Er verwandelt sich dabei in +γ∂Ψ/∂t — mit umgekehrtem Vorzeichen. Das heißt: Eine zeitumgekehrte Lösung der Master-Gleichung mit γ ≠ 0 ist im Allgemeinen keine Lösung der Master-Gleichung. ✓ HOCH
 
@@ -589,18 +587,19 @@ Die RFT erklärt mechanistisch, warum und wo lokale Entropie sinken darf.
 
 Eines der tiefsten Ergebnisse der v3-Serie ist die Erkenntnis, dass drei scheinbar verschiedene physikalische Phänomene auf denselben γ-Term der Master-Gleichung zurückzuführen sind:
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                   MASTER-GLEICHUNG                        │
-│   ∂²Ψ/∂t² = c²∇²Ψ − γ∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ + η    │
-│                          ↑                                │
-│                       γ-Term                              │
-│                   (T-Symmetrie gebrochen)                 │
-└──────────────────────────────────────────────────────────┘
-          │                │                │
-          ▼                ▼                ▼
-    ZEITPFEIL        ZERFALL           ENTROPIE
-   (v3_006)         (v3_014)          (v3_018)
+```mermaid
+flowchart TB
+    M["MASTER-GLEICHUNG<br/>∂²Ψ/∂t² = c²∇²Ψ <b>− γ∂Ψ/∂t</b> − c²κ²Ψ + λ|Ψ|²Ψ + η<br/><i>γ-Term bricht T-Symmetrie</i>"]
+    Z["ZEITPFEIL<br/>(v3_006)"]
+    D["ZERFALL<br/>(v3_014)"]
+    E["ENTROPIE<br/>(v3_018)"]
+    M -->|"makroskopische Zeitrichtung"| Z
+    M -->|"Lebensdauer 1/γ"| D
+    M -->|"dS/dt = ∫γ\|∂Ψ/∂t\|²d³x ≥ 0"| E
+    style M fill:#fffacd,stroke:#000,stroke-width:2
+    style Z fill:#d1ecf1,stroke:#0c5460
+    style D fill:#f8d7da,stroke:#721c24
+    style E fill:#d4edda,stroke:#155724
 ```
 
 Die γ-Dreifach-Verbindung (K2-Audit, 04.04.2026) ist nicht drei verschiedene Anwendungen desselben Terms — es ist ein und dieselbe Physik, aus drei verschiedenen Blickwinkeln betrachtet. ○ MITTEL (konzeptuell stark, formal noch nicht in einem Schritt rigoros)

@@ -56,17 +56,20 @@ Ende der Galaxie — liefert das zweite Teilchen augenblicklich ein damit
 korreliertes Ergebnis. Diese Korrelation übertrifft alles, was mit lokalen
 Ursachen erklärt werden kann.
 
-```
-Experiment (schematisch):
-  Quelle erzeugt verschränktes Paar
-       │
-       ├─────── Teilchen 1 → Alice (misst Spin)
-       │
-       └─────── Teilchen 2 → Bob (misst Spin)
-
-Alice misst: ↑
-Bob misst sofort: ↓  (egal wie weit entfernt!)
-Korrelation: E(θ=0°) = -1  (perfekte Antikorrelation)
+```mermaid
+flowchart LR
+    Q["Quelle<br/>(erzeugt verschränktes Paar)"]
+    A["<b>Alice</b> misst Teilchen 1<br/>↑"]
+    B["<b>Bob</b> misst Teilchen 2<br/>↓ (sofort)"]
+    K["Korrelation<br/>E(θ=0°) = −1<br/>perfekte Antikorrelation"]
+    Q -->|"Teilchen 1"| A
+    Q -->|"Teilchen 2<br/>(beliebig weit entfernt)"| B
+    A -.-> K
+    B -.-> K
+    style Q fill:#fffacd,stroke:#856404
+    style A fill:#d1ecf1,stroke:#0c5460
+    style B fill:#d4edda,stroke:#155724
+    style K fill:#f8d7da,stroke:#721c24
 ```
 
 Die Standardformulierung (Bell-Zustand, Spin-Singulett):
