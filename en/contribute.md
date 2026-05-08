@@ -189,6 +189,29 @@ All contributors will be:
 - **Cited** for specific substantial contributions
 - **Recognized** in publications deriving from the work
 
+## ☕ Support the Research
+
+As an independent researcher, I cover the costs for AI API access, hosting, and scientific literature out of pocket. Every contribution helps the project move forward.
+
+| Amount | What it enables |
+|---|---|
+| **5 €** | 1 day of AI-assisted calculations |
+| **25 €** | 1 week of intensive theory development |
+| **50 €** | 1 month of hosting + literature access |
+| **100 €** | A comprehensive simulation series |
+
+### How to support
+
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rftprojekt)
+
+[![PayPal Donate](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/rftprojekt)
+
+**Direct link:** [paypal.me/rftprojekt](https://www.paypal.me/rftprojekt)
+
+For commercial use or collaborative research enquiries, please get in touch via email below.
+
+---
+
 ## 🌐 Join the Community
 
 ### Next Steps
