@@ -1,6 +1,6 @@
 # About the Author
 
-**Franz Zollner**, Diplom-Physik-Ingenieur (University of Paderborn, 1992–2002), originator of the Resonance Field Theory (RFT).
+**Franz Zollner**, Diplom-Physikingenieur — *protected German engineering title* (University of Paderborn, 1992–2002), originator of the Resonance Field Theory (RFT).
 
 ---
 

@@ -1,6 +1,6 @@
 # Über den Autor
 
-**Franz Zollner**, Diplom-Physik-Ingenieur (Universität Paderborn, 1992–2002), Originator der Resonanzfeldtheorie (RFT).
+**Franz Zollner**, Diplom-Physikingenieur (Universität Paderborn, 1992–2002), Originator der Resonanzfeldtheorie (RFT).
 
 ---
 
