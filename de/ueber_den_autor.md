@@ -60,7 +60,7 @@ Der konkrete Auslöser war nicht die String-Kritik oder die Philosophie-Unzufrie
 
 ### 2025–2026: Die Formalisierung mit KI-Hilfe
 
-Was folgte, war ein fünfzehnmonatiger Dialog mit mehreren KI-Systemen — ChatGPT, Claude, Gemini, Mistral, DeepSeek, lokal Qwen — der nicht nur die Theorie, sondern auch das Werkzeug zur Theorie hervorbrachte. Arbeitsprotokolle, ein Domain Center, Übergabebriefe, ein lokales RAG-System auf eigener Hardware. Der Theorie-Prozess und der Werkzeug-Prozess sind verwoben — beide stützen sich gegenseitig.
+Was folgte, war ein fünfzehnmonatiger Dialog mit mehreren KI-Systemen — ChatGPT, Claude Code (lokal als „Denker"), Claude (Web, später als „Sokrates"), Gemini, Mistral, DeepSeek, lokal Qwen — der nicht nur die Theorie, sondern auch das Werkzeug zur Theorie hervorbrachte. Arbeitsprotokolle, ein Domain Center, Übergabebriefe, ein lokales RAG-System auf eigener Hardware. Der Theorie-Prozess und der Werkzeug-Prozess sind verwoben — beide stützen sich gegenseitig.
 
 Die Mastergleichung stand strukturell stabil seit dem **19. Januar 2025**, an dem in zwölf Stunden fünf konsolidierende Dokumente entstanden. Sie ist die Konstante in allem, was danach kam.
 

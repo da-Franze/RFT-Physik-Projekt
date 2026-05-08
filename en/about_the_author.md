@@ -60,7 +60,7 @@ The concrete trigger was not the string critique or the philosophy dissatisfacti
 
 ### 2025–2026: Formalisation with AI Assistance
 
-What followed was a fifteen-month dialogue with several AI systems — ChatGPT, Claude, Gemini, Mistral, DeepSeek, locally Qwen — which produced not only the theory but also the *tool* for the theory. Working protocols, a Domain Center, handover letters, a local RAG system on dedicated hardware. The theory-process and the tool-process are intertwined — both support each other.
+What followed was a fifteen-month dialogue with several AI systems — ChatGPT, Claude Code (locally as "Denker"), Claude (Web, later as "Sokrates"), Gemini, Mistral, DeepSeek, locally Qwen — which produced not only the theory but also the *tool* for the theory. Working protocols, a Domain Center, handover letters, a local RAG system on dedicated hardware. The theory-process and the tool-process are intertwined — both support each other.
 
 The master equation stood structurally stable from **19 January 2025**, when in twelve hours five consolidating documents emerged. It is the constant in everything that came after.
 
