@@ -166,7 +166,7 @@ RFT-Physik-Projekt/
 
 ## 📜 License
 
-© 2025 Franz Zollner - RFT Physics Project  
+© 2025–2026 Franz Zollner — RFT Physics Project  
 **Creative Commons BY-NC-ND 4.0**
 
 ---
