@@ -162,6 +162,16 @@ Dies ist Trägheit als **lokaler Kompressionswiderstand** des Resonanzfeldes.
 Die Kraft, die benötigt wird, einen Vortex zu beschleunigen, ist
 proportional zur Amplitudenänderung des κ-Feldes — das ist m_i.
 
+> 🍯 **Metapher — Löffel im Honig (Translations-Variante):**
+> Ein Löffel, der im zähen Honig vor und zurück bewegt wird, wird vom Honig zurückgezogen. Der Honig setzt der Translations-Bewegung Widerstand entgegen — analog zum κ-Feld, das den Vortex bei Translation zurückzieht. Diese Bewegungsform unterscheidet sich vom *rotierenden* Löffel-Bild (siehe [RFT_v3_003 §3.1](RFT_v3_003_Gravitation_Spinverzug.md#3-der-spinverzug-mechanismus)), das die *schwere* Masse beschreibt:
+>
+> | Löffel-Bewegung | Reaktion des Honigs | RFT-Effekt | Mastergleichungs-Term |
+> |---|---|---|---|
+> | Translation (vor/zurück) | Rückziehende κ-Feld-Antwort | **träge Masse** m_i | `−c²κ²Ψ` |
+> | Rotation | Nachwirkungs-Spannung (τ_lag-Schleppwirbel) | **schwere Masse** m_g | `−γ ∂Ψ/∂t` (Asymmetrie) |
+>
+> Bildquelle: RFT_003 v2.2 (2026-01-01) + Originator-Erweiterung 2026-05-06. Das Bild ist eine **anschauliche Analogie** im Sinne der Wirbel-Veranschaulichung beim Nabla-Operator — keine formale Ableitung, sondern eine Brücke zwischen Intuition und Formalismus.
+
 ### 2.3 Formale Ableitung der trägen Masse
 
 Aus der Dispersionsrelation der Master-Gleichung (RFT_v3_004, Kap. 2.2):
