@@ -5,7 +5,7 @@
 **Autor:** Franz Zollner / RFT-Projekt  
 **Rekonstruktion:** Claude Code (Sonnet 4.6) + DeepSeek (Browser-Verifikation)  
 **Sprache:** DE  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **Zitation:** Franz Zollner (2026). *RFT_v3_Kepler: Die Keplersche Geometrie der Ladung — Warum Quarks Drittel-Ladungen haben.* Resonance Field Theory Series, v3.0.
 
 **Abhängigkeiten:**
@@ -394,4 +394,4 @@ Die Herleitung entstand am 21.04.2026 aus der Verbindung einer Weihnachtsvorlesu
 ---
 
 **© 2026 Franz Zollner — Resonanzfeldtheorie (RFT)**
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
