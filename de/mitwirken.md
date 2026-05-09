@@ -109,7 +109,7 @@ Nach **mehr als 1 Jahr intensiver Arbeit** stehen umfangreiche Rohdaten zur Verf
 - **Ursprüngliche Konzeptskizzen** und Alternativ-Ansätze
 
 ### 📜 Nutzungsbedingungen:
-- 🔒 **Copyright-geschützt** - Franz Zollner © 2025
+- 🔒 **Copyright-geschützt** - Franz Zollner © 2025–2026
 - 💰 **Gebührenpflichtig** für kommerzielle Nutzung
 - 🎓 **Kostenfrei** für wissenschaftliche Forschung (nach Anfrage)
 - 📄 **Lizenzvereinbarung** erforderlich
