@@ -74,7 +74,7 @@ Aufgrund meiner **Vollzeitbeschäftigung als Prozessingenieur bei Infineon Techn
 - **Komplette Forschungsgeschichte** inklusive Irrwege
 
 ### Nutzungsbedingungen:
-- 🔒 **Copyright-geschützt** - Franz Zollner © 2025
+- 🔒 **Copyright-geschützt** - Franz Zollner © 2025–2026
 - 💰 **Gebührenpflichtig** für kommerzielle Nutzung
 - 🎓 **Kostenfrei** für wissenschaftliche Forschung (nach Anfrage)
 
@@ -99,7 +99,7 @@ RFT-Physik-Projekt
 - 🔍 **Kollaborativ:** Zur kritischen Diskussion und Weiterentwicklung
 
 ### Urheberrecht:
-- © 2025 Franz Zollner - Alle Rechte vorbehalten
+- © 2025–2026 Franz Zollner — lizenziert unter CC BY-NC-ND 4.0
 - 📜 Lizenz: [CC BY-NC-ND 4.0](../LICENSE)
 - 🔒 Kommerzielle Nutzung nur nach schriftlicher Genehmigung
 

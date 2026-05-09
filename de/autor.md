@@ -132,7 +132,7 @@ Die Resonanzfeldtheorie als unabhängiges Forschungsprojekt benötigt Unterstüt
 
 ## 📜 Urheberrecht & Lizenz
 
-**© 2025 Franz Zollner - RFT-Physik-Projekt**  
+**© 2025–2026 Franz Zollner - RFT-Physik-Projekt**  
 Alle Rechte vorbehalten.
 
 **Lizenz:** [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
