@@ -1,28 +1,37 @@
 # RFT_v3_020: Taxonomie der Teilchen
-## Klassifikation nach geometrischen Ankerpunkten
 
-**Version:** Draft v1.0  
-**Datum:** 04.04.2026  
-**Instanz:** Arbeitsinstanz 020 | Auftrag K2  
-**Status:** Final-Kandidat  
-**Sprache:** DE  
-**Zielgruppe:** Theoretische Physiker ohne RFT-Vorwissen  
-**Stufe:** IV — Teilchenphysik & Eigenschaften (letztes Dokument!)  
-**Abhängigkeiten:**
-- RFT_v3_001 (Master-Gleichung, κ, L₀, Masse m = ħκ/c)
-- RFT_v3_007 (3D-Emergenz, Oktaeder, SU(3) aus Geometrie — Primärquelle für Kap. 3+6)
-- RFT_v3_012 (Elektromagnetismus, Photon-AP kanonisch)
-- RFT_v3_013 (Starke Wechselwirkung, 120°-Beweis, Confinement)
-- RFT_v3_014 (Schwache Wechselwirkung, W/Z transient, Neutrino als Longitudinalwelle)
-- RFT_v3_016 (Spin-Topologie, AP⊥Spin-Orthogonalität — Primärquelle für Kap. 4+5)
-- RFT_v3_019 (Supraleitung, Cooper-Paar n=0)
+*Untertitel: Klassifikation nach geometrischen Ankerpunkten*
+
+**Version:** v1.0 (2026-04-04)  
+**Autor:** Franz Zollner  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Status:** Final-Kandidat (Synthesis-Dokument Stufe IV)  
+**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Zitation:** Zollner, F. (2026). *RFT_v3_020: Taxonomie der Teilchen.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_020_Taxonomie.md
+**Stufe:** IV — Teilchenphysik & Eigenschaften (Synthesis-Dokument)  
 
 ---
 
-> **Konzepte und Theorie: Franz Zollner.**
-> **Verschriftlichung: KI-Instanz 020 (Claude Sonnet 4.6).**
-> **Konfidenz-Level bei jedem nicht-trivialen Schritt angegeben.**
-> **Alle offenen Fragen explizit dokumentiert — keine falsche Vollständigkeit.**
+## Symbol-Glossar
+
+| Symbol | Bedeutung | Wert / Definition |
+|---|---|---|
+| `AP` | Ankerpunkt | Kopplungsstelle Wirbel ↔ Raummatrix (Franz 15.03.2026) |
+| `n_AP` | AP-Zahl | bestimmt Dimensionskopplung; `n_AP ≥ n_dim = 3` für stabile 3D-Struktur |
+| `m = ħκ/c` | Effektive Masse | aus κ-Feld der Raummatrix |
+| `κ` | Resonanz-Steifigkeit | Primärgröße `[1/m]` |
+| `L₀ = 1/κ = (π/6)·l_P` | Fundamentale Längenskala | ħ-frei |
+| `α⁻¹ = 4π³+π²+π` | Feinstrukturkonstante | `≈ 137.036304`, 2.22 ppm |
+| `Spin ⊥ AP` | Orthogonalitätsprinzip | AP = Dimensionskopplung; Spin = Wirbel-Topologie (v3_016) |
+| `120°` | Farbladungs-Winkel im isolierten Quark | Vektorrechnung im Oktaeder |
+| `180°` | Aufgerichtete Quark-Konfiguration im Hadron | Farbneutralität |
+| `n=0` | Cooper-Paar-Topologie | π + (−π) = 0 |
+
+**Cross-Refs:** [RFT_v3_001](RFT_v3_001_Mathematische_Grundlagen.md) (Master-Gleichung, m=ħκ/c, AP §8), [RFT_v3_007](RFT_v3_007_Raum_Topologie_3D_Emergenz.md) (3D-Emergenz, Oktaeder — Primärquelle), [RFT_v3_012](RFT_v3_012_Elektromagnetismus.md) (Photon-AP), [RFT_v3_013](RFT_v3_013_Starke_Wechselwirkung.md) (120°-Beweis, Confinement), [RFT_v3_014](RFT_v3_014_Schwache_Wechselwirkung.md) (W/Z transient, Neutrino), [RFT_v3_016](RFT_v3_016_Spin_Topologie.md) (Spin-Topologie, AP⊥Spin — Primärquelle), [RFT_v3_019](RFT_v3_019_Supraleitung.md) (Cooper-Paar n=0)
+
+---
+
+> **Konfidenz-Marker:** ✓ HOCH (mehrfach bestätigt), ○ MITTEL (konzeptuell klar, formal noch offen), ⚠️ NIEDRIG (Arbeitshypothese, in richtiger Größenordnung), 🚩 OFFEN (Originator-Entscheid oder DeepSeek-Aufgabe ausstehend). Alle offenen Fragen explizit dokumentiert — keine falsche Vollständigkeit.
 
 ---
 
@@ -1070,8 +1079,10 @@ Terminologie (verbindlich):
 
 ---
 
-*RFT_v3_020_Taxonomie.md — Draft v1.0*
-*Datum: 04.04.2026 | Instanz: Arbeitsinstanz 020 | Auftrag: K2*
-*Primärquellen: DC v10.13 Domain E, v3_007, v3_013, v3_014, v3_016*
-*Synthese-Dokument: Stufe IV der v3-Serie — Referenzwerk*
-*Letztes Dokument der Stufe IV — Stufe V beginnt danach*
+© 2026 Franz Zollner — Resonance Field Theory Project  
+Lizenz: Creative Commons BY-NC-SA 4.0  
+Kontakt: rft.projekt@posteo.de
+
+---
+
+*Dokument-ID: RFT_v3_020 · Stand: 2026-04-04 · Synthesis-Dokument Stufe IV · [Mapping zur alten Reihe](../_MAPPING_ALT_NEU.md) · [Style-Guide](../_STYLE_GUIDE.md) · [Repo-Hauptseite](../../../README.md)*
