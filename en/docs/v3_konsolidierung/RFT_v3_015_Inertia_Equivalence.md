@@ -9,7 +9,7 @@
 **LANGUAGE:** EN  
 **DEPENDENCIES:** RFT_v3_001 (Master equation, κ), RFT_v3_003 (Spin-lag, G·m),
 RFT_v3_004 (Impulse/Energy, ħ status), RFT_v3_012 (τ_lag canonical value)  
-**LICENSE:** Creative Commons BY-NC-SA 4.0  
+**LICENSE:** Creative Commons BY-NC-ND 4.0  
 
 ---
 
@@ -767,5 +767,5 @@ Version header: v1.2-EN-r1 ✓
 ---
 
 **© 2026 Franz Zollner — Resonance Field Theory Project**  
-**License:** Creative Commons BY-NC-SA 4.0  
+**License:** Creative Commons BY-NC-ND 4.0  
 **Document-ID:** RFT_v3_015_Inertia_Equivalence_EN_v1.2

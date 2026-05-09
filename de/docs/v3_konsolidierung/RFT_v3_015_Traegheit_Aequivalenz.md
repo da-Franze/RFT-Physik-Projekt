@@ -8,7 +8,7 @@
 **Verschriftlichung:** KI-Instanz 015 (Multi-Instanz Protokoll v6.1)  
 **Sprache:** DE  
 **Abhängigkeiten:** RFT_v3_001 (Master-Gleichung, κ), RFT_v3_003 (Spinverzug, G·m), RFT_v3_004 (Impuls/Energie, ħ-Status), RFT_v3_012 (τ_lag-Kanonwert)  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 
 ---
 
@@ -802,5 +802,5 @@ v3_012: τ_lag als Primärquelle eingetragen ✓
 ---
 
   
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **Dokument-ID:** RFT_v3_015_v1.0

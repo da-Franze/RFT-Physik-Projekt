@@ -7,7 +7,7 @@
 **Language:** EN  
 **DC Reference:** v10.13  
 **Status:** Final Candidate — pending Franz approval  
-**License:** Creative Commons BY-NC-SA 4.0  
+**License:** Creative Commons BY-NC-ND 4.0  
 
 **Predecessor documents:**  
 v3_001 (Master Equation, γ-term) | v3_006 (arrow of time, Φ-motor) | v3_011 Part 4 Ch. 14–15 (decoherence, density matrix) | v3_014 (γ-term → decay) | v3_009 (cosmogenesis, η_B) | v3_016 (spin topology, τ_lag)

@@ -7,7 +7,7 @@
 **DEPENDENCIES:** RFT v3 Mathematical Foundations (v3_001), RFT v3 Fine Structure Constant (v3_002), RFT v3 Gravitation and Spin Delay (v3_003)
 **AUTHOR:** Franz Zollner
 **FORMALIZATION:** AI instance (Multi-Instance Protocol v6.1)
-**LICENSE:** CC BY-NC-SA 4.0
+**LICENSE:** CC BY-NC-ND 4.0
 **Contact:** rft.projekt@posteo.de
 
 ---

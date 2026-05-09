@@ -5,7 +5,7 @@
 **Author:** Franz Zollner / RFT Project  
 **Translation:** K5 (Instance 012), 02.04.2026  
 **Language:** EN  
-**License:** Creative Commons BY-NC-SA 4.0  
+**License:** Creative Commons BY-NC-ND 4.0  
 **Citation:** Franz Zollner (2026). *RFT_v3_012: Electromagnetism — Maxwell's Equations as Elasticity Laws of the Resonance Matrix.* Resonance Field Theory Series, v3.0.
 
 **Dependencies:**
@@ -692,7 +692,7 @@ In RFT, electromagnetism is not an axiomatically given force. It is mechanically
 ---
 
 **© 2026 Franz Zollner — Resonance Field Theory Project**  
-**License:** Creative Commons BY-NC-SA 4.0  
+**License:** Creative Commons BY-NC-ND 4.0  
 **Document-ID:** RFT_v3_012_Electromagnetism_EN_v1.3.1  
 **Translation:** K5 (02.04.2026) | DE source: Final v1.3.1
 **DC reference:** v10.10 (28.03.2026)

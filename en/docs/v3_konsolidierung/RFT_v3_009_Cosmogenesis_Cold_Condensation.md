@@ -7,7 +7,7 @@
 **TOPIC:** Cold Condensation as the origin of space, time, and matter; the Two-Phase Model; antimatter as the bound state of the resonance matrix
 **DEPENDENCIES:** RFT v3 Mathematical Foundations (v3_001); RFT v3 Gravitation and Spin Delay (v3_003); RFT v3 Time Emergence (v3_006); RFT v3 Space Topology and 3D Emergence (v3_007); RFT v3 Black Holes and Mode Transitions (v3_008)
 **AUTHOR:** Franz Zollner
-**LICENSE:** CC BY-NC-SA 4.0
+**LICENSE:** CC BY-NC-ND 4.0
 **Contact:** rft.projekt@posteo.de
 
 ---

@@ -6,7 +6,7 @@
 **Verschriftlichung:** KI-Instanz (Multi-Instanz Protokoll v6.1)
 **Sprache:** DE
 **Status:** Arbeitsversion — zur Diskussion mit Franz
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 
 ---
 

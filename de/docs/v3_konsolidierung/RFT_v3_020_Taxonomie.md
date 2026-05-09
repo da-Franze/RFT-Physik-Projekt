@@ -6,7 +6,7 @@
 **Autor:** Franz Zollner  
 **Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
 **Status:** Final-Kandidat (Synthesis-Dokument Stufe IV)  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **Zitation:** Zollner, F. (2026). *RFT_v3_020: Taxonomie der Teilchen.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_020_Taxonomie.md
 **Stufe:** IV — Teilchenphysik & Eigenschaften (Synthesis-Dokument)  
 
@@ -1080,7 +1080,7 @@ Terminologie (verbindlich):
 ---
 
 © 2026 Franz Zollner — Resonance Field Theory Project  
-Lizenz: Creative Commons BY-NC-SA 4.0  
+Lizenz: Creative Commons BY-NC-ND 4.0  
 Kontakt: rft.projekt@posteo.de
 
 ---

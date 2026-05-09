@@ -5,7 +5,7 @@
 **Author:** Franz Zollner
 **Language:** EN
 **Status:** Publication-ready (working version)
-**License:** Creative Commons BY-NC-SA 4.0
+**License:** Creative Commons BY-NC-ND 4.0
 **Citation:** Franz Zollner (2026). *RFT_001: Mathematical Foundations of Resonance Field Theory.* Resonance Field Theory Series, v3.5.
 **Translation note:** Standalone document. No cross-references to other RFT documents assumed. All RFT-specific terminology follows RFT_v3_Glossar_EN.md v1.0 (24.03.2026).
 
@@ -1331,7 +1331,7 @@ Resonance Field Theory models the vacuum as a three-dimensional Dynamic Resonanc
 ---
 
 © 2026 Franz Zollner — Resonance Field Theory Project
-License: Creative Commons BY-NC-SA 4.0
+License: Creative Commons BY-NC-ND 4.0
 Contact: rft.projekt@posteo.de
 
 ---

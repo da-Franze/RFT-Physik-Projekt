@@ -5,7 +5,7 @@
 **VERSION:** v1.1-EN (Translation: 24 March 2026 | Source: DE v1.1, 27 February 2026)  
 **TOPIC:** π as the universal translator between the Cartesian geometry of the resonance matrix and the spherical geometry of resonance modes  
 **STATUS:** Final v1.1-EN  
-**LICENSE:** CC BY-NC-SA 4.0 — Franz Zollner & RFT Consensus Team  
+**LICENSE:** CC BY-NC-ND 4.0 — Franz Zollner & RFT Consensus Team  
 **Contact:** rft.projekt@posteo.de
 
 ---

@@ -15,7 +15,7 @@
 **Author (concepts):** Franz Zollner
 **Written by:** AI instance (working instance 014 / T14)
 **DC reference:** v10.11
-**License:** Creative Commons BY-NC-SA 4.0
+**License:** Creative Commons BY-NC-ND 4.0
 
 ---
 

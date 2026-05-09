@@ -5,7 +5,7 @@
 **Autor:** Franz Zollner / RFT-Projekt  
 **Instanz:** K5 (Arbeitsinstanz 012)  
 **Sprache:** DE  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **Zitation:** Franz Zollner (2026). *RFT_v3_012: Elektromagnetismus — Maxwell-Gleichungen als Elastizitätsgesetze der Raummatrix.* Resonance Field Theory Series, v3.0.
 
 **Abhängigkeiten:**
@@ -667,6 +667,6 @@ Der Elektromagnetismus ist in der RFT keine axiomatisch gegebene Kraft. Er ist m
 ---
 
 **© 2026 Franz Zollner — Resonanzfeldtheorie Projekt**  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **Dokument-ID:** RFT_v3_012_v1.3.1  
 **Instanz:** K5 (11.03.2026)

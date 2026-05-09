@@ -7,7 +7,7 @@
 **Überarbeitung:** KI-Instanz v3_011
 **Sprache:** DE
 
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 
 ---
 
@@ -3198,7 +3198,7 @@ ist vertrauenswürdiger als eine, die sie versteckt.
 - ✅ Formelzeichen erklärt
 - ✅ Ankerpunkt-Struktur in Kap. 19 integriert
 - ✅ Kap. 21 "Offene Fragen" neu hinzugefügt
-- ✅ Lizenz CC BY-NC-SA 4.0
+- ✅ Lizenz CC BY-NC-ND 4.0
 
 **Gesamtumfang RFT_v3_011:**
 ```
@@ -3214,7 +3214,7 @@ GESAMT: ~14500 Zeilen (v3.0)
 ---
 
 **© 2026 Franz Zollner — Resonanzfeldtheorie-Projekt**
-**Lizenz: CC BY-NC-SA 4.0**
+**Lizenz: CC BY-NC-ND 4.0**
 **Version: 3.0 | Datum: 06. März 2026**
 
 **Änderungen v2.1 → v3.0:**

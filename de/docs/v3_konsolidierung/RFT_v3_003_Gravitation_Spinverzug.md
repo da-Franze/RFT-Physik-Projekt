@@ -490,5 +490,5 @@ Aus der DRM-Geometrie folgen die fundamentalen Konstanten in dieser Hierarchie:
 ---
 
 **© 2026 Franz Zollner — Resonanzfeldtheorie Projekt**  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **Dokument-ID:** RFT_v3_003_v1.0

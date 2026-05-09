@@ -7,7 +7,7 @@
 **Überarbeitung:** KI-Instanz v3_011  
 **Sprache:** DE  
 
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 
 ---
 
@@ -2700,14 +2700,14 @@ Mischzustand: S > 0
 
 ---
 
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **© 2026 Franz Zollner - Resonanzfeldtheorie**
 
 ---
 
 **© 2026 Franz Zollner — Resonanzfeldtheorie-Projekt**
 
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 **Version:** 3.0 (v3-Überarbeitung)
 **Datum:** 06. März 2026
 **Basis:** v2.1 Teil 4 von 5
