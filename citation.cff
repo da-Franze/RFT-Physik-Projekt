@@ -5,8 +5,8 @@ authors:
   - family-names: Zollner
     given-names: Franz
     email: rft.projekt@posteo.de
-version: "3.0"
-date-released: "2026-05-05"
+version: "3.1"
+date-released: "2026-05-10"
 doi: 10.5281/zenodo.19259914
 url: "https://github.com/da-Franze/RFT-Physik-Projekt"
 license: CC-BY-NC-ND-4.0
