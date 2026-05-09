@@ -1,37 +1,28 @@
 # RFT_v3_020: Taxonomie der Teilchen
+## Klassifikation nach geometrischen Ankerpunkten
 
-*Untertitel: Klassifikation nach geometrischen Ankerpunkten*
-
-**Version:** v1.0 (2026-04-04)  
-**Autor:** Franz Zollner  
-**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
-**Status:** Final-Kandidat (Synthesis-Dokument Stufe IV)  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
-**Zitation:** Zollner, F. (2026). *RFT_v3_020: Taxonomie der Teilchen.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_020_Taxonomie.md
-**Stufe:** IV — Teilchenphysik & Eigenschaften (Synthesis-Dokument)  
-
----
-
-## Symbol-Glossar
-
-| Symbol | Bedeutung | Wert / Definition |
-|---|---|---|
-| `AP` | Ankerpunkt | Kopplungsstelle Wirbel ↔ Raummatrix (Franz 15.03.2026) |
-| `n_AP` | AP-Zahl | bestimmt Dimensionskopplung; `n_AP ≥ n_dim = 3` für stabile 3D-Struktur |
-| `m = ħκ/c` | Effektive Masse | aus κ-Feld der Raummatrix |
-| `κ` | Resonanz-Steifigkeit | Primärgröße `[1/m]` |
-| `L₀ = 1/κ = (π/6)·l_P` | Fundamentale Längenskala | ħ-frei |
-| `α⁻¹ = 4π³+π²+π` | Feinstrukturkonstante | `≈ 137.036304`, 2.22 ppm |
-| `Spin ⊥ AP` | Orthogonalitätsprinzip | AP = Dimensionskopplung; Spin = Wirbel-Topologie (v3_016) |
-| `120°` | Farbladungs-Winkel im isolierten Quark | Vektorrechnung im Oktaeder |
-| `180°` | Aufgerichtete Quark-Konfiguration im Hadron | Farbneutralität |
-| `n=0` | Cooper-Paar-Topologie | π + (−π) = 0 |
-
-**Cross-Refs:** [RFT_v3_001](RFT_v3_001_Mathematische_Grundlagen.md) (Master-Gleichung, m=ħκ/c, AP §8), [RFT_v3_007](RFT_v3_007_Raum_Topologie_3D_Emergenz.md) (3D-Emergenz, Oktaeder — Primärquelle), [RFT_v3_012](RFT_v3_012_Elektromagnetismus.md) (Photon-AP), [RFT_v3_013](RFT_v3_013_Starke_Wechselwirkung.md) (120°-Beweis, Confinement), [RFT_v3_014](RFT_v3_014_Schwache_Wechselwirkung.md) (W/Z transient, Neutrino), [RFT_v3_016](RFT_v3_016_Spin_Topologie.md) (Spin-Topologie, AP⊥Spin — Primärquelle), [RFT_v3_019](RFT_v3_019_Supraleitung.md) (Cooper-Paar n=0)
+**Version:** Draft v1.0  
+**Datum:** 04.04.2026  
+**Instanz:** Arbeitsinstanz 020 | Auftrag K2  
+**Status:** Final-Kandidat  
+**Sprache:** DE  
+**Zielgruppe:** Theoretische Physiker ohne RFT-Vorwissen  
+**Stufe:** IV — Teilchenphysik & Eigenschaften (letztes Dokument!)  
+**Abhängigkeiten:**
+- RFT_v3_001 (Master-Gleichung, κ, L₀, Masse m = ħκ/c)
+- RFT_v3_007 (3D-Emergenz, Oktaeder, SU(3) aus Geometrie — Primärquelle für Kap. 3+6)
+- RFT_v3_012 (Elektromagnetismus, Photon-AP kanonisch)
+- RFT_v3_013 (Starke Wechselwirkung, 120°-Beweis, Confinement)
+- RFT_v3_014 (Schwache Wechselwirkung, W/Z transient, Neutrino als Longitudinalwelle)
+- RFT_v3_016 (Spin-Topologie, AP⊥Spin-Orthogonalität — Primärquelle für Kap. 4+5)
+- RFT_v3_019 (Supraleitung, Cooper-Paar n=0)
 
 ---
 
-> **Konfidenz-Marker:** ✓ HOCH (mehrfach bestätigt), ○ MITTEL (konzeptuell klar, formal noch offen), ⚠️ NIEDRIG (Arbeitshypothese, in richtiger Größenordnung), 🚩 OFFEN (Originator-Entscheid oder DeepSeek-Aufgabe ausstehend). Alle offenen Fragen explizit dokumentiert — keine falsche Vollständigkeit.
+> **Konzepte und Theorie: Franz Zollner.**
+> **Verschriftlichung: KI-Instanz 020 (Claude Sonnet 4.6).**
+> **Konfidenz-Level bei jedem nicht-trivialen Schritt angegeben.**
+> **Alle offenen Fragen explizit dokumentiert — keine falsche Vollständigkeit.**
 
 ---
 
@@ -306,26 +297,45 @@ Konfidenz: ✓ HOCH (Geometrie) | ○ MITTEL (Confinement-Mechanismus quantitati
 
 Die folgende Tabelle gibt die vollständige RFT-Teilchen-Taxonomie nach dem Stand der v3-Serie wieder. Die AP-Zählung ist kanonisch (DC v10.13, Domain E). Spin-Werte sind experimentell etablierte Fakten — ihre Herleitung aus der RFT ist teilweise noch offen (vgl. Kap. 8).
 
-*Kanonische RFT-Teilchen-Taxonomie (Stand 2026-04-04)*
-
-| Klasse | Teilchen | AP | Spin | Farbladung | Stabilität | Konfidenz |
-|---|---|---|---|---|---|---|
-| Pseudo-0AP | Neutrino ν | 0 | ½ | nein | stabil(?); κ>0: m_ν≠0 | ⚠️ Arbeitshyp. |
-| Lepton | Elektron e⁻ | 1 | ½ | nein | ✅ stabil | ✓ HOCH |
-| Lepton | Positron e⁺ | 1 | ½ | nein | ✅ stabil | ✓ HOCH |
-| Lepton | Myon μ⁻ | 1 | ½ | nein | ⚠️ instabil | ○ MITTEL |
-| Lepton | Tauon τ⁻ | 1 | ½ | nein | ⚠️ instabil | ○ MITTEL |
-| Boson (stabil) | Photon γ | 2 | 1 | nein | ✅ stabil (komplementär) | ✓ HOCH |
-| Boson (transient) | W⁺, W⁻, Z⁰ | (2) | 1 | nein | ❌ transient (~10⁻²⁵ s) | ○ MITTEL |
-| Quark (elementar) | u, d, s, c, b, t | 3 | ½ | ja (R/G/B) | ∞ confined (kein freies Quark!) | ✓ HOCH |
-| Baryon (Komposit) | Proton p | 9 | ½ | nein | ✅ stabil | ✓ HOCH |
-| Baryon (Komposit) | Neutron n | 9 | ½ | nein | ⚠️ β-Zerfall | ✓ HOCH |
-| Baryon (Komposit) | Delta Δ | 9 | 3/2 | nein | ⚠️ instabil | ✓ HOCH |
-| Baryon (weitere) | (verschiedene) | 3×N | ? | nein | variabel | ○ MITTEL |
-| Meson (Komposit) | π⁰, π± | ? | 0 | nein | ⚠️ instabil | 🚩 OFFEN |
-| Meson (Komposit) | K, η, ρ, ... | ? | ? | nein | variabel | 🚩 OFFEN |
-| Sonderfall | Cooper-Paar | (2) | 0 | nein | ✅ kondensiert (n=0-Topologie) | ○ MITTEL |
-| Offen | Higgs-Boson H | ? | 0 | nein | ⚠️ instabil | 🚩 OFFEN |
+```
+KANONISCHE RFT-TEILCHEN-TAXONOMIE (DC v10.13, 04.04.2026)
+─────────────────────────────────────────────────────────────────────────
+Klasse     | Teilchen      | AP  | Spin | Farbldg.| Stabilität | Konfid.
+─────────────────────────────────────────────────────────────────────────
+Pseudo-0AP | Neutrino ν    |  0  |  ½   | nein    | stabil(?)  | ⚠️ ARBTSHYP
+           |               |     |      |         | κ>0: m_ν≠0 |
+─────────────────────────────────────────────────────────────────────────
+Lepton     | Elektron e⁻   |  1  |  ½   | nein    | ✅ stabil  | ✓ HOCH
+           | Positron e⁺   |  1  |  ½   | nein    | ✅ stabil  | ✓ HOCH
+           | Myon μ⁻       |  1  |  ½   | nein    | ⚠️ instabil| ○ MITTEL
+           | Tauon τ⁻      |  1  |  ½   | nein    | ⚠️ instabil| ○ MITTEL
+─────────────────────────────────────────────────────────────────────────
+Boson      | Photon γ      |  2  |  1   | nein    | ✅ stabil  | ✓ HOCH
+(stabil)   |               |     |      |         |(komplementär)|
+─────────────────────────────────────────────────────────────────────────
+Boson      | W⁺, W⁻, Z⁰   | (2) |  1   | nein    | ❌ transient| ○ MITTEL
+(transient)|               |     |      |         | ~10⁻²⁵ s   |
+─────────────────────────────────────────────────────────────────────────
+Quark      | u, d, s, c,   |  3  |  ½   | ja      | ∞ confined | ✓ HOCH
+(elementar)|    b, t       |     |      | (r/g/b) | (kein freies|
+           |               |     |      |         |  Quark!)   |
+─────────────────────────────────────────────────────────────────────────
+Baryon     | Proton p      |  9  |  ½   | nein    | ✅ stabil  | ✓ HOCH
+(Komposit) | Neutron n     |  9  |  ½   | nein    | ⚠️ β-Zerfall| ✓ HOCH
+           | Delta Δ       |  9  | 3/2  | nein    | ⚠️ instabil| ✓ HOCH
+           |               |     |      |         |½+½+½ = 3/2 |
+           | (weitere)     | 3×N |  ?   | nein    | variabel   | ○ MITTEL
+─────────────────────────────────────────────────────────────────────────
+Meson      | π⁰, π±        |  6  |  0   | nein    | ⚠️ instabil| ✓ HOCH
+(Komposit) | K, η, ρ...    |  6  |  ?   | nein    | variabel   | ✓ HOCH
+           | Q+Q̄ (60°)    |     |      |         | κ-instabil  |
+─────────────────────────────────────────────────────────────────────────
+Sonderfall | Cooper-Paar   | (2) |  0   | nein    | ✅ kond.   | ○ MITTEL
+           |               |     |      |         | (n=0 Top.) |
+─────────────────────────────────────────────────────────────────────────
+Offen      | Higgs-Boson H |  ?  |  0   | nein    | ⚠️ instabil| 🚩 OFFEN
+─────────────────────────────────────────────────────────────────────────
+```
 
 ### 4.2 Spin und AP: Getrennte Spalten — getrennte Physik
 
@@ -338,6 +348,49 @@ SPIN    → Topologie des Wirbels → Statistik / Wechselwirkungsart
 Diese Trennung ist nicht konventionell, sondern physikalisch notwendig:
 Quarks haben 3 AP und Spin ½ — nicht 3/2.
 Die naïve Formel n_AP × ½ gilt NICHT allgemein. (v3_016 Kap. 2.4)
+```
+
+**Spin-Formel für Komposita (✓ HOCH — Franz Zollner, 04.04.2026):**
+
+```
+Kanonischer Mechanismus für Baryon-Spin (Kap. 6.4):
+
+  Spin-Addition der Quark-Wirbelachsen:
+
+  Proton (Spin ½):       ½ + ½ − ½ = ½
+    → zwei Quarks parallel, ein Quark antiparallel
+
+  Delta-Baryon (Spin 3/2): ½ + ½ + ½ = 3/2
+    → alle drei Quarks parallel ausgerichtet
+
+  Mechanismus: Spin der Komposita = vektorielle Addition der
+  individuellen Quark-Spins (Quark-Wirbelachsen-Konfiguration)
+  → unterschiedliche Spin-Zustände bei gleicher AP-Zahl! ✓
+
+Konfidenz: ✓ HOCH — Franz-Direktaussage, 04.04.2026
+```
+
+**Meson-AP-Zahl (✓ HOCH — Franz Zollner, 05.04.2026):**
+
+```
+Meson = Quark (3 AP) + Antiquark (3 AP) = 6 AP total
+
+Warum keine AP-Kompensation wie beim Photon?
+  Photon:  e⁻ + e⁺  bei 180° (komplementär) → Auslöschung → 2 AP
+  Meson:   Q  + Q̄   bei  60° (KEIN 180°)    → keine Auslöschung → 6 AP
+
+  Winkel-Begründung:
+  Im Photon liegt eine vollständige geometrische Komplementarität vor
+  (links-zirkular + rechts-zirkular = 180°-Konfiguration).
+  Im Meson sitzen Quark und Antiquark im Oktaeder bei 60° zueinander
+  (z.B. P₁ und P₂ im selben Tetraeder-Dreieck) → keine vollständige
+  Kompensation möglich → alle 6 AP bleiben erhalten.
+
+Konsequenz:
+  6 AP → größere Raummatrix-Verspannung als bei 3-AP-Baryonen
+  → Mesonen instabiler als Baryonen ✓ (konsistent mit Beobachtung)
+
+Konfidenz: ✓ HOCH — Franz-Direktaussage, 05.04.2026
 ```
 
 ### 4.3 Quark-Ladungen aus der Würfel-Geometrie
@@ -526,7 +579,22 @@ Konfidenz: ✓ HOCH (AP-Zahl, Ladung, Farbladung-Neutralität)
            🚩 OFFEN (Spin-Mapping für 9-AP-Komposita)
 ```
 
-Das Delta-Baryon (Δ) hat dieselbe Quark-Zusammensetzung (uud für Δ⁺), dieselben 9 AP, aber Spin 3/2 statt ½. Wie dieselbe AP-Struktur zwei verschiedene Spin-Werte erzeugen kann, ist die zentrale offene Frage der Taxonomie (Kap. 8.1).
+Das Delta-Baryon (Δ) hat dieselbe Quark-Zusammensetzung (uud für Δ⁺), dieselben 9 AP, aber Spin 3/2 statt ½. Der Mechanismus ist durch Franz Zollner am 04.04.2026 kanonisch festgelegt worden (✓ HOCH):
+
+```
+Spin-Mechanismus für 9-AP-Komposita (Franz, 04.04.2026 — ✓ HOCH):
+
+  Proton (Spin ½):         ½ + ½ − ½ = ½
+    → zwei Quark-Wirbelachsen parallel, eine antiparallel
+
+  Delta-Baryon (Spin 3/2): ½ + ½ + ½ = 3/2
+    → alle drei Quark-Wirbelachsen parallel ausgerichtet
+
+  → Unterschied ist die Konfiguration der Quark-Wirbelachsen,
+    NICHT die AP-Zahl (beide = 9 AP).
+  → Dieselbe AP-Struktur, verschiedene Spin-Zustände — konsistent
+    mit AP⊥Spin-Orthogonalität (v3_016 Kap. 2.4) ✓
+```
 
 ---
 
@@ -676,39 +744,30 @@ Higgs-Boson in der RFT:
 
 Die folgende Übersicht ist ein Pflicht-Bestandteil dieses Dokuments. Offene Fragen sind kein Defizit — ihre präzise Formulierung ist ein Qualitätsmerkmal.
 
-### 8.1 🚩 AP→Spin-Mapping bei Komposita (höchste Priorität)
-
-Dies ist die wichtigste offene Frage in der RFT-Teilchentaxonomie:
+### 8.1 ✅ AP→Spin-Mapping bei Komposita — GELÖST (Franz, 04.04.2026)
 
 ```
-Beobachtung:
-  Proton:         9 AP,  Spin ½
-  Delta-Baryon:   9 AP,  Spin 3/2
+GELÖST ✅ — Franz-Direktaussage, 04.04.2026 — ✓ HOCH
 
-  Gleiche AP-Zahl, verschiedener Spin.
-  Zusätzlich:
-  Quark (elementar): 3 AP, Spin ½  (nicht 3/2!)
+Kanonischer Mechanismus:
+  Spin der Komposita = vektorielle Addition der Quark-Wirbelachsen-Spins
 
-Problem:
-  Was bestimmt den Spin eines Quarks (3 AP, Spin ½)?
-  Ist es dieselbe 720°-Topologie wie beim Elektron (1 AP, Spin ½)?
-  Oder ein separater Mechanismus innerhalb der 3-AP-Struktur?
+  Proton (Spin ½):         ½ + ½ − ½ = ½
+    → zwei Quarks parallel, ein Quark antiparallel
+  Delta-Baryon (Spin 3/2): ½ + ½ + ½ = 3/2
+    → alle drei Quarks parallel ausgerichtet
 
-  Und: Warum haben Proton und Delta-Baryon (beide 9 AP)
-  verschiedene Spin-Werte?
+  Konsistenz mit AP⊥Spin-Orthogonalität (v3_016 Kap. 2.4):
+  Beide Objekte haben 9 AP — AP-Zahl bleibt unverändert.
+  Der Spin-Unterschied kodiert ausschließlich die Wirbelachsen-Konfiguration.
+  → AP und Spin sind tatsächlich orthogonal — Flag geschlossen ✅
 
-Kandidat-Antwort (sehr spekulativ, ⚠️ NIEDRIG):
-  Spin des Komposita aus der relativen Orientierung
-  der Quark-Wirbelachsen → verschiedene Konfigurationen
-  → verschiedener Gesamt-Spin (wie in der QM: J = L ⊕ S)
-  → Proton: antiparallele Quark-Spins → Gesamt ½
-  → Delta: parallele Quark-Spins → Gesamt 3/2
-  Diese Analogie zur QM ist formal nicht aus der RFT hergeleitet.
-
-→ 🚩 Franz-Entscheid erbeten!
-   Frage: Soll die Wirbelachsen-Konfiguration als RFT-Mechanismus
-   für Kompositum-Spin aufgenommen werden?
+  → Bitte in DC v10.15+ eintragen!
 ```
+
+**Noch offen:** Spin ½ bei elementaren Quarks (3 AP) — formaler
+Mechanismus aus v3_016 ausstehend (DS-016-A). Separate offene Frage
+von Kap. 8.2.
 
 ### 8.2 ⚠️ Spin ½ bei Quarks: Formaler Mechanismus
 
@@ -754,37 +813,58 @@ kein direkter Beweis in RFT-Formalism.
 → Als konzeptuellen Kandidaten mit ○ MITTEL aufführen, nicht als Ergebnis.
 ```
 
-### 8.5 ⚠️ Mesonen: AP-Zahl unklar
+### 8.5 ✅ Mesonen: AP-Zahl — GELÖST (Franz, 05.04.2026)
 
 ```
-Mesonen (π, K, η, ρ, D, B...):
-  SM: Quark-Antiquark-Paare
-  RFT-Kandidat: Quark (3 AP) + Antiquark (3 AP) = ?
+GELÖST ✅ — Franz-Direktaussage, 05.04.2026 — ✓ HOCH
 
-  Frage: AP-Zahl eines Mesons?
-         3 AP (Quark) + 3 AP (Antiquark) = 6 AP total?
-         Oder kommt es zur Annihilation der komplementären AP?
-         (Ähnlich wie e⁻ + e⁺ → Photon = 2 AP statt 2 AP)
+Meson = Quark (3 AP) + Antiquark (3 AP) = 6 AP total
 
-→ Kein kanonischer Eintrag in DC v10.13.
-→ Als 🚩 OFFEN dokumentieren.
+Warum keine AP-Kompensation wie beim Photon?
+  Photon:  e⁻ + e⁺  bei 180° (links- + rechts-zirkular, komplementär)
+           → vollständige geometrische Auslöschung → 2 AP effektiv
+
+  Meson:   Q  + Q̄   bei  60° (Oktaeder-Winkel)
+           → KEIN 180°-Winkel → keine vollständige Auslöschung
+           → alle 6 AP bleiben erhalten
+
+Physikalische Konsequenz:
+  6 AP → stärkere Raummatrix-Verspannung als Baryon (3 AP)
+  → Mesonen instabiler als Baryonen ✓ (konsistent mit Beobachtung!)
+
+  Konfidenz: ✓ HOCH (Franz, 05.04.2026)
 ```
 
-### 8.6 🚩 Exotische Hadronen: Stabilitätsanalyse fehlt
+### 8.6 ✅ Exotische Hadronen: Überbestimmtheitsprinzip — GEKLÄRT (Franz, 05.04.2026)
 
 ```
-Beobachtete Exoten:
-  Tetraquark: 4 Quarks → 12 AP?
-  Pentaquark: 5 Quarks → 15 AP?
+GEKLÄRT ✓ HOCH — Franz-Direktaussage, 05.04.2026
 
-  RFT-Kandidat-Problem: 12 AP in 3D → überbestimmt?
-  (Vgl. v3_007: 4 AP in 3D bereits überbestimmt für elementare Strukturen)
+Das Überbestimmtheitsprinzip gilt auch für Komposita:
 
-  Oder gilt das Überbestimmtheitsprinzip nur für elementare Objekte,
-  nicht für Komposita? → Konsistenz mit Proton (9 AP, stabil) unklar.
+  Tetraquark (4 Quarks = 12 AP in 3D):
+    12 AP → zu stark in der Raummatrix eingespannt
+    → κ-Verspannung zu groß für stabile Resonanzmode
+    → Energie-Verlust durch Verspannung
+    → sehr kurzlebig (~10⁻²³ s) ✓ (konsistent mit Beobachtung!)
 
-→ Stabilitätsanalyse für N × 3 AP Komposita fehlt.
-→ 🚩 OFFEN
+  "Eingespannt" = κ-Verspannung der Raummatrix übersteigt
+    die Resonanzkapazität des Systems
+    → Verbindung zu v3_015 (m_i aus κ-Widerstand)
+
+  Pentaquark (5 Quarks = 15 AP):
+    Analoges Prinzip → noch kurzlebiger als Tetraquark
+
+Physikalisches Bild:
+  Stabiles Baryon (9 AP): Farbvektoren kompensieren sich vollständig
+    (120°→180° Aufrichtung, Kap. 6.2) → minimale Verspannung → stabil
+  Tetraquark (12 AP):     geometrisch keine vollständige Kompensation
+    möglich → Verspannung permanent → zerfällt schnell
+
+Offene Folgefrage (⚠️ MITTEL):
+  Quantitative Grenze: Ab wieviel AP ist die Verspannung zu groß?
+  → N_krit = ? (bisher: 9 AP = stabil, 12 AP = instabil)
+  → Formale Herleitung aus Master-Gleichung ausstehend
 ```
 
 ### 8.7 🚩 Higgs-Boson: Kein RFT-Bild
@@ -803,28 +883,32 @@ RFT:
 
 ### 8.8 Konfidenz-Übersicht: Vollständige Tabelle
 
-| Taxonomie-Element | Konfidenz | Blocker |
-|---|---|---|
-| AP-Definition (Franz, 15.03.2026) | ✓ HOCH | — |
-| Elektron = 1 AP | ✓ HOCH | — |
-| Photon = 2 AP (Franz, 11.03.2026) | ✓ HOCH | — |
-| Quark = 3 AP | ✓ HOCH | — |
-| Proton = 9 AP | ✓ HOCH | — |
-| Spin ⊥ AP (Orthogonalität) | ○ MITTEL | — |
-| AP = Dimensionskopplung | ○ MITTEL | — |
-| Farbladung = 3D-Kopplung | ✓ HOCH | — |
-| 120°-Beweis (direkte Vektorrechnung) | ✓ HOCH | — |
-| SU(3) aus Oktaeder-Geometrie | ✓ HOCH | — |
-| Confinement = topologisch | ○ MITTEL | quantitativ offen |
-| W/Z = transiente 2-AP-Moden | ○ MITTEL | — |
-| Neutrino = Longitudinalwelle (0 AP) | ○ MITTEL | — |
-| Neutrino-Spin ½ | ⚠️ NIEDRIG | Mechanismus fehlt |
-| Drei Generationen (harmonisch) | ⚠️ NIEDRIG | formal nicht hergeleitet |
-| Spin ½ bei Quarks (3 AP) | ⚠️ NIEDRIG | formal offen |
-| AP→Spin-Mapping Komposita | 🚩 OFFEN | Franz-Entscheid! |
-| Mesonen AP-Zahl | 🚩 OFFEN | kein Ansatz |
-| Higgs in RFT | 🚩 OFFEN | kein Ansatz |
-| Exotische Hadronen | 🚩 OFFEN | Stabilitätsanalyse fehlt |
+```
+Taxonomie-Element                      | Konfidenz  | Blocker?
+──────────────────────────────────────|────────────|────────
+AP-Definition (Franz, 15.03.2026)     | ✓ HOCH     | —
+Elektron = 1 AP                       | ✓ HOCH     | —
+Photon = 2 AP (Franz, 11.03.2026)     | ✓ HOCH     | —
+Quark = 3 AP                          | ✓ HOCH     | —
+Proton = 9 AP                         | ✓ HOCH     | —
+Proton Spin: ½+½−½ = ½ (Franz 04.04) | ✓ HOCH     | ✅ gelöst
+Delta Spin: ½+½+½ = 3/2 (Franz 04.04)| ✓ HOCH     | ✅ gelöst
+Meson = 6 AP (Franz, 05.04.2026)      | ✓ HOCH     | ✅ gelöst
+Exoten überbestimmt (Franz 05.04)     | ✓ HOCH     | ✅ geklärt
+Spin ⊥ AP (Orthogonalität)            | ○ MITTEL   | —
+AP = Dimensionskopplung               | ○ MITTEL   | —
+Farbladung = 3D-Kopplung              | ✓ HOCH     | —
+120°-Beweis (direkte Vektorrechnung)  | ✓ HOCH     | —
+SU(3) aus Oktaeder-Geometrie          | ✓ HOCH     | —
+Confinement = topologisch             | ○ MITTEL   | Quantitativ offen
+W/Z = transiente 2-AP-Moden          | ○ MITTEL   | —
+Neutrino = Longitudinalwelle (0 AP)   | ○ MITTEL   | —
+Neutrino-Spin ½                       | ⚠️ NIEDRIG | Mechanismus fehlt
+Drei Generationen (harmonisch)        | ⚠️ NIEDRIG | formal nicht hergeleitet
+Spin ½ bei Quarks (3 AP)             | ⚠️ NIEDRIG | formal offen
+Mesonik AP-Zahl                       | ✓ HOCH     | ✅ gelöst
+Higgs in RFT                          | 🚩 OFFEN   | kein Ansatz
+```
 
 ---
 
@@ -836,20 +920,22 @@ Das SM und die RFT beschreiben dasselbe Teilchenspektrum aus unterschiedlichen A
 
 ### 9.2 SM vs. RFT: Klassifikationsvergleich
 
-| Eigenschaft | Standardmodell | RFT-Erklärung | Status |
-|---|---|---|---|
-| Elektrische Ladung | Postulat | Würfel-Ebenenstruktur | ✓ HOCH |
-| Farbladung SU(3) | postulierte Eichsymmetrie | Oktaeder-Geometrie (3D) | ✓ HOCH |
-| Spin ½ (Leptonen) | Postulat (Dirac) | 720°-Topologie (1 AP) | ○ MITTEL |
-| Spin ½ (Quarks) | Postulat | 🚩 offen (AP⊥Spin!) | 🚩 OFFEN |
-| Confinement | dynamisch (α_s-Anstieg) | topologisch (3D-Kopplung) | ○ MITTEL |
-| 3 Generationen | beobachtet, unerklärt | harmonische Moden (Kandidat) | ⚠️ NIEDRIG |
-| Paritätsverletzung | Postulat (SM-Struktur) | γ-Term-Asymmetrie | ○ MITTEL |
-| Boson-Spin 1 | Postulat (Eichboson) | 2-AP-Objekt (geometrisch) | ✓ HOCH (Photon) |
-| Neutrino-Masse | Seesaw (ad hoc) | κ > 0 → m_ν = ħκ_ν/c | ○ MITTEL |
-| Higgs-Mechanismus | spontane Symmetriebrechung | 🚩 kein RFT-Bild | 🚩 OFFEN |
-| Asymptotische Freiheit | QCD (formale Rechnung) | 🚩 kein RFT-Mechanismus | 🚩 OFFEN |
-| Myon g-2 Anomalie | ~4σ Abweichung | 🚩 kein RFT-Bild | 🚩 OFFEN |
+```
+Eigenschaft          | SM                       | RFT-Erklärung            | Status
+─────────────────────|──────────────────────────|──────────────────────────|────────
+Elektrische Ladung   | Postulat                 | Würfel-Ebenenstruktur    | ✓ HOCH
+Farbladung SU(3)     | Postulierte Eichsymmetrie| Oktaeder-Geometrie (3D)  | ✓ HOCH
+Spin ½ (Leptonen)   | Postulat (Dirac)         | 720°-Topologie (1 AP)    | ○ MITTEL
+Spin ½ (Quarks)     | Postulat                 | 🚩 offen (AP⊥Spin!)     | 🚩 OFFEN
+Confinement          | Dynamisch (α_s Anstieg)  | Topologisch (3D-Kopplung)| ○ MITTEL
+3 Generationen       | Beobachtet, unerklärt    | Harmonische Moden (Kand.)| ⚠️ NIEDRIG
+Paritätsverletzung   | Postulat (SM-Struktur)   | γ-Term-Asymmetrie        | ○ MITTEL
+Boson-Spin 1         | Postulat (Eichboson)     | 2-AP-Objekt (geometrisch)| ✓ HOCH (Photon)
+Neutrino-Masse        | Seesaw (ad hoc)          | κ > 0 → m_ν = ħκ_ν/c   | ○ MITTEL
+Higgs-Mechanismus    | Spontane Symmetriebr.    | 🚩 kein RFT-Bild         | 🚩 OFFEN
+Asymptotische Freiheit| QCD (formale Rechnung) | 🚩 kein RFT-Mechanismus  | 🚩 OFFEN
+Myon g-2 Anomalie    | ~4σ Abweichung           | 🚩 kein RFT-Bild         | 🚩 OFFEN
+```
 
 ### 9.3 Was die RFT geometrisch erklärt
 
@@ -924,16 +1010,17 @@ Quark (s,c)   │  3  │  ½   │ ja (r/g/b)│ Stark, EM, Schwach  │ ✓ HO
 Quark (b,t)   │  3  │  ½   │ ja (r/g/b)│ Stark, EM, Schwach  │ ✓ HOCH
                │     │      │          │ confined (∞)        │ Spin: ⚠️ NIEDR
 ───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Proton p      │  9  │  ½   │ nein (weiß)│ EM, Schwach, Grav. │ ✓ HOCH AP
-               │ (3Q)│      │          │ stabil               │ 🚩 Spin offen
-Neutron n     │  9  │  ½   │ nein (weiß)│ Schwach, Grav.     │ ✓ HOCH AP
-               │ (3Q)│      │          │ frei: β-Zerfall     │ 🚩 Spin offen
-Delta Δ       │  9  │ 3/2  │ nein (weiß)│ Stark, EM          │ ✓ HOCH AP
-               │ (3Q)│      │          │ instabil (~10⁻²⁴s)  │ 🚩 Spin offen
+Proton p      │  9  │  ½   │ nein (weiß)│ EM, Schwach, Grav. │ ✓ HOCH
+               │ (3Q)│      │          │ stabil               │ ½+½−½=½ ✓
+Neutron n     │  9  │  ½   │ nein (weiß)│ Schwach, Grav.     │ ✓ HOCH
+               │ (3Q)│      │          │ frei: β-Zerfall     │ ½+½−½=½ ✓
+Delta Δ       │  9  │ 3/2  │ nein (weiß)│ Stark, EM          │ ✓ HOCH
+               │ (3Q)│      │          │ instabil (~10⁻²⁴s)  │ ½+½+½=3/2 ✓
 ───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
 Cooper-Paar   │ (2) │  0   │ nein     │ kond. (n=0 Top.)    │ ○ MITTEL
 ───────────────┼─────┼──────┼──────────┼─────────────────────┼─────────────
-Mesonen π,K.. │  ?  │  0/1 │ nein     │ Stark (resid.)      │ 🚩 OFFEN
+Mesonen π,K.. │  6  │  0/1 │ nein     │ Stark (resid.)      │ ✓ HOCH
+               │(Q+Q̄)│      │          │ 60°→6 AP, instabil  │ (Franz 05.04)
 Higgs H       │  ?  │  0   │ nein     │ Masse? (kein Bild)  │ 🚩 OFFEN
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -983,10 +1070,8 @@ Terminologie (verbindlich):
 
 ---
 
-© 2026 Franz Zollner — Resonance Field Theory Project  
-Lizenz: Creative Commons BY-NC-SA 4.0  
-Kontakt: rft.projekt@posteo.de
-
----
-
-*Dokument-ID: RFT_v3_020 · Stand: 2026-04-04 · Synthesis-Dokument Stufe IV · [Mapping zur alten Reihe](../_MAPPING_ALT_NEU.md) · [Style-Guide](../_STYLE_GUIDE.md) · [Repo-Hauptseite](../../../README.md)*
+*RFT_v3_020_Taxonomie.md — Draft v1.0*
+*Datum: 04.04.2026 | Instanz: Arbeitsinstanz 020 | Auftrag: K2*
+*Primärquellen: DC v10.13 Domain E, v3_007, v3_013, v3_014, v3_016*
+*Synthese-Dokument: Stufe IV der v3-Serie — Referenzwerk*
+*Letztes Dokument der Stufe IV — Stufe V beginnt danach*
