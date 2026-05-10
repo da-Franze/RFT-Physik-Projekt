@@ -7,7 +7,7 @@
 **TOPIC:** The event horizon as mode transition boundary of the Dynamic Resonance Matrix; no singularity; information preserved in Mode 2
 **DEPENDENCIES:** RFT v3 Space Topology & 3D Emergence (v3_007); RFT v3 Mathematical Foundations (v3_001); RFT v3 Gravitation and Spin Delay (v3_003); RFT v3 Time Emergence (v3_006)
 **AUTHOR:** Franz Zollner
-**LICENSE:** CC BY-NC-SA 4.0
+**LICENSE:** CC BY-NC-ND 4.0
 **Contact:** rft.projekt@posteo.de
 
 ---

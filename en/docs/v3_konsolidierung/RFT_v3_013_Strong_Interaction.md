@@ -6,7 +6,7 @@
 **Concepts:** Franz Zollner
 **Written formalization and translation:** AI instance (T13)
 **Based on DC:** v10.10 (28.03.2026)
-**License:** Creative Commons BY-NC-SA 4.0
+**License:** Creative Commons BY-NC-ND 4.0
 **Citation:** Franz Zollner (2026). *RFT_v3_013: The Strong Interaction.* Resonance Field Theory Series, v3.0.
 
 **Status:** Translation Draft — review by K2 requested

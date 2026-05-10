@@ -5,7 +5,7 @@
 **VERSION:** v1.0-EN (Translation: 27 March 2026 | Source: DE v1.0, 06.03.2026)
 **STATUS:** Translation Final
 **AUTHOR:** Franz Zollner
-**LICENSE:** Creative Commons BY-NC-SA 4.0
+**LICENSE:** Creative Commons BY-NC-ND 4.0
 **Contact:** rft.projekt@posteo.de
 **DEPENDENCIES:** RFT v3 Cosmogenesis (v3_009), RFT v3 Time Emergence (v3_006),
   RFT v3 Mathematical Foundations (v3_001), RFT v3 Gravitation and Spin Lag (v3_003)

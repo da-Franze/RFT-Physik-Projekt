@@ -5,7 +5,7 @@
 **Autor:** Franz Zollner
 **Sprache:** DE
 **Status:** Arbeitsdokument — zur Überprüfung vor Final-Erklärung
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 **Zitation:** Franz Zollner (2026). *RFT_v3_007: Raum-Topologie & 3D-Emergenz.* Resonance Field Theory Series, v3.0.
 
 ---
@@ -710,7 +710,7 @@ Farbladung = Wirbelachsenorientierung im 3D-Gitter
 ---
 
 **© 2026 Franz Zollner – Resonanzfeldtheorie Projekt**
-*Lizenz: Creative Commons BY-NC-SA 4.0*
+*Lizenz: Creative Commons BY-NC-ND 4.0*
 
 *RFT_v3_007 v1.1 — Final-Kandidat, 28. Februar 2026*
 *Erstellt mit Unterstützung: Claude Sonnet 4.6 (Instanz 007)*

@@ -16,7 +16,7 @@
 | Mitwirkung | Claude Code (lokal als „Denker") — Distillation aus RFT_000_Prolog_v1.1 + Werdegang_v1.0 |
 | Zielgruppe | Physiker und Ingenieure mit Festkörper-/Halbleiter-Hintergrund (initial: Klaus Pressel) |
 | Umfang | ~6 Seiten |
-| Lizenz | CC BY-NC 4.0 |
+| Lizenz | CC BY-NC-ND 4.0 |
 
 ---
 

@@ -6,7 +6,7 @@
 **STATUS:** Working document — core statements rigorous, open points explicitly marked  
 **DEPENDENCIES:** RFT v3 Mathematical Foundations (v3_001), Fine Structure Constant (v3_002)  
 **AUTHOR:** Franz Zollner  
-**LICENSE:** CC BY-NC-SA 4.0  
+**LICENSE:** CC BY-NC-ND 4.0  
 **Contact:** rft.projekt@posteo.de  
 
 ---
@@ -508,4 +508,4 @@ DRM geometry
 ---
 
 **© 2026 Franz Zollner — Resonance Field Theory Project**  
-**License:** Creative Commons BY-NC-SA 4.0
+**License:** Creative Commons BY-NC-ND 4.0

@@ -8,7 +8,7 @@
 **Language:** EN
 **DC Reference:** v10.10
 
-**License:** Creative Commons BY-NC-SA 4.0
+**License:** Creative Commons BY-NC-ND 4.0
 
 ---
 
@@ -1557,7 +1557,7 @@ S → k_B·ln(N_accessible states)
 
 **© 2026 Franz Zollner — Resonance Field Theory Project**
 
-**License:** Creative Commons BY-NC-SA 4.0
+**License:** Creative Commons BY-NC-ND 4.0
 **Version:** EN 1.0 (Translation of DE v3.0)
 **Date:** 01 April 2026
 **Translated from:** RFT_v3_011_Teil4_Born_Messung.md, DE v3.0 (06.03.2026)

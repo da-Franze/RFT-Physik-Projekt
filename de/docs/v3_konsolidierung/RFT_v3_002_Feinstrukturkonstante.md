@@ -5,7 +5,7 @@
 **Autor:** Franz Zollner  
 **Sprache:** DE  
 **Status:** Arbeitsversion (Publikationsreif)  
-**Lizenz:** Creative Commons BY-NC-SA 4.0  
+**Lizenz:** Creative Commons BY-NC-ND 4.0  
 **Zitation:** Franz Zollner (2026). *RFT_v3_002: Die Feinstrukturkonstante α — Geometrische Herleitung aus der Diskreten Resonanzmatrix.* Resonance Field Theory Series, v3.0.  
 **Voraussetzung:** RFT_v3_001 (Mathematische Grundlagen, v3.5)
 
@@ -896,9 +896,9 @@ $$\alpha^{-1} = 4\pi^3 + \pi^2 + \pi = 137.036\,304\ldots\quad\text{(2.22 ppm vo
 ---
 
 *Ende von RFT_v3_002 Teil 2 — Flussfaktor, Konstantenhierarchie, Tests und Grenzen*  
-*Version 3.0 | 26. Februar 2026 | Franz Zollner | CC BY-NC-SA 4.0*
+*Version 3.0 | 26. Februar 2026 | Franz Zollner | CC BY-NC-ND 4.0*
 
 ---
 
 *Ende von RFT_v3_002 — Die Feinstrukturkonstante α*  
-*Version 3.0 | 26. Februar 2026 | Franz Zollner | CC BY-NC-SA 4.0*
+*Version 3.0 | 26. Februar 2026 | Franz Zollner | CC BY-NC-ND 4.0*

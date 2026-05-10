@@ -12,7 +12,7 @@
 **Datum:** 15. März 2026
 **Autor (Konzepte):** Franz Zollner
 **Verschriftlichung:** KI-Instanz (Arbeitsinstanz 013)
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 
 ---
 

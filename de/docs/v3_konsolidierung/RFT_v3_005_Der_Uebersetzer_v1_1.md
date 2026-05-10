@@ -311,5 +311,5 @@ L_ModusB = (4/π)·l_P      ❌ GESTRICHEN — KI-Artefakt (27.02.2026)
 **Korrekturen v1.0→v1.1:** L_ModusB als KI-Artefakt gestrichen, G·m/c² = L²/(4πΦ) als korrigierte Form, L = √(4πΦ)·l_P kanonisch  
 **Nächste Revision:** Nach Klärung der √(2/3)-Geometrie (neue offene Frage)  
 
-**Lizenz:** CC BY-NC-SA 4.0 — Franz Zollner & RFT Consensus Team  
+**Lizenz:** CC BY-NC-ND 4.0 — Franz Zollner & RFT Consensus Team  
 **Kontakt:** rft.projekt@posteo.de

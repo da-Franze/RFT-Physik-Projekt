@@ -5,7 +5,7 @@
 **Autor:** Franz Zollner / RFT-Projekt
 **Instanz:** v3_010-Arbeitsinstanz
 **Sprache:** DE
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 **Zitation:** Franz Zollner (2026). *RFT_v3_010: Neue Kosmologie — Auflösung des Dunklen Sektors durch Gittermechanik.* Resonance Field Theory Series, v3.0.
 
 **Abhängigkeiten:**

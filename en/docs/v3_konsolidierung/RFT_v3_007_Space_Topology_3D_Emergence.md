@@ -6,7 +6,7 @@
 **STATUS:** Translation Draft
          (pending Franz' Final declaration of DE v1.3)
 **AUTHOR:** Franz Zollner
-**LICENSE:** CC BY-NC-SA 4.0
+**LICENSE:** CC BY-NC-ND 4.0
 **Citation:** Franz Zollner (2026). *RFT_v3_007: Space Topology and 3D Emergence.* Resonance Field Theory Series, v3.0.
 **Contact:** rft.projekt@posteo.de
 
@@ -758,7 +758,7 @@ color charge = vortex axis orientation in the 3D resonance matrix
 ---
 
 **© 2026 Franz Zollner – Resonance Field Theory Project**
-*License: Creative Commons BY-NC-SA 4.0*
+*License: Creative Commons BY-NC-ND 4.0*
 
 ---
 *RFT_v3_007 — Space Topology and 3D Emergence*

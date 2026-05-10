@@ -15,7 +15,7 @@ Dieses Dokument legt das einheitliche Format für RFT-Dokumente fest, damit die 
 **Autor:** Franz Zollner
 **Sprache:** DE | EN-Übersetzung: en/docs/v3_konsolidierung/RFT_v3_NNN.md
 **Status:** Publikationsreif | Arbeitsversion | KANDIDAT
-**Lizenz:** CC BY-NC-SA 4.0
+**Lizenz:** CC BY-NC-ND 4.0
 **Zitation:** Zollner, F. (2026). *RFT_v3_NNN: <Titel>*. RFT-Series v1.0.
               https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_NNN.md
 ```
@@ -30,7 +30,7 @@ Dieses Dokument legt das einheitliche Format für RFT-Dokumente fest, damit die 
 - ✅ Version mit klarer Numerierung
 - ✅ Autor (Franz Zollner)
 - ✅ Status-Markierung (für Zitats-Hinweis)
-- ✅ Lizenz (CC BY-NC-SA 4.0 für die ganze Reihe)
+- ✅ Lizenz (CC BY-NC-ND 4.0 für die ganze Reihe)
 
 ---
 

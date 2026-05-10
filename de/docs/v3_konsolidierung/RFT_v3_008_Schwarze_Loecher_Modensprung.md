@@ -6,7 +6,7 @@
 **Autor:** Franz Zollner
 **Sprache:** DE
 **Status:** Draft v1.0 — zur Überprüfung vor Final-Erklärung
-**Lizenz:** Creative Commons BY-NC-SA 4.0
+**Lizenz:** Creative Commons BY-NC-ND 4.0
 **Zitation:** Franz Zollner (2026). *RFT_v3_008: Schwarze Löcher als Modensprung-Phänomene.* Resonance Field Theory Series, v3.0.
 
 **Abhängigkeiten:**

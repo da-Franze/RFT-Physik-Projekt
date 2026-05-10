@@ -6,7 +6,7 @@
 **Author:** Franz Zollner
 **Language:** EN
 **Status:** Working version (publication-ready)
-**License:** Creative Commons BY-NC-SA 4.0
+**License:** Creative Commons BY-NC-ND 4.0
 **Citation:** Franz Zollner (2026). *RFT_v3_002: The Fine Structure Constant from Pure Geometry — Derivation from the Dynamic Resonance Matrix.* Resonance Field Theory Series, v3.0.
 **Prerequisite:** RFT_v3_001 (Mathematical Foundations, v3.5)
 
@@ -892,4 +892,4 @@ $$\alpha^{-1} = 4\pi^3 + \pi^2 + \pi = 137.036\,304\ldots\quad\text{(2.22 ppm fr
 ---
 
 *End of RFT_v3_002 — The Fine Structure Constant from Pure Geometry*
-*Version 3.0 (EN) | 24 March 2026 | Franz Zollner | CC BY-NC-SA 4.0*
+*Version 3.0 (EN) | 24 March 2026 | Franz Zollner | CC BY-NC-ND 4.0*
