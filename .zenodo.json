@@ -1,0 +1,39 @@
+{
+  "title": "Resonance Field Theory (RFT) — Theory Documentation",
+  "description": "<p>Resonance Field Theory (RFT) is a fundamental physics framework describing space structure, particle physics, and cosmology through resonance geometry. The Mastergleichung (Master Equation) ∂²σ/∂t² - c²∇²σ + κT(r) = 0 has remained structurally stable since January 2025.</p><p>Key result: geometric derivation of the fine-structure constant α⁻¹ = 4π³+π²+π = 137.036304 (2.22 ppm from CODATA).</p><p>Bilingual documentation (German/English) of the v3 series: 21 consolidated documents covering mathematical foundations, particle physics (AP-based), gravitation with spin-lag, cosmology, topology, and Stage V (Inside View / Innensicht).</p><p>Originator: Franz Zollner (Diplom-Physikingenieur). The theory has been developed since 1992 (Urbox intuition, Paderborn) and formalized through multi-AI collaboration since January 2025.</p>",
+  "creators": [
+    {
+      "name": "Zollner, Franz",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "upload_type": "software",
+  "license": "cc-by-nc-nd-4.0",
+  "access_right": "open",
+  "language": "deu",
+  "keywords": [
+    "resonance field theory",
+    "Resonanzfeldtheorie",
+    "fundamental physics",
+    "fine-structure constant",
+    "quantum mechanics",
+    "alternative theory",
+    "particle physics",
+    "cosmology",
+    "spin-lag gravitation",
+    "AP - Anregungspunkte"
+  ],
+  "communities": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/da-Franze/RFT-Physik-Projekt",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/da-Franze/KI-Konzepte",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ]
+}
