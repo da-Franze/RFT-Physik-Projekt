@@ -106,6 +106,10 @@ REAL (angles 90° ± ε, with ε ≠ 0):
   → That is time.
 ```
 
+![Drifting beat in (x,t)-space: stationary vs. drifting nodes](../../../assets/images/v3_006/laufende_schwebung_xt.png)
+
+*Fig. 1: Comparison of ideal (ε=0, left) and real (ε≠0, right). In the ideal case the nodes are spatially fixed — no dynamics. In the real case the nodes drift obliquely through (x,t)-space — this drift IS the time motor.*
+
 The angular deviation ε is not a technical imperfection but a fundamental feature of the DRM. From the orbital model, k=1 follows: per cycle there are 6 reflections, each contributing equally to the phase error (α=6), which cancels with the denominator 6L/c of the cycle time → Δω/ω₀ = ε directly. Therefore: ε ≈ Φ ≈ 0.01459 rad ≈ 0.84°. ○ HIGH (α=6 equal-distribution geometrically plausible, not strictly proven). Without Φ ≠ 0: no time, no universe.
 
 ---
@@ -139,6 +143,10 @@ The envelope cos(Δω·t/2) modulates the pattern. Its period:
 ```
 τ_beat = 2π / Δω   [beat period — the "heartbeat" of time]
 ```
+
+![Beat as time motor: two DRM modes, sum, isolated envelope](../../../assets/images/v3_006/schwebung_zeit_motor.png)
+
+*Fig. 2: Temporal cross-section of the beat at a fixed spatial point. Top: two DRM resonance modes ω₁=10, ω₂=9. Middle: their sum (carrier) with envelope (dashed red). Bottom: the isolated envelope with beat period τ_beat = 2π/Δω — the "heartbeat" of time.*
 
 ### 2.2 The Time Operator
 

@@ -114,6 +114,10 @@ INNENSICHT-AXIOM (kanonisch, DC v10.15 Domain L.1):
 Konfidenz: ✓ HOCH (Franz Zollner, DC v10.15)
 ```
 
+![Innensicht-Würfel: idealer (ε=0) und realer (ε≠0) Fall](../../../assets/images/v3_021_innensicht_wuerfel.png)
+
+*Abb. 1: Der Innensicht-Würfel als Modell. (a) Bei idealem 90°-Winkel der DRM-Achsen entsteht ein statisches Interferenzmuster mit horizontal-fixierten Knoten — keine Dynamik, keine Zeit. (b) Bei ε ≠ 0 wandern die Knoten schräg durch den Würfel — diese Wanderung IST der Zeit-Motor. Der Laserstrahl ist hier zart angedeutet; die eigentliche Aussage liegt in der Veränderung der Knoten-Struktur (Hintergrund-Muster).*
+
 ### 2.2 Drei Begründungen
 
 ```
