@@ -1,191 +1,129 @@
 [![DOI](https://zenodo.org/badge/1068151036.svg)](https://doi.org/10.5281/zenodo.19259914)
 
-# Resonance Field Theory - For Philosophers
+# 💭 For Philosophers & Theorists
 
-> **A metaphysical framework where reality emerges from relational resonance rather than substantial entities.**
-
-## 🎯 Philosophical Significance
-
-Resonance Field Theory (RFT) represents more than a physical theory - it offers a comprehensive metaphysical framework that addresses fundamental questions about the nature of reality, consciousness, and existence.
-
-### The Fundamental Shift
-```
-Substance ontology → Process ontology
-Being → Becoming
-Things → Relationships
-```
-
-## 🏛️ Philosophical Foundations
-
-### 1. Process Metaphysics
-RFT aligns with process philosophy (Whitehead, Bergson):
-
-**Core proposition:** Reality is fundamentally dynamic and processual. What we perceive as "things" are actually stable processes in the resonance field.
-
-```
-Entities = Persistent resonance patterns
-Change = Evolution of resonance relationships
-```
-
-### 2. Relational Ontology
-Building on Leibniz's monadology and quantum entanglement:
-
-**Core proposition:** Relationships are ontologically prior to relata. Things don't have relationships; relationships constitute things.
-
-```
-Traditional: Things → Relationships
-RFT: Relationships → Things
-```
-
-## 🔍 Addressing Philosophical Problems
-
-### The Hard Problem of Consciousness
-RFT offers a naturalistic framework:
-
-**Consciousness** emerges from complex resonance patterns in neural structures. Qualia are particular resonance qualities.
-
-```
-Conscious experience = Specific resonance modes
-Self-awareness = Recursive resonance patterns
-```
-
-### The Nature of Time
-Time is not a fundamental dimension but emerges from:
-
-**Temporal experience** as the perception of resonance evolution:
-
-```
-Past = Fixed resonance patterns (memory)
-Present = Active resonance processing  
-Future = Potential resonance developments
-```
-
-### Mind-Body Relationship
-The mind-body problem dissolves when both are manifestations of resonance:
-
-```
-Mental states ⇄ Physical states ⇄ Different resonance configurations
-```
-
-## 🌐 Interdisciplinary Connections
-
-### Eastern Philosophy
-Strong parallels with:
-- **Buddhism:** Dependent origination, emptiness, non-self
-- **Taoism:** The Tao as fundamental process, yin-yang as complementary resonances
-- **Advaita Vedanta:** Non-duality, consciousness as fundamental
-
-### Western Philosophy
-Connections to:
-- **Heraclitus:** "Everything flows" - universal process
-- **Spinoza:** God/Nature as single substance with infinite modes
-- **Hegel:** Dialectical process, reality as developing concept
-- **Process Philosophy:** Whitehead, Bergson, Hartshorne
-
-### Continental Philosophy
-Resonances with:
-- **Heidegger:** Being-in-the-world, Dasein's temporal nature
-- **Deleuze:** Difference and repetition, rhizomatic thinking
-
-## 💭 Ethical Implications
-
-### Relational Ethics
-If reality is fundamentally relational, then:
-
-**Ethical action** consists of fostering harmonious resonance:
-
-```
-Good = Relationships that enhance coherence and complexity
-Bad = Relationships that create dissonance and fragmentation
-```
-
-### Environmental Ethics
-The environment is not separate but part of our extended resonance field:
-
-**Ecological responsibility** becomes maintaining cosmic resonance balance.
-
-## 🎨 Aesthetic Dimensions
-
-### Beauty as Resonance
-Aesthetic experience can be understood as:
-
-**Perceptual resonance** with harmonious patterns in reality:
-
-```
-Beauty = Recognition of coherent, complex resonance
-Art = Exploration and expression of resonance possibilities
-```
-
-## 🔮 Spiritual and Religious Implications
-
-### Reenchantment of Nature
-RFT suggests a universe that is:
-
-**Meaningful and purposeful** through its resonant nature, without requiring supernatural intervention.
-
-### Mystical Experiences
-Mystical states might involve:
-
-**Direct perception** of fundamental resonance, bypassing ordinary categorical perception.
-
-## 📚 Recommended Reading Path
-
-### Conceptual Foundation
-1. **RFT 08 - Philosophical Foundations** (Comprehensive overview)
-2. **RFT 01 - Mathematical Foundations** (Formal structure)
-
-### Specific Applications
-3. **RFT 07 - Gravitation and Spacetime Dynamics** (Nature of space and time)
-4. **RFT 04 - Cold Condensation** (Cosmological origins)
-
-### Interdisciplinary Connections
-5. **RFT 09 - Cosmology** (Large-scale implications)
-6. **RFT 05 - Quantum Phase Transitions** (Process metaphysics)
-
-## 🤔 Critical Philosophical Questions
-
-### Open Issues
-- **Free will vs. determinism** in a resonant universe
-- **Nature of abstract objects** (mathematics, values)
-- **Ground of morality** in relational reality
-- **Problem of evil** in an interconnected world
-
-### Potential Objections
-- **Anthropic principles** and fine-tuning
-- **Hard problem** of consciousness remains challenging
-- **Mathematical realism** vs. emergent mathematics
-
-## 🌟 Broader Implications
-
-### Social Philosophy
-Society as **macroscopic resonance patterns**:
-
-**Social structures** emerge from and influence individual resonance patterns.
-
-### Political Philosophy
-Governance as **facilitating resonant relationships** rather than controlling entities.
-
-### Philosophy of Science
-Scientific practice as **resonance with nature's patterns** rather than domination over nature.
-
-## 🤝 Collaboration Opportunities
-
-We welcome philosophical contributions on:
-- **Metaphysical foundations** of resonance ontology
-- **Ethical implications** of relational reality
-- **Aesthetic theory** based on resonance
-- **Philosophy of mind** applications
-- **Historical connections** to philosophical traditions
+[← Back to main page](../README.md) | [🔍 For Curious Minds](curious.md) | [🧮 For Physicists](physicists.md)
 
 ---
 
-**Ready to explore the philosophical dimensions of resonance reality?**
+## Program
 
-[Explore Philosophical Foundations →](../docs/foundations/RFT_08_Philosophical_Foundations_Resonance_Field_Theory.md)  
-[Examine Cosmological Implications →](../docs/foundations/RFT_09_Cosmology_Large_Scale_Structures.md)  
-[Join the Philosophical Discussion →](../contribute.md)
+RFT is not just an alternative physics, but **a different answer to the question** of what it means to describe a universe from within. This has consequences for:
+
+- **Epistemology:** What can an observer who is part of what is observed actually know?
+- **Ontology:** What are the fundamental entities — space, time, particles or vibration?
+- **Causality:** If time is not fundamental but emergent — what does "cause → effect" mean?
+- **Determinism vs freedom:** In what sense does emergent time permit "change" that block universes forbid?
+- **Conception of science:** What distinguishes a geometric conjecture from numerology?
+
+The following reading order is sorted by **conceptual depth**, not by mathematical density.
 
 ---
 
-*"The universe is not a collection of objects, but a communion of subjects."* - Thomas Berry  
-*"We are not human beings having a spiritual experience. We are spiritual beings having a human experience."* - Pierre Teilhard de Chardin
+## I — The Inside-View Axiom
+
+📖 **[v3_021 — Inside View](../docs/v3_konsolidierung/RFT_v3_021_Inside_View.md)**
+
+The only assumption made in all of RFT: **There is no "outside" to the space matrix.** All observers are part of the field. Measurement instruments consist of the same resonance modes as what is measured. Every measurement is a ratio measurement.
+
+From this follows necessarily:
+- Speed of light as constant (no absolute reference frame)
+- Time dilation and length contraction (mutual ratios)
+- The impossibility of statements about the "pre-universe"
+
+The inside view is **epistemological foundation**, not a physical postulate.
+
+---
+
+## II — Time Emergence and Block-Universe Critique
+
+📖 **[v3_006 — Time Emergence](../docs/v3_konsolidierung/RFT_v3_006_Time_Emergence.md)**
+
+Three conceptions directly compared:
+
+| | Newton | Einstein | RFT |
+|---|---|---|---|
+| Time character | absolute, uniform | 4th dimension of spacetime | emergent from DRM beat |
+| Mechanism for arrow | none | none | Φ ≠ 0 (geometric) |
+| Causality | postulated | logically impossible (block) | natural from phase course |
+
+The block-universe conclusion from General Relativity is an **ontological trap**: if time is "like x, y, z" a dimension in which points exist equally, then there is no "becoming", no effect, no change — everything exists eternally side by side. RFT avoids this through a geometric explanation of asymmetry.
+
+---
+
+## III — Statistics from Determinism (Quantum Mechanics)
+
+📖 **[v3_011 Part 4 — Born Rule & Measurement](../docs/v3_konsolidierung/RFT_v3_011_Part4_Born_Measurement.md)** (with figure)
+
+Perhaps the deepest controversy of modern physics: Is quantum randomness fundamental or epistemic? Standard Copenhagen says fundamental ("God plays dice"). Einstein said epistemic ("hidden variables"). Bell tests excluded local hidden variables.
+
+The RFT answer: **Trajectories are deterministic (Bohm-like), but initial conditions are fundamentally fuzzy (Heisenberg).** Therefore |Ψ|² is ensemble statistics, not an ontic randomness claim. Like a die: deterministic, but micro-uncertainty of initial position makes it unpredictable to us.
+
+---
+
+## IV — 3D as Resonance Necessity
+
+📖 **[v3_007 — Space Topology & 3D Emergence](../docs/v3_konsolidierung/RFT_v3_007_Space_Topology_3D_Emergence.md)** (with figure)
+
+Why exactly 3 spatial dimensions? Conventional answers refer to string theory compactifications or the anthropic principle. RFT answer: **3D is the only dimensionality in which the information capacity of a spatial point (D+1) exactly matches the requirement for coherent multi-mode superposition (D modes + 1 field value).**
+
+Dimensionality is a consequence of stability conditions, not a free parameter.
+
+---
+
+## V — Entanglement as Common Mode
+
+📖 **[v3_017 — Entanglement](../docs/v3_konsolidierung/RFT_v3_017_Entanglement.md)**
+
+Bell correlations without "spooky action at a distance". Entangled states are **common resonance modes** of the DRM that appear spatially separated but are the same resonance object. No information is "transmitted" — the separation of particles was a conceptual fiction.
+
+From this follows: locality is an emergent approximation, not a fundamental property.
+
+---
+
+## VI — What does "reality" mean in RFT?
+
+📖 **[v3_018 — Entropy & Signal Theory](../docs/v3_konsolidierung/RFT_v3_018_Entropy_Signal_Theory.md)**
+📖 **[v3_020 — Particle Taxonomy](../docs/v3_konsolidierung/RFT_v3_020_Taxonomy.md)**
+
+If "particles" are resonance patterns and observers themselves parts of these patterns: what then is a "thing"? RFT answer: **stable self-reference structures** of the DRM. An electron is a self-stabilized vortex pattern; a human is a much more complex self-reference structure in the same matrix. The subject/object separation becomes fuzzy, without becoming mystical.
+
+---
+
+## VII — Status: Conjecture vs. Theorem
+
+RFT consistently uses four confidence levels:
+
+- **✓ HIGH** — formally derived, experimentally confirmed
+- **○ MEDIUM** — consistent but formally still open
+- **⚠️ LOW** — working hypothesis
+- **🚩 OPEN** — active research question
+
+**Important:** The α-derivation (4π³+π²+π = 137.036) is explicitly marked as **open conjecture**, not as proof. Even though the agreement with measurement (2.22 ppm without free parameters) is remarkable, it remains open whether this is a true geometric identity or a higher-order numerical coincidence.
+
+This self-criticism distinguishes RFT from numerology: the residuum is named, not explained away. The publication is explicitly formulated as an **appeal to the community**.
+
+---
+
+## VIII — Related Philosophical Positions
+
+RFT can be placed within several traditions:
+
+- **Structural realism** (Worrall, Ladyman): fundamental entities are structures, not objects
+- **Process philosophy** (Whitehead): reality as becoming, not as being
+- **Relational QM** (Rovelli): physical properties exist only relative to an observer
+- **Information-theoretic approaches** (Wheeler "It from Bit"): physical reality as information-theoretic structure
+
+What RFT adds: a **concrete geometry** in which these ideas can be formalized — not merely an interpretive choice, but a testable theory.
+
+---
+
+## 💡 If you want to continue
+
+- **Formal mathematics:** [🧮 Door for physicists](physicists.md)
+- **Intuitive entry:** [🔍 Door for curious minds](curious.md)
+- **Discussion & contribution:** [🤝 Contribute](../contribute.md)
+
+---
+
+[← Back to main page](../README.md) | [Next: 🔍 For Curious Minds →](curious.md)
