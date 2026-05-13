@@ -95,9 +95,9 @@ Konkrete Beispiele: Doppelspalt, Tunneleffekt, EPR-Korrelationen — alle ohne i
 - [v3_014 — Schwache Wechselwirkung](../docs/v3_konsolidierung/RFT_v3_014_Schwache_Wechselwirkung.md): Zerfall als Mode-Reorganisation
 - [v3_015 — Trägheit & Äquivalenz](../docs/v3_konsolidierung/RFT_v3_015_Traegheit_Aequivalenz.md): Mach-Prinzip aus DRM-Kopplung
 
-### Stufe V (Innensicht — reflexiv/philosophisch, 16–21)
+### Stufe V (Innensicht — Schnittstelle zur Philosophie, 16–21)
 
-Diese Dokumente sind explizit als **philosophisch-reflexiv** markiert (nicht als physikalische Postulate):
+> ⚠️ **Wichtiger Hinweis:** Diese sechs Dokumente bilden die **Schnittstelle der RFT zur Philosophie**. Sie sind nicht als physikalische Postulate gemeint, sondern als **reflexive Ausdeutungen** der Stufen I–IV. Eine Lesung als Hardcore-Physik führt in die Irre. Die Trennung Physik ↔ Philosophie ist hier methodisch gewollt: Stufen I–IV liefern den prüfbaren Kern; Stufe V macht die Konsequenzen anschlussfähig an erkenntnistheoretische Diskussionen.
 
 - [v3_016 — Spin & Topologie](../docs/v3_konsolidierung/RFT_v3_016_Spin_Topologie.md)
 - [v3_017 — Verschränkung](../docs/v3_konsolidierung/RFT_v3_017_Verschraenkung.md)
@@ -105,6 +105,8 @@ Diese Dokumente sind explizit als **philosophisch-reflexiv** markiert (nicht als
 - [v3_019 — Supraleitung](../docs/v3_konsolidierung/RFT_v3_019_Supraleitung.md)
 - [v3_020 — Taxonomie](../docs/v3_konsolidierung/RFT_v3_020_Taxonomie.md)
 - [v3_021 — Die Innensicht](../docs/v3_konsolidierung/RFT_v3_021_Die_Innensicht.md)
+
+→ Wer aus Physiker-Sicht hier weiter denken will, findet die ausführliche philosophische Behandlung in der [💭 Tür für Philosophen](philosophen.md).
 
 ---
 
@@ -119,14 +121,22 @@ Jeder Inhaltsblock ist mit einem Konfidenz-Marker versehen:
 
 ---
 
-## 🛠️ Offene Forschungsfragen
+## 🛠️ Offene Forschungsfragen — Mitmach-Liste
 
-- **α-Herleitung formal schließen** (v3_002, 2,22 ppm Residuum)
-- **Q_kosmologisch ↔ Q_mikroskopisch Skalentrennung** (v3_006 §7.3)
-- **CP-Verletzung quantitativ** aus Φ ≠ 0 (v3_006 §7.5, v3_001)
-- **Skalensprung Planck ↔ QCD** (v3_013)
+Die RFT ist eine **arbeitende Theorie**, keine abgeschlossene. Die folgenden Punkte sind aktiv offen und warten auf Beiträge — sei es durch formale Arbeit, durch Simulation, durch experimentelle Vorschläge oder durch kritische Diskussion. **Wenn dich einer der Punkte reizt: schreib uns.**
 
-→ Wer Beiträge leisten möchte, ist eingeladen: [🤝 Mitwirken](../mitwirken.md)
+| # | Frage | Wo dokumentiert | Was wird gesucht |
+|---|---|---|---|
+| 1 | **α-Herleitung formal schließen** | v3_002 §4–6 | Identität der zwei geometrischen Lesarten (Schalen-Modendichte ↔ 3-Kugel-Tetraeder); Erklärung des 2,22 ppm Residuums |
+| 2 | **Q-Skalentrennung Kosmologisch ↔ Mikroskopisch** | v3_006 §7.3 | Mechanismus, der Q_kosm ~ 10³ und Q_mikro ~ 10⁷–10⁸ verbindet |
+| 3 | **CP-Verletzung quantitativ aus Φ ≠ 0** | v3_006 §7.5, v3_001 | Ableitung der gemessenen 10⁻¹⁰-Asymmetrie aus dem geometrischen Φ ≈ 0,01459 |
+| 4 | **Skalensprung Planck ↔ QCD** | v3_013 §1.2 | Verbindung zwischen L₀ ≈ 0,52·l_P und r_Proton ≈ 0,84 fm (20 Größenordnungen) |
+| 5 | **Hubble-Spannung-Vorhersage testen** | v3_010 §5 | DESI/Rubin/LSST-Daten ab 2027 für H(z) ~ (1+z)^(−0.012) |
+| 6 | **Antimaterie-Gravitation präzise** | v3_003 + ALPHA-Experiment | Quantitative Vorhersage des Free-Fall-Verhaltens jenseits "fällt nach unten" |
+
+→ **[🤝 Mitwirken](../mitwirken.md)** | **[📧 Kontakt](../kontakt.md)** | **[Issues auf GitHub](https://github.com/da-Franze/RFT-Physik-Projekt/issues)**
+
+Jeder dieser Punkte ist **gewollt offen** — die RFT verkauft keine fertigen Lösungen, sondern dokumentiert ehrlich was sicher ist, was Hypothese, was Frage. Das unterscheidet sie von Theorien-Konstruktionen die jede Lücke mit ad-hoc-Erklärungen füllen.
 
 ---
 

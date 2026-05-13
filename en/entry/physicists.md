@@ -95,9 +95,9 @@ Concrete examples: double slit, tunneling, EPR correlations — all without intr
 - [v3_014 — Weak Interaction](../docs/v3_konsolidierung/RFT_v3_014_Weak_Interaction.md): Decay as mode reorganization
 - [v3_015 — Inertia & Equivalence](../docs/v3_konsolidierung/RFT_v3_015_Inertia_Equivalence.md): Mach principle from DRM coupling
 
-### Stage V (Inside View — reflective/philosophical, 16–21)
+### Stage V (Inside View — Interface to Philosophy, 16–21)
 
-These documents are explicitly marked as **philosophical-reflective** (not as physical postulates):
+> ⚠️ **Important note:** These six documents form the **interface from RFT to philosophy**. They are not meant as physical postulates, but as **reflective readings** of stages I–IV. Reading them as hardcore physics is misleading. The separation physics ↔ philosophy is methodologically deliberate here: stages I–IV provide the testable core; stage V makes the consequences accessible to epistemological discussion.
 
 - [v3_016 — Spin & Topology](../docs/v3_konsolidierung/RFT_v3_016_Spin_Topology.md)
 - [v3_017 — Entanglement](../docs/v3_konsolidierung/RFT_v3_017_Entanglement.md)
@@ -105,6 +105,8 @@ These documents are explicitly marked as **philosophical-reflective** (not as ph
 - [v3_019 — Superconductivity](../docs/v3_konsolidierung/RFT_v3_019_Superconductivity.md)
 - [v3_020 — Taxonomy](../docs/v3_konsolidierung/RFT_v3_020_Taxonomy.md)
 - [v3_021 — Inside View](../docs/v3_konsolidierung/RFT_v3_021_Inside_View.md)
+
+→ Physicists who want to think further here will find the detailed philosophical treatment in the [💭 Door for philosophers](philosophers.md).
 
 ---
 
@@ -119,14 +121,22 @@ Each content block carries a confidence marker:
 
 ---
 
-## 🛠️ Open Research Questions
+## 🛠️ Open Research Questions — Participation List
 
-- **Formally close the α-derivation** (v3_002, 2.22 ppm residuum)
-- **Q_cosmological ↔ Q_microscopic scale separation** (v3_006 §7.3)
-- **CP violation quantitatively** from Φ ≠ 0 (v3_006 §7.5, v3_001)
-- **Scale jump Planck ↔ QCD** (v3_013)
+RFT is a **working theory**, not a closed one. The following points are actively open and await contributions — whether through formal work, simulation, experimental proposals, or critical discussion. **If any point intrigues you: write to us.**
 
-→ Anyone wishing to contribute is invited: [🤝 Contribute](../contribute.md)
+| # | Question | Documented in | What is sought |
+|---|---|---|---|
+| 1 | **Formally close α-derivation** | v3_002 §4–6 | Identity of the two geometric readings (shell mode density ↔ three-sphere tetrahedron); explanation of 2.22 ppm residuum |
+| 2 | **Q scale separation cosmological ↔ microscopic** | v3_006 §7.3 | Mechanism connecting Q_cosm ~ 10³ and Q_micro ~ 10⁷–10⁸ |
+| 3 | **CP violation quantitatively from Φ ≠ 0** | v3_006 §7.5, v3_001 | Derivation of the measured 10⁻¹⁰ asymmetry from geometric Φ ≈ 0.01459 |
+| 4 | **Scale jump Planck ↔ QCD** | v3_013 §1.2 | Connection between L₀ ≈ 0.52·l_P and r_proton ≈ 0.84 fm (20 orders of magnitude) |
+| 5 | **Test Hubble-tension prediction** | v3_010 §5 | DESI/Rubin/LSST data from 2027 for H(z) ~ (1+z)^(−0.012) |
+| 6 | **Antimatter gravity precision** | v3_003 + ALPHA experiment | Quantitative prediction of free-fall behavior beyond "falls down" |
+
+→ **[🤝 Contribute](../contribute.md)** | **[📧 Contact](../contact.md)** | **[Issues on GitHub](https://github.com/da-Franze/RFT-Physik-Projekt/issues)**
+
+Each of these points is **deliberately open** — RFT does not sell finished solutions, but honestly documents what is certain, what is hypothesis, what is question. This distinguishes it from theory constructions that fill every gap with ad hoc explanations.
 
 ---
 
