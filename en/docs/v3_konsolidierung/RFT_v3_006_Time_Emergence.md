@@ -1,7 +1,7 @@
 # RFT_v3_006: Time Emergence
 ## Time as Local Process Rate: Beat Frequency, Φ-Asymmetry, and the Q-Factor
 
-**Version:** v1.1 EN (Translation: 25 March 2026)
+**Version:** v1.2 EN (Updated: 28 March 2026)
 **Based on:** RFT_v3_006_Zeit_Emergenz.md v1.1 (27 February 2026)
 **Concept:** Franz Zollner
 **Formalization (DE):** Claude Sonnet 4.6 — Instance 006
@@ -16,6 +16,14 @@
 + ε ≈ Φ ≈ 0.01459 rad ≈ 0.84° elevated from ○ MEDIUM to ○ HIGH
 + 10⁻⁶ rad definitively discarded (AI artifact, no scale factor in RFT)
 + k=3 (three-mode coupling) documented as incorrect model
+```
+
+**Changes v1.1 EN → v1.2 EN:**
+```
++ Ch. 7.1: ħ-circularity → structurally resolved ✅ (DC v10.7, 25.03.2026)
+  L₀ = 1/κ as primary definition | π/6 from gcd | ħ as "willingness to change"
++ Ch. 7.6: L/L₀ ≈ √(2/3) → resolved ✅ (DC v10.7)
+  √(2/3) = √((d−1)/d) for d=3, cube surface of mode space
 ```
 
 **License:** Creative Commons BY-SA-NC 4.0
@@ -480,16 +488,24 @@ This is a deep result: the Second Law is derivable not from probabilities but fr
 
 Every v3 document must fully document its own limits. All known problems for RFT_v3_006 are listed here:
 
-### 7.1 ħ-Circularity (Inherited by All v3 Documents)
+### 7.1 ħ-Circularity — Structurally Resolved (as of 25.03.2026)
 
 ```
-⚠️ L₀ = (π/6) · l_P, but l_P = √(ħG/c³) contains ħ and G.
-   ħ is an algebraic identity in the v3 series:
-     G·ħ = (36/π²)·c³·L₀²  [circular!]
-   → ħ must NOT be presented as independently derived
-   → As long as G is not derived without ħ from first principles,
-     L₀ remains circularly defined
-   (Documented: v3_001 Ch. 7.3, v3_004 Ch. 6)
+✅ L₀ = 1/κ  [primary definition, ħ-free! Franz, direct statement 25.03.2026]
+   κ = matrix stiffness, not dynamic, derived directly from Master Equation
+   L₀ = (π/6)·l_P = numerical verification, not definition
+
+✅ π/6 dynamically derived ○ MEDIUM (D1 session 25.03.2026):
+   π/6 = gcd(2π/3, π/2) from 3:1 (DRM generation) × 4:1 (condensation)
+   → L₀/l_P = π/6 from pure combinatorics, no ħ required
+
+✅ ħ as "willingness to change" of the matrix cell (Franz 25.03.2026):
+   ħ = minimal action for stable mode transition
+   Algebraic identity: G·ħ = (36/π²)·c³·L₀²  [consistent ✓]
+
+○ Still open: complete formal chain L₀ → G without any ħ input
+  (connection G-derivation = κ-definition converges ✓, but not
+   declared fully closed until Franz confirms)
 ```
 
 ### 7.2 Free Parameters β_L and α_Q
@@ -560,7 +576,9 @@ This is related to the Planck↔QCD scale gap:
 ⚠️ Q_cosm vs. Q_res: 4–5 orders of magnitude discrepancy, unresolved
 ⚠️ ħ-circularity: inherited by all v3 documents
 ⚠️ Planck↔QCD scale gap: touches Q discrepancy, deepest open problem
-🚩 L/L₀ ≈ √(2/3): geometric meaning unresolved (open since DC v6.9)
+✅ L/L₀ ≈ √(2/3): geometrically resolved (DC v10.7, 25.03.2026)
+   √(2/3) = √((d−1)/d) for d=3 — cube surface of the 3D mode space
+   Same geometry as η_B exponent n=2/3
 ```
 
 ---
