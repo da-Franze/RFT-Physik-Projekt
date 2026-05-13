@@ -137,6 +137,10 @@ Diese Zahl setzt die natürliche Cutoff-Skala des Gitters: Wellenmoden mit $k > 
 
 ## 3. Fourier-Moden in drei Dimensionen: Die dimensionale Hierarchie
 
+![α-Herleitung als offene Konjektur: Schalen-Modell vs Drei-Kugel-Modell](../../../assets/images/v3_002/alpha_konjektur_waage.png)
+
+*Abb. 1: Zwei komplementäre geometrische Lesarten ergeben dieselbe Zahl 4π³. **Modell A (Schalen-Modendichte im k-Raum)** ist formal-rechnerisch zugänglich. **Modell B (Drei-Kugel-Tetraeder mit Schnittpunkten)** ist physikalisch-räumlich anschaulich; die fünf roten Knoten zeigen die Sanduhr-Geometrie aus drei Kugel-Zentren in einer Ebene und zwei Schnittpunkten oben/unten. Beide Modelle ergeben α⁻¹ = 4π³ + π² + π ≈ 137,036304 mit 2,22 ppm Übereinstimmung zu CODATA. **Status: offene Konjektur** — die Längen-Konvention "vor der Resonanz" und die formale Identität der beiden Lesarten sind nicht aus der Mastergleichung abgeleitet. Diese Veröffentlichung ist Aufruf an die Community: wer kann die geometrische Konsistenz zur formalen Identität verschärfen?*
+
 ### 3.1 Das Prinzip der Modenaddition ○
 
 In einem Resonanzvolumen $V = L^3$ mit periodischen Randbedingungen sind die erlaubten Wellenvektoren diskretisiert:

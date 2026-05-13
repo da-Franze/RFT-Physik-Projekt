@@ -140,6 +140,39 @@ In 2D kann ein Punkt im Raum nur zwei Koordinaten (x, y) und einen Feldwert Ψ s
 
 3D ist die einzige Dimension, in der die Informationskapazität eines Raumpunktes exakt mit dem Bedarf für kohärente Überlagerung aller Moden übereinstimmt.
 
+```mermaid
+flowchart LR
+    subgraph D2["2D"]
+        S2["3 Slots<br/>(x, y, Ψ)"]
+        N2["Bedarf 2 Moden:<br/>4 Slots"]
+        R2["✗ Defizit 1<br/>Kohärenz unmöglich"]
+        S2 --> N2 --> R2
+    end
+
+    subgraph D3["3D ✓"]
+        S3["4 Slots<br/>(x, y, z, Ψ)"]
+        N3["Bedarf 3 Moden:<br/>4 Slots"]
+        R3["✓ Perfekte Balance<br/>= unser Raum"]
+        S3 --> N3 --> R3
+    end
+
+    subgraph D4["4D"]
+        S4["5 Slots<br/>(x, y, z, w, Ψ)"]
+        N4["Bedarf 4 Moden:<br/>5 Slots"]
+        R4["✗ Überbestimmt<br/>destruktive Interferenz"]
+        S4 --> N4 --> R4
+    end
+
+    style D2 fill:#fee2e2,stroke:#c4163a
+    style D3 fill:#dcfce7,stroke:#16a34a,stroke-width:2px
+    style D4 fill:#fef3c7,stroke:#d97b3a
+    style R2 fill:#fca5a5
+    style R3 fill:#86efac,stroke-width:2px
+    style R4 fill:#fcd34d
+```
+
+*Abb. 1: Dimensionalitäts-Vergleich. Nur in **D = 3** ist die Informationskapazität eines Raumpunktes (D+1 Slots) exakt gleich dem Bedarf für kohärente Mehrfach-Überlagerung (D Moden + 1 Feldwert). 2D liefert ein Defizit (Kohärenz unmöglich), 4D überbestimmt das System (destruktive Interferenz dominiert). Unser Universum hat genau 3 Raumdimensionen aus Resonanz-Notwendigkeit, nicht aus Zufall.*
+
 ---
 
 ## 3. α kodiert die Dimension: Verschachtelte Sphären

@@ -942,6 +942,12 @@ but we cannot see His dice." — RFT perspective
 
 ---
 
+![Double-slit: 80 deterministic trajectories produce the interference pattern](../../../assets/images/v3_011_doppelspalt_trajektorien.png)
+
+*Fig. 13.1: Double-slit experiment with 80 deterministic Bohm trajectories (left). Each path is deterministically fixed by its initial conditions; the spread of endpoints arises from initial-position uncertainty (Heisenberg). The ensemble of endpoints at the screen (right) generates the classical interference pattern — statistics from determinism, not from intrinsic randomness.*
+
+---
+
 ## 13.6 Summary of Chapter 13
 
 ```

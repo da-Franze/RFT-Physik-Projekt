@@ -97,6 +97,28 @@ All of RFT is based on a nonlinear wave equation for the scalar resonance field 
 
 $$\frac{\partial^2 \Psi}{\partial t^2} = c^2 \nabla^2 \Psi \;-\; \gamma\frac{\partial \Psi}{\partial t} \;-\; c^2 \kappa^2 \Psi \;+\; \lambda|\Psi|^2 \Psi \;+\; \eta(\vec{x},t)$$
 
+```mermaid
+flowchart TB
+    EQ["∂²Ψ/∂t² = c²∇²Ψ − γ·∂Ψ/∂t − c²κ²Ψ + λ|Ψ|²Ψ + η(x,t)"]
+
+    EQ --> A["∂²Ψ/∂t²<br/><b>Temporal acceleration</b><br/>Change of change"]
+    EQ --> B["c²∇²Ψ<br/><b>Wave propagation</b><br/>Spatial restoring force<br/>c = ω₀·a₀"]
+    EQ --> C["−γ·∂Ψ/∂t<br/><b>Damping</b><br/>Time-arrow breaking, irreversible"]
+    EQ --> D["−c²κ²Ψ<br/><b>Resonance rigidity</b><br/>NOT mass — matrix geometry"]
+    EQ --> E["+λ|Ψ|²Ψ<br/><b>Nonlinear self-coupling</b><br/>Soliton stability → particles"]
+    EQ --> F["+η(x,t)<br/><b>Self-interaction</b><br/>Background noise"]
+
+    style EQ fill:#f0f4f8,stroke:#1e3a5f,stroke-width:3px
+    style A fill:#dbeafe,stroke:#3a7bb8
+    style B fill:#fef3c7,stroke:#d97b3a
+    style C fill:#fce7f3,stroke:#be185d
+    style D fill:#dcfce7,stroke:#16a34a
+    style E fill:#f5f3ff,stroke:#7c3aed
+    style F fill:#e0f2fe,stroke:#0891b2
+```
+
+*Fig. 1: Term breakdown of the Master Equation. Each term carries a distinct physical meaning; details are given in §2.2. The unconventional reading of κ²Ψ as **resonance rigidity** (rather than a mass term) is causally decisive — see the comparison table below.*
+
 The field Ψ is not a field *in* space, but the field whose dynamic ground state constitutes space itself.
 
 ### 2.2 Meaning of the Parameters

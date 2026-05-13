@@ -89,6 +89,10 @@ REAL (Winkel 90° ± ε, mit ε ≠ 0):
   → Das ist die Zeit.
 ```
 
+![Laufende Schwebung im (x,t)-Raum: vertikale Knoten vs. wandernde Knoten](../../../assets/images/v3_006/laufende_schwebung_xt.png)
+
+*Abb. 1: Vergleich ideal (ε=0, links) und real (ε≠0, rechts). Im idealen Fall stehen die Knoten räumlich fest — keine Dynamik. Im realen Fall wandern die Knoten schräg durch den (x,t)-Raum — diese Wanderung IST der Zeit-Motor.*
+
 Die Winkelabweichung ε ist kein technischer Fehler, sondern ein fundamentales Merkmal des DRM. Aus dem Umlaufmodell folgt k=1: Pro Umlauf gibt es 6 Reflexionen, jede trägt gleichmäßig zum Phasenfehler bei (α=6), was sich im Nenner 6L/c der Umlaufzeit wegkürzt → Δω/ω₀ = ε direkt. Damit: ε ≈ Φ ≈ 0,01459 rad ≈ 0,84°. ○ HOCH (α=6 Gleichverteilung geometrisch plausibel, nicht streng bewiesen). Ohne Φ ≠ 0: keine Zeit, kein Universum.
 
 ---
@@ -122,6 +126,10 @@ Die Hüllkurve cos(Δω·t/2) moduliert das Muster. Ihre Periode:
 ```
 τ_beat = 2π / Δω   [Schwebungsperiode — der "Herzschlag" der Zeit]
 ```
+
+![Schwebung als Zeit-Motor: zwei DRM-Moden, Summe, isolierte Einhüllende](../../../assets/images/v3_006/schwebung_zeit_motor.png)
+
+*Abb. 2: Zeitlicher Schnitt der Schwebung an einem festen Raumpunkt. Oben: zwei DRM-Resonanzmoden ω₁=10, ω₂=9. Mitte: ihre Summe (Träger) mit Einhüllender (rot gestrichelt). Unten: die isolierte Einhüllende mit Schwebungs-Periode τ_beat = 2π/Δω — der "Herzschlag" der Zeit.*
 
 ### 2.2 Der Zeit-Operator
 

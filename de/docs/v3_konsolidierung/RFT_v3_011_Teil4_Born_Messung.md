@@ -1696,6 +1696,12 @@ Nach Messung:
 
 ---
 
+![Doppelspalt: 80 deterministische Trajektorien erzeugen Interferenzmuster](../../../assets/images/v3_011_doppelspalt_trajektorien.png)
+
+*Abb. 13.1: Doppelspalt mit 80 deterministischen Bohm-Trajektorien (links). Jeder Pfad ist deterministisch durch seine Anfangsbedingungen festgelegt; die Streuung der Endpunkte entsteht aus der Unschärfe der Anfangsposition (Heisenberg). Das Ensemble der Endpunkte am Schirm (rechts) erzeugt das klassische Interferenzmuster — Statistik aus Determinismus, nicht aus intrinsischem Zufall.*
+
+---
+
 ## 13.6 Zusammenfassung Kapitel 13
 
 ### Was haben wir gelernt?

@@ -114,6 +114,10 @@ INSIDE-VIEW AXIOM (canonical, DC v10.15 Domain L.1):
 Confidence: ✓ HIGH (Franz Zollner, DC v10.15)
 ```
 
+![Inside-View Cube: ideal (ε=0) and real (ε≠0) cases](../../../assets/images/v3_021_innensicht_wuerfel.png)
+
+*Fig. 1: The inside-view cube as a model. (a) With ideal 90° angles of the DRM axes, a static interference pattern forms with horizontally fixed nodes — no dynamics, no time. (b) With ε ≠ 0, the nodes drift obliquely through the cube — this drift IS the time motor. The laser path is shown faintly; the actual statement lies in the change of the node structure (background pattern).*
+
 ### 2.2 Three Justifications
 
 ```

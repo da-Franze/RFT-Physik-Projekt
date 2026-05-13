@@ -140,6 +140,10 @@ This sets the natural cutoff scale of the resonance matrix: wave modes with $k >
 
 ## 3. Fourier Modes in Three Dimensions: The Dimensional Hierarchy
 
+![α-derivation as open conjecture: shell model vs. three-sphere model](../../../assets/images/v3_002/alpha_konjektur_waage.png)
+
+*Fig. 1: Two complementary geometric readings yield the same number 4π³. **Model A (shell mode density in k-space)** is formally tractable. **Model B (three-sphere tetrahedron with intersection points)** is spatially intuitive; the five red nodes show the hourglass geometry from three sphere centers in a plane plus two intersection points above and below. Both models yield α⁻¹ = 4π³ + π² + π ≈ 137.036304, agreeing with CODATA to 2.22 ppm. **Status: open conjecture** — the length convention "before resonance" and the formal identity of the two readings are not derived from the Master Equation. This publication is an appeal to the community: who can sharpen the geometric consistency into formal identity?*
+
 ### 3.1 The Principle of Mode Addition ○
 
 In a resonance volume $V = L^3$ with periodic boundary conditions, the allowed wave vectors are discretized:

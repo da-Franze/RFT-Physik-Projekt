@@ -118,6 +118,28 @@ $$\frac{\partial^2 \Psi}{\partial t^2} = c_0^2 \nabla^2 \Psi \;-\; \gamma\frac{\
 
 Das Feld Ψ ist nicht ein Feld *im* Raum, sondern das Feld, dessen dynamischer Grundzustand den Raum selbst konstituiert.
 
+```mermaid
+flowchart TB
+    EQ["∂²Ψ/∂t² = c₀²∇²Ψ − γ·∂Ψ/∂t − c₀²κ²Ψ + λ|Ψ|²Ψ + η(x,t)"]
+
+    EQ --> A["∂²Ψ/∂t²<br/><b>Zeit-Beschleunigung</b><br/>Veränderung der Veränderung"]
+    EQ --> B["c₀²∇²Ψ<br/><b>Wellen-Ausbreitung</b><br/>Räumliche Rückstellung<br/>c₀ = ω₀·a₀"]
+    EQ --> C["−γ·∂Ψ/∂t<br/><b>Dämpfung</b><br/>Zeitpfeil-Bruch, irreversibel"]
+    EQ --> D["−c₀²κ²Ψ<br/><b>Resonanz-Steifigkeit</b><br/>NICHT Masse — Gitter-Geometrie"]
+    EQ --> E["+λ|Ψ|²Ψ<br/><b>Nichtlineare Selbstkopplung</b><br/>Soliton-Stabilität → Teilchen"]
+    EQ --> F["+η(x,t)<br/><b>Eigeninteraktion</b><br/>Hintergrund-Rauschen"]
+
+    style EQ fill:#f0f4f8,stroke:#1e3a5f,stroke-width:3px
+    style A fill:#dbeafe,stroke:#3a7bb8
+    style B fill:#fef3c7,stroke:#d97b3a
+    style C fill:#fce7f3,stroke:#be185d
+    style D fill:#dcfce7,stroke:#16a34a
+    style E fill:#f5f3ff,stroke:#7c3aed
+    style F fill:#e0f2fe,stroke:#0891b2
+```
+
+*Abb. 1: Term-Aufschlüsselung der Mastergleichung. Jeder Term trägt eine eigene physikalische Bedeutung; die Bedeutung der einzelnen Terme wird in §2.2 detailliert. Die unkonventionelle Lesart κ²Ψ als **Resonanz-Steifigkeit** (nicht als Masse-Term) ist kausal entscheidend (siehe Tabelle weiter unten).*
+
 ### 2.2 Bedeutung der Parameter
 
 **c₀ — Grundausbreitungsgeschwindigkeit**
