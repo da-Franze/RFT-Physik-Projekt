@@ -144,6 +144,39 @@ In 2D, a point in space can store only two coordinates (x, y) and one field valu
 
 3D is the only dimensionality in which the information capacity of a spatial point exactly matches the requirement for coherent superposition of all modes.
 
+```mermaid
+flowchart LR
+    subgraph D2["2D"]
+        S2["3 slots<br/>(x, y, Ψ)"]
+        N2["Need 2 modes:<br/>4 slots"]
+        R2["✗ Deficit 1<br/>coherence broken"]
+        S2 --> N2 --> R2
+    end
+
+    subgraph D3["3D ✓"]
+        S3["4 slots<br/>(x, y, z, Ψ)"]
+        N3["Need 3 modes:<br/>4 slots"]
+        R3["✓ Perfect balance<br/>= our space"]
+        S3 --> N3 --> R3
+    end
+
+    subgraph D4["4D"]
+        S4["5 slots<br/>(x, y, z, w, Ψ)"]
+        N4["Need 4 modes:<br/>5 slots"]
+        R4["✗ Over-determined<br/>destructive interference"]
+        S4 --> N4 --> R4
+    end
+
+    style D2 fill:#fee2e2,stroke:#c4163a
+    style D3 fill:#dcfce7,stroke:#16a34a,stroke-width:2px
+    style D4 fill:#fef3c7,stroke:#d97b3a
+    style R2 fill:#fca5a5
+    style R3 fill:#86efac,stroke-width:2px
+    style R4 fill:#fcd34d
+```
+
+*Fig. 1: Dimensionality comparison. Only in **D = 3** does the information capacity of a spatial point (D+1 slots) exactly match the requirement for coherent multi-mode superposition (D modes + 1 field value). 2D yields a deficit (coherence impossible); 4D over-determines the system (destructive interference dominates). Our universe has exactly 3 spatial dimensions from resonance necessity, not by accident.*
+
 ---
 
 ## 3. α Encodes the Dimension: Nested Spheres
