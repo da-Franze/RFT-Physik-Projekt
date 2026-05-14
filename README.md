@@ -25,6 +25,8 @@ Die **Mastergleichung** beschreibt den Raum als schwingungsfähiges Medium. Sie 
 ∂²σ/∂t² − c²∇²σ + κ·T(r) = 0
 ```
 
+📖 **Volltext / Full text:** [🇩🇪 RFT_v3_001 Mathematische Grundlagen](de/docs/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) · [🇬🇧 RFT_v3_001 Mathematical Foundations](en/docs/v3_konsolidierung/RFT_v3_001_Mathematical_Foundations.md)
+
 mit σ als Auslenkungsfeld der Raummatrix, c der Lichtgeschwindigkeit, κ als Resonanzsteifigkeit (Primärgröße der Theorie) und T(r) als Quellterm an Wirbelverankerungen. Aus dieser einen Gleichung lassen sich Maxwell, Schrödinger, Newton und die ART als Speziallösungen ableiten.
 
 > *with σ as the displacement field of the space matrix, c the speed of light, κ the resonance stiffness (primary quantity of the theory), and T(r) the source term at vortex anchors. From this one equation, Maxwell, Schrödinger, Newton, and General Relativity can be derived as special-case solutions.*
@@ -36,6 +38,8 @@ Geometrische Herleitung der Feinstrukturkonstante:
 ```
 α⁻¹ = 4π³ + π² + π = 137.036304   (2.22 ppm von CODATA, keine freien Parameter)
 ```
+
+📖 **Volltext / Full text:** [🇩🇪 RFT_v3_002 Feinstrukturkonstante](de/docs/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) · [🇬🇧 RFT_v3_002 Fine-Structure Constant](en/docs/v3_konsolidierung/RFT_v3_002_Fine_Structure_Constant.md)
 
 ---
 
