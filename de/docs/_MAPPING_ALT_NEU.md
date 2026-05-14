@@ -1,6 +1,8 @@
 # Mapping: Alte RFT_NN-Reihe ↔ v3-Konsolidierung
 
-**Stand:** 2026-05-06 · Erstellt durch Drei-Wege-Tisch (Franz + Sokrates + Denker), erweitert um v3_015-020 nach Spezialist-Reviews
+**Stand:** 2026-05-13 (Archive-Update) · Ursprünglich 2026-05-06 (Drei-Wege-Tisch Franz+Sokrates+Denker)
+
+**Archive-Status:** Alle als "überholt" markierten Alt-Files wurden am 2026-05-13 in `archive/`-Unterordner verschoben (DE: `grundlagen/archive/`, `anwendungen/archive/`, `spezialisierung/archive/`, `fortgeschritten/archive/`; EN: `foundations/archive/`, etc.). 5 Files (RFT_11, RFT_23, RFT_38, RFT_42, RFT_44 — siehe `INVENTUR_ALT_ORDNER_2026-05-13.md`) sind als Stufe-3 (Resurrection-Kandidat) markiert und wurden **noch nicht** archiviert; ihre inhaltliche Prüfung steht aus.
 
 Dieses Dokument bildet die alte Nummerierung (RFT_NN, vor Februar 2026) auf die aktuelle v3-Konsolidierung (RFT_v3_NNN, ab Februar 2026) ab.
 
@@ -14,31 +16,31 @@ Dieses Dokument bildet die alte Nummerierung (RFT_NN, vor Februar 2026) auf die 
 
 | Alte Nummer | Pfad | Neue Nummer (v3) | Status |
 |---|---|---|---|
-| RFT_01 | `grundlagen/RFT_01_Mathematische_Grundlagen.md` | `v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md` | überholt |
-| RFT_02 | `grundlagen/RFT_02_Spin-Quantisierung_Universums-Entstehung.md` | `v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md` + `RFT_v3_016_Spin_Topologie.md` | überholt (Spin-Themen erweitert in v3_016) |
-| RFT_03 | `grundlagen/RFT_03_Dynamische_Resonanzmatrix.md` | in `v3_konsolidierung/RFT_v3_001` §1+§2 enthalten | überholt |
-| RFT_04 | `grundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md` | `v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md` | überholt + erweitert |
-| RFT_05 | `grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_MAGNETISMUS.md` | `v3_konsolidierung/RFT_v3_013` (Stark) + `RFT_v3_014` (Schwach) | überholt + aufgeteilt |
-| RFT_06 | `grundlagen/RFT_06_Experimentelle_Grundlag.md` | in `v3_konsolidierung/RFT_v3_001` §11 + andere | überholt |
-| RFT_07 | `grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md` | `v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md` | überholt |
-| RFT_08 | `grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md` | (Innensicht-Prinzip in `RFT_v3_001` §1) | überholt |
-| RFT_09 | `grundlagen/RFT_09_Kosmologie_Großraum-Strukturen.md` | `v3_konsolidierung/RFT_v3_009` + `RFT_v3_010` | überholt + aufgeteilt |
-| RFT_10 | `grundlagen/RFT_10_Quantenmechanik.md` | `v3_konsolidierung/RFT_v3_011_Teil1-5_*.md` (5 Teile) + `RFT_v3_017` (Verschränkung) + `RFT_v3_018` (Entropie/Dekohärenz) | stark erweitert |
+| RFT_01 | `grundlagen/archive/RFT_01_Mathematische_Grundlagen.md` | `v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md` | überholt |
+| RFT_02 | `grundlagen/archive/RFT_02_Spin-Quantisierung_Universums-Entstehung.md` | `v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md` + `RFT_v3_016_Spin_Topologie.md` | überholt (Spin-Themen erweitert in v3_016) |
+| RFT_03 | `grundlagen/archive/RFT_03_Dynamische_Resonanzmatrix.md` | in `v3_konsolidierung/RFT_v3_001` §1+§2 enthalten | überholt |
+| RFT_04 | `grundlagen/archive/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md` | `v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md` | überholt + erweitert |
+| RFT_05 | `grundlagen/archive/RFT_05_Teilchenphysik_Wirbelstrukturen_MAGNETISMUS.md` | `v3_konsolidierung/RFT_v3_013` (Stark) + `RFT_v3_014` (Schwach) | überholt + aufgeteilt |
+| RFT_06 | `grundlagen/archive/RFT_06_Experimentelle_Grundlag.md` | in `v3_konsolidierung/RFT_v3_001` §11 + andere | überholt |
+| RFT_07 | `grundlagen/archive/RFT_07_Gravitation_Raumzeitdynamik.md` | `v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md` | überholt |
+| RFT_08 | `grundlagen/archive/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md` | (Innensicht-Prinzip in `RFT_v3_001` §1) | überholt |
+| RFT_09 | `grundlagen/archive/RFT_09_Kosmologie_Großraum-Strukturen.md` | `v3_konsolidierung/RFT_v3_009` + `RFT_v3_010` | überholt + aufgeteilt |
+| RFT_10 | `grundlagen/archive/RFT_10_Quantenmechanik.md` | `v3_konsolidierung/RFT_v3_011_Teil1-5_*.md` (5 Teile) + `RFT_v3_017` (Verschränkung) + `RFT_v3_018` (Entropie/Dekohärenz) | stark erweitert |
 | RFT_11 | `anwendungen/RFT_11_Thermodynamik_Statistische_Mechanik_aus_RF.md` | partiell in `RFT_v3_018_Entropie_Signaltheorie.md` | überholt + verteilt |
-| RFT_13 | `spezialisierung/RFT_17_Cooper_Paare_und_Supraleitung.md` (Phase A 2026-05-05) | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt + erweitert |
+| RFT_13 | `spezialisierung/archive/RFT_17_Cooper_Paare_und_Supraleitung.md` (Phase A 2026-05-05) | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt + erweitert |
 | RFT_15 | `anwendungen/RFT_15_Dunkle_Materie_als_RFT-Effekt.md` | `v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md` | überholt + erweitert |
-| RFT_17 | `spezialisierung/RFT_17_Cooper_Paare_und_Supraleitung.md` (Phase A) | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt (Cooper-Paar-Bezug erweitert) |
+| RFT_17 | `spezialisierung/archive/RFT_17_Cooper_Paare_und_Supraleitung.md` (Phase A) | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt (Cooper-Paar-Bezug erweitert) |
 | RFT_23 | `spezialisierung/RFT_23_Das_RFT-Photonenmodell.md` | (in `RFT_v3_012_Elektromagnetismus.md` partiell) | partiell überholt |
-| RFT_24 | `spezialisierung/RFT_24_Das_Doppelspaltexperiment.md` | `v3_konsolidierung/RFT_v3_011a_Doppelspalt_Mini_Annex.md` (Phase A 2026-05-05) | überholt + Annex |
-| RFT_31 | `fortgeschritten/RFT_31_Zeit_als_emergentes_Phaenomen.md` | `v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md` | überholt + erweitert (ε ≈ 0.84°) |
-| RFT_32 | `fortgeschritten/RFT_32_Naturkonstanten_aus_RFT.md` | `v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md` | überholt + α-Herleitung präzisiert |
+| RFT_24 | `spezialisierung/archive/RFT_24_Das_Doppelspaltexperiment.md` | `v3_konsolidierung/RFT_v3_011a_Doppelspalt_Mini_Annex.md` (Phase A 2026-05-05) | überholt + Annex |
+| RFT_31 | `fortgeschritten/archive/RFT_31_Zeit_als_emergentes_Phaenomen.md` | `v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md` | überholt + erweitert (ε ≈ 0.84°) |
+| RFT_32 | `fortgeschritten/archive/RFT_32_Naturkonstanten_aus_RFT.md` | `v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md` | überholt + α-Herleitung präzisiert |
 | RFT_38 | `spezialisierung/RFT_38_Entropie_Lokal_vs_Global.md` (Phase A 2026-05-05) | partiell in `RFT_v3_018_Entropie_Signaltheorie.md` | überholt + verteilt |
 | RFT_42 | `fortgeschritten/RFT_42_Kondensation_Materie-Antimaterie-Asymmetrie.md` | (Materie-Antimaterie in `RFT_v3_009`, Asymmetrie als ε in `RFT_v3_006`) | überholt + verteilt |
-| RFT_44 | `grundlagen/RFT_44_Thermodynamik_des_Raumgitters.md` (Phase A 2026-05-05) | partiell in `RFT_v3_018` | überholt (kurze Skizze) |
-| RFT_45 | `fortgeschritten/RFT_45_Das_RFT-Raumfeld–kein_klassisches_Medium.md` | (Innensicht-Prinzip in `RFT_v3_001` §1) | überholt |
-| RFT_47 (Schwarze Löcher) | `fortgeschritten/RFT_47_Schwarze_Löcher-Modensprung-Physik.md` | `v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md` | überholt |
-| RFT_47 (Hochtemp 45 THz) | `spezialisierung/RFT_47_Hochtemperatur_Supraleitung_45THz_Antennen_Resonanz.md` (Phase A 2026-05-05) | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt (45 THz-Hypothese als ⚠️ NIEDRIG übernommen) |
-| RFT_48 | `fortgeschritten/RFT_48_Supraleitung.md` | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt + erweitert |
+| RFT_44 | `grundlagen/archive/RFT_44_Thermodynamik_des_Raumgitters.md` (Phase A 2026-05-05) | partiell in `RFT_v3_018` | überholt (kurze Skizze) |
+| RFT_45 | `fortgeschritten/archive/RFT_45_Das_RFT-Raumfeld–kein_klassisches_Medium.md` | (Innensicht-Prinzip in `RFT_v3_001` §1) | überholt |
+| RFT_47 (Schwarze Löcher) | `fortgeschritten/archive/RFT_47_Schwarze_Löcher-Modensprung-Physik.md` | `v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md` | überholt |
+| RFT_47 (Hochtemp 45 THz) | `spezialisierung/archive/RFT_47_Hochtemperatur_Supraleitung_45THz_Antennen_Resonanz.md` (Phase A 2026-05-05) | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt (45 THz-Hypothese als ⚠️ NIEDRIG übernommen) |
+| RFT_48 | `fortgeschritten/archive/RFT_48_Supraleitung.md` | `v3_konsolidierung/RFT_v3_019_Supraleitung.md` | überholt + erweitert |
 
 ### Neue v3-Dokumente (kein altes Pendant)
 
