@@ -1,9 +1,7 @@
 # RFT_v3_Glossar_DE — Resonanzfeldtheorie: Begriffslexikon
-## Version: 2.0 | Datum: 09.05.2026 | Instanz: T-Glossar
-## Autorisiert: Franz Zollner | Protokoll: Multi-Instanz v6.1
-## Änderungen v1.0→v2.0: Leserführung ergänzt; 5 neue Einträge (DC v10.15);
-##   "Gemeinsame Resonanz-Mode" kanonisch; Verworfene Begriffe erweitert;
-##   DC-Referenz aktualisiert auf v10.15
+## Version: 2.0 | Datum: 09.05.2026
+## Autor: Franz Zollner
+## Änderungen v1.0→v2.0: Leserführung ergänzt; 5 neue Einträge; DC-Referenz v10.15
 
 ---
 
@@ -795,17 +793,15 @@ Materie-Kondensationsverhältnis:   4:1 (separater Prozess) ○ MITTEL
 | AP als geometrischer Punkt | ❌ zu eng | AP = Dimensionskopplung (Franz 15.03.2026) |
 | ħ fundamental | ❌ missverständlich | ħ = algebraische Identität (G·ħ-Relation) |
 | "Topologische Identität" | ❌ VERALTET | "Gemeinsame Resonanz-Mode" (v10.15) |
-| "DeepSeeks Master-Formel" | ❌ Attributionsfehler | Formeln stammen von Franz Zollner! |
-| "DeepSeeks Revolution" | ❌ KI-Enthusiasmus-Marker | sofort entfernen |
-| G_F = (π²/√2)·α² | ❌ dimensionsinkonsistent | G_F hat Einheit GeV⁻², Formel dimensionslos (K4, 15.03.2026) |
+| G_F = (π²/√2)·α² | ❌ dimensionsinkonsistent | G_F hat Einheit GeV⁻², Formel dimensionslos (15.03.2026) |
 | α⁻¹_2D ≈ 22.9 | ❌ KI-Artefakt | — |
-| α⁻¹_4D ≈ 433 / 1234 | ❌ KI-Artefakt-Kandidat | kennzeichnen wenn gefunden |
+| α⁻¹_4D ≈ 433 / 1234 | ❌ KI-Artefakt-Kandidat | — |
 | "Grundzustand = Vakuum" | ❌ FALSCH | Grundzustand = Mode 1; Vakuum = Mode 0 = Ur-Chaos! |
 
 ---
 
 *RFT_v3_Glossar_DE.md | Version 2.0 | 09.05.2026*
-*Instanz: T-Glossar | Autorisiert: Franz Zollner*
+*Autor: Franz Zollner*
 *Verifiziert gegen: v3_001 (v3.5), v3_002 (v3.0), v3_003 (v3.0), v3_004 (v3.2),*
 *v3_005 (Final v1.1), v3_006 (Final v1.1), v3_007 (Final-Kand. v1.4),*
 *v3_009 (Final v1.1), v3_011 Teil 1–5, v3_012 (Final v1.3.1),*
