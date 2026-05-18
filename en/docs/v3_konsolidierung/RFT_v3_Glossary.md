@@ -1,6 +1,6 @@
 # RFT_v3_Glossar_EN — Resonance Field Theory: Terminology Reference
-## Version: 1.0 | Date: 24.03.2026 | Instance: K5
-## Authorized: Franz Zollner | Protocol: Multi-Instance v6.1
+## Version: 1.0 | Date: 24.03.2026
+## Author: Franz Zollner
 
 ---
 
@@ -634,14 +634,13 @@ Matter condensation ratio: 4:1 (separate process) ○ MEDIUM
 | AP as geometric point | ❌ too narrow | AP = dimensional coupling (Franz 15.03.2026) |
 | ħ as fundamental constant | ❌ misleading | ħ = algebraic identity (G·ħ relation) |
 | α⁻¹_2D ≈ 22.9 | ❌ AI artifact | — |
-| α⁻¹_4D ≈ 433 / 1234 | ❌ AI artifact candidate | flag if encountered |
+| α⁻¹_4D ≈ 433 / 1234 | ❌ AI artifact candidate | — |
 
 ---
 
 *RFT_v3_Glossar_EN.md | Version 1.0 | 24.03.2026*
-*Instance: K5 | Authorized: Franz Zollner*
-*Based on: RFT_v3_Glossar_DE.md v1.1 (K5, 24.03.2026)*
+*Author: Franz Zollner*
+*Based on: RFT_v3_Glossar_DE.md v1.1 (24.03.2026)*
 *Verified against: v3_001 (v3.5), v3_002 (v3.0), v3_003 (v3.0), v3_004 (v3.0),*
 *v3_005 (Final v1.1), v3_006 (Final v1.1), v3_011 Teil 3, v3_012 (Final v1.3.1),*
 *v3_014 (Final v1.0), DC v10.4*
-*Next step: Auftrag 2 — EN translations, Stufe 1 (v3_001, v3_002, v3_005, v3_006)*
