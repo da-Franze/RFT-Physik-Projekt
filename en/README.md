@@ -94,35 +94,35 @@ The current canonical line of the theory is the **v3 consolidation series** (RFT
 
 ### v3 Consolidation Series — current
 
-→ **[`en/docs/v3_konsolidierung/`](docs/v3_konsolidierung/)** — 25 documents (master equation, fine-structure constant, gravity, time emergence, particle physics, electromagnetism, strong/weak interaction, inertia, entanglement, entropy, superconductivity, taxonomy, glossary).
+→ **[`en/archiv/v3_konsolidierung/`](archiv/v3_konsolidierung/)** — 25 documents (master equation, fine-structure constant, gravity, time emergence, particle physics, electromagnetism, strong/weak interaction, inertia, entanglement, entropy, superconductivity, taxonomy, glossary).
 
 ### For Different Backgrounds
 
 **👨‍🔬 Physicists with a solid-state / semiconductor background**
-- Start with [`RFT_v3_000_Prolog_Einsteiger`](docs/v3_konsolidierung/) *(German; English version in preparation — phonon analogy bridge for solid-state physicists)*
-- Continue with [`RFT_v3_001_Mathematical_Foundations`](docs/v3_konsolidierung/RFT_v3_001_Mathematical_Foundations.md)
-- Then [`RFT_v3_019_Superconductivity`](docs/v3_konsolidierung/RFT_v3_019_Superconductivity.md) for direct domain bridge
+- Start with [`RFT_v3_000_Prolog_Einsteiger`](archiv/v3_konsolidierung/) *(German; English version in preparation — phonon analogy bridge for solid-state physicists)*
+- Continue with [`RFT_v3_001_Mathematical_Foundations`](archiv/v3_konsolidierung/RFT_v3_001_Mathematical_Foundations.md)
+- Then [`RFT_v3_019_Superconductivity`](archiv/v3_konsolidierung/RFT_v3_019_Superconductivity.md) for direct domain bridge
 
 **🧮 Mathematicians and theoretical physicists**
-- [`RFT_v3_001_Mathematical_Foundations`](docs/v3_konsolidierung/RFT_v3_001_Mathematical_Foundations.md) — master equation, primary quantities
-- [`RFT_v3_002_Fine_Structure_Constant`](docs/v3_konsolidierung/RFT_v3_002_Fine_Structure_Constant.md) — geometric derivation of α
-- [`RFT_v3_003_Gravitation_Spin_Lag`](docs/v3_konsolidierung/RFT_v3_003_Gravitation_Spin_Lag.md) — gravity from resonance spin lag
+- [`RFT_v3_001_Mathematical_Foundations`](archiv/v3_konsolidierung/RFT_v3_001_Mathematical_Foundations.md) — master equation, primary quantities
+- [`RFT_v3_002_Fine_Structure_Constant`](archiv/v3_konsolidierung/RFT_v3_002_Fine_Structure_Constant.md) — geometric derivation of α
+- [`RFT_v3_003_Gravitation_Spin_Lag`](archiv/v3_konsolidierung/RFT_v3_003_Gravitation_Spin_Lag.md) — gravity from resonance spin lag
 
 **⚛️ Quantum mechanics / pilot-wave researchers**
-- [`RFT_v3_011_Part1`](docs/v3_konsolidierung/RFT_v3_011_Part1_Foundations.md) through Part5 — full QM framework
-- [`RFT_v3_017_Entanglement`](docs/v3_konsolidierung/RFT_v3_017_Entanglement.md)
+- [`RFT_v3_011_Part1`](archiv/v3_konsolidierung/RFT_v3_011_Part1_Foundations.md) through Part5 — full QM framework
+- [`RFT_v3_017_Entanglement`](archiv/v3_konsolidierung/RFT_v3_017_Entanglement.md)
 
 **🌌 Cosmologists**
-- [`RFT_v3_009_Cosmogenesis_Cold_Condensation`](docs/v3_konsolidierung/RFT_v3_009_Cosmogenesis_Cold_Condensation.md)
-- [`RFT_v3_010_New_Cosmology_Dark_Sector`](docs/v3_konsolidierung/RFT_v3_010_New_Cosmology_Dark_Sector.md)
-- [`RFT_v3_008_Black_Holes_Mode_Transition`](docs/v3_konsolidierung/RFT_v3_008_Black_Holes_Mode_Transition.md)
+- [`RFT_v3_009_Cosmogenesis_Cold_Condensation`](archiv/v3_konsolidierung/RFT_v3_009_Cosmogenesis_Cold_Condensation.md)
+- [`RFT_v3_010_New_Cosmology_Dark_Sector`](archiv/v3_konsolidierung/RFT_v3_010_New_Cosmology_Dark_Sector.md)
+- [`RFT_v3_008_Black_Holes_Mode_Transition`](archiv/v3_konsolidierung/RFT_v3_008_Black_Holes_Mode_Transition.md)
 
 **🧠 Philosophers & interdisciplinary researchers**
-- [`RFT_v3_021_Inside_View`](docs/v3_konsolidierung/RFT_v3_021_Inside_View.md) — Stage V (epistemology); relativity as a consequence of internal measurement
+- [`RFT_v3_021_Inside_View`](archiv/v3_konsolidierung/RFT_v3_021_Inside_View.md) — Stage V (epistemology); relativity as a consequence of internal measurement
 - Predecessor philosophical material: [`foundations/RFT_08_Philosophical_Foundations`](docs/foundations/RFT_08_Philosophical_Foundations_Resonance_Field_Theory.md)
 
 **📖 Term glossary (German–English)**
-- [`RFT_v3_Glossary.md`](docs/v3_konsolidierung/RFT_v3_Glossary.md)
+- [`RFT_v3_Glossary.md`](archiv/v3_konsolidierung/RFT_v3_Glossary.md)
 
 ### Predecessor Material (v1 / v2 line)
 
@@ -167,14 +167,14 @@ RFT offers new perspectives on:
 ```
 RFT-Physik-Projekt/
 ├── de/                              # German master version (canonical)
-│   ├── docs/v3_konsolidierung/      # ✅ 26 v3 documents — current canonical line
+│   ├── archiv/v3_konsolidierung/      # ✅ 26 v3 documents — current canonical line
 │   ├── docs/grundlagen/             # v1/v2 predecessor (historical)
 │   ├── docs/fortgeschritten/        # extension docs
 │   ├── ueber_den_autor.md           # author bio
 │   ├── mitwirken.md                 # contribution guide
 │   └── kontakt.md                   # contact
 ├── en/                              # English translation
-│   ├── docs/v3_konsolidierung/      # ✅ 25 v3 documents + glossary
+│   ├── archiv/v3_konsolidierung/      # ✅ 25 v3 documents + glossary
 │   ├── docs/foundations/            # v1/v2 predecessor (historical)
 │   ├── about_the_author.md          # author bio
 │   ├── contribute.md                # contribution guide

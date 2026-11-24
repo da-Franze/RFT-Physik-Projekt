@@ -24,7 +24,7 @@ Das ist die **Resonanzfeldtheorie (RFT)** in einem Satz. Die folgende Tour zeigt
 
 ### Die Innensicht: Warum wir kein "Außen" haben können
 
-📖 **[v3_021 — Die Innensicht](../docs/v3_konsolidierung/RFT_v3_021_Die_Innensicht.md)** (philosophisch, aber zugänglich)
+📖 **[v3_021 — Die Innensicht](../archiv/v3_konsolidierung/RFT_v3_021_Die_Innensicht.md)** (philosophisch, aber zugänglich)
 
 Kern: Alles was du misst, misst du *aus* dem Universum heraus. Es gibt keinen Standpunkt "von außen". Diese eine Aussage hat überraschend tiefe Konsequenzen — sie erzwingt die Lichtgeschwindigkeit als Konstante, sie erklärt warum Zeit sich dehnt wenn man schnell läuft, und sie macht klar warum es nichts "vor dem Urknall" geben kann.
 
@@ -36,7 +36,7 @@ Kern: Alles was du misst, misst du *aus* dem Universum heraus. Es gibt keinen St
 
 ### Zeit als Schwebung — der "Herzschlag" des Universums
 
-📖 **[v3_006 — Zeit-Emergenz](../docs/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md)** (mit Bildern)
+📖 **[v3_006 — Zeit-Emergenz](../archiv/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md)** (mit Bildern)
 
 Kern: Zeit ist keine vierte Dimension, sondern entsteht aus dem Zusammenklang zweier Grundschwingungen des Raum-Mediums. Wie zwei leicht verstimmte Stimmgabeln eine "Schwebung" erzeugen (du hörst ein Wummern), erzeugt das Universum durch seine zwei Grundmoden eine räumliche Welle, die wandert — und diese Wanderung ist die Zeit. **Ohne Verstimmung — keine Zeit. Mit Verstimmung — Universum.**
 
@@ -48,7 +48,7 @@ Kern: Zeit ist keine vierte Dimension, sondern entsteht aus dem Zusammenklang zw
 
 ### Die Feinstrukturkonstante als geometrische Notwendigkeit
 
-📖 **[v3_002 — Feinstrukturkonstante α](../docs/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md)** (geometrische Bilder, etwas Mathematik)
+📖 **[v3_002 — Feinstrukturkonstante α](../archiv/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md)** (geometrische Bilder, etwas Mathematik)
 
 Kern: Die Naturkonstante α⁻¹ ≈ 137,036 ist seit hundert Jahren unerklärt — Richard Feynman nannte sie *"einen der größten verdammten Mysterien der Physik"*. Die RFT liefert: α⁻¹ = 4π³ + π² + π = 137,036304. Drei reine π-Terme aus der Geometrie der 3D-Resonanz-Struktur, ohne freie Parameter, mit 2,2 ppm Abweichung zur Messung. **Status: noch nicht vollständig bewiesen, aber bemerkenswert.**
 
@@ -60,13 +60,13 @@ Kern: Die Naturkonstante α⁻¹ ≈ 137,036 ist seit hundert Jahren unerklärt 
 
 ### Dunkle Materie & Dunkle Energie als Raum-Verspannungen
 
-📖 **[v3_010 — Dunkle Materie & Dunkle Energie](../docs/v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md)**
+📖 **[v3_010 — Dunkle Materie & Dunkle Energie](../archiv/v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md)**
 
 Kern: Keine unbekannten Teilchen, sondern **Verspannungen im Raum-Medium**. Galaxien rotieren zu schnell? Das Resonanz-Medium hat dort eine andere Steifigkeit. Das Universum dehnt sich beschleunigt aus? Das Resonanz-Medium "reift" und ändert seine Schwingungsqualität.
 
 ### Doppelspalt: das Mysterium aufgelöst
 
-📖 **[v3_011 Teil 5 — Anwendungen der Quantenmechanik](../docs/v3_konsolidierung/RFT_v3_011_Teil5_Anwendungen.md)**
+📖 **[v3_011 Teil 5 — Anwendungen der Quantenmechanik](../archiv/v3_konsolidierung/RFT_v3_011_Teil5_Anwendungen.md)**
 
 Kern: Licht ist weder Welle noch Teilchen — es ist ein **stabiles Schwingungsmuster im Raum-Medium**. Beim Doppelspalt-Experiment laufen deterministische Pfade, die nur deshalb statistisch aussehen, weil wir die Anfangsbedingungen nicht genau kennen (Heisenberg). Keine "spukhafte Fernwirkung" — nur unscharfe Anfangsbedingungen.
 
@@ -74,7 +74,7 @@ Kern: Licht ist weder Welle noch Teilchen — es ist ein **stabiles Schwingungsm
 
 ## 🚪 Tür 5 — Warum gerade 3 Dimensionen?
 
-📖 **[v3_007 — Raum-Topologie & 3D-Emergenz](../docs/v3_konsolidierung/RFT_v3_007_Raum_Topologie_3D_Emergenz.md)**
+📖 **[v3_007 — Raum-Topologie & 3D-Emergenz](../archiv/v3_konsolidierung/RFT_v3_007_Raum_Topologie_3D_Emergenz.md)**
 
 Kern: Unser Universum hat genau 3 Raum-Dimensionen — nicht zufällig, sondern weil 3D die *einzige* Anzahl ist, in der stabile Resonanzen kohärent überlagert werden können. In 2D fehlt eine Dimension für die Information, in 4D ist eine zu viel. Wir leben in der Goldlöckchen-Dimensionalität.
 

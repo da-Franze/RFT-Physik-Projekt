@@ -4,10 +4,10 @@
 
 **Version:** v1.0 (2026-04-04)  
 **Autor:** Franz Zollner  
-**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/archiv/v3_konsolidierung/`  
 **Status:** Final-Kandidat  
 **Lizenz:** Creative Commons BY-NC-ND 4.0  
-**Zitation:** Zollner, F. (2026). *RFT_v3_018: Entropie & Signaltheorie.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_018_Entropie_Signaltheorie.md
+**Zitation:** Zollner, F. (2026). *RFT_v3_018: Entropie & Signaltheorie.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/archiv/v3_konsolidierung/RFT_v3_018_Entropie_Signaltheorie.md
 
 ---
 
