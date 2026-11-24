@@ -22,7 +22,7 @@ Die folgende Reading-Order ist nach **konzeptueller Tiefe**, nicht nach Mathemat
 
 ## I — Das Innensicht-Axiom
 
-📖 **[v3_021 — Die Innensicht](../docs/v3_konsolidierung/RFT_v3_021_Die_Innensicht.md)**
+📖 **[v3_021 — Die Innensicht](../archiv/v3_konsolidierung/RFT_v3_021_Die_Innensicht.md)**
 
 Die einzige Aussage, die in der gesamten RFT vorausgesetzt wird: **Es gibt kein "Außen" zur Raummatrix.** Alle Beobachter sind Teil des Feldes. Messgeräte bestehen aus denselben Resonanz-Moden wie das Gemessene. Jede Messung ist eine Verhältnis-Messung.
 
@@ -37,7 +37,7 @@ Die Innensicht ist **erkenntnistheoretisches Fundament**, nicht physikalisches P
 
 ## II — Zeit-Emergenz und Block-Universe-Kritik
 
-📖 **[v3_006 — Zeit-Emergenz](../docs/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md)**
+📖 **[v3_006 — Zeit-Emergenz](../archiv/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md)**
 
 Drei Konzeptionen werden direkt verglichen:
 
@@ -53,7 +53,7 @@ Der Block-Universe-Schluss aus der Allgemeinen Relativität ist eine **ontologis
 
 ## III — Statistik aus Determinismus (Quantenmechanik)
 
-📖 **[v3_011 Teil 4 — Born-Regel & Messung](../docs/v3_konsolidierung/RFT_v3_011_Teil4_Born_Messung.md)** (mit Bild)
+📖 **[v3_011 Teil 4 — Born-Regel & Messung](../archiv/v3_konsolidierung/RFT_v3_011_Teil4_Born_Messung.md)** (mit Bild)
 
 Die wohl tiefste Kontroverse der modernen Physik: Ist der Quanten-Zufall fundamental oder epistemisch? Standard-Kopenhagen sagt fundamental ("Gott würfelt"). Einstein sagte epistemisch ("verborgene Variablen"). Bell-Tests schlossen lokale verborgene Variablen aus.
 
@@ -63,7 +63,7 @@ Die RFT-Antwort: **Trajektorien sind deterministisch (Bohm-artig), aber die Anfa
 
 ## IV — 3D als Resonanz-Notwendigkeit
 
-📖 **[v3_007 — Raum-Topologie & 3D-Emergenz](../docs/v3_konsolidierung/RFT_v3_007_Raum_Topologie_3D_Emergenz.md)** (mit Bild)
+📖 **[v3_007 — Raum-Topologie & 3D-Emergenz](../archiv/v3_konsolidierung/RFT_v3_007_Raum_Topologie_3D_Emergenz.md)** (mit Bild)
 
 Warum gerade 3 Raumdimensionen? Konventionelle Antworten verweisen auf Stringtheorie-Kompaktifizierungen oder anthropisches Prinzip. RFT-Antwort: **3D ist die einzige Dimension, in der die Informationskapazität eines Raumpunktes (D+1) exakt dem Bedarf für kohärente Mehrfach-Mode-Überlagerung (D Moden + 1 Feldwert) entspricht.**
 
@@ -73,7 +73,7 @@ Dimensionalität ist eine Konsequenz von Stabilitätsbedingungen, nicht ein frei
 
 ## V — Verschränkung als gemeinsame Mode
 
-📖 **[v3_017 — Verschränkung](../docs/v3_konsolidierung/RFT_v3_017_Verschraenkung.md)**
+📖 **[v3_017 — Verschränkung](../archiv/v3_konsolidierung/RFT_v3_017_Verschraenkung.md)**
 
 Bell-Korrelationen ohne "spukhafte Fernwirkung". Verschränkte Zustände sind **gemeinsame Resonanz-Moden** der DRM, die räumlich getrennt aussehen aber dasselbe Resonanz-Objekt sind. Keine Information wird "übertragen" — die Trennung der Teilchen war eine begriffliche Fiktion.
 
@@ -83,8 +83,8 @@ Daraus folgt: Lokalität ist eine emergente Approximation, keine fundamentale Ei
 
 ## VI — Was bedeutet "Wirklichkeit" in der RFT?
 
-📖 **[v3_018 — Entropie & Signaltheorie](../docs/v3_konsolidierung/RFT_v3_018_Entropie_Signaltheorie.md)**
-📖 **[v3_020 — Taxonomie der Teilchen](../docs/v3_konsolidierung/RFT_v3_020_Taxonomie.md)**
+📖 **[v3_018 — Entropie & Signaltheorie](../archiv/v3_konsolidierung/RFT_v3_018_Entropie_Signaltheorie.md)**
+📖 **[v3_020 — Taxonomie der Teilchen](../archiv/v3_konsolidierung/RFT_v3_020_Taxonomie.md)**
 
 Wenn "Teilchen" Resonanz-Muster sind und Beobachter selbst Teile dieser Muster: Was ist dann ein "Ding"? Die RFT-Antwort: **stabile Selbst-Referenz-Strukturen** der DRM. Ein Elektron ist ein selbst-stabilisiertes Wirbelmuster; ein Mensch ist eine viel komplexere Selbst-Referenz-Struktur in derselben Matrix. Die Trennung "Subjekt / Objekt" wird unscharf, ohne mystisch zu werden.
 

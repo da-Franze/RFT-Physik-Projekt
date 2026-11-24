@@ -24,7 +24,7 @@ That is **Resonance Field Theory (RFT)** in one sentence. The following tour sho
 
 ### Inside-View: Why there can be no "outside"
 
-📖 **[v3_021 — Inside View](../docs/v3_konsolidierung/RFT_v3_021_Inside_View.md)** (philosophical but accessible)
+📖 **[v3_021 — Inside View](../archiv/v3_konsolidierung/RFT_v3_021_Inside_View.md)** (philosophical but accessible)
 
 Core: Everything you measure, you measure *from within* the universe. There is no viewpoint "from outside". This single statement has surprisingly deep consequences — it forces the speed of light as a constant, it explains why time dilates at high speeds, and it makes clear why nothing can be said about "before the Big Bang".
 
@@ -36,7 +36,7 @@ Core: Everything you measure, you measure *from within* the universe. There is n
 
 ### Time as beat — the "heartbeat" of the universe
 
-📖 **[v3_006 — Time Emergence](../docs/v3_konsolidierung/RFT_v3_006_Time_Emergence.md)** (with figures)
+📖 **[v3_006 — Time Emergence](../archiv/v3_konsolidierung/RFT_v3_006_Time_Emergence.md)** (with figures)
 
 Core: Time is not a fourth dimension but emerges from the interplay of two fundamental modes of the space medium. Just as two slightly detuned tuning forks produce a "beat" (you hear a pulsing), the universe produces — through its two fundamental modes — a spatial wave that drifts. And this drifting is time. **No detuning — no time. With detuning — universe.**
 
@@ -48,7 +48,7 @@ Core: Time is not a fourth dimension but emerges from the interplay of two funda
 
 ### The fine-structure constant as geometric necessity
 
-📖 **[v3_002 — Fine Structure Constant α](../docs/v3_konsolidierung/RFT_v3_002_Fine_Structure_Constant.md)** (geometric pictures, some math)
+📖 **[v3_002 — Fine Structure Constant α](../archiv/v3_konsolidierung/RFT_v3_002_Fine_Structure_Constant.md)** (geometric pictures, some math)
 
 Core: The natural constant α⁻¹ ≈ 137.036 has been unexplained for a hundred years — Richard Feynman called it *"one of the greatest damn mysteries of physics"*. RFT derives: α⁻¹ = 4π³ + π² + π = 137.036304. Three pure π-terms from the geometry of the 3D resonance structure, with no free parameters, agreeing to 2.2 ppm with measurement. **Status: not yet fully proven, but remarkable.**
 
@@ -60,13 +60,13 @@ Core: The natural constant α⁻¹ ≈ 137.036 has been unexplained for a hundre
 
 ### Dark matter & dark energy as space tensions
 
-📖 **[v3_010 — Dark Matter & Dark Energy](../docs/v3_konsolidierung/RFT_v3_010_New_Cosmology_Dark_Sector.md)**
+📖 **[v3_010 — Dark Matter & Dark Energy](../archiv/v3_konsolidierung/RFT_v3_010_New_Cosmology_Dark_Sector.md)**
 
 Core: No unknown particles, but **tensions in the space medium**. Galaxies rotating too fast? The resonance medium has different rigidity there. Universe expanding faster? The medium "matures" and changes its vibration quality.
 
 ### Double slit: the mystery resolved
 
-📖 **[v3_011 Part 5 — Quantum Applications](../docs/v3_konsolidierung/RFT_v3_011_Part5_Applications.md)**
+📖 **[v3_011 Part 5 — Quantum Applications](../archiv/v3_konsolidierung/RFT_v3_011_Part5_Applications.md)**
 
 Core: Light is neither wave nor particle — it is a **stable vibration pattern in the space medium**. The double-slit shows deterministic paths that only appear statistical because we don't know the initial conditions precisely (Heisenberg). No "spooky action at a distance" — only fuzzy initial conditions.
 
@@ -74,7 +74,7 @@ Core: Light is neither wave nor particle — it is a **stable vibration pattern 
 
 ## 🚪 Door 5 — Why exactly 3 dimensions?
 
-📖 **[v3_007 — Space Topology & 3D Emergence](../docs/v3_konsolidierung/RFT_v3_007_Space_Topology_3D_Emergence.md)**
+📖 **[v3_007 — Space Topology & 3D Emergence](../archiv/v3_konsolidierung/RFT_v3_007_Space_Topology_3D_Emergence.md)**
 
 Core: Our universe has exactly 3 spatial dimensions — not by chance, but because 3D is the *only* number in which stable resonances can be coherently superimposed. In 2D, a dimension is missing for the information; in 4D, one is too many. We live in the Goldilocks dimensionality.
 

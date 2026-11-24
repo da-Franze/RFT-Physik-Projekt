@@ -25,7 +25,7 @@ Die **Mastergleichung** beschreibt den Raum als schwingungsfähiges Medium. Sie 
 ∂²σ/∂t² − c²∇²σ + κ·T(r) = 0
 ```
 
-📖 **Volltext / Full text:** [🇩🇪 RFT_v3_001 Mathematische Grundlagen](de/docs/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) · [🇬🇧 RFT_v3_001 Mathematical Foundations](en/docs/v3_konsolidierung/RFT_v3_001_Mathematical_Foundations.md)
+📖 **Volltext / Full text:** [🇩🇪 RFT_v3_001 Mathematische Grundlagen](de/archiv/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) · [🇬🇧 RFT_v3_001 Mathematical Foundations](en/archiv/v3_konsolidierung/RFT_v3_001_Mathematical_Foundations.md)
 
 mit σ als Auslenkungsfeld der Raummatrix, c der Lichtgeschwindigkeit, κ als Resonanzsteifigkeit (Primärgröße der Theorie) und T(r) als Quellterm an Wirbelverankerungen. Aus dieser einen Gleichung lassen sich Maxwell, Schrödinger, Newton und die ART als Speziallösungen ableiten.
 
@@ -39,7 +39,7 @@ Geometrische Herleitung der Feinstrukturkonstante:
 α⁻¹ = 4π³ + π² + π = 137.036304   (2.22 ppm von CODATA, keine freien Parameter)
 ```
 
-📖 **Volltext / Full text:** [🇩🇪 RFT_v3_002 Feinstrukturkonstante](de/docs/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) · [🇬🇧 RFT_v3_002 Fine-Structure Constant](en/docs/v3_konsolidierung/RFT_v3_002_Fine_Structure_Constant.md)
+📖 **Volltext / Full text:** [🇩🇪 RFT_v3_002 Feinstrukturkonstante](de/archiv/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) · [🇬🇧 RFT_v3_002 Fine-Structure Constant](en/archiv/v3_konsolidierung/RFT_v3_002_Fine_Structure_Constant.md)
 
 ---
 
@@ -61,13 +61,13 @@ Resonance Field Theory — fundamental physics reconsidered. 20 consolidation do
 
 | Dokument | Inhalt | Content |
 |---|---|---|
-| [RFT_v3_000_Prolog](de/docs/v3_konsolidierung/RFT_v3_000_Prolog_Einsteiger.md) | Prolog für Einsteiger (Festkörper-/Halbleiter-Physiker) | Prologue for newcomers (solid-state / semiconductor physicists) |
-| [RFT_v3_001](de/docs/v3_konsolidierung/) | Mathematische Grundlagen, Postulate | Mathematical foundations, postulates |
-| [RFT_v3_002](de/docs/v3_konsolidierung/) | Feinstrukturkonstante — geometrische Herleitung | Fine-structure constant — geometric derivation |
-| [RFT_v3_003](de/docs/v3_konsolidierung/) | Gravitation via Resonanz-Spinverzug | Gravity via resonance spin-lag |
-| [RFT_v3_017](de/docs/v3_konsolidierung/) | Verschränkung als Resonanz-Topologie | Entanglement as resonance topology |
-| [RFT_v3_019](de/docs/v3_konsolidierung/) | Supraleitung — 45 THz-Modus | Superconductivity — 45 THz mode |
-| [RFT_v3_020](de/docs/v3_konsolidierung/) | Taxonomie der Resonanzmoden | Taxonomy of resonance modes |
+| [RFT_v3_000_Prolog](de/archiv/v3_konsolidierung/RFT_v3_000_Prolog_Einsteiger.md) | Prolog für Einsteiger (Festkörper-/Halbleiter-Physiker) | Prologue for newcomers (solid-state / semiconductor physicists) |
+| [RFT_v3_001](de/archiv/v3_konsolidierung/) | Mathematische Grundlagen, Postulate | Mathematical foundations, postulates |
+| [RFT_v3_002](de/archiv/v3_konsolidierung/) | Feinstrukturkonstante — geometrische Herleitung | Fine-structure constant — geometric derivation |
+| [RFT_v3_003](de/archiv/v3_konsolidierung/) | Gravitation via Resonanz-Spinverzug | Gravity via resonance spin-lag |
+| [RFT_v3_017](de/archiv/v3_konsolidierung/) | Verschränkung als Resonanz-Topologie | Entanglement as resonance topology |
+| [RFT_v3_019](de/archiv/v3_konsolidierung/) | Supraleitung — 45 THz-Modus | Superconductivity — 45 THz mode |
+| [RFT_v3_020](de/archiv/v3_konsolidierung/) | Taxonomie der Resonanzmoden | Taxonomy of resonance modes |
 | [Über den Autor](de/ueber_den_autor.md) | Vita | [About the author](en/about_the_author.md) |
 
 ---

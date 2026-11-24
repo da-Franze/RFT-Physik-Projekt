@@ -66,4 +66,4 @@ Wenn du auf ein altes RFT_NN-Dokument zitiert wirst, prüfe in obiger Tabelle di
 
 ---
 
-*Cross-Reference: [v3_konsolidierung/README.md](v3_konsolidierung/README.md) · [00_uebersicht/theorie_architektur.md](00_uebersicht/theorie_architektur.md) · [00_uebersicht/formel_chronologie.md](00_uebersicht/formel_chronologie.md)*
+*Cross-Reference: [v3_konsolidierung/README.md](../archiv/v3_konsolidierung/README.md) · [00_uebersicht/theorie_architektur.md](00_uebersicht/theorie_architektur.md) · [00_uebersicht/formel_chronologie.md](00_uebersicht/formel_chronologie.md)*

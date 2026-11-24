@@ -22,7 +22,7 @@ The following reading order is sorted by **conceptual depth**, not by mathematic
 
 ## I — The Inside-View Axiom
 
-📖 **[v3_021 — Inside View](../docs/v3_konsolidierung/RFT_v3_021_Inside_View.md)**
+📖 **[v3_021 — Inside View](../archiv/v3_konsolidierung/RFT_v3_021_Inside_View.md)**
 
 The only assumption made in all of RFT: **There is no "outside" to the space matrix.** All observers are part of the field. Measurement instruments consist of the same resonance modes as what is measured. Every measurement is a ratio measurement.
 
@@ -37,7 +37,7 @@ The inside view is **epistemological foundation**, not a physical postulate.
 
 ## II — Time Emergence and Block-Universe Critique
 
-📖 **[v3_006 — Time Emergence](../docs/v3_konsolidierung/RFT_v3_006_Time_Emergence.md)**
+📖 **[v3_006 — Time Emergence](../archiv/v3_konsolidierung/RFT_v3_006_Time_Emergence.md)**
 
 Three conceptions directly compared:
 
@@ -53,7 +53,7 @@ The block-universe conclusion from General Relativity is an **ontological trap**
 
 ## III — Statistics from Determinism (Quantum Mechanics)
 
-📖 **[v3_011 Part 4 — Born Rule & Measurement](../docs/v3_konsolidierung/RFT_v3_011_Part4_Born_Measurement.md)** (with figure)
+📖 **[v3_011 Part 4 — Born Rule & Measurement](../archiv/v3_konsolidierung/RFT_v3_011_Part4_Born_Measurement.md)** (with figure)
 
 Perhaps the deepest controversy of modern physics: Is quantum randomness fundamental or epistemic? Standard Copenhagen says fundamental ("God plays dice"). Einstein said epistemic ("hidden variables"). Bell tests excluded local hidden variables.
 
@@ -63,7 +63,7 @@ The RFT answer: **Trajectories are deterministic (Bohm-like), but initial condit
 
 ## IV — 3D as Resonance Necessity
 
-📖 **[v3_007 — Space Topology & 3D Emergence](../docs/v3_konsolidierung/RFT_v3_007_Space_Topology_3D_Emergence.md)** (with figure)
+📖 **[v3_007 — Space Topology & 3D Emergence](../archiv/v3_konsolidierung/RFT_v3_007_Space_Topology_3D_Emergence.md)** (with figure)
 
 Why exactly 3 spatial dimensions? Conventional answers refer to string theory compactifications or the anthropic principle. RFT answer: **3D is the only dimensionality in which the information capacity of a spatial point (D+1) exactly matches the requirement for coherent multi-mode superposition (D modes + 1 field value).**
 
@@ -73,7 +73,7 @@ Dimensionality is a consequence of stability conditions, not a free parameter.
 
 ## V — Entanglement as Common Mode
 
-📖 **[v3_017 — Entanglement](../docs/v3_konsolidierung/RFT_v3_017_Entanglement.md)**
+📖 **[v3_017 — Entanglement](../archiv/v3_konsolidierung/RFT_v3_017_Entanglement.md)**
 
 Bell correlations without "spooky action at a distance". Entangled states are **common resonance modes** of the DRM that appear spatially separated but are the same resonance object. No information is "transmitted" — the separation of particles was a conceptual fiction.
 
@@ -83,8 +83,8 @@ From this follows: locality is an emergent approximation, not a fundamental prop
 
 ## VI — What does "reality" mean in RFT?
 
-📖 **[v3_018 — Entropy & Signal Theory](../docs/v3_konsolidierung/RFT_v3_018_Entropy_Signal_Theory.md)**
-📖 **[v3_020 — Particle Taxonomy](../docs/v3_konsolidierung/RFT_v3_020_Taxonomy.md)**
+📖 **[v3_018 — Entropy & Signal Theory](../archiv/v3_konsolidierung/RFT_v3_018_Entropy_Signal_Theory.md)**
+📖 **[v3_020 — Particle Taxonomy](../archiv/v3_konsolidierung/RFT_v3_020_Taxonomy.md)**
 
 If "particles" are resonance patterns and observers themselves parts of these patterns: what then is a "thing"? RFT answer: **stable self-reference structures** of the DRM. An electron is a self-stabilized vortex pattern; a human is a much more complex self-reference structure in the same matrix. The subject/object separation becomes fuzzy, without becoming mystical.
 

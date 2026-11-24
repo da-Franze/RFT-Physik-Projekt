@@ -2,10 +2,10 @@
 
 **Version:** v3.5 (2026-02-26)  
 **Autor:** Franz Zollner  
-**Sprache:** DE — EN-Übersetzung folgt unter `en/docs/v3_konsolidierung/`  
+**Sprache:** DE — EN-Übersetzung folgt unter `en/archiv/v3_konsolidierung/`  
 **Status:** Publikationsreif  
 **Lizenz:** Creative Commons BY-NC-ND 4.0  
-**Zitation:** Zollner, F. (2026). *RFT_v3_001: Mathematische Grundlagen der Resonanzfeldtheorie.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/docs/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md
+**Zitation:** Zollner, F. (2026). *RFT_v3_001: Mathematische Grundlagen der Resonanzfeldtheorie.* RFT-Series. https://github.com/da-Franze/RFT-Physik-Projekt/blob/main/de/archiv/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md
 
 ---
 

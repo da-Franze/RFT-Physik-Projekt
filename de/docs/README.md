@@ -12,7 +12,7 @@
 
 > ⚡ **Wenn du nur 5 Minuten hast:** Lies [00_uebersicht/theorie_architektur.md](00_uebersicht/theorie_architektur.md) — das zeigt die ganze RFT als Top-Down-Diagramm (Postulate → Mastergleichung → Spezial-Ableitungen → Konstanten).
 
-> 📖 **Wenn du tiefer einsteigen willst:** [v3_konsolidierung/](v3_konsolidierung/) ist der aktuelle Stand der Theorie (Februar 2026).
+> 📖 **Wenn du tiefer einsteigen willst:** [v3_konsolidierung/](../archiv/v3_konsolidierung) ist der aktuelle Stand der Theorie (Februar 2026).
 
 > 🗺️ **Mapping zwischen alter Nummerierung (RFT_NN) und v3:** [_MAPPING_ALT_NEU.md](_MAPPING_ALT_NEU.md)
 
@@ -35,13 +35,13 @@ Die v3-Reihe ist die aktuelle Form der RFT. Sie konsolidiert die früheren RFT_N
 
 | Stufe | Dokumente |
 |---|---|
-| **I — Fundament** | [v3_001 Mathematische Grundlagen](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) · [v3_002 Feinstrukturkonstante α](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) · [v3_003 Gravitation/Spinverzug](v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) · [v3_004 Impuls/Energie](v3_konsolidierung/RFT_v3_004_Impuls_Energie.md) · [v3_005 Übersetzer](v3_konsolidierung/RFT_v3_005_Der_Uebersetzer_v1_1.md) |
-| **II — Emergenz** | [v3_006 Zeit-Emergenz](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) · [v3_007 Raum-Topologie 3D](v3_konsolidierung/RFT_v3_007_Raum_Topologie_3D_Emergenz.md) |
-| **III — Kosmologie & QM** | [v3_008 Schwarze Löcher](v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md) · [v3_009 Kosmogenese](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) · [v3_010 Dunkle Materie/Energie](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) · v3_011 Quantenmechanik ([Teil 1](v3_konsolidierung/RFT_v3_011_Teil1_Grundlagen.md) · [Teil 2](v3_konsolidierung/RFT_v3_011_Teil2_Mathematik.md) · [Teil 3](v3_konsolidierung/RFT_v3_011_Teil3_Fuehrungsfeld.md) · [Teil 4](v3_konsolidierung/RFT_v3_011_Teil4_Born_Messung.md) · [Teil 5](v3_konsolidierung/RFT_v3_011_Teil5_Anwendungen.md)) |
-| **IV — Wechselwirkungen** | [v3_012 Elektromagnetismus](v3_konsolidierung/RFT_v3_012_Elektromagnetismus.md) · [v3_013 Starke WW](v3_konsolidierung/RFT_v3_013_Starke_Wechselwirkung.md) · [v3_014 Schwache WW](v3_konsolidierung/RFT_v3_014_Schwache_Wechselwirkung.md) |
-| **Bonus** | [v3_Kepler — Ladungsgeometrie](v3_konsolidierung/RFT_v3_Kepler_Ladungsgeometrie.md) |
+| **I — Fundament** | [v3_001 Mathematische Grundlagen](../archiv/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) · [v3_002 Feinstrukturkonstante α](../archiv/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) · [v3_003 Gravitation/Spinverzug](../archiv/v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) · [v3_004 Impuls/Energie](../archiv/v3_konsolidierung/RFT_v3_004_Impuls_Energie.md) · [v3_005 Übersetzer](../archiv/v3_konsolidierung/RFT_v3_005_Der_Uebersetzer_v1_1.md) |
+| **II — Emergenz** | [v3_006 Zeit-Emergenz](../archiv/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) · [v3_007 Raum-Topologie 3D](../archiv/v3_konsolidierung/RFT_v3_007_Raum_Topologie_3D_Emergenz.md) |
+| **III — Kosmologie & QM** | [v3_008 Schwarze Löcher](../archiv/v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md) · [v3_009 Kosmogenese](../archiv/v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) · [v3_010 Dunkle Materie/Energie](../archiv/v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) · v3_011 Quantenmechanik ([Teil 1](../archiv/v3_konsolidierung/RFT_v3_011_Teil1_Grundlagen.md) · [Teil 2](../archiv/v3_konsolidierung/RFT_v3_011_Teil2_Mathematik.md) · [Teil 3](../archiv/v3_konsolidierung/RFT_v3_011_Teil3_Fuehrungsfeld.md) · [Teil 4](../archiv/v3_konsolidierung/RFT_v3_011_Teil4_Born_Messung.md) · [Teil 5](../archiv/v3_konsolidierung/RFT_v3_011_Teil5_Anwendungen.md)) |
+| **IV — Wechselwirkungen** | [v3_012 Elektromagnetismus](../archiv/v3_konsolidierung/RFT_v3_012_Elektromagnetismus.md) · [v3_013 Starke WW](../archiv/v3_konsolidierung/RFT_v3_013_Starke_Wechselwirkung.md) · [v3_014 Schwache WW](../archiv/v3_konsolidierung/RFT_v3_014_Schwache_Wechselwirkung.md) |
+| **Bonus** | [v3_Kepler — Ladungsgeometrie](../archiv/v3_konsolidierung/RFT_v3_Kepler_Ladungsgeometrie.md) |
 
-→ **Vollständige Übersicht + Lese-Reihenfolge:** [v3_konsolidierung/README.md](v3_konsolidierung/README.md)
+→ **Vollständige Übersicht + Lese-Reihenfolge:** [v3_konsolidierung/README.md](../archiv/v3_konsolidierung/README.md)
 
 ### 🎯 Kern-Werte der v3-Theorie
 
@@ -62,23 +62,23 @@ f_spin = 144/π ≈ 45.84              (topologische Spin-Frequenz)
 
 | Dokument | Titel | Aktuelle v3-Entsprechung |
 |----------|-------|--------------------------|
-| [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen.md) | Mathematische Grundlagen | → [v3_001](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) |
-| [RFT_02](grundlagen/RFT_02_Spin-Quantisierung_Universums-Entstehung.md) | Spin-Quantisierung | → [v3_003](v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) |
-| [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md) | Dynamische Resonanzmatrix | → [v3_001 §1+§2](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) |
-| [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md) | Kalte Kondensation | → [v3_009](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) |
-| [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_MAGNETISMUS.md) | Teilchenphysik & Wirbel | → [v3_013+v3_014](v3_konsolidierung/) |
+| [RFT_01](grundlagen/RFT_01_Mathematische_Grundlagen.md) | Mathematische Grundlagen | → [v3_001](../archiv/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) |
+| [RFT_02](grundlagen/RFT_02_Spin-Quantisierung_Universums-Entstehung.md) | Spin-Quantisierung | → [v3_003](../archiv/v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) |
+| [RFT_03](grundlagen/RFT_03_Dynamische_Resonanzmatrix.md) | Dynamische Resonanzmatrix | → [v3_001 §1+§2](../archiv/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) |
+| [RFT_04](grundlagen/RFT_04_Kalte_Kondensation_MATERIE-ASYMMETRIE.md) | Kalte Kondensation | → [v3_009](../archiv/v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) |
+| [RFT_05](grundlagen/RFT_05_Teilchenphysik_Wirbelstrukturen_MAGNETISMUS.md) | Teilchenphysik & Wirbel | → [v3_013+v3_014](../archiv/v3_konsolidierung) |
 | [RFT_06](grundlagen/RFT_06_Experimentelle_Grundlag.md) | Experimentelle Grundlagen | → in v3_001 §11 |
-| [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md) | Gravitation/Raumzeit | → [v3_003](v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) |
+| [RFT_07](grundlagen/RFT_07_Gravitation_Raumzeitdynamik.md) | Gravitation/Raumzeit | → [v3_003](../archiv/v3_konsolidierung/RFT_v3_003_Gravitation_Spinverzug.md) |
 | [RFT_08](grundlagen/RFT_08_Philosophische_Grundlagen_der_Resonanzfeldtheorie.md) | Philosophische Grundlagen | → in v3_001 §1 |
-| [RFT_09](grundlagen/RFT_09_Kosmologie_Großraum-Strukturen.md) | Kosmologie | → [v3_009](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) + [v3_010](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) |
-| [RFT_10](grundlagen/RFT_10_Quantenmechanik.md) | Quantenmechanik | → [v3_011 (5 Teile!)](v3_konsolidierung/) |
+| [RFT_09](grundlagen/RFT_09_Kosmologie_Großraum-Strukturen.md) | Kosmologie | → [v3_009](../archiv/v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md) + [v3_010](../archiv/v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) |
+| [RFT_10](grundlagen/RFT_10_Quantenmechanik.md) | Quantenmechanik | → [v3_011 (5 Teile!)](../archiv/v3_konsolidierung) |
 
 ### 🔬 Anwendungen (RFT_11, 15) — historisch
 
 | Dokument | Titel | Aktuelle v3-Entsprechung |
 |----------|-------|--------------------------|
 | [RFT_11](anwendungen/RFT_11_Thermodynamik_Statistische_Mechanik_aus_RF.md) | Thermodynamik | **noch nicht in v3 konsolidiert** |
-| [RFT_15](anwendungen/RFT_15_Dunkle_Materie_als_RFT-Effekt.md) | Dunkle Materie als RFT-Effekt | → [v3_010](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) |
+| [RFT_15](anwendungen/RFT_15_Dunkle_Materie_als_RFT-Effekt.md) | Dunkle Materie als RFT-Effekt | → [v3_010](../archiv/v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md) |
 
 ### 🎯 Spezialisierung (RFT_23, 24) — historisch
 
@@ -91,11 +91,11 @@ f_spin = 144/π ≈ 45.84              (topologische Spin-Frequenz)
 
 | Dokument | Titel | Aktuelle v3-Entsprechung |
 |----------|-------|--------------------------|
-| [RFT_31](fortgeschritten/RFT_31_Zeit_als_emergentes_Phaenomen.md) | Zeit als emergent | → [v3_006](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) |
-| [RFT_32](fortgeschritten/RFT_32_Naturkonstanten_aus_RFT.md) | Naturkonstanten | → [v3_002](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) |
+| [RFT_31](fortgeschritten/RFT_31_Zeit_als_emergentes_Phaenomen.md) | Zeit als emergent | → [v3_006](../archiv/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) |
+| [RFT_32](fortgeschritten/RFT_32_Naturkonstanten_aus_RFT.md) | Naturkonstanten | → [v3_002](../archiv/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) |
 | [RFT_42](fortgeschritten/RFT_42_Kondensation_Materie-Antimaterie-Asymmetrie.md) | Materie-Antimaterie | → in v3_009 |
 | [RFT_45](fortgeschritten/RFT_45_Das_RFT-Raumfeld–kein_klassisches_Medium.md) | Raumfeld | → in v3_001 §1 |
-| [RFT_47](fortgeschritten/RFT_47_Schwarze_Löcher-Modensprung-Physik.md) | Schwarze Löcher | → [v3_008](v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md) |
+| [RFT_47](fortgeschritten/RFT_47_Schwarze_Löcher-Modensprung-Physik.md) | Schwarze Löcher | → [v3_008](../archiv/v3_konsolidierung/RFT_v3_008_Schwarze_Loecher_Modensprung.md) |
 | [RFT_48](fortgeschritten/RFT_48_Supraleitung.md) | Supraleitung | **noch nicht in v3 konsolidiert** |
 
 > **3 historische Dokumente sind noch nicht in v3 konsolidiert:** RFT_11 Thermodynamik, RFT_24 Doppelspalt, RFT_48 Supraleitung. Diese Themen werden in zukünftigen v3-Erweiterungen abgedeckt.
@@ -107,17 +107,17 @@ f_spin = 144/π ≈ 45.84              (topologische Spin-Frequenz)
 ### Nach Lese-Reihenfolge (empfohlen für Erst-Einsteiger)
 
 1. **Start:** [00_uebersicht/theorie_architektur.md](00_uebersicht/theorie_architektur.md) — Top-Down-Bild der ganzen Theorie (5 Min)
-2. **Detail-Einstieg:** [v3_001 Mathematische Grundlagen](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) — Postulate + Mastergleichung
-3. **Resultat-Anker:** [v3_002 Feinstrukturkonstante](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) — α⁻¹ = 4π³+π²+π
-4. **Zeit-Emergenz:** [v3_006](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) — ε und Q-Faktor
+2. **Detail-Einstieg:** [v3_001 Mathematische Grundlagen](../archiv/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md) — Postulate + Mastergleichung
+3. **Resultat-Anker:** [v3_002 Feinstrukturkonstante](../archiv/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md) — α⁻¹ = 4π³+π²+π
+4. **Zeit-Emergenz:** [v3_006](../archiv/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md) — ε und Q-Faktor
 5. Weiter mit Spezialthemen je nach Interesse
 
 ### Nach Forschungsinteresse
 
-- 🧮 **Mathematiker:** [v3_001](v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md), [v3_002](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md)
-- 🔬 **Experimentatoren:** v3_001 §11 (Experimentelle Tests), [Alpha-Paper-Vorhersagen](v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md#5-experimental-predictions)
-- 🌌 **Kosmologen:** [v3_009](v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md), [v3_010 DM/DE](v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md)
-- ⚛️ **Quantenphysiker:** [v3_011 (5 Teile)](v3_konsolidierung/), [v3_006 Zeit-Emergenz](v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md)
+- 🧮 **Mathematiker:** [v3_001](../archiv/v3_konsolidierung/RFT_v3_001_Mathematische_Grundlagen.md), [v3_002](../archiv/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md)
+- 🔬 **Experimentatoren:** v3_001 §11 (Experimentelle Tests), [Alpha-Paper-Vorhersagen](../archiv/v3_konsolidierung/RFT_v3_002_Feinstrukturkonstante.md)
+- 🌌 **Kosmologen:** [v3_009](../archiv/v3_konsolidierung/RFT_v3_009_Kosmogenese_Kalte_Kondensation.md), [v3_010 DM/DE](../archiv/v3_konsolidierung/RFT_v3_010_Dunkle_Materie_Dunkle_Energie.md)
+- ⚛️ **Quantenphysiker:** [v3_011 (5 Teile)](../archiv/v3_konsolidierung), [v3_006 Zeit-Emergenz](../archiv/v3_konsolidierung/RFT_v3_006_Zeit_Emergenz.md)
 - 📚 **Methodisch interessiert:** [00_uebersicht/formel_chronologie.md](00_uebersicht/formel_chronologie.md) (Anti-Retro-Fitting-Beleg)
 
 ---

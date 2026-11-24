@@ -1,6 +1,6 @@
 # RFT v3 Consolidation — English
 
-*English versions of the v3 consolidated RFT documents. The German master series under `de/docs/v3_konsolidierung/` is the canonical reference; English translations are validated by the originator.*
+*English versions of the v3 consolidated RFT documents. The German master series under `de/archiv/v3_konsolidierung/` is the canonical reference; English translations are validated by the originator.*
 
 ---
 
@@ -37,7 +37,7 @@ All 20 documents of the v3 consolidation are now available in English plus the g
 ## Reading Recommendations
 
 **For physicists with a solid-state / semiconductor background:**
-- Start with `de/docs/v3_konsolidierung/RFT_v3_000_Prolog_Einsteiger.md` — written specifically for this audience (English version under preparation; the prologue is short enough for browser auto-translation in the meantime)
+- Start with `de/archiv/v3_konsolidierung/RFT_v3_000_Prolog_Einsteiger.md` — written specifically for this audience (English version under preparation; the prologue is short enough for browser auto-translation in the meantime)
 - Continue with `RFT_v3_001_Mathematical_Foundations.md`
 - Then go to `RFT_v3_019_Superconductivity.md` for direct domain bridge
 
